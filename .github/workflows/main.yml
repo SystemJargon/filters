@@ -19,28 +19,28 @@ jobs:
     - run: npm i -g @adguard/hostlist-compiler
     
     - name: Compile HostsVN
-      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
+      run: hostlist-compiler -c ./source/hostsvn.json -o ./filters/hostsvn.txt
 
     - name: Compile Security
-      run: hostlist-compiler -c ./source/security.json -o security.txt
+      run: hostlist-compiler -c ./source/security.json -o ./filters/security.txt
       
     - name: Compile Other list
-      run: hostlist-compiler -c ./source/other.json -o other.txt
+      run: hostlist-compiler -c ./source/other.json -o ./filters/other.txt
     
     - name: Compile Lite list
-      run: hostlist-compiler -c ./source/lite.json -o lite.txt
+      run: hostlist-compiler -c ./source/lite.json -o ./filters/lite.txt
     
     - name: Compile Porn list
-      run: hostlist-compiler -c ./source/porn.json -o porn.txt
+      run: hostlist-compiler -c ./source/porn.json -o ./filters/porn.txt
 
     - name: Compile Extra list
-      run: hostlist-compiler -c ./source/extra.json -o extra.txt
+      run: hostlist-compiler -c ./source/extra.json -o ./filters/extra.txt
       
     - name: Compile Telemetry list
-      run: hostlist-compiler -c ./source/telemetry.json -o telemetry.txt
+      run: hostlist-compiler -c ./source/telemetry.json -o ./filters/telemetry.txt
       
     - name: Compile Firebog Ticklist
-      run: hostlist-compiler -c ./source/firebog-ticklist.json -o firebog-ticklist.txt
+      run: hostlist-compiler -c ./source/firebog-ticklist.json -o ./filters/firebog-ticklist.txt
          
     - name: Start commit change
       run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV
