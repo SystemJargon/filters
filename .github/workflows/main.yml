@@ -18,16 +18,16 @@ jobs:
         node-version: '16'  
     - run: npm i -g @adguard/hostlist-compiler
     
-    - name: Compile HostsVN
-      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
+#    - name: Compile HostsVN list
+#      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
 
-    - name: Compile Security
+    - name: Compile Security list
       run: hostlist-compiler -c ./source/security.json -o security.txt
       
-    - name: Compile Security 2
+    - name: Compile Security2 list
       run: hostlist-compiler -c ./source/security2.json -o security2.txt
       
-#    - name: Compile Security
+#    - name: Compile Threats list
 #      run: hostlist-compiler -c ./source/threats.json -o threats.txt
       
     - name: Compile Other list
