@@ -2,10 +2,6 @@
    "name":"Telemetry Lists",
    "sources":[
       {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/SmartTV-more.txt",
-         "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/windows-telemetry-spy-blocklist.txt",
          "type":"hosts"
       },
@@ -20,6 +16,30 @@
 	  {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/gafam/blocklist-apple-telemetry.txt",
          "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
+         "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/SmartTV-more.txt",
+		   "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/adverts-telemetry-tracking.txt",
+		   "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/netflix-telemetry.txt",
+		   "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/updates/web-browsers-nopush.txt",
+		   "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
+		   "type":"hosts"
       }
 	],
     "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
