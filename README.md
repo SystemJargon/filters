@@ -34,6 +34,7 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 ----
 
+## RAW Lists
 
 [Main list](https://raw.githubusercontent.com/systemjargon/filters/main/filter.txt)
 
@@ -45,7 +46,7 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt)
 
-[Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt)
+[Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt)
 
 [Other list](https://raw.githubusercontent.com/systemjargon/filters/main/other.txt)
 
