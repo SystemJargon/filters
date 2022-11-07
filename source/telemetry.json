@@ -1,0 +1,27 @@
+{
+   "name":"Telemetry Lists",
+   "sources":[
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/SmartTV-more.txt",
+         "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/windows-telemetry-spy-blocklist.txt",
+         "type":"hosts"
+      },
+	        {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/mobile_android/huawei-telemetry-tracking.txt",
+         "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/mobile_android/android-telemetry-tracking.txt",
+         "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/gafam/blocklist-apple-telemetry.txt",
+         "type":"hosts"
+      }
+	],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+}
