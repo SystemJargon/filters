@@ -1,3 +1,5 @@
+# windows-updates-only-allow.txt
+# Windows Updates only allow, not other hosts for Telemetry
 @@||v10.events.data.microsoft.com^$important
 @@||v20.events.data.microsoft.com^$important
 @@||self.events.data.microsoft.com^$important
