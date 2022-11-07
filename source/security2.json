@@ -2,7 +2,7 @@
    "name":"Security Lists - Aggregated by SystemJargon",
    "sources":[
       {
-         "source":"https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
+         "source":"https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
          "type":"hosts"
       },
       {

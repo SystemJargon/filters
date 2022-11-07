@@ -1,0 +1,27 @@
+{
+   "name":"Threats Lists - Aggregated by SystemJargon",
+   "sources":[
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt",
+         "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats-june-2022.txt",
+         "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/bad-image-icon-domains.txt",
+         "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
+         "type":"hosts"
+      }
+   ],
+   "transformations":[
+      "RemoveComments",
+      "Compress",
+      "Validate",
+      "Deduplicate"
+   ]
+}
