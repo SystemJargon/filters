@@ -56,7 +56,7 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 ### Recommended combination of lists
 
-Use the [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt + [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) + [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) 
+Use the [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) + [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) + [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) 
 
 ----
 
