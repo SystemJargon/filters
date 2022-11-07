@@ -1,0 +1,32 @@
+{
+    "name": "Lite lists",
+    "sources": [
+        {
+            "name": "StevenBlack",
+            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+            "type": "hosts"
+        },
+        {
+            "name": "ad-wars",
+            "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+            "type": "hosts"
+        },
+        {
+            "name": "tiuxo",
+            "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
+            "type": "hosts"
+        },
+        {
+            "name": "Adguard DNS Filter",
+            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "hostsVN",
+            "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+            "type": "hosts"
+        }
+    ],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "HostsVN Lists",
+    "sources": [
+      {
+        "name": "Adult",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts",
+        "type": "hosts"
+      },
+      {
+        "name": "Gambling",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts",
+        "type": "hosts"
+      },
+      {
+        "name": "Threat",
+        "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts",
+        "type": "hosts"
+      }
+    ],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+}

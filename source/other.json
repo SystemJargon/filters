@@ -1,0 +1,46 @@
+{
+    "name": "Other Filter",
+    "sources": [
+      {
+        "name": "Adguard DNS Filter",
+        "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+        "type": "adblock"
+      },
+	  {
+		"name": "AdAway Hosts Filter",
+	    "source":"https://adaway.org/hosts.txt",
+        "type":"hosts"
+      },
+      {
+        "name": "Steven Black",
+        "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
+        "type": "hosts"
+      },
+      {
+            "name": "OISD",
+            "source": "https://abp.oisd.nl/",
+            "type": "adblock"
+      },
+      {
+        "name": "Ad-wars",
+        "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+        "type": "hosts"
+      },
+      {
+          "name": "tiuxo",
+          "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
+          "type": "hosts"
+      },
+      {
+          "name": "1Hosts Lite",
+          "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
+          "type": "hosts"
+      },
+      {
+          "name": "hostsVN",
+          "source": "hostsvn.txt"
+      }
+    ],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+  }
