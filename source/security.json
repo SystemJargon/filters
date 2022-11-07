@@ -130,10 +130,6 @@
 		          "type":"hosts"
       }
    ],
-   "transformations":[
-      "RemoveComments",
-      "Compress",
-      "Validate",
-      "Deduplicate"
-   ]
+	"transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
 }
