@@ -2,7 +2,7 @@
 
 Powered by [Github actions](https://github.com/features/actions) and [@adguard/hostlist-compiler](https://github.com/AdguardTeam/FiltersCompiler)
 
-Automate/schedule (cron) a workflow of the many adlists, security lists, annoyance lists etc.
+Automate/schedule (cron) a workflow of the many adlists, security lists, telemetry, annoyance lists etc. via Aggregation.
 
 Lists are defined in this repo in the [source](source) directory. Each list then defined in a JSON file.
 
@@ -23,7 +23,7 @@ Lists are defined in this repo in the [source](source) directory. Each list then
 
 ## Using the files in your Adblock solution.
 
-Use the text (txt) files in the root directory of this repo in your AdGuard/Adblock solution. 
+Use the RAW files linked below of this repo's [README.md](README.md) file in your AdGuard/Adblock solution. 
 
 All lists (so the lines within) will have comments stripped, compression, syntax validated and deduplicated. 
 
@@ -34,11 +34,7 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 ----
 
-## RAW Lists
-
-[Main list](https://raw.githubusercontent.com/systemjargon/filters/main/filter.txt)
-
-[Extra list](https://raw.githubusercontent.com/systemjargon/filters/main/extra.txt)
+## RAW lists links - (add to your Adblocker)
 
 [Lite list](https://raw.githubusercontent.com/systemjargon/filters/main/lite.txt)
 
@@ -46,8 +42,22 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt)
 
+[Security list 2 - replaced by Security List](https://raw.githubusercontent.com/systemjargon/filters/main/security2.txt)
+
+[Extra list](https://raw.githubusercontent.com/systemjargon/filters/main/extra.txt)
+
 [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt)
 
 [Other list](https://raw.githubusercontent.com/systemjargon/filters/main/other.txt)
 
 [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt)
+
+----
+
+## Notes
+
+I have other repos around blocklists, allowlists, pi-hole, adguardhome and more if you're interested.
+
+<i>There maybe some crossover duplicates on the Firebog ticklist and the lists above, that is due to Firebog sometimes changes what is on the ticklists.</i>
+
+Star the repo if you like it!
