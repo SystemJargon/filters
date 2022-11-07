@@ -1,0 +1,15 @@
+name: Adlist Convert
+
+on:
+  push:
+  schedule:
+  - cron: "0 0 * * *"
+
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: systemjargon/filters@main
+        with:
+          script_file: adlist_convert.py
