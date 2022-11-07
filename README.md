@@ -4,7 +4,7 @@ Powered by [Github actions](https://github.com/features/actions) and [@adguard/h
 
 Automate/schedule (cron) a workflow of the many adlists, security lists, telemetry, annoyance lists etc. via Aggregation.
 
-Lists are defined in this repo in the [source](source) directory. Each list then defined in a JSON file.
+Lists are defined in this repo in the source directory. Each list then defined in a JSON file.
 
 
 ### Status
@@ -40,9 +40,9 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 [Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt)
 
-[Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt)
+[Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) - Anti phishing/scam/coinminer/malware/bad reputation
 
-[Security list 2 - replaced by Security List](https://raw.githubusercontent.com/systemjargon/filters/main/security2.txt)
+[Security list 2](https://raw.githubusercontent.com/systemjargon/filters/main/security2.txt) - replaced by [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt)
 
 [Extra list](https://raw.githubusercontent.com/systemjargon/filters/main/extra.txt)
 
@@ -50,7 +50,13 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 [Other list](https://raw.githubusercontent.com/systemjargon/filters/main/other.txt)
 
-[FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt)
+[FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) - mostly adblocking
+
+----
+
+### Recommended combination of lists
+
+Use the [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt + [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) + [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) 
 
 ----
 
