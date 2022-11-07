@@ -5,6 +5,7 @@
          "source":"https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
          "type":"hosts"
       },
+	  {
          "source":"https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt",
 		          "type":"hosts"
       },
