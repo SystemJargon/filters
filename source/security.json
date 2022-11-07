@@ -121,6 +121,10 @@
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt",
 		          "type":"hosts"
       },
+ {
+         "source":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt",
+		          "type":"hosts"
+      },
       {
          "source":"https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
 		          "type":"hosts"
