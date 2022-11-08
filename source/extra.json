@@ -12,11 +12,6 @@
         "type": "adblock"
       },
       {
-        "name": "Dandelion Sprout's Anti-Malware List",
-        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
-        "type": "adblock"
-      },
-      {
         "name": "bongochong",
         "source": "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts",
         "type": "hosts"
