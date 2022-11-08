@@ -16,11 +16,6 @@
         "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
         "type": "adblock"
         },
-		     {
-        "name": "Adguard DNS Filter",
-        "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-        "type": "adblock"
-      },
 	  {
 		"name": "AdAway Hosts Filter",
 	    "source":"https://adaway.org/hosts.txt",
@@ -44,11 +39,6 @@
       {
           "name": "1Hosts Lite",
           "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
-          "type": "hosts"
-      },
-	  {
-          "name": "YoutubeAds",
-          "source": "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list",
           "type": "hosts"
       },
 	  	  {
