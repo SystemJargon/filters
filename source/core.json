@@ -1,0 +1,27 @@
+{
+    "name": "Lite lists",
+    "sources": [
+        {
+            "name": "StevenBlack",
+            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+            "type": "hosts"
+        },
+        {
+            "name": "Adguard DNS Filter",
+            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "OISD",
+            "source": "https://abp.oisd.nl/",
+            "type": "adblock"
+      },
+	          {
+            "name": "firebog-ticklist-hosts",
+            "source": "https://raw.githubusercontent.com/SystemJargon/pi-hole/main/firebog-ticklist-hosts.txt",
+            "type": "hosts"
+      }
+    ],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+}

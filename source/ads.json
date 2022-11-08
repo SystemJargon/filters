@@ -1,0 +1,67 @@
+{
+    "name": "Adblocking lists",
+    "sources": [
+      {
+        "name": "GoodbyeAds",
+        "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
+        "type": "hosts"
+      },
+      {
+        "name": "Extremely Condensed Adblocking List",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ExtremelyCondensedList.txt",
+        "type": "adblock"
+      },
+      {
+	    "name": "Adguard DNS Filter",
+        "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+        "type": "adblock"
+        },
+		     {
+        "name": "Adguard DNS Filter",
+        "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+        "type": "adblock"
+      },
+	  {
+		"name": "AdAway Hosts Filter",
+	    "source":"https://adaway.org/hosts.txt",
+        "type":"hosts"
+      },
+      {
+            "name": "OISD",
+            "source": "https://abp.oisd.nl/",
+            "type": "adblock"
+      },
+      {
+        "name": "Ad-wars",
+        "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+        "type": "hosts"
+      },
+      {
+          "name": "tiuxo",
+          "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
+          "type": "hosts"
+      },
+      {
+          "name": "1Hosts Lite",
+          "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
+          "type": "hosts"
+      },
+	  {
+          "name": "YoutubeAds",
+          "source": "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list",
+          "type": "hosts"
+      },
+	  	  {
+          "name": "DisconnectMe",
+          "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+          "type": "hosts"
+      },
+      {
+          "name": "anudeep adservers",
+          "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+          "type": "hosts"
+      }
+    ],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+  }

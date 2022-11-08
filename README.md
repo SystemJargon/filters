@@ -2,7 +2,7 @@
 
 Powered by [Github actions](https://github.com/features/actions) and [@adguard/hostlist-compiler](https://github.com/AdguardTeam/FiltersCompiler)
 
-Automate/schedule (cron) a workflow of the many adlists, security lists, telemetry, annoyance lists etc. via Aggregation.
+Automate/schedule (cron) a workflow of the many adlists, security lists, telemetry, annoyance lists etc. via <b>Aggregation</b>.
 
 Lists are defined in this repo in the source directory. Each list then defined in a JSON file.
 
@@ -28,33 +28,25 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 ## RAW lists links - (add to your Adblocker)
 
-[Lite list](https://raw.githubusercontent.com/systemjargon/filters/main/lite.txt)
+[Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) - RECOMMENDED - BIG - StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists
 
-[Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt)
+[Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) - BIG - 1,933,927 entries across several lists. * as of this commit - may change.
 
 [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) - Anti phishing/scam/coinminer/malware/bad reputation
 
-[Security list 2](https://raw.githubusercontent.com/systemjargon/filters/main/security2.txt) - replaced by [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt)
+[Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) - SmartTV, Amazon, Firebog telemetry lists and others
 
-[Extra list](https://raw.githubusercontent.com/systemjargon/filters/main/extra.txt)
+[Advertising list](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) - Popular adlists across Github and other places.
 
-[Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt)
-
-[Other list](https://raw.githubusercontent.com/systemjargon/filters/main/other.txt)
-
-[FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) - mostly adblocking
-
-----
-
-### Recommended combination of lists
-
-Use the [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) + [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) + [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) 
+[FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) - Lists located [here](https://v.firebog.net/hosts/lists.php?type=tick)
 
 ----
 
 ## Notes
 
 I have other repos around blocklists, allowlists, pi-hole, adguardhome and more if you're interested.
+
+I won't re-aggregate ALL of StevenBlack's lists into one list - they are too big to combine.
 
 <i>There maybe some crossover duplicates on the Firebog ticklist and the lists above, that is due to Firebog sometimes changes what is on the ticklists.</i>
 

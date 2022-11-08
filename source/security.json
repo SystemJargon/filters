@@ -78,10 +78,6 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/bad-image-icon-domains.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
 		          "type":"hosts"
       },
@@ -111,14 +107,6 @@
       },
       {
          "source":"https://urlhaus.abuse.ch/downloads/hostfile/",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats-june-2022.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt",
 		          "type":"hosts"
       },
  {

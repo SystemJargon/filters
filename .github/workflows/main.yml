@@ -18,30 +18,21 @@ jobs:
         node-version: '16'  
     - run: npm i -g @adguard/hostlist-compiler
     
-#    - name: Compile HostsVN list
-#      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
+    - name: Compile bigdargon_HostsVN list
+      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
 
     - name: Compile Security list
       run: hostlist-compiler -c ./source/security.json -o security.txt
       
-    - name: Compile Security2 list
-      run: hostlist-compiler -c ./source/security2.json -o security2.txt
+    - name: Compile Ads list
+      run: hostlist-compiler -c ./source/ads.json -o ads.txt
       
-#    - name: Compile Threats list
-#      run: hostlist-compiler -c ./source/threats.json -o threats.txt
-      
-    - name: Compile Other list
-      run: hostlist-compiler -c ./source/other.json -o other.txt
-    
-    - name: Compile Lite list
-      run: hostlist-compiler -c ./source/lite.json -o lite.txt
+    - name: Compile Core list
+      run: hostlist-compiler -c ./source/core.json -o core.txt
     
     - name: Compile Porn list
       run: hostlist-compiler -c ./source/porn.json -o porn.txt
-
-    - name: Compile Extra list
-      run: hostlist-compiler -c ./source/extra.json -o extra.txt
-      
+     
     - name: Compile Telemetry list
       run: hostlist-compiler -c ./source/telemetry.json -o telemetry.txt
       
