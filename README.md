@@ -1,7 +1,5 @@
 ## About
 
-Powered by [Github actions](https://github.com/features/actions) and [@adguard/hostlist-compiler](https://github.com/AdguardTeam/FiltersCompiler)
-
 Automate/schedule (cron) a workflow of the many adlists, security lists, telemetry, annoyance lists etc. via <b>Aggregation</b>.
 
 Lists are defined in this repo in the source directory. Each list then defined in a JSON file.
