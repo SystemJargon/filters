@@ -2,10 +2,6 @@
    "name":"Threats Lists - Aggregated by SystemJargon",
    "sources":[
           {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/*.txt",
-         "type":"hosts"
-      },
-          {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt",
          "type":"hosts"
       },
