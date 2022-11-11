@@ -1,26 +1,35 @@
 !
 ! Title: Threats Lists - Aggregated by SystemJargon
-! Last modified: 2022-11-11T11:21:52.163Z
+! Last modified: 2022-11-11T20:01:24.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+!
+! Source: https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt
+!
+# Threats - bad url and domains below to block
 ||www.echelon9.com^
 ||api.echelon9.com^
 ||dinterperson.xyz^
 ||specgoal.com^
 ||enlib2w9g8mze.x.pipedream.net^
+# lockbit 2.0 related
 ||fibarcarolo.it^
 ||gymund.dk^
 ||gdctax.com.au^
 ||ismea.it^
 ||fed-gmbh.de^
 ||suntecktts.com^
+# emerging ransomware 
 ||decoding.at^
 ||bigblog.at^
 ||lockbit-decryptor.com^
 ||lockbit-decryptor.top^
+# DIG manipulated DNS hijack
 ||cyberclub.one^
+# Phishing domain # Categorized by fortinet
 ||thesocialhire.in^
+# gamaredon-primitive-bear reference unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/
 ||jolotras.ru^
 ||moolin.ru^
 ||naniga.ru^
@@ -40,10 +49,12 @@
 ||cerambycidae.ru^
 ||coleopteras.ru^
 ||danainae.ru^
+# misc phishing and malware 
 ||trk.klclick3.com^
 ||460f.templates.victoryoverdieting.com^
 ||fujitsu.sbs^
 ||danske-a-kasser.com^
+# SocGholish badsites
 ||track.amishbrand.com^
 ||connect.clevelandskin.com^
 ||track.positiverefreshment.org^
@@ -74,8 +85,14 @@
 ||vamosparaonde.com^
 ||mantersaols.com^
 ||premiercombate.eastus.cloudapp.azure.com^
+# BlueSky Ransomware IOC URL
 kmsauto.us 
+# BlueSky Ransomware IOC URL
 ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion 
+!
+! Source: https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats-june-2022.txt
+!
+# Follina CVE-2022-30190 related
 ||tibet-gov.web.app^
 ||tibetyouthcongress.com^
 ||t1bet.net^
@@ -84,23 +101,28 @@ ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion
 ||airjaldi.online^
 ||tibet.bet^
 ||gomuzigak.com^
+# Cobalt Strike re-emerge
 ||zupeyico.com^
 ||lentgenn.com^
 ||policyupdating.com^
 ||baronrtal.com^
+# EMOTET C2 traffic observations to block
 ||chobemaster.com^
 ||bencevendeghaz.hu^
 ||vibesapparels.com^
+# IceID / BokBot / DarkVNC
 ||hectorcalle.com^
 ||pilatylu.com^
 ||guguchrome.com^
 ||ganjicow.com^
 ||callbackhubs.com^
 ||yolneanz.com^
+# QAKBOT C2
 ||meumundocatolico.com^
 ||smartleasesonora.com^
 ||rizucem.com^
 ||svfin.icu^
+# HelloXD Ransomware - reference unit42.paloaltonetworks.com/helloxd-ransomware/
 ||www.zxlab.iol4cky.men^
 ||btc-trazer.xyz^
 ||x4k.me^
@@ -137,19 +159,23 @@ ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion
 ||rexdooley.ml^
 ||relay2.kuimvd.ru^
 ||ns2.webmiting.ru^
+# Gallium - PingPull
 ||micfkbeljacob.com^
 ||hinitial.com^
 ||goodjob36.publicvm.com^
 ||goodluck23.jp.us^
 ||helpinfo.publicvm.com^
 ||mailedc.publicvm.com^
+# IceXLoader 3.0 Malware # Includes C2 URLs and Download URLs - Source Fortinet
 ||kulcha.didns.ru^
 ||r4yza92.com^
 ||north.ac^
 ||hhj.jbk0871.fun^
 ||funmustsolutions.site^
 ||golden-cheats.com^
+# Lyceum-net-dns-backdoor
 ||news-spot.live^
+# Shadowpad Backdoor - reference https[:]//ics-cert.kaspersky.com/publications/reports/2022/06/27/attacks-on-industrial-control-systems-using-shadowpad/
 ||api.onedriev.tk^
 storage.ondriev.tk 
 ||order.cargobussiness.site^
@@ -161,6 +187,10 @@ storage.ondriev.tk
 ||noub.crabdance.com^
 ||grandfoodtony.com^
 
+!
+! Source: https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/bad-image-icon-domains.txt
+!
+# Sometimes known to host .ico or .png or image files which are part of other payloads (usually JS) to infect a victim or browser. Either that or the site has a bad rep.
 ||code-examples.net^
 ||kotaeta.com^
 ||answer-id.com^
@@ -345,6 +375,10 @@ it-swarm-fr.com
 ||www.jing.fm^
 ||graphicmama.com^
 ||www.pngkit.com^
+!
+! Source: https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt
+!
+# This list below has urls or domains associated with phishing links or spam email
 ||0x6b.0254.0113.0244^
 ||104-168-132-128.nip.io^
 ||111234cdt.ddns.net^
@@ -833,16 +867,21 @@ onion
 ||xxxs.info^
 ||zubesta1.com^
 ||zupertech.com^
+# Leveraged phishing and click-hijack
 ||email.teamsnap.com^
 ||www.blank.com^
 ||thovest.com^
+# P2P domain with dubious subdomain links and suspcious downloads
 ||ipfs.nftstorage.link^
+# SVCReady Malware
 ||muelgadr.top^
 ||wikidreamers.com^
 ||galmerts.art^
 ||kikipi.art^
 ||kokoroklo.su^
+# Malicious-Phishing Link
 ||ep.cpq7o.bottegatoscana.com.hk^
+# Fake Crack and Black-SEO
 ||goes12by.cfd^
 ||baed92all.cfd^
 ||aeddkiu6745q.cfd^
