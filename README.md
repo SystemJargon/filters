@@ -32,7 +32,7 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) - Anti phishing/scam/coinminer/malware/bad reputation
 
-[Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) - SmartTV, Amazon, Firebog telemetry lists and others
+[Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) - SmartTV, Amazon, Windows, Android, iOS. Includes also Firebog telemetry lists and others.
 
 [Advertising list](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) - Popular adlists across Github and other places.
 
