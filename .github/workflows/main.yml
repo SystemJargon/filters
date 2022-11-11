@@ -38,7 +38,10 @@ jobs:
       
     - name: Compile Firebog Ticklist
       run: hostlist-compiler -c ./source/firebog-ticklist.json -o firebog-ticklist.txt
-         
+ 
+    - name: Compile Threats list
+      run: hostlist-compiler -c ./source/threats.json -o threats.txt
+        
     - name: Start commit change
       run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV
     
