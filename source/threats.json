@@ -1,5 +1,5 @@
 {
-   "name":"Threats Lists - by SystemJargon",
+   "name":"Threats Lists - Aggregated by SystemJargon",
    "sources":[
           {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt",
@@ -17,7 +17,10 @@
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
          "type":"hosts"
       }
-   ],  
-    "transformations": ["Compress","Validate","Deduplicate"],
-    "inclusion_sources": ["https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/*.txt"]
+   ],
+   "transformations":[
+      "Compress",
+      "Validate",
+      "Deduplicate"
+   ]
 }
