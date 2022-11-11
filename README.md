@@ -28,7 +28,7 @@ Most of the lists are aggregated across various sources. Some are from my [block
 
 [Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) - RECOMMENDED - BIG - StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists
 
-[Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) - BIG - 1,933,927 entries across several lists. * as of this commit - may change.
+[Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) - BIG - well beyond 1.5 million entries across several lists. * as of this commit - may change.
 
 [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) - Anti phishing/scam/coinminer/malware/bad reputation
 
