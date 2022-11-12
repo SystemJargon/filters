@@ -1,5 +1,8 @@
 ## About
 
+A repo in a series of filters from original and aggregated sources. To be used with an AdGuard or EasyList Adblocker.
+
+
 Automate/schedule (cron) a workflow of the many adlists, security lists, telemetry, annoyance lists etc. via <b>Aggregation</b>.
 
 Lists are defined in this repo in the source directory. Each list then defined in a JSON file.
