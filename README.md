@@ -18,16 +18,28 @@ Lists are defined in this repo in the source directory. Each list then defined i
 
 Use the RAW files linked below of this repo's [README.md](README.md) file in your AdGuard/Adblock solution. 
 
-All lists (so the lines within) will have comments stripped, compression, syntax validated and deduplicated. 
+All lists (so the lines within) will have compression, syntax validated and deduplicated. Some may comments stripped.
 
 This is mostly to ensure file sizes (plus download/update times) are managable and future scalable.
 
-Most of the lists are aggregated across various sources. Some are from my [blocklists](https://github.com/systemjargon/blocklists) repo.
+Some of the lists are aggregated across various sources from others. 
+Some are from my [blocklists](https://github.com/systemjargon/blocklists) or [allowlists](https://github.com/systemjargon/allowlists)  repo.
 
+You can check my aggregation of sources used in this repo [here](https://github.com/SystemJargon/filters/tree/main/source). Each txt list has a corresponding named JSON file.
 
 ----
 
 ## RAW lists links - (add to your Adblocker)
+
+Allowlist for AdGuard/AdGuardHome
+
+[Allowlist](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) 
+
+Source lists usually only contain the basic subdomain/s to make the site/app/service function, not allow ads/telemetry etc.
+
+----
+
+Blocklists
 
 [Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) - RECOMMENDED - BIG - StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists
 
