@@ -1,0 +1,254 @@
+!
+! Title: Allowlist for Filters Repo
+! Last modified: 2022-11-13T05:12:36.169Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.12
+!
+!
+! Source name: AnudeepND Whitelist
+! Source: https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
+!
+||0.client-channel.google.com^
+||1drv.com^
+||2.android.pool.ntp.org^
+||akamaihd.net^
+||akamaitechnologies.com^
+||akamaized.net^
+||amazonaws.com^
+||android.clients.google.com^
+||api.ipify.org^
+||api.rlje.net^
+||app-api.ted.com^
+||appleid.apple.com^
+||apps.skype.com^
+||apt.sonarr.tv^
+||aspnetcdn.com^
+||attestation.xboxlive.com^
+||ax.phobos.apple.com.edgesuite.net^
+||brightcove.net^
+||c.s-microsoft.com^
+||cdn.cloudflare.net^
+||cdn.embedly.com^
+||cdn.optimizely.com^
+||cdn.vidible.tv^
+||cdn2.optimizely.com^
+||cdn3.optimizely.com^
+||cdnjs.cloudflare.com^
+||cert.mgt.xboxlive.com^
+||clientconfig.passport.net^
+||clients1.google.com^
+||clients2.google.com^
+||clients3.google.com^
+||clients4.google.com^
+||clients5.google.com^
+||clients6.google.com^
+||cpms.spop10.ams.plex.bz^
+||cpms35.spop10.ams.plex.bz^
+||cse.google.com^
+||ctldl.windowsupdate.com^
+||d2c8v52ll5s99u.cloudfront.net^
+||d2gatte9o95jao.cloudfront.net^
+||dashboard.plex.tv^
+||dataplicity.com^
+||def-vef.xboxlive.com^
+||delivery.vidible.tv^
+||dev.virtualearth.net^
+||device.auth.xboxlive.com^
+||display.ugc.bazaarvoice.com^
+||displaycatalog.mp.microsoft.com^
+||dl.delivery.mp.microsoft.com^
+||dl.dropbox.com^
+||dl.dropboxusercontent.com^
+||download.sonarr.tv^
+||drift.com^
+||driftt.com^
+||edge.api.brightcove.com^
+||eds.xboxlive.com^
+||forums.sonarr.tv^
+||geo-prod.do.dsp.mp.microsoft.com^
+||geo3.ggpht.com^
+||giphy.com^
+||github.com^
+||github.io^
+||googleapis.com^
+||gravatar.com^
+||gstatic.com^
+||help.ui.xboxlive.com^
+||hls.ted.com^
+||i.ytimg.com^
+||i1.ytimg.com^
+||imagesak.secureserver.net^
+||img.vidible.tv^
+||imgix.net^
+||imgs.xkcd.com^
+||intercom.io^
+||jquery.com^
+||jsdelivr.net^
+||keystone.mwbsys.com^
+||licensing.xboxlive.com^
+||live.com^
+||manifest.googlevideo.com^
+||meta-db-worker02.pop.ric.plex.bz^
+||meta.plex.bz^
+||meta.plex.tv^
+||microsoftonline.com^
+||msftncsi.com^
+||npr-news.streaming.adswizz.com^
+||no-ip.com^
+||notify.xboxlive.com^
+||ns1.dropbox.com^
+||ns2.dropbox.com^
+||o1.email.plex.tv^
+||o2.sg0.plex.tv^
+||ocsp.apple.com^
+||office.com^
+||office.net^
+||office365.com^
+||officeclient.microsoft.com^
+||om.cbsi.com^
+||placehold.it^
+||pricelist.skype.com^
+||proxy.plex.bz^
+||proxy.plex.tv^
+||proxy02.pop.ord.plex.bz^
+||pubsub.plex.bz^
+||pubsub.plex.tv^
+||redirector.googlevideo.com^
+||res.cloudinary.com^
+||s.marketwatch.com^
+||s.youtube.com^
+||s.ytimg.com^
+||s2.youtube.com^
+||sa.symcb.com^
+||secure.avangate.com^
+||secure.brightcove.com^
+||secure.surveymonkey.com^
+||services.sonarr.tv^
+||skyhook.sonarr.tv^
+||spclient.wg.spotify.com^
+||ssl.p.jwpcdn.com^
+||staging.plex.tv^
+||status.plex.tv^
+||t.co^
+||t0.ssl.ak.dynamic.tiles.virtualearth.net^
+||t0.ssl.ak.tiles.virtualearth.net^
+||tawk.to^
+||tedcdn.com^
+||themoviedb.com^
+||thetvdb.com^
+||tinyurl.com^
+||title.auth.xboxlive.com^
+||title.mgt.xboxlive.com^
+||traffic.libsyn.com^
+||tvdb2.plex.tv^
+||twimg.com^
+||ui.skype.com^
+||video-stats.l.google.com^
+||videos.vidible.tv^
+||widget-cdn.rpxnow.com^
+||win10.ipv6.microsoft.com^
+||wp.com^
+||ws.audioscrobbler.com^
+||xbox.ipv6.microsoft.com^
+||xboxexperiencesprod.experimentation.xboxlive.com^
+||xflight.xboxlive.com^
+||xkms.xboxlive.com^
+||xsts.auth.xboxlive.com^
+||youtu.be^
+||youtube-nocookie.com^
+||yt3.ggpht.com^
+||pings.conviva.com^
+||cws.conviva.com^
+||livepassdl.conviva.com^
+||gfwsl.geforce.com^
+||appspot-preview.l.google.com^
+||vidtech.cbsinteractive.com^
+||continuum.dds.microsoft.com^
+||connectivitycheck.android.com^
+||www.msftconnecttest.com^
+
+!
+! Source name: Developer sites
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-manage-core.txt
+!
+# for lists we use and development purposes.
+||github.dev^
+||githubusercontent.com^
+||gitlab.com^
+||firebog.net^
+||hostfiles.frogeye.fr^
+||adaway.org^
+
+!
+! Source name: Signal
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt
+!
+||signal.org^
+||textsecure-service-whispersystems.org^
+||giphy-proxy-production.whispersystems.org^
+||d83eunklitikj.cloudfront.net^
+||souqcdn.com^
+||turn1.whispersystems.org^
+!
+! Source name: tp-link smartplugs
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/iot/tplink-smartplugs.txt
+!
+# tplink smart plugs
+@@||use1-api.tplinkra.com^
+@@||n-aps1-wap.tplinkcloud.com^
+!@@||api.tplinkra.com^ # not needed?
+!@@||assets.tplinkra.com^ # not needed?
+
+!
+! Source name: Netflix
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/netflix.txt
+!
+# netflix allowlist
+||netflix.com^
+||nflxext.com^
+||nflximg.com^
+||nflximg.net^
+||nflxso.net^
+||nflxvideo.net^
+
+!
+! Source name: Plex
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/plex.txt
+!
+||106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services^
+||app.plex.tv^
+||downloads.plex.tv^
+||plex.direct^
+!plex.tv # not allowing global domain, list more subdomains to allow instead.
+||plexapp.com^
+||podcasts.provider.plex.tv^
+||vod.provider.plex.tv^
+||webshows.provider.plex.tv^
+||www.plex.tv^
+||apresolve.spotify.com^
+||mobile-ap.spotify.com^
+||pscdn.co^
+||scdn.co^
+!spotify.com # not allow global domain. provide more subdomains to allow.
+||spotify.com.edgesuite.net^
+||spotify.demdex.net^
+||spotify.edgekey.net^
+||spotify.map.fastly.net^
+||spotifycdn.net^
+||www.spotify.com^
+
+!
+! Source name: Youtube
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/youtube.txt
+!
+# youtube
+||accounts.youtube.com^
+||img.youtube.com^
+||m.youtube.com^
+||music.youtube.com^
+||tv.youtube.com^
+||www.youtube.com^
+||www.youtubekids.com^
+||youtube-dl.org^
+||youtube-ui.l.google.com^
+! googlevideo.com # may include in-video ads within the CDN / content. Do not allow global domain
