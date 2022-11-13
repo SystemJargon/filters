@@ -48,7 +48,6 @@
       }
    ],
    "transformations":[
-      "Compress",
       "Validate",
       "Deduplicate"
    ]
