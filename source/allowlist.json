@@ -45,7 +45,7 @@
           "name": "Youtube",
           "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/youtube.txt",
           "type": "hosts"
-      },
+      }
     ],
     "transformations": ["Compress","Validate","Deduplicate"],
   }
