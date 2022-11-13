@@ -82,11 +82,6 @@
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick17",
-        "source": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
-        "type": "hosts"
-      },
-	        {
         "name": "firebogtick18",
         "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
         "type": "hosts"
