@@ -41,6 +41,9 @@ jobs:
  
     - name: Compile Threats list
       run: hostlist-compiler -c ./source/threats.json -o threats.txt
+      
+    - name: Compile Allow list
+      run: hostlist-compiler -c ./source/allowlist.json -o allowlist.txt
         
     - name: Start commit change
       run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV
