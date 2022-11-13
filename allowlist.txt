@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo
-! Last modified: 2022-11-13T05:37:07.441Z
+! Last modified: 2022-11-13T09:26:29.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -216,16 +216,6 @@ cms.souqcdn.com
 api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
-!
-! Source name: tp-link smartplugs
-! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/iot/tplink-smartplugs.txt
-!
-# tplink smart plugs
-@@||use1-api.tplinkra.com^
-@@||n-aps1-wap.tplinkcloud.com^
-!@@||api.tplinkra.com^ # not needed?
-!@@||assets.tplinkra.com^ # not needed?
-
 !
 ! Source name: Netflix
 ! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/netflix.txt
