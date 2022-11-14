@@ -42,6 +42,6 @@
 		   "type":"hosts"
       }
 	],
-    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "transformations": ["Compress","Validate","Deduplicate"],
     "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
 }
