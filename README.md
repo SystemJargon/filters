@@ -12,7 +12,7 @@ Lists are to be used with an adblocker solution which supports the "adguard" lis
 ----
 
 
-Use the RAW files [linked](#the-lists) below this [README](https://github.com/SystemJargon/filters/README.md) file in your AdGuard/Adblock solution. 
+Use the RAW files [linked](#the-lists) below this [README](https://github.com/SystemJargon/filters/blob/main/README.md) file in your AdGuard/Adblock solution. 
 
 Notes:
 
@@ -25,11 +25,13 @@ Notes:
 <!-- The aggregation of some lists are from my [blocklists](https://github.com/systemjargon/blocklists) or [allowlists](https://github.com/systemjargon/allowlists) repositories. -->
 
 
+* Feel free to 🌟/star the repo.
+
+* Raise any issues or requests [here](https://github.com/SystemJargon/filters/issues/new/choose) 
+
 ----
 
 ## The Lists
-
-Source lists usually only contain the basic subdomain/s to make the site/app/service function, not allow ads/telemetry etc.
 
 | List Name & Github Link | List Name & RAW/Download) | Purpose/About |
 | ---- | ---- | ---- |
@@ -44,6 +46,3 @@ Source lists usually only contain the basic subdomain/s to make the site/app/ser
 ----
 
 
-Feel free to 🌟/star the repo.
-
-Raise any issues or requests [here](https://github.com/SystemJargon/filters/issues/new/choose) 
