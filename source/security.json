@@ -66,10 +66,6 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
 		          "type":"hosts"
       },
