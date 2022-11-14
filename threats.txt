@@ -1,6 +1,6 @@
 !
 ! Title: Threats Lists - Aggregated by SystemJargon
-! Last modified: 2022-11-14T05:50:01.582Z
+! Last modified: 2022-11-14T09:24:20.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -100,6 +100,7 @@ ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion
 ||sputnikradio.net^
 ||airjaldi.online^
 ||tibet.bet^
+||ec2-18-118-156-145.us-east-2.compute.amazonaws.com^
 ||gomuzigak.com^
 # Cobalt Strike re-emerge
 ||zupeyico.com^
@@ -394,7 +395,6 @@ it-swarm-fr.com
 ||aliyuncs.com^
 ||amasterweb.site^
 ||amazing-nightingale-3617e1.netlify.app^
-||amazonaws.com^
 ||amusient.com^
 ||analistcloud.space^
 ||analistnet.site^
@@ -455,6 +455,7 @@ it-swarm-fr.com
 ||brown-formam.com^
 ||bublegum.xyz^
 ||bypassociation.com^
+||c2-3-143-67-171.us-east-2.compute.amazonaws.com^
 ||canar.com.sa^
 ||canarytokens.com^
 ||cannstattraction.com^
