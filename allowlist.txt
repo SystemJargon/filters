@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo
-! Last modified: 2022-11-14T09:24:21.186Z
+! Last modified: 2022-11-14T19:55:57.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -233,8 +233,12 @@ www.nflximg.com
 www.nflximg.net
 www.nflxso.net
 www.nflxvideo.net
-! ichnaea.netflix.com # known tracker do not allow
 nrdp.prod.ftl.netflix.com
+# ichnaea.netflix.com # known tracker do not allow
+# api-global.netflix.com # test whether actually needed or not
+# appboot.netflix.com # test whether actually needed or not
+# secure.netflix.com # test whether actually needed or not
+# amazonaws.com # allow as may break mozilla or browsers with netflix-user-profile-pin
 
 !
 ! Source name: Plex

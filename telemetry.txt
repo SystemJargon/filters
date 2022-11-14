@@ -1,9 +1,15 @@
 !
 ! Title: Telemetry Lists
-! Last modified: 2022-11-14T09:22:13.102Z
+! Last modified: 2022-11-14T19:53:29.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+!
+!
+# This blocklist blocks Windows Telemetry
+# Sorted A-Z removed duplicates between any sources and lists.
+# Collected from my own from logs and sources and/or other lists.
+# Credit to other lists below
 ||a.ads2.msads.net^
 ||a.ads2.msn.com^
 ||ac3.msn.com^
@@ -531,12 +537,26 @@ update-dre.platform.hicloud.com
 ||r-beta.huaweistatic.com^
 ||sdkserver-dre.op.hicloud.com.edgekey.net^
 
+!
+!
+# some of this file may require some to comment or uncomment entries if it blocks things they don't want blocked
+# common often google location caching tracking
 ||near.by^
 ||sentry.io^
 ||fir-auth-gms.firebaseapp.com^
+# Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
+# Contact: mobiletrackers [at] protonmail.ch
+# 
+# Version 1.23 - 20211012
+#
+# xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+# unknown, possibly xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
+# unknowns - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
 ||api.smartechmetrics.com^
 ||ck-running-apps-700f1.firebaseio.com^
 ||pie.wirelessregistry.com^
+# unknowns - 010f7bb33f35cc650b7d6104b07102eb0dbaf79bcec1f1c6255fdcaffefe6b68 - com.davidsukhin.com.sukhin.snowdaycalculator.SnowDay
+# URLs below stored as base64 and encrypted xor 0x09 ->
 ||udata.elephantdata.net^
 ||atb.bearclod.com^
 ||alb.bearclod.com^
@@ -549,28 +569,40 @@ update-dre.platform.hicloud.com
 ||hkn01.bearclod.com^
 ||ply.bearclod.com^
 ||zoo.bearclod.com^
+# crashlytics - 4711634730d5367756bba4d776d846b01b8d0373336ea877a2c20b1da0a95477 - com.sgiggle.production_5.2.229629_1538560344.apk
 ||settings.crashlytics.com^
 ||e.crashlytics.com^
+# starbolt - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
 ||sdk.starbolt.io^
 ||dmp.starbolt.io^
 ||devices.starbolt.io^
+# sense360 ? - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
 ||android-quinoa-config-prod.sense360eng.com^
 ||survey-notify-event.sense360eng.com^
 ||quinoa-personal-identify-prod.sense360eng.com^
+# appmeasurement - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+# newrelic - 2d4c9c037db43704f52968c9c363cbdf382cbb6a4b9143825f6e8b523b7c0c01 - com.crowdcompass.appmQaIam3e7C.apk
 ||mobile-collector.newrelic.com^
 ||mobile-crash.newrelic.com^
+# Xiao mi related telemetry endpoints - see https://twitter.com/hookgab/status/1255859289945780225
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||tracking.rus.miui.com^
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
+# from https://twitter.com/cybergibbons/status/1256703550954057729
 ||sa.api.intl.miui.com^
 ||sa.api.india.miui.com^
 ||sa.api.rus.miui.com^
+# new xmodesocial - from https://mobile.twitter.com/guardianiosapp/status/1262545645941874689
 ||api.myendpoint.io^
+# 1eeda6306a2b12f78902a1bc0b7a7961 – com.android.ggtoolkit_tw_xd
+# 134283b8efedc3d7244ba1b3a52e4a92  – com.xprodev.cutcam
+# 3aba867b8b91c17531e58a9054657e10 – com.powerd.cleaner
 ||ti.domainforlite.com^
 ||uu.domainforlite.com^
+# pDNS resolutions for uu.domainforlite.com, hosting on 47.252.80.195
 ||adserver.hahamobi.com^
 ||analytics.hahamobi.com^
 ||analytics.salmonads.com^
@@ -597,12 +629,15 @@ update-dre.platform.hicloud.com
 ||bigdata800.com^
 ||apd1.warnlog.com^
 ||apd1.thunup.com^
+# mintegral, 2020-08-30, described at: https://snyk.io/research/sour-mint-malicious-sdk/
 ||n.systemlog.me^
 ||setting.rayjump.com^
 ||analytics.rayjump.com^
+# from pDNS on n.systemlog.me ->
 ||net.cleverjp.com^
 ||nextialive.roimaster.site^
 ||dev.chat.roimaster.site^
+# Joker download URLs / hosts as described by ZScaler - https://www.zscaler.com/blogs/security-research/joker-playing-hide-and-seek-google-play
 ||2j1i9uqw.oss-eu-central-1.aliyuncs.com^
 ||blackdragon03.oss-ap-southeast-5.aliyuncs.com^
 ||blackdragon.oss-ap-southeast-5.aliyuncs.com^
@@ -614,6 +649,7 @@ update-dre.platform.hicloud.com
 ||proxy48.oss-eu-central-1.aliyuncs.com^
 ||rinimae.oss-ap-southeast-5.aliyuncs.com^
 ||sahar.oss-us-east-1.aliyuncs.com^
+# Cerberus C2s as described by BitDefender - https://labs.bitdefender.com/2020/09/apps-on-google-play-tainted-with-cerberus-banker-malware/
 ||2fapass.club^
 ||androidradio.life^
 ||downdating.club^
@@ -626,33 +662,49 @@ update-dre.platform.hicloud.com
 ||vipyoga.today^
 ||weatherclub.club^
 ||yoga4u.xyz^
+# unknown (?) telemetry receiving endpoints from:
+# 066de93f181e9cbcb8611c675bbcb0fc - com.speedcamera.detector.radar.detector.direction
+# venntel / gravy analytics from https://fil.forbrukerradet.no/wp-content/uploads/2020/01/2020-01-14-out-of-control-final-version.pdf
+# gravy analytics docs - http://developers.findgravy.com/products/gold-api/docs/index2.html
 ||api.findgravy.com^
 ||nwzhmwux-api.findgravy.com^
 ||zmq5ytc1-api.findgravy.com^
 ||mtm1nwmx-api.findgravy.com^
 ||gravyanalytics.com^
+# 51ec8159efb88a852005b94f0fd9891016b75f4b40d24608ee8a5c8d34826a3e - com.usatoday.android.news
 ||ws.findgravy.com^
 ||api.foozor.com^
 ||testapi.foozor.com^
+# potentially related hosts on top of findgravy.com
 ||img01.findgravy.com^
 ||img02.findgravy.com^
 ||img03.findgravy.com^
 ||img04.findgravy.com^
+# 51ec8159efb88a852005b94f0fd9891016b75f4b40d24608ee8a5c8d34826a3e - com.usatoday.android.news
 ||pushapi.localytics.com^
 ||analytics.localytics.com^
 ||profile.localytics.com^
+# cuebiq location sdk from ->
+# 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
 ||in.cuebiq.com^
 ||ingestion-api.kiwi.sand.cuebiq.ai^
+# nodle.io sdk from ->
+# 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
 ||dev.nodle.io^
 ||us-central1-production-242307.cloudfunctions.net^
+# unknown sdk from 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass possibly xmode related
+# more crashlytics hosts from 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass
 ||firebase-settings.crashlytics.com^
 ||update.crashlytics.com^
 ||reports.crashlytics.com^
+# 2dc269d7237c97edefa653a379eca897a23f46adcf14705801041817bf5d1e7e - net.androgames.compass ->
 ||pixelprose.fr^
+# appsflyer from b8ce13566a048108b4321f5277e4d95a5d5743da4f082fbca30074439acf5a15 - com.unacademyapp
 ||onelink.me^
 ||onelnk.com^
 ||app.aflink.com^
 ||t.appsflyer.com^
+# other various telemetry endpoints (not necessarily location related) from from b8ce13566a048108b4321f5277e4d95a5d5743da4f082fbca30074439acf5a15 - com.unacademyapp
 ||logx.optimizely.com^
 ||outline.truecaller.com^
 ||api4.truecaller.com^
@@ -660,18 +712,29 @@ update-dre.platform.hicloud.com
 ||p.webengage.com^
 ||bnc.lt^
 ||js.intercomcdn.com^
+# from cb9f6bb72a9766ba8c805c25769b47c46751052706bb41ed333db0b42cd586ff - 	com.byjus.thelearningapp
+# also see https://digitalwatchdog.org/wp-content/uploads/2020/09/IDAC-Ed-Tech-Report_AppendixB_SensitiveData.pdf
 ||api.tllms.com^
 ||marketing.tllms.com^
+# from 09f5bcadde3351eb3f509f5a471cbd7bb00536292da560bcf8ee59eb73116f00 - luo.speedometergps
+# teragence ->
 ||control.teragence.net^
 ||pfsense02-01.is-61194.teragence.net^
+# tutela ->
 ||reporting-util.tutelatechnologies.com^
 ||hail-reporting.tutelatechnologies.com^
 ||thepopulator.tutelatechnologies.com^
+# huq ->
 ||api.huqindustries.co.uk^
 ||report.huqindustries.co.uk^
 ||charles.huqindustries.co.uk^
+# IOCs from https://www.whiteops.com/blog/somewhere-over-the-rainbowmix
 ||api.pythonexample.com^
+# Predicio - from Funny Weather - pl.lawiusz.funnyweather.release.apk - 6d23151e69a57f67111d4969594316576577ae8a2015aff336ab6ef0fb2a07b4
+# see https://www.vice.com/en/article/epdpdm/ice-dhs-fbi-location-data-venntel-apps
 ||sdk.predic.io^
+# Kinesis endpoint from Funny Weather:
+# Complementics endpoints from 4ba50272718c95af20940912c7968410d797fbc07dcce2bad8183b94887b0ab4
 ||sdk-as.complementics.com^
 ||static.complementics.com^
 ||redvios.com^
@@ -709,13 +772,16 @@ update-dre.platform.hicloud.com
 ||my-player.vip^
 ||voicesupport.vip^
 ||gd-1301476296.cos.na-toronto.myqcloud.com^
+# and: https://www.theregister.com/2021/01/07/great_suspender_malware/
 ||cdn.owebanalytics.com^
 ||static.trckingbyte.com^
 ||static.trckpath.com^
 ||static.privacytrck.com^
 ||rctphvxwnjhx.pw^
 ||hanstrackr.com^
+# Postlo spyware - https://twitter.com/ESETresearch/status/1374889857403785218?s=20
 ||api.mainrepo.org^
+# EvilEye malware C2s mentioned at https://about.fb.com/news/2021/03/taking-action-against-hackers-in-china/
 ||anayurt.net^
 ||apkprue.info^
 ||geo2ipapi.org^
@@ -733,6 +799,7 @@ update-dre.platform.hicloud.com
 ||uyghurhaber.com^
 ||apkhl.pw^
 ||apkpure.bz^
+# Xcodespy - https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/
 ||www.liveupdate.cc^
 ||www.recentnews.cc^
 ||www.truckrental.cc^
@@ -741,11 +808,14 @@ update-dre.platform.hicloud.com
 ||www.suppro.co^
 ||wcf.seven1029.com^
 ||foodin.site^
+# Trojan.AndroidOS.Triada.ef b1aa5d5bf39fee0b1e201d835e4dc8de
 ||t1k22.c8xwor.com^
 ||dgmxn.c8xwor.com^
+# Tutela technologies - f9db002cbc6e5b6de37fb15aefaaf3934a700a7a2f9d5949f3cd6bb8c7dfc1bc - org.speedspot.speedanalytics
 ||reporting.tutelatechnologies.com^
 ||video-url.tutelatechnologies.com^
 ||d3clybje3sun07.cloudfront.net^
+# speedspot - reports GPS location, other data - SpeedtestResultViews.java - inside f9db002cbc6e5b6de37fb15aefaaf3934a700a7a2f9d5949f3cd6bb8c7dfc1bc
 ||api.speedspot.org^
 ||www.speedcheck.org^
 ||net.etrality.com^
@@ -783,12 +853,15 @@ update-dre.platform.hicloud.com
 ||vaicore.xyz^
 ||web.ab-salute.com^
 ||smart.link^
+# Adeco and inappertising - see https://www.occrp.org/en/investigations/how-a-russian-mobile-app-developer-recruited-phones-into-a-secret-ad-watching-robot-army
+# Ultimate-Mortal-Kombat-3-v1-1.apk - https://www.virustotal.com/gui/file/dc078b004830ff03a27371bbc1c4a7b5882d5a0fb577a8477c09e8b3bfe0d6d3/details
 ||cfg.inappertising.org^
 ||stats.inappertising.org^
 ||app-stats.net2share.com^
 ||s.net2share.com^
 ||adeco.adecosystems.com^
 ||dd.adecosystems.com^
+# GriftHorse Android from - https://blog.zimperium.com/grifthorse-android-trojan-steals-millions-from-over-10-million-victims-globally/
 ||hotofecro.com^
 ||alaiblompass.com^
 ||heartratteandpulsetracker.com^
@@ -947,7 +1020,9 @@ update-dre.platform.hicloud.com
 ||heartrhythm.club^
 ||easybassbooster.club^
 ||comphotolab.club^
+# GriftHorse Second-Stage Domain
 ||678ikmbtui.com^
+# GriftHorse Third-Stage Domains
 ||safe-link.mobi^
 ||at.gogameportal.club^
 ||activate-your-account-now.com^
@@ -971,6 +1046,7 @@ update-dre.platform.hicloud.com
 ||wap.trend-tech.net^
 ||fr.chillaxgames.mobi^
 ||tracking.hexilo.com^
+# Suspected GriftHorse from pDNS 	185.255.179.131 / 185.255.179.132 ->
 ||1g7kvrv.xyz^
 ||2fnoqifq.com^
 ||2g8cvdii.com^
@@ -1028,6 +1104,7 @@ update-dre.platform.hicloud.com
 ||w9x7itu.xyz^
 ||y0vvbm.xyz^
 ||yq0z3d.xyz^
+# TangleBot domains, research based on - https://www.cloudmark.com/en/blog/mobile/tanglebot-new-advanced-sms-malware-targets-mobile-users-across-us-and-canada-covid-19
 ||covid19-ca.link^
 ||hydro-ca.link^
 ||sock.godforgiveuss.live^
@@ -1064,6 +1141,8 @@ update-dre.platform.hicloud.com
 ||join.officeframe.work^
 ||zumba.tampotrust.agency^
 ||image.loadingmessage.info^
+# Crashlytics
+# Uncatagorized
 ||ads.twitter.com^
 ||events.appsflyer.com^
 ||stats.appsflyer.com^
@@ -1094,16 +1173,25 @@ update-dre.platform.hicloud.com
 ||dev.appboy.com^
 ||appspot-preview.l.google.com^
 ||utraffic.engine.adglare.net^
+# Google
 ||www.googleadservices.com^
 ||ssl.google-analytics.com^
 ||adservice.google.de^
 ||ade.googlesyndication.com^
 ||id.google.de^
+# Apple
+# Huawei
+# Snapchat ads and tracking
+# gcs.sc-cdn.net # needed to send snaps
 ||adserver.snapads.com^
+# Whatsapp
 ||crashlogs.whatsapp.net^
+# Quizduell
 ||rt.applovin.com^
 ||applvn.com^
+# Leanplum
 ||leanplum.com^
+# random advertisers and telemetry traffic
 ||locus.analytics.cloud.com^
 ||suggestqueries.google.com^
 ||analytics.plex.tv^
@@ -1130,6 +1218,11 @@ update-dre.platform.hicloud.com
 ||appodealx.com^
 ||searchpowerads.com^
 ||searchpowerplus.com^
+!
+!
+# commented out if it breaks App Store front page load and searching apps 
+# downloads cdn.apple.com and appleid signin domains removed
+# push-apple.com.akadns.net subdomains maybe blocked but need whitelisting if app install or updates fail
 ||0.courier-push-apple.com.akadns.net^
 ||10.courier-push-apple.com.akadns.net^
 ||10.courier-sandbox-push-apple.com.akadns.net^
@@ -1248,6 +1341,7 @@ update-dre.platform.hicloud.com
 ||a1985.g1.akamai.net^
 ||a1992.r.akamai.net^
 ||a1.da1.akamai.net^
+# a1.mzstatic.com
 ||a221.g.akamai.net^
 ||a234.w5.akamai.net^
 ||a239.da1.akamai.net^
@@ -1257,6 +1351,7 @@ update-dre.platform.hicloud.com
 ||a297.c.akamai.net^
 ||a297.dscc.akamai.net^
 ||a2.da1.akamai.net^
+# a2.mzstatic.com
 ||a301.dscw62d.akamai.net^
 ||a325.w10.akamai.net^
 ||a337.w7.akamai.net^
@@ -1265,9 +1360,11 @@ update-dre.platform.hicloud.com
 ||a364.w10.akamai.net^
 ||a398.d.akamai.net^
 ||a3.da1.akamai.net^
+# a3.mzstatic.com
 ||a471.w13.akamai.net^
 ||a479.g.akamai.net^
 ||a4.da1.akamai.net^
+# a4.mzstatic.com
 ||a506.phobos.g.aaplimg.com^
 ||a511.g.akamai.net^
 ||a539.g1.akamai.net^
@@ -1276,6 +1373,7 @@ update-dre.platform.hicloud.com
 ||a56.dscc.akamai.net^
 ||a578.g.akamai.net^
 ||a5.da1.akamai.net^
+# a5.mzstatic.com
 ||a631.w23.akamai.net^
 ||a653.g1.akamai.net^
 ||a682.phobos.g.aaplimg.com^
@@ -1292,6 +1390,7 @@ update-dre.platform.hicloud.com
 ||a948.ga.akamai.net^
 ||a968.g1.akamai.net^
 ||a975.g.akamai.net^
+# accertify.mzstatic.com
 ||albert.gcsis-apple.com.akadns.net^
 ||any-appleweather-cache.internal.query.a03.yahoodns.net^
 ||aod.itunes.g.aaplimg.com^
@@ -1307,7 +1406,13 @@ update-dre.platform.hicloud.com
 ||appleweather-cache.internal.query.g03.yahoodns.net^
 ||apps.itunes-nocookie.com^
 ||apps-mzstatic-cdn.itunes-apple.com.akadns.net^
+# apps.mzstatic.com
 ||apptrailers.itunes.g.aaplimg.com^
+# b1.mzstatic.com
+# b2.mzstatic.com
+# b3.mzstatic.com
+# b4.mzstatic.com
+# b5.mzstatic.com
 ||bn2-client-s.msnmessenger.msn.com.akadns.net^
 ||buy.itunes-apple.com.akadns.net^
 ||caldav.fe.apple-dns.net^
@@ -1339,6 +1444,7 @@ update-dre.platform.hicloud.com
 ||fmipmobile.icloud.com^
 ||fr51p02sa.guzzoni-apple.com.akadns.net^
 ||gateway.fe.apple-dns.net^
+# gateway.icloud.com
 ||gblon.ce.apple-dns.net^
 ||gbman.ce.apple-dns.net^
 ||gdcrl.godaddy.com.akadns.net^
@@ -1390,6 +1496,7 @@ update-dre.platform.hicloud.com
 ||mt-ingestion-service-pv.itunes-apple.com.akadns.net^
 ||mt-ingestion-service-st11.itunes-apple.com.akadns.net^
 ||mu21p02sa.guzzoni-apple.com.akadns.net^
+# mzstatic.com
 ||mzuserxp.itunes-apple.com.akadns.net^
 ||nc-pod1-smp-device.gcsis-apple.com.akadns.net^
 ||ns.itunes-apple.com.akadns.net^
@@ -1757,6 +1864,11 @@ update-dre.platform.hicloud.com
 ||query.ess-apple.com.akadns.net^
 ||quota.fe.apple-dns.net^
 ||radarsubmissions.apple.com.akadns.net^
+# s1.mzstatic.com
+# s2.mzstatic.com
+# s3.mzstatic.com
+# s4.mzstatic.com
+# s5.mzstatic.com
 ||sandbox.itunes-apple.com.akadns.net^
 ||se-applak.itunes-apple.com.akadns.net^
 ||searn.ce.apple-dns.net^
@@ -1766,6 +1878,7 @@ update-dre.platform.hicloud.com
 ||silverbullet-external-ats.itunes-apple.com.akadns.net^
 ||sjc-courier.push-apple.com.akadns.net^
 ||s-mzstatic-applak.itunes-apple.com.akadns.net^
+# s.mzstatic.com
 ||sp11p03sa.guzzoni-apple.com.akadns.net^
 ||sp.itunes-apple.com.akadns.net^
 ||static.gc.apple.com.edgekey.net^
@@ -1789,6 +1902,7 @@ update-dre.platform.hicloud.com
 ||store-021-failover2.blobstore-apple.com.akadns.net^
 ||store-022-failover2.blobstore-apple.com.akadns.net^
 ||store-023-failover2.blobstore-apple.com.akadns.net^
+# store.mzstatic.com
 ||streamingaudio.g.aaplimg.com^
 ||su-applak.itunes-apple.com.akadns.net^
 ||tbsc.apple.com.akadns.net^
@@ -1815,22 +1929,38 @@ update-dre.platform.hicloud.com
 ||client-telemetry.roblox.com^
 ||app.adjust.world^
 ||app.adjust.net.in^
+# adobe
+# adobe.com
 ||genuine.adobe.com^
 ||adobegenuine.com^
 ||armmf.adobe.com^
+# imrworldwide ads or cdn unsure caution
 ||secure-dcr.imrworldwide.com^
+# samsung phone home 3am
 ||fota-cloud-dn.ospserver.net^
+# app measurement or api not needed maybe
+# other google shit and firebase for apps
+# ads supersonic
 outcome-ssp.supersonicads.com 
 pm-gateway.supersonicads.com 
+# hicloud phone home huawei fkoff
 ||servicesupport.hicloud.co^
+# dodgby bank cloud china
+# app shit
+# swift key telemetry
 ||telemetry.api.swiftkey.com^
+# mcaffee mobile cleaning up or telemetry - no thanks
 ||mvconf.cloud.360safe.com^
 ||mclean.cloud.360safe.com^
+# not verified
 ||fn.gg^
+# nzherald.co.nz ads and tracking
 ||nzme-ads.co.nz^
 ||advertising.nzme.co.nz^
 ||insights.nzherald.co.nz^
 lefrontend.nzmelistings.co.nz	
+# www.oneroof.co.nz
+# oneroof.co.nz
 targeting.nzme.arcpublishing.com	
 ||arcpublishing.com^
 ||images-home.com^
@@ -1838,19 +1968,26 @@ targeting.nzme.arcpublishing.com
 ||adservice.google.com^
 ||www.googletagservices.com^
 ||dai.google.com^
+# 3rd party links and app advertisers
 ||www.neighbourly.co.nz^
 ||adcolony.com^
 ||adcolony.xyz^
+# deep chain links 
 ||trafficjunky.net^
 ||as.2020mustang.com^
 ||c2shb.ssp.yahoo.com^
+# BeOp Endpoints. They asked for this not to be blocked in Issue #1 of blocklists - CAS in progress for next 3 lines.
 contents.beop.io 
 ||contents-tracking.beop.io^
 ||t.beop.io^
+# BeOps Endpoints to absolutely block
 ||ads.beop.io^
 ||ads-tracking.beop.io^
 ||s.beop.io^
+# edgedl.me.gvt1.com # Edge download via gvt1 - TBC category/purpose.
 
+!
+!
 ||ichnaea.netflix.com^
 ||beacon.netflix.com^
 ||dockhand.netflix.com^
@@ -1861,6 +1998,8 @@ contents.beop.io
 ||nrdp-ipv6.prod.ftl.netflix.com^
 
 
+!
+!
 ||firefox.settings.services.mozilla.com^
 ||autopush.prod.mozaws.net^
 ||incoming.telemetry.mozilla.org^
@@ -1885,9 +2024,15 @@ contents.beop.io
 ||thetake.ai^
 
 
+# Title: Smart-TV Blocklist for Pi-hole
+# Version: 15December2021v1
+# Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
+# Please help with collecting domains!
+# It could occur that the TV fails to receive new updates, or that other apps or services no longer work. Please report such an incident.
 
 
 
+# Panasonic Viera & panny tv
 ||0077777700140002.myhomescreen.tv^
 ||cert-test.sandbox.google.com^
 
@@ -1937,6 +2082,7 @@ contents.beop.io
 ||api.cid.samba.tv^
 ||preferences.cid.samba.tv^
 
+# LG
 ||ad.lgappstv.com^
 ||ibis.lgappstv.com^
 ||jp.rdx2.lgtvsdp.com^
@@ -1956,6 +2102,7 @@ contents.beop.io
 ||nettv.corio.com^
 ||ad.nettvservices.com^
 
+# Samsung
 ||api-hub.samsungyosemite.com^
 ||az43064.vo.msecnd.net^
 ||d179kwmlpc4o47.cloudfront.net^
@@ -1988,6 +2135,7 @@ contents.beop.io
 ||ads.aimitv.com^
 ||samsungads.com^
 
+# Roku
 ||scribe.logs.roku.com^
 ||midland.logs.roku.com^
 ||austin.logs.roku.com^
@@ -1995,6 +2143,7 @@ contents.beop.io
 ||liberty.logs.roku.com^
 ||ravm.tv^
 
+# HBBTV
 ||hbbtv-extern-fe01.sim-technik.de^
 ||hbbtv-track.redbutton.de^
 ||hbbtv.kabeleins.de^
@@ -2008,6 +2157,7 @@ contents.beop.io
 ||p-hbbtv.superrtl.de^
 ||hbbtv.3sat.de^
 
+# Other useless connections from Smart-TV
 ||2mdn.net^
 ||ad.71i.de^
 ||adv.ettoday.net^
@@ -2025,9 +2175,14 @@ contents.beop.io
 ||tv-static.scdn.co^
 ||xml.opera.com^
 
+# Hulu
 ||api.distribution.hulu.com^
 
+# Sharp Smart TV using Opera OS (thanks to sml156)
+# time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
+# api.accuweather.com                  # probably not a good idea to block this one
 
+# Hisense Smart TV
 ||api-gps-em.hismarttv.com^
 ||auth-em.hismarttv.com^
 ||msg-em.hismarttv.com^
@@ -2039,6 +2194,7 @@ contents.beop.io
 ||api-launcher-na.hismarttv.com^
 ||auth-launcher-na.hismarttv.com^
 ||unified-ter-na.hismarttv.com^
+# These may be needed for software/firmware updates, not sure if it's one or both but the first one tries thousands of times a day to connect.
 ||api.us.hismarttv.com^
 ||api.euro.hismarttv.com^
 ||managed.xmpp.foxtel.com.au^
@@ -2046,15 +2202,21 @@ contents.beop.io
 ||e2.resources.foxtel.com.au^
 ||a1.resources.foxtel.com.au^
 
+# Toshiba
 ||events.cid.samba.tv^
 ||platform.cid.samba.tv^
 ||7345023508.fxm9485766783.com^
 
+# Xioami Mi TV
 ||sdkconfig.ad.intl.xiaomi.com^
 ||tvx.adgrx.com^
 
+# Xioami Mi TV
 
+# Android TV (including Nvidia Shield TV)
 
+!
+!
 ||device-messaging-na.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
 ||fls-eu.amazon.com^
@@ -2067,6 +2229,7 @@ contents.beop.io
 ||msh.amazon.co.uk^
 ||d3p8zr0ffa9t17.cloudfront.net^
 
+# third party
 ||secure-eu.imrworldwide.com^
 ||logs1409.xiti.com^
 ||tracksrv.zdf.de^
