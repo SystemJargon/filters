@@ -1,66 +1,49 @@
 ## About
 
-A repo in a series of filters from original and aggregated sources. To be used with an AdGuard or EasyList Adblocker.
+This Repo is scheduled to automatically update (and it's lists) at least every 24 hours.
+
+Lists are to be used with an adblocker solution which supports the "adguard" list format, an example: [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 
 
-Automate/schedule (cron) a workflow of the many adlists, security lists, telemetry, annoyance lists etc. via <b>Aggregation</b>.
-
-Lists are defined in this repo in the source directory. Each list then defined in a JSON file.
-
-
-### Status
+### Repo Status
 
 [![Update File](https://github.com/SystemJargon/filters/actions/workflows/main.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/main.yml) [![HitCount](https://hits.dwyl.com/systemjargon/filters.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/filters) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![GitHub stars](https://img.shields.io/github/forks/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![GitHub stars](https://img.shields.io/github/issues/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![last commit](https://img.shields.io/github/last-commit/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master) [![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master)
 
 ----
 
-## Using the files in your Adblock solution.
 
-Use the RAW files linked below of this repo's [README.md](README.md) file in your AdGuard/Adblock solution. 
+Use the RAW files [linked](#the-lists) below this [README](https://github.com/SystemJargon/filters/README.md) file in your AdGuard/Adblock solution. 
 
-All lists (so the lines within) will have compression, syntax validated and deduplicated. Some may comments stripped.
+Notes:
 
-This is mostly to ensure file sizes (plus download/update times) are managable and future scalable.
+* Some lists are defined as a blocklist or some an allowlist. Each list has a description or purpose for what it does, i.e allow, block telemetry.
 
-Some of the lists are aggregated across various sources from others. 
-Some are from my [blocklists](https://github.com/systemjargon/blocklists) or [allowlists](https://github.com/systemjargon/allowlists)  repo.
+* All lists (so the lines within) will have syntax validated and be de-duplicated. Some may have comments stripped. This is mostly to ensure file sizes (plus download/update times) are managable and future scalable. I may create releases to make this point mentioned, easier.
 
-You can check my aggregation of sources used in this repo [here](https://github.com/SystemJargon/filters/tree/main/source). Each txt list has a corresponding named JSON file.
+* You can check my aggregation of sources used in this repo [here](https://github.com/SystemJargon/filters/tree/main/source). Each txt list has a corresponding named JSON file.
+
+<!-- The aggregation of some lists are from my [blocklists](https://github.com/systemjargon/blocklists) or [allowlists](https://github.com/systemjargon/allowlists) repositories. -->
+
 
 ----
 
-## RAW lists links - (add to your Adblocker)
-
-Allowlist for AdGuard/AdGuardHome
-
-[Allowlist](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) 
+## The Lists
 
 Source lists usually only contain the basic subdomain/s to make the site/app/service function, not allow ads/telemetry etc.
 
+| List Name & Github Link | List Name & RAW/Download) | Purpose/About |
+| ---- | ---- | ---- |
+| 📄   [Allowlist](allowlist.txt) | [Allowlist](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites | 
+| ---- |
+| 🚫   [Core list](core.txt) | [Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | Blocklist core aggregated lists of StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists |
+| 🚫   [Porn list](porn.txt) | [Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) | Blocklist well beyond 1 million entries across several lists for porn. |
+| 🚫   [Security list](security.txt) | [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) | Blocklist fitting into Anti phishing/scam/coinminer/malware/bad reputation categories|
+| 🚫   [Telemetry list](telemetry.txt) | [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) | Big custom blocklist for Telemetry via SmartTV, Amazon, Windows, Android, iOS and additional Firebog telemetry lists. |
+| 🚫   [Advertising list](ads.txt) | [Advertising list](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) | Blocklist which is some of my own and aggregated popular adlists across Github and other places.|
+| 🚫   [FireBog Ticklist](firebog-ticklist.txt) | [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) | The blocklists which feature on the [Firebog ticklist here](https://v.firebog.net/hosts/lists.php?type=tick)
 ----
 
-Blocklists
 
-[Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) - RECOMMENDED - BIG - StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists
+Feel free to 🌟/star the repo.
 
-[Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) - BIG - well beyond 1.5 million entries across several lists. * as of this commit - may change.
-
-[Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) - Anti phishing/scam/coinminer/malware/bad reputation
-
-[Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) - SmartTV, Amazon, Windows, Android, iOS. Includes also Firebog telemetry lists and others.
-
-[Advertising list](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) - Popular adlists across Github and other places.
-
-[FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) - Lists located [here](https://v.firebog.net/hosts/lists.php?type=tick)
-
-----
-
-## Notes
-
-I have other repos around blocklists, allowlists, pi-hole, adguardhome and more if you're interested.
-
-I won't re-aggregate ALL of StevenBlack's lists into one list - they are too big to combine.
-
-<i>There maybe some crossover duplicates on the Firebog ticklist and the lists above, that is due to Firebog sometimes changes what is on the ticklists.</i>
-
-Star the repo if you like it!
+Raise any issues or requests [here](https://github.com/SystemJargon/filters/issues/new/choose) 
