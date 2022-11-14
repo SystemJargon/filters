@@ -7,7 +7,10 @@ Lists are to be used with an adblocker solution which supports the "adguard" lis
 
 ### Repo Status
 
-[![Update File](https://github.com/SystemJargon/filters/actions/workflows/main.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/main.yml) [![HitCount](https://hits.dwyl.com/systemjargon/filters.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/filters) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![GitHub stars](https://img.shields.io/github/forks/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![GitHub stars](https://img.shields.io/github/issues/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![last commit](https://img.shields.io/github/last-commit/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master) [![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master)
+[![Workflow](https://github.com/SystemJargon/filters/actions/workflows/main.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/main.yml) 
+[![HitCount](https://hits.dwyl.com/systemjargon/filters.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/filters) 
+[![GitHub stars](https://img.shields.io/github/stars/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![GitHub forks](https://img.shields.io/github/forks/systemjargon/filters)](https://github.com/systemjargon/filters/network/members) [![Issues](https://img.shields.io/github/issues/systemjargon/filters)](https://github.com/SystemJargon/filters/issues) 
+[![last commit](https://img.shields.io/github/last-commit/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master) [![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master) ![GitHub repo size](https://img.shields.io/github/repo-size/systemjargon/filters)
 
 ----
 
