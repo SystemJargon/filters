@@ -1,6 +1,6 @@
 !
-! Title: Allowlist for Filters Repo
-! Last modified: 2022-11-16T00:44:58.003Z
+! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
+! Last modified: 2022-11-16T20:19:07.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -50,6 +50,7 @@ cse.google.com
 ctldl.windowsupdate.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
+dashboard.plex.tv
 dataplicity.com
 def-vef.xboxlive.com
 delivery.vidible.tv
@@ -104,10 +105,14 @@ msftncsi.com
 my.plexapp.com
 nexusrules.officeapps.live.com
 npr-news.streaming.adswizz.com
+nine.plugins.plexapp.com
 no-ip.com
+node.plexapp.com
 notify.xboxlive.com
 ns1.dropbox.com
 ns2.dropbox.com
+o1.email.plex.tv
+o2.sg0.plex.tv
 ocsp.apple.com
 office.com
 office.net
@@ -123,14 +128,18 @@ players.brightcove.net
 pricelist.skype.com
 products.office.com
 proxy.plex.bz
+proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
+pubsub.plex.tv
 redirector.googlevideo.com
 res.cloudinary.com
 s.gateway.messenger.live.com
 s.marketwatch.com
+s.youtube.com
 s.ytimg.com
 s1.wp.com
+s2.youtube.com
 s3.amazonaws.com
 sa.symcb.com
 secure.avangate.com
@@ -138,7 +147,10 @@ secure.brightcove.com
 secure.surveymonkey.com
 services.sonarr.tv
 skyhook.sonarr.tv
+spclient.wg.spotify.com
 ssl.p.jwpcdn.com
+staging.plex.tv
+status.plex.tv
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tawk.to
@@ -149,6 +161,8 @@ tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 traffic.libsyn.com
+tvdb2.plex.tv
+tvthemes.plexapp.com
 twimg.com
 ui.skype.com
 video-stats.l.google.com
@@ -161,12 +175,14 @@ www.dataplicity.com
 www.googleapis.com
 www.msftncsi.com
 www.no-ip.com
+www.youtube-nocookie.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
 youtu.be
+youtube-nocookie.com
 yt3.ggpht.com
 zee.cws.conviva.com
 pings.conviva.com
@@ -179,29 +195,13 @@ continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
-@@||support.apple.com^$important
-@@||apps.apple.com^$important
-@@||www.apple.com^$important
-@@||help.apple.com^$important
-@@||gateway.icloud.com^$important
-@@||ocsp2.apple.com^$important
-@@||time.apple.com^$important
-@@||cdn-apple.com^$important
-@@||cdn.apple.com$important
-@@||push-apple.akadns.net^$important
-@@||configuration.apple.com.akadns.net^$important
-@@||buy.itunes-apple.com.akadns.net^$important
-@@||bag.itunes.apple.com^$important
-@@||inappcheck.itunes.apple.com^$important
-@@||play.itunes.apple.com^$important
-@@||xp.apple.com^$important
-@@||buy.itunes.apple.com^$important
 
 !
-! Source name: Developer sites
-! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-manage-core.txt
+! Source name: List sites
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-domains.txt
 !
 # for lists we use and development purposes.
+# domains would host lists for blocklist allowlist or likewise.
 github.com
 github.dev
 githubusercontent.com
@@ -233,102 +233,3 @@ cms.souqcdn.com
 api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
-!
-! Source name: Netflix
-! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/netflix.txt
-!
-# netflix allowlist
-netflix.com
-nflxext.com
-nflximg.com
-nflximg.net
-nflxso.net
-nflxvideo.net
-www.netflix.com
-www.nflxext.com
-www.nflximg.com
-www.nflximg.net
-www.nflxso.net
-www.nflxvideo.net
-nrdp.prod.ftl.netflix.com
-# ichnaea.netflix.com # known tracker do not allow
-# api-global.netflix.com # test whether actually needed or not
-# appboot.netflix.com # test whether actually needed or not
-# secure.netflix.com # test whether actually needed or not
-# amazonaws.com # allow as may break mozilla or browsers with netflix-user-profile-pin
-
-!
-! Source name: Plex
-! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/plex.txt
-!
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-app.plex.tv
-dashboard.plex.tv
-downloads.plex.tv
-nine.plugins.plexapp.com
-node.plexapp.com
-o1.email.plex.tv
-o2.sg0.plex.tv
-plex.direct
-!plex.tv # not allowing global domain, list more subdomains to allow instead.
-plex.tv.cdn.cloudflare.net
-plexapp.com
-plexapp.com.cdn.cloudflare.net
-podcasts.provider.plex.tv
-proxy.plex.tv
-pubsub.plex.tv
-resources-cdn.plexapp.com
-staging.plex.tv
-status.plex.tv
-tvdb2.plex.tv
-tvthemes.plexapp.com
-tvthemes.plexapp.com.cdn.cloudflare.net
-vod.provider.plex.tv
-webshows.provider.plex.tv
-www.plex.direct
-www.plex.tv
-www.plexapp.com
-apresolve.spotify.com
-audio-ak-spotify-com.akamaized.net
-audio-ake.spotify.com.edgesuite.net
-audio-akp-bbr-spotify-com.akamaized.net
-audio4-ak-spotify-com.akamaized.net
-audio4-fa.scdn.co
-heads-ak-spotify-com.akamaized.net
-i.scdn.co
-mobile-ap.spotify.com
-pscdn.co
-scdn.co
-spclient.wg.spotify.com
-spotify-com.akamaized.net
-!spotify.com # not allow global domain. provide more subdomains to allow.
-spotify.com.edgesuite.net
-spotify.demdex.net
-spotify.edgekey.net
-spotify.map.fastly.net
-spotifycdn.net
-www.pscdn.co
-www.scdn.co
-www.spotify.com
-www.spotifycdn.net
-
-!
-! Source name: Youtube
-! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/youtube.txt
-!
-# youtube
-accounts.youtube.com
-img.youtube.com
-m.youtube.com
-music.youtube.com
-s.youtube.com
-s2.youtube.com
-tv.youtube.com
-www.youtube-nocookie.com
-www.youtube.com
-www.youtubekids.com
-youtube-dl.org
-youtube-nocookie.com
-youtube-ui.l.google.com
-youtubei.googleapis.com
-! googlevideo.com # may include in-video ads within the CDN / content. Do not allow global domain

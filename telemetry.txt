@@ -1,6 +1,6 @@
 !
-! Title: Telemetry Lists
-! Last modified: 2022-11-16T00:42:26.645Z
+! Title: Telemetry Lists - Aggregated by github.com/systemjargon
+! Last modified: 2022-11-16T20:16:24.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -20,11 +20,14 @@
 ||ads.msn.com^
 ||ads1.msads.net^
 ||ads1.msn.com^
+||aidps.atdmt.com^
 ||aka-cdn-ns.adtech.de^
 ||apac1.notify.windows.com.akadns.net^
 ||api.cortana.ai^
+||asimov-win.settings.data.microsoft.com.akadns.net^
 ||azwancan.trafficmanager.net^
 ||b.ads2.msads.net^
+||bingads.microsoft.com^
 ||bn2-ris-ap-prod-atm.trafficmanager.net^
 ||bn2-ris-prod-atm.trafficmanager.net^
 ||bn2wns1.wns.windows.com^
@@ -65,9 +68,12 @@
 ||bn4sch101123110.wns.windows.com^
 ||bn4sch101123202.wns.windows.com^
 ||bn4sch102110124.wns.windows.com^
+||browser.pipe.aria.microsoft.com^
 ||bs.serving-sys.com^
+||c.atdmt.com^
 ||c.msn.com^
 ||cache.datamart.windows.com^
+||cdn.atdmt.com^
 ||cds10.stn.llnw.net^
 ||cds1203.lon.llnw.net^
 ||cds1204.lon.llnw.net^
@@ -179,10 +185,13 @@
 ||controlads.msn.com^
 ||controlads1.msads.net^
 ||controlads1.msn.com^
+||controlaidps.atdmt.com^
 ||controlaka-cdn-ns.adtech.de^
 ||controlapac1.notify.windows.com.akadns.net^
 ||controlapi.cortana.ai^
+||controlasimov-win.settings.data.microsoft.com.akadns.net^
 ||controlb.ads2.msads.net^
+||controlbingads.microsoft.com^
 ||controlbn2wns1.wns.windows.com^
 ||controlbn3sch020010558.wns.windows.com^
 ||controlbn3sch020010560.wns.windows.com^
@@ -222,8 +231,10 @@
 ||controlbn4sch101123202.wns.windows.com^
 ||controlbn4sch102110124.wns.windows.com^
 ||controlbs.serving-sys.com^
+||controlc.atdmt.com^
 ||controlc.msn.com^
 ||controlcache.datamart.windows.com^
+||controlcdn.atdmt.com^
 ||controlcds10.stn.llnw.net^
 ||controlcds1203.lon.llnw.net^
 ||controlcds1204.lon.llnw.net^
@@ -322,11 +333,25 @@
 ||controlcds868.lon.llnw.net^
 ||controlcds869.lon.llnw.net^
 ||controlcompatexchange1.trafficmanager.net^
+||controlcorp.sts.microsoft.com^
+||controlcorpext.msitadfs.glbdns2.microsoft.com^
 ||controlcs1.wpc.v0cdn.net^
+||controlcy2.vortex.data.microsoft.com.akadns.net^
+||controldb5-eap.settings-win.data.microsoft.com.akadns.net^
+||controldb5.settings-win.data.microsoft.com.akadns.net^
+||controldb5.settings.data.microsoft.com.akadns.net^
+||controldb5.vortex.data.microsoft.com.akadns.net^
+||controldiagnostics.support.microsoft.com^
+||controlec.atdmt.com^
+||controlevents.data.microsoft.com^
 ||controlflex.msn.com^
 ||controlg.msn.com^
+||controlgeo.settings-win.data.microsoft.com.akadns.net^
+||controlgeo.settings.data.microsoft.com.akadns.net^
+||controlgeo.vortex.data.microsoft.com.akadns.net^
 ||controlh1.msn.com^
 ||controlh2.msn.com^
+||controlhk2.settings.data.microsoft.com.akadns.net^
 ||controlhk2.wns.windows.com^
 ||controlhk2sch130020721.wns.windows.com^
 ||controlhk2sch130020723.wns.windows.com^
@@ -404,25 +429,65 @@
 ||controlhk2wns1b.wns.windows.com^
 ||controllb1.www.ms.akadns.net^
 ||controllive.rads.msn.com^
+||controlmobile.pipe.aria.microsoft.com^
+||controlmodern.watson.data.microsoft.com.akadns.net^
 ||controlmsedge.net^
 ||controlmsntest.serving-sys.com^
 ||controlonecollector.cloudapp.aria.akadns.net^
+||controlpre.footprintpredict.com^
 ||controlpreview.msn.com^
 ||controlrad.msn.com^
+||controlredir.metaservices.microsoft.com^
 ||controlschemas.microsoft.akadns.net^
 ||controlsecure.flashtalking.com^
+||controlsettings-sandbox.data.microsoft.com^
+||controlsettings-win-ppe.data.microsoft.com^
+||controlsettings.data.glbdns2.microsoft.com^
 ||controlsg2p.wns.windows.com^
+||controlspynet2.microsoft.com^
+||controlspynetalt.microsoft.com^
 ||controlspyneteurope.microsoft.akadns.net^
+||controlsqm.telemetry.microsoft.com.nsatc.net^
 ||controltele.trafficmanager.net^
 ||controltelemetry.appex.bing.net^
+||controltelemetry.microsoft.com^
 ||controltelemetry.remoteapp.windowsazure.com^
+||controltelemetry.urs.microsoft.com^
+||controlteredo.ipv6.microsoft.com^
+||controlv10-win.vortex.data.microsoft.com.akadns.net^
+||controlview.atdmt.com^
+||controlvortex-sandbox.data.microsoft.com^
+||controlvortex-win-sandbox.data.microsoft.com^
+||controlvortex-win.data.microsoft.com^
+||controlvortex.data.glbdns2.microsoft.com^
+||controlvortex.data.microsoft.com^
+||controlwatson.microsoft.com^
+||controlwin1710.ipv6.microsoft.com^
+||controlwin8.ipv6.microsoft.com^
+||corp.sts.microsoft.com^
+||corpext.msitadfs.glbdns2.microsoft.com^
+||cs.dds.microsoft.com^
 ||cs1.wpc.v0cdn.net^
+||cy2.vortex.data.microsoft.com.akadns.net^
+||db3aqu.atdmt.com^
+||db5-eap.settings-win.data.microsoft.com.akadns.net^
+||db5.settings-win.data.microsoft.com.akadns.net^
+||db5.settings.data.microsoft.com.akadns.net^
+||db5.vortex.data.microsoft.com.akadns.net^
+||diagnostics.support.microsoft.com^
 ||eaus2watcab01.blob.core.windows.net^
 ||eaus2watcab02.blob.core.windows.net^
+||ec.atdmt.com^
+||events-sandbox.data.microsoft.com^
+||events.data.microsoft.com^
 ||flex.msn.com^
 ||g.msn.com^
+||geo.settings-win.data.microsoft.com.akadns.net^
+||geo.settings.data.microsoft.com.akadns.net^
+||geo.vortex.data.microsoft.com.akadns.net^
 ||h1.msn.com^
 ||h2.msn.com^
+||hk2.settings.data.microsoft.com.akadns.net^
 ||hk2.wns.windows.com^
 ||hk2sch130020721.wns.windows.com^
 ||hk2sch130020723.wns.windows.com^
@@ -498,29 +563,56 @@
 ||hk2sch130022135.wns.windows.com^
 ||hk2wns1.wns.windows.com^
 ||hk2wns1b.wns.windows.com^
+||ieonlinews.microsoft.com^
 ||ieonlinews.trafficmanager.net^
 ||in.appcenter.ms^
 ||insideruser.trafficmanager.net^
 ||lb1.www.ms.akadns.net^
 ||live.rads.msn.com^
+||mobile.pipe.aria.microsoft.com^
+||modern.watson.data.microsoft.com.akadns.net^
 ||msedge.net^
 ||msntest.serving-sys.com^
+oca.telemetry.microsoft.com 
 ||onecollector.cloudapp.aria.akadns.net^
 ||par02p.wns.windows.com^
 ||pipe.dev.trafficmanager.net^
+||pre.footprintpredict.com^
 ||preview.msn.com^
 ||rad.msn.com^
+||redir.metaservices.microsoft.com^
 ||schemas.microsoft.akadns.net^
 ||secure.flashtalking.com^
+||settings-sandbox.data.microsoft.com^
+||settings-win-ppe.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||settings.data.glbdns2.microsoft.com^
 ||settingsfd-geo.trafficmanager.net^
 ||sg2p.wns.windows.com^
+||spynet2.microsoft.com^
+||spynetalt.microsoft.com^
 ||spyneteurope.microsoft.akadns.net^
+||sqm.telemetry.microsoft.com.nsatc.net^
 ||tele.trafficmanager.net^
 ||telemetry.appex.bing.net^
+||telemetry.microsoft.com^
 ||telemetry.remoteapp.windowsazure.com^
+||telemetry.urs.microsoft.com^
+||teredo.ipv6.microsoft.com^
 ||uks.b.prd.ags.trafficmanager.net^
+||v10-win.vortex.data.microsoft.com.akadns.net^
+||view.atdmt.com^
+||vortex-sandbox.data.microsoft.com^
+||vortex-win-sandbox.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||vortex.data.glbdns2.microsoft.com^
+||vortex.data.microsoft.com^
+||watson.microsoft.com^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
+||win1710.ipv6.microsoft.com^
+||win8.ipv6.microsoft.com^
+||ztd.dds.microsoft.com^
 sportdata-dre.things.hicloud.com 
 update-dre.platform.hicloud.com 
 ||dbankcdn.com^
@@ -581,6 +673,7 @@ update-dre.platform.hicloud.com
 ||survey-notify-event.sense360eng.com^
 ||quinoa-personal-identify-prod.sense360eng.com^
 # appmeasurement - cb9b9de8616e55849b9140e7915b2ba237818625828acfa55b59f5268f589e91 - com.kellytechnology.Forecast_Now
+||app-measurement.com^
 # newrelic - 2d4c9c037db43704f52968c9c363cbdf382cbb6a4b9143825f6e8b523b7c0c01 - com.crowdcompass.appmQaIam3e7C.apk
 ||mobile-collector.newrelic.com^
 ||mobile-crash.newrelic.com^
@@ -597,6 +690,7 @@ update-dre.platform.hicloud.com
 ||sa.api.rus.miui.com^
 # new xmodesocial - from https://mobile.twitter.com/guardianiosapp/status/1262545645941874689
 ||api.myendpoint.io^
+# aggressive advertisers - https://securelist.com/in-app-advertising-in-android/97065/
 # 1eeda6306a2b12f78902a1bc0b7a7961 – com.android.ggtoolkit_tw_xd
 # 134283b8efedc3d7244ba1b3a52e4a92  – com.xprodev.cutcam
 # 3aba867b8b91c17531e58a9054657e10 – com.powerd.cleaner
@@ -616,6 +710,7 @@ update-dre.platform.hicloud.com
 ||net.hahamobi.com^
 ||net.salmonads.com^
 ||us01.salmonads.com^
+# mobile ads, 2020-07-07, additions from https://securelist.com/pig-in-a-poke-smartphone-adware/97607/
 ||www.ywupscsff.com^
 ||www.mzeibiyr.com^
 ||i151125.infourl.net^
@@ -635,6 +730,7 @@ update-dre.platform.hicloud.com
 ||analytics.rayjump.com^
 # from pDNS on n.systemlog.me ->
 ||net.cleverjp.com^
+# from fake NEXTALIVE (moonfair) application - https://www.zdnet.com/article/google-removes-android-app-that-was-used-to-spy-on-belarusian-protesters/
 ||nextialive.roimaster.site^
 ||dev.chat.roimaster.site^
 # Joker download URLs / hosts as described by ZScaler - https://www.zscaler.com/blogs/security-research/joker-playing-hide-and-seek-google-play
@@ -712,6 +808,9 @@ update-dre.platform.hicloud.com
 ||p.webengage.com^
 ||bnc.lt^
 ||js.intercomcdn.com^
+# Clevertap's wzrkt.com - also see https://twitter.com/fs0c131y/status/977267255309463554
+||wzrkt.com^
+# subdomains from wzrkt.com - https://subdomainfinder.c99.nl/scans/2020-04-19/wzrkt.com
 # from cb9f6bb72a9766ba8c805c25769b47c46751052706bb41ed333db0b42cd586ff - 	com.byjus.thelearningapp
 # also see https://digitalwatchdog.org/wp-content/uploads/2020/09/IDAC-Ed-Tech-Report_AppendixB_SensitiveData.pdf
 ||api.tllms.com^
@@ -737,6 +836,7 @@ update-dre.platform.hicloud.com
 # Complementics endpoints from 4ba50272718c95af20940912c7968410d797fbc07dcce2bad8183b94887b0ab4
 ||sdk-as.complementics.com^
 ||static.complementics.com^
+# Goontact from https://blog.lookout.com/lookout-discovers-new-spyware-goontact-used-by-sextortionists-for-blackmail
 ||redvios.com^
 ||v-talk.top^
 ||v-talk.vip^
@@ -766,11 +866,13 @@ update-dre.platform.hicloud.com
 ||zerobyte.top^
 ||zerobt.net^
 ||w-video.vip^
+||ser-chat.com^
 ||tocast.vip^
 ||videosound.vip^
 ||twi-tter.vip^
 ||my-player.vip^
 ||voicesupport.vip^
+# Joker from https://research.checkpoint.com/2020/new-joker-variant-hits-google-play-with-an-old-trick/
 ||gd-1301476296.cos.na-toronto.myqcloud.com^
 # and: https://www.theregister.com/2021/01/07/great_suspender_malware/
 ||cdn.owebanalytics.com^
@@ -796,18 +898,22 @@ update-dre.platform.hicloud.com
 ||strunhvgpk.com^
 ||uhtpuerdfbnm.com^
 ||uyghur-news.com^
+||uyghur-soft-market.com^
 ||uyghurhaber.com^
 ||apkhl.pw^
 ||apkpure.bz^
 # Xcodespy - https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/
 ||www.liveupdate.cc^
+||www.appmarket.co^
 ||www.recentnews.cc^
 ||www.truckrental.cc^
 ||www.everestnote.com^
 ||www.alinbox.co^
 ||www.suppro.co^
+# APKPure compromise by Triada malware - https://securelist.com/apkpure-android-app-store-infected/101845/
 ||wcf.seven1029.com^
 ||foodin.site^
+# Triada from https://securelist.com/triada-trojan-in-whatsapp-mod/103679/
 # Trojan.AndroidOS.Triada.ef b1aa5d5bf39fee0b1e201d835e4dc8de
 ||t1k22.c8xwor.com^
 ||dgmxn.c8xwor.com^
@@ -870,6 +976,7 @@ update-dre.platform.hicloud.com
 ||laalaslirayeblection.com^
 ||iblompass.com^
 ||smalllcalllrecorder.com^
+||anguaganslatast.com^
 ||oroscopemestry.com^
 ||blompascator.com^
 ||leunoon.com^
@@ -883,6 +990,7 @@ update-dre.platform.hicloud.com
 ||wfupppx.com^
 ||scandocnotes.com^
 ||freecoupon21.com^
+||ponyvideochat.com^
 ||ludamec.com^
 ||chat-transa.com^
 ||soulscanneryh.com^
@@ -916,6 +1024,7 @@ update-dre.platform.hicloud.com
 ||heartrateandmealtracker.com^
 ||phonecontrolblockspamcalls.com^
 ||etcotater.com^
+||canopoument.com^
 ||locxfindxlocx.com^
 ||mnesytrlatr.com^
 ||huntcontactz.com^
@@ -924,6 +1033,7 @@ update-dre.platform.hicloud.com
 ||fnbdeiegpslocoiatntcrkaer.com^
 ||trcalluecodr.com^
 ||qrreaderpro.com^
+||itranstxtvoicepht.com^
 ||qiberiblaon.com^
 ||iconylc.com^
 ||lsepeanitor.com^
@@ -937,6 +1047,7 @@ update-dre.platform.hicloud.com
 ||islsrickers.com^
 ||feartranslator.com^
 ||vpnzfep.com^
+||snaplens-pt.com^
 ||qiblassirection.com^
 ||easyvshow.com^
 ||qibla-quran.com^
@@ -951,6 +1062,7 @@ update-dre.platform.hicloud.com
 ||sslasmr.com^
 ||bagscaner.com^
 ||phonecallerscreen.com^
+||datingappswmt.com^
 ||lifeel-scan.com^
 ||colorizerset.club^
 ||expresscreditcash.com^
@@ -965,6 +1077,7 @@ update-dre.platform.hicloud.com
 ||frecalwolwid.com^
 ||allelpcoonmber.com^
 ||faspulhearratmoni.com^
+||fincconttact.com^
 ||uncherdroid.com^
 ||iveilembercker.com^
 ||lepamcker.com^
@@ -1166,12 +1279,15 @@ update-dre.platform.hicloud.com
 ||gate.hockeyapp.net^
 ||sdk.hockeyapp.net^
 ||engine.fyber.com^
+||trk.pinterest.com^
+||graph.accountkit.com^
 ||mobileapptracking.com^
 ||config.ioam.de^
 ||logs.locarta.co^
 ||postback.pointwise.co^
 ||dev.appboy.com^
-||appspot-preview.l.google.com^
+||m.quantcount.com^
+||app.adjust.com^
 ||utraffic.engine.adglare.net^
 # Google
 ||www.googleadservices.com^
@@ -1183,7 +1299,10 @@ update-dre.platform.hicloud.com
 # Huawei
 # Snapchat ads and tracking
 # gcs.sc-cdn.net # needed to send snaps
+||sc-analytics.appspot.com^
+||app-analytics.snapchat.com^
 ||adserver.snapads.com^
+||tr.snapchat.com^
 # Whatsapp
 ||crashlogs.whatsapp.net^
 # Quizduell
@@ -1218,6 +1337,7 @@ update-dre.platform.hicloud.com
 ||appodealx.com^
 ||searchpowerads.com^
 ||searchpowerplus.com^
+||onclickbright.com^
 !
 !
 # commented out if it breaks App Store front page load and searching apps 
@@ -1395,6 +1515,7 @@ update-dre.platform.hicloud.com
 ||albert.gcsis-apple.com.akadns.net^
 ||any-appleweather-cache.internal.query.a03.yahoodns.net^
 ||aod.itunes.g.aaplimg.com^
+||api.apple-cloudkit.com^
 ||api.apple-cloudkit.fe.apple-dns.net^
 ||api-apps-lb.itunes-apple.com.akadns.net^
 ||api.smoot-apple.com.akadns.net^
@@ -1940,6 +2061,7 @@ update-dre.platform.hicloud.com
 # samsung phone home 3am
 ||fota-cloud-dn.ospserver.net^
 # app measurement or api not needed maybe
+app-measurement.com 
 # other google shit and firebase for apps
 # ads supersonic
 outcome-ssp.supersonicads.com 
@@ -1989,14 +2111,7 @@ contents.beop.io
 
 !
 !
-||ichnaea.netflix.com^
-||beacon.netflix.com^
-||dockhand.netflix.com^
-||customerevents.netflix.com^
-||nmtracking.netflix.com^
-||presentationtracking.netflix.com^
 ||preapp.prod.partner.netflix.net^
-||nrdp-ipv6.prod.ftl.netflix.com^
 
 
 !
@@ -2089,6 +2204,7 @@ contents.beop.io
 ||jp.rdx2.lgtvsdp.com^
 ||jp.lgtvsdp.com^
 ||jp.info.lgsmartad.com^
+||lgad.cjpowercast.com.edgesuite.net^
 ||smartclip.com^
 ||smartclip.net^
 ||smartshare.lgtvsdp.com^
@@ -2102,8 +2218,6 @@ contents.beop.io
 ||legacyportal.nettvservices.com^
 ||nettv.corio.com^
 ||ad.nettvservices.com^
-
-# Samsung
 ||api-hub.samsungyosemite.com^
 ||az43064.vo.msecnd.net^
 ||d179kwmlpc4o47.cloudfront.net^
@@ -2145,6 +2259,7 @@ contents.beop.io
 ||ravm.tv^
 
 # HBBTV
+||hbbtv-1.eurosport.com^
 ||hbbtv-extern-fe01.sim-technik.de^
 ||hbbtv-track.redbutton.de^
 ||hbbtv.kabeleins.de^
@@ -2173,7 +2288,6 @@ contents.beop.io
 ||script.ioam.de^
 ||start.digitaltext.rtl.de^
 ||trvdp.com^
-||tv-static.scdn.co^
 ||xml.opera.com^
 
 # Hulu
@@ -2206,6 +2320,7 @@ contents.beop.io
 # Toshiba
 ||events.cid.samba.tv^
 ||platform.cid.samba.tv^
+||7345023508.fxmconnect.com^
 ||7345023508.fxm9485766783.com^
 
 # Xioami Mi TV
