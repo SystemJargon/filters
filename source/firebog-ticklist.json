@@ -1,5 +1,5 @@
 {
-    "name": "Firebog Ticklist Nov 7 2022",
+    "name": "Firebog Ticklist - Aggregated by github.com/systemjargon",
     "sources": [
       {
         "name": "firebogtick1",
@@ -82,6 +82,11 @@
         "type": "hosts"
       },
 	        {
+        "name": "firebogtick17",
+        "source": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
+        "type": "hosts"
+      },	  
+	        {
         "name": "firebogtick18",
         "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
         "type": "hosts"
@@ -152,8 +157,8 @@
         "type": "hosts"
       }
     ],
-    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+    "transformations": ["Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["allowlist.txt"]
 }
 
 

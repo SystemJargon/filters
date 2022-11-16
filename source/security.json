@@ -1,5 +1,5 @@
 {
-   "name":"Security Lists - Aggregated by SystemJargon.",
+   "name":"Security Lists - Aggregated by github.com/systemjargon",
    "sources":[
       {
          "source":"https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
@@ -115,5 +115,5 @@
       }
    ],
 	"transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+    "exclusions_sources": ["allowlist.txt"]
 }

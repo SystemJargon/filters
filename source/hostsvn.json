@@ -1,5 +1,5 @@
 {
-    "name": "bigdargon HostsVN Lists",
+    "name": "bigdargon HostsVN Lists - Aggregated by github.com/systemjargon",
     "sources": [
       {
         "name": "Adult",
@@ -18,5 +18,5 @@
       }
     ],
     "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+    "exclusions_sources": ["allowlist.txt"]
 }

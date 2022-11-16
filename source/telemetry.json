@@ -1,5 +1,5 @@
 {
-   "name":"Telemetry Lists",
+   "name":"Telemetry Lists - Aggregated by github.com/systemjargon",
    "sources":[
       {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/windows-telemetry-spy-blocklist.txt",
@@ -43,5 +43,5 @@
       }
 	],
     "transformations": ["Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+    "exclusions_sources": ["allowlist.txt"]
 }

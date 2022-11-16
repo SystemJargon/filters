@@ -1,5 +1,5 @@
 {
-    "name": "Allowlist for Filters Repo",
+    "name": "Allowlist for Filters Repo - Aggregated by github.com/systemjargon",
     "sources": [
       {
         "name": "AnudeepND Whitelist",
@@ -7,42 +7,17 @@
         "type": "hosts"
       },
 	  	  {
-		"name": "iOS basics",
-		"source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/ios-basic-allowlist.txt",
-		"type": "adblock"
-        },
-	  	  {
-		"name": "Developer sites",
-		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-manage-core.txt",
+		"name": "List sites",
+		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-domains.txt",
 		"type":"hosts"
       },
 	  	  {
             "name": "Signal",
             "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt",
             "type": "hosts"
-      },
-	  	  {
-          "name": "Netflix",
-          "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/netflix.txt",
-          "type": "hosts"
-      },
-	  	  {
-          "name": "Plex",
-         "source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/plex.txt",
-          "type": "hosts"
-      },
- 	  	  {
-         "name": "Spotify",
-          "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/spotify.txt",
-          "type": "hosts"
-      },
-	  	  {
-          "name": "Youtube",
-          "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/youtube.txt",
-          "type": "hosts"
       }
    ],
-   "transformations":[
+   "transformations":[	
       "Validate",
       "Deduplicate"
    ]

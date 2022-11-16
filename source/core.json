@@ -1,5 +1,5 @@
 {
-    "name": "Core lists",
+    "name": "Core lists - Aggregated by github.com/systemjargon",
     "sources": [
         {
             "name": "StevenBlack",
@@ -23,5 +23,5 @@
       }
     ],
     "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+    "exclusions_sources": ["allowlist.txt"]
 }

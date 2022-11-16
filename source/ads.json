@@ -1,5 +1,5 @@
 {
-    "name": "Adblocking lists",
+    "name": "Adblocking Lists - Aggregated by github.com/systemjargon",
     "sources": [
       {
         "name": "GoodbyeAds",
@@ -58,5 +58,5 @@
       }
     ],
     "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["adblock_whitelist.txt","anudeep_whitelist.txt"]
+    "exclusions_sources": ["allowlist.txt"]
   }
