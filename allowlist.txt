@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo
-! Last modified: 2022-11-14T19:55:57.986Z
+! Last modified: 2022-11-16T00:44:58.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -179,6 +179,23 @@ continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
+@@||support.apple.com^$important
+@@||apps.apple.com^$important
+@@||www.apple.com^$important
+@@||help.apple.com^$important
+@@||gateway.icloud.com^$important
+@@||ocsp2.apple.com^$important
+@@||time.apple.com^$important
+@@||cdn-apple.com^$important
+@@||cdn.apple.com$important
+@@||push-apple.akadns.net^$important
+@@||configuration.apple.com.akadns.net^$important
+@@||buy.itunes-apple.com.akadns.net^$important
+@@||bag.itunes.apple.com^$important
+@@||inappcheck.itunes.apple.com^$important
+@@||play.itunes.apple.com^$important
+@@||xp.apple.com^$important
+@@||buy.itunes.apple.com^$important
 
 !
 ! Source name: Developer sites
