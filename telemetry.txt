@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists
-! Last modified: 2022-11-14T19:53:29.074Z
+! Last modified: 2022-11-16T00:42:26.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -1223,6 +1223,7 @@ update-dre.platform.hicloud.com
 # commented out if it breaks App Store front page load and searching apps 
 # downloads cdn.apple.com and appleid signin domains removed
 # push-apple.com.akadns.net subdomains maybe blocked but need whitelisting if app install or updates fail
+# repos of others seem to default include all hosts
 ||0.courier-push-apple.com.akadns.net^
 ||10.courier-push-apple.com.akadns.net^
 ||10.courier-sandbox-push-apple.com.akadns.net^
