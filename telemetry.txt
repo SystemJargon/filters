@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2022-11-16T20:16:24.492Z
+! Last modified: 2022-11-17T00:42:22.936Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -2111,7 +2111,14 @@ contents.beop.io
 
 !
 !
+||ichnaea.netflix.com^
+||beacon.netflix.com^
+||dockhand.netflix.com^
+||customerevents.netflix.com^
+||nmtracking.netflix.com^
+||presentationtracking.netflix.com^
 ||preapp.prod.partner.netflix.net^
+||nrdp-ipv6.prod.ftl.netflix.com^
 
 
 !
@@ -2288,6 +2295,7 @@ contents.beop.io
 ||script.ioam.de^
 ||start.digitaltext.rtl.de^
 ||trvdp.com^
+||tv-static.scdn.co^
 ||xml.opera.com^
 
 # Hulu
