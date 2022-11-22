@@ -1,6 +1,12 @@
 {
     "name": "Adblocking Lists - Aggregated by github.com/systemjargon",
-    "sources": [
+    "sources": [   
+      {
+        "name": "systemjargon-blocklists-ads-1",
+        "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adverts/ads-1.txt",
+        "type": "adblock"
+      },
+
       {
         "name": "GoodbyeAds",
         "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
