@@ -40,6 +40,10 @@
 	  {
          "source":"https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
 		   "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/basic-telemetry-devices.txt",
+         "type":"hosts"
       }
 	],
     "transformations": ["Compress","Validate","Deduplicate"],
