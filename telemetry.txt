@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-02-06T22:49:03.115Z
+! Last modified: 2023-02-06T23:45:23.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
@@ -336,11 +336,9 @@
 ||controlcorp.sts.microsoft.com^
 ||controlcorpext.msitadfs.glbdns2.microsoft.com^
 ||controlcs1.wpc.v0cdn.net^
-||controlcy2.vortex.data.microsoft.com.akadns.net^
 ||controldb5-eap.settings-win.data.microsoft.com.akadns.net^
 ||controldb5.settings-win.data.microsoft.com.akadns.net^
 ||controldb5.settings.data.microsoft.com.akadns.net^
-||controldb5.vortex.data.microsoft.com.akadns.net^
 ||controldiagnostics.support.microsoft.com^
 ||controlec.atdmt.com^
 ||controlevents.data.microsoft.com^
@@ -348,7 +346,6 @@
 ||controlg.msn.com^
 ||controlgeo.settings-win.data.microsoft.com.akadns.net^
 ||controlgeo.settings.data.microsoft.com.akadns.net^
-||controlgeo.vortex.data.microsoft.com.akadns.net^
 ||controlh1.msn.com^
 ||controlh2.msn.com^
 ||controlhk2.settings.data.microsoft.com.akadns.net^
@@ -454,7 +451,6 @@
 ||controltelemetry.remoteapp.windowsazure.com^
 ||controltelemetry.urs.microsoft.com^
 ||controlteredo.ipv6.microsoft.com^
-||controlv10-win.vortex.data.microsoft.com.akadns.net^
 ||controlview.atdmt.com^
 ||controlvortex-sandbox.data.microsoft.com^
 ||controlvortex-win-sandbox.data.microsoft.com^
@@ -468,12 +464,10 @@
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||cs.dds.microsoft.com^
 ||cs1.wpc.v0cdn.net^
-||cy2.vortex.data.microsoft.com.akadns.net^
 ||db3aqu.atdmt.com^
 ||db5-eap.settings-win.data.microsoft.com.akadns.net^
 ||db5.settings-win.data.microsoft.com.akadns.net^
 ||db5.settings.data.microsoft.com.akadns.net^
-||db5.vortex.data.microsoft.com.akadns.net^
 ||diagnostics.support.microsoft.com^
 ||eaus2watcab01.blob.core.windows.net^
 ||eaus2watcab02.blob.core.windows.net^
@@ -484,7 +478,6 @@
 ||g.msn.com^
 ||geo.settings-win.data.microsoft.com.akadns.net^
 ||geo.settings.data.microsoft.com.akadns.net^
-||geo.vortex.data.microsoft.com.akadns.net^
 ||h1.msn.com^
 ||h2.msn.com^
 ||hk2.settings.data.microsoft.com.akadns.net^
@@ -600,7 +593,6 @@ oca.telemetry.microsoft.com
 ||telemetry.urs.microsoft.com^
 ||teredo.ipv6.microsoft.com^
 ||uks.b.prd.ags.trafficmanager.net^
-||v10-win.vortex.data.microsoft.com.akadns.net^
 ||view.atdmt.com^
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win-sandbox.data.microsoft.com^
@@ -2258,11 +2250,6 @@ contents.beop.io
 ||samsungads.com^
 
 # Roku
-||scribe.logs.roku.com^
-||midland.logs.roku.com^
-||austin.logs.roku.com^
-||cooper.logs.roku.com^
-||liberty.logs.roku.com^
 ||ravm.tv^
 
 # HBBTV
@@ -2358,3 +2345,43 @@ contents.beop.io
 ||logs1409.xiti.com^
 ||tracksrv.zdf.de^
 ||notify.firetv.bugsnag.appstore.a2z.com^
+
+!
+!
+# This is the list nextdns uses for blocking device manufacturer telemetry as of February 2023. It is by no means a complete nor extensive list.
+# Alexa
+||data.alexa.com^
+||device-metrics-us-2.amazon.com^
+# Apple
+||acfeedbackws.icloud.com^
+||books-analytics-events.news.apple-dns.net^
+||feedbackws.icloud.com^
+||metrics.icloud.com^
+||notes-analytics-events.news.apple-dns.net^
+||stocks-analytics-events.news.apple-dns.net^
+||weather-analytics-events.news.apple-dns.net^
+# Huawei
+||datacollector-drru.dt.dbankcloud.ru^
+||grs.platform.dbankcloud.ru^
+||metrics5.dt.dbankcloud.ru^
+# Roku
+||logs.roku.com^
+# Samsung
+||nmetrics.samsung.com^
+||insights.samsung.com^
+||analytics.samsungknox.com^
+||bigdata.ssp.samsung.com^
+# Sonos
+||msmetrics.ws.sonos.com^
+||msmetrics-test.ws.sonos.com^
+# Connected User Experiences and Telemetry
+||vortex.data.microsoft.com.akadns.net^
+# Unclassified
+||choice.microsoft.com^
+||feedback.search.microsoft.com^
+||feedback.windows.com^
+||i1.services.social.microsoft.com^
+# Office Telemetry
+# Xiaomi
+||data.mistat.xiaomi.com^
+||tracking.miui.com^
