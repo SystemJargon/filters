@@ -3,7 +3,7 @@
     "sources": [
         {
             "name": "bypass-extras",
-            "source": "https://github.com/SystemJargon/blocklists/blob/main/lists/categories/vpn-proxy-bypass/bypass-extras.txt",
+            "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/vpn-proxy-bypass/bypass-extras.txt",
             "type": "hosts"
         },
         {
