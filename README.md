@@ -46,6 +46,7 @@ Notes:
 | 🚫   [Telemetry list](telemetry.txt) | [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) | Big custom blocklist for Telemetry via SmartTV, Amazon, Windows, Android, iOS and additional Firebog telemetry lists. |
 | 🚫   [Advertising list](ads.txt) | [Advertising list](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) | Blocklist which is some of my own and aggregated popular adlists across Github and other places.|
 | 🚫   [FireBog Ticklist](firebog-ticklist.txt) | [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) | The blocklists which feature on the [Firebog ticklist here](https://v.firebog.net/hosts/lists.php?type=tick)
+| 🚫   [Restrict-ByPass list](firebog-ticklist.txt) | [Restrict-ByPass list](https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass.txt) | My own curated list with extra aggregation from NextDNS. The Blocklist is to prevent using other DNS or bypass methods like Tor, VPN etc. 
 ----
 
 

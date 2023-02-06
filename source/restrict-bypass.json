@@ -1,0 +1,52 @@
+{
+    "name": "restrict-bypass lists - restrict vpn proxy otherDNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon",
+    "sources": [
+        {
+            "name": "bypass-extras",
+            "source": "https://github.com/SystemJargon/blocklists/blob/main/lists/categories/vpn-proxy-bypass/bypass-extras.txt",
+            "type": "hosts"
+        },
+        {
+            "name": "no-vpn-proxy",
+            "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/vpn-proxy-bypass/agh_no-vpn-proxy.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "apple-private-relay",
+            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay",
+            "type": "hosts"
+      },
+	          {
+            "name": "browsers",
+            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers",
+            "type": "hosts"
+      },
+	          {
+            "name": "encrypted-dns",
+            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns",
+            "type": "hosts"
+      },
+	          {
+            "name": "linux",
+            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/linux",
+            "type": "hosts"
+      },
+	          {
+            "name": "proxies",
+            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/proxies",
+            "type": "hosts"
+      },
+	          {
+            "name": "tor",
+            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/tor",
+            "type": "hosts"
+      },
+	  	          {
+            "name": "vpn",
+            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn",
+            "type": "hosts"
+      }
+    ],
+    "transformations": ["Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["allowlist.txt"]
+}
