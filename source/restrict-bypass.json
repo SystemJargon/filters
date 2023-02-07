@@ -2,11 +2,6 @@
     "name": "restrict-bypass lists - restrict vpn proxy otherDNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon",
     "sources": [
         {
-            "name": "bypass-extras",
-            "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/vpn-proxy-bypass/bypass-extras.txt",
-            "type": "hosts"
-        },
-        {
             "name": "no-vpn-proxy",
             "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/vpn-proxy-bypass/agh_no-vpn-proxy.txt",
             "type": "adblock"
