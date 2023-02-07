@@ -1,76 +1,17 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy otherDNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-02-06T22:51:06.336Z
+! Last modified: 2023-02-07T00:42:05.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.16
 !
-        Product
-      Documentation
-        Solutions
-      Enterprise
-      Teams
-      Startups
-      Education
-      DevOps
-      DevSecOps
-      Resources
-      Topics
-      Trending
-      Collections
-    data-commit-hovercards-enabled
-    data-discussion-hovercards-enabled
-    data-issue-and-pr-hovercards-enabled
-                  Issues
-                  Actions
-                  Security
-                  Insights
-                 autofocus
-            
-            prefetch-on-mouseover
-
-              
-        contributor
-    
-          
-
-
-      
-
-        
-
-
-  
-||privateinternetaccess.com^
-||expressvpn.com^
-||windscribe.com^
-||surfshark.com^
-||protonvpn.com^
-||cyberghostvpn.com^
-||ipvanish.com^
-||hide.me^
-||vyprvpn.com^
-||tunnelbear.com^
-||torguard.net^
-||torproject.org^
-||ivpn.net^
-||theskyapn.com^
-||mullvad.net^
-||sec-tunnel.com^
-||avira-vpn.com^
 !
-! Source name: apple-private-relay
+! Source name: bypass-extras
 !
 # Apple Private Relay
 # https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay
-
 ||mask.icloud.com^
 ||mask-h2.icloud.com^
-
-!
-! Source name: browsers
-!
 # Browsers with built-in VPN, proxy or encrypted DNS
-
 ||epicbrowser.com^
 ||opera.com^
 ||opera.software^
@@ -79,12 +20,7 @@
 ||tenta.com^
 ||tor.bravesoftware.com^
 ||ur-browser.com^
-
-!
-! Source name: encrypted-dns
-!
 # Encrypted DNS endpoints
-
 ||2.dnscrypt-cert.dns.seby.io^
 ||8888.google^
 ||a.family.ns.dnslify.com^
@@ -336,12 +272,7 @@
 ||us1.dns.lavate.ch^
 ||uw-dns.rubyfish.cn^
 ||wdns.233py.com^
-
-!
-! Source name: linux
-!
 # Privacy-oriented linux distros for anonymous browsing
-
 ||dee.su^
 ||digi77.com^
 ||ipredia.org^
@@ -351,12 +282,7 @@
 ||privacy-cd.org^
 ||tails.boum.org^
 ||whonix.org^
-
-!
-! Source name: proxies
-!
 # Web proxies and listings
-
 ||012proxy.ga^
 ||123-24.eport.gr^
 ||1freeproxy.pw^
@@ -435,6 +361,7 @@
 ||helloworld.cx^
 ||hiddendigital.info^
 ||hiddendragon.site^
+||hide.me^
 ||hidefrom.com^
 ||hidemebro.com^
 ||hidemenow.net^
@@ -480,6 +407,7 @@
 ||pollproxy.info^
 ||pro-unblock.com^
 ||prointern.info^
+||protonvpn.com^
 ||proxay.co.uk^
 ||proxfree.com^
 ||proxify.com^
@@ -642,12 +570,7 @@
 ||zalmos.com^
 ||zend2.com^
 ||zendproxy.com^
-
-!
-! Source name: tor
-!
 # Tor-related websites and gateways
-
 ||darknet.to^
 ||geti2p.net^
 ||onion.cab^
@@ -659,12 +582,8 @@
 ||onion.sh^
 ||onion.to^
 ||onion.ws^
-
-!
-! Source name: vpn
-!
+||torproject.org^
 # VPN websites and server domains
-
 ||12vpx.com^
 ||acevpn.com^
 ||adguard-vpn.com^
@@ -676,6 +595,7 @@
 ||anonymster.com^
 ||astrill.com^
 ||atlasvpn.com^
+||avira-vpn.com^
 ||azirevpn.com^
 ||beevpn.com^
 ||bestvpnrating.com^
@@ -698,12 +618,14 @@
 ||crypticvpn.com^
 ||cryptohippie.com^
 ||cryptostorm.is^
+||cyberghostvpn.com^
 ||defencevpn.com^
 ||dotvpn.com^
 ||doublehop.me^
 ||downloadvpnfree.com^
 ||earthvpn.com^
 ||encrypt.me^
+||expressvpn.com^
 ||faceless.me^
 ||fastestvpn.com^
 ||finchvpn.com^
@@ -732,10 +654,13 @@
 ||ininja.org^
 ||instantunblock.com^
 ||ipsharkk.com^
+||ipvanish.com^
 ||itopvpn.com^
 ||ivacy.com^
+||ivpn.net^
 ||le-vpn.com^
 ||limevpn.com^
+||mullvad.net^
 ||myprivateproxy.net^
 ||nordvpn.com^
 ||nvpn.net^
@@ -745,6 +670,7 @@
 ||ovpn.com^
 ||pixelprivacy.com^
 ||privadovpn.com^
+||privateinternetaccess.com^
 ||privatevpn.com^
 ||protonstatus.com^
 ||protonvpn.ch^
@@ -758,6 +684,7 @@
 ||rusvpn.com^
 ||safeguardianvpn.com^
 ||safervpn.com^
+||sec-tunnel.com^
 ||secure.proxpn.com^
 ||securevpn.io^
 ||setupvpn.com^
@@ -767,15 +694,18 @@
 ||strongvpn.com^
 ||supervpn.best^
 ||surfeasy.com^
+||surfshark.com^
 ||surfshell.io^
 ||swoshsvpn.com^
 ||thebestvpn.com^
 ||tikvpn.com^
 ||top10vpn.com^
 ||topvpnguides.com^
+||torguard.net^
 ||travelvpn.info^
 ||travelvpn.net^
 ||trickbyte.com^
+||tunnelbear.com^
 ||turbovpn.com^
 ||tuxlervpn.com^
 ||ufovpn.io^
@@ -802,10 +732,13 @@
 ||vpnoverview.com^
 ||vpnunlimited.com^
 ||vpnunlimitedapp.com^
+||vyprvpn.com^
 ||whoer.net^
+||windscribe.com^
 ||wlvpn.com^
 ||xvpn.io^
 ||zenmate.com^
 ||zoogvpn.com^
 ||zorrovpn.io^
 ||zpn.im^
+||theskyapn.com^
