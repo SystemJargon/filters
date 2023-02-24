@@ -1,0 +1,69 @@
+{
+    "name": "Porn Blocklist 2 - Aggregated by github.com/systemjargon",
+    "sources": [
+        {
+            "name": "host00",
+            "source": "https://raw.githubusercontent.com/columndeeply/hosts/main/hosts00",
+            "type": "hosts"
+        },
+        {
+            "name": "host01",
+            "source": "https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01",
+            "type": "hosts"
+        },
+        {
+            "name": "host02",
+            "source": "https://raw.githubusercontent.com/columndeeply/hosts/main/hosts02",
+            "type": "hosts"
+        },
+		{
+            "name": "host03",
+            "source": "https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03",
+            "type": "hosts"
+        },
+		{
+            "name": "StevenBlack",
+            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts",
+            "type": "hosts"
+        },
+		{
+            "name": "RpiList-1",
+            "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1",
+            "type": "hosts"
+        },
+		{
+            "name": "RpiList-2",
+            "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2",
+            "type": "hosts"
+        },
+		{
+            "name": "RpiList-3",
+            "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3",
+            "type": "hosts"
+        },
+		{
+            "name": "RpiList-4",
+            "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4",
+            "type": "hosts"
+        },
+		,
+		{
+            "name": "RpiList-5",
+            "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5",
+            "type": "hosts"
+        },
+		,
+		{
+            "name": "RpiList-6",
+            "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6",
+            "type": "hosts"
+        }
+    ],
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"]
+}
+
+
+# https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1
