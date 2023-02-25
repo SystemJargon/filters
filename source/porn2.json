@@ -46,13 +46,11 @@
             "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4",
             "type": "hosts"
         },
-		,
 		{
             "name": "RpiList-5",
             "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5",
             "type": "hosts"
         },
-		,
 		{
             "name": "RpiList-6",
             "source": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6",
@@ -61,9 +59,3 @@
     ],
     "transformations": ["RemoveComments","Compress","Validate","Deduplicate"]
 }
-
-
-# https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
-
-
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1
