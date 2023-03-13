@@ -35,10 +35,7 @@ jobs:
       
 #    - name: Compile Porn2 list
 #      run: hostlist-compiler -c ./source/porn2.json -o porn2.txt
-
-#    - name: Compile ByPass list
-#      run: hostlist-compiler -c ./source/bypass.json -o bypass.txt
-     
+    
     - name: Compile Telemetry list
       run: hostlist-compiler -c ./source/telemetry.json -o telemetry.txt
       
