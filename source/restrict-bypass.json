@@ -1,9 +1,14 @@
 {
-    "name": "restrict-bypass lists - restrict vpn proxy otherDNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon",
+    "name": "restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon",
     "sources": [
         {
             "name": "no-vpn-proxy",
             "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/vpn-proxy-bypass/agh_no-vpn-proxy.txt",
+            "type": "adblock"
+        },
+	            {
+            "name": "SystemJargon_blocklists-TheGreaterWall-DNS-list",
+            "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/dns-dot-quic-doh/TheGreaterWall-dns-dot.txt",
             "type": "adblock"
         },
         {
@@ -40,8 +45,12 @@
             "name": "vpn",
             "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn",
             "type": "hosts"
-      }
+      },
+	            {
+            "name": "Hagezi",
+            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
+            "type": "adblock"
+        }
     ],
-    "transformations": ["Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["allowlist.txt"]
+    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
 }
