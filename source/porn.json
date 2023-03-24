@@ -16,6 +16,11 @@
             "source": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
             "type": "hosts"
         },
+	    		{
+            "name": "bigdargon-adult",
+            "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts",
+            "type": "hosts"
+        },
 		{
             "name": "SystemJargon-PornAll",
             "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adult/porn-multi-lists-combo.txt",
