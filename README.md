@@ -27,7 +27,7 @@ Notes:
 
 * The aggregation of some lists are from my [blocklists](https://github.com/systemjargon/blocklists) or [allowlists](https://github.com/systemjargon/allowlists) repositories. 
 
-* If you want my big Social Media Blocklist, see [here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media/SystemJargon_Block_SocialMedia_AG.txt) or look in the Category of [Social Media here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media)
+* If you want my big Social Media Blocklist, see [here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media/SystemJargon_Block_SocialMedia_AG.txt) or look in my blocklists repo under the Category of Social Media [here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media)
 
 * Feel free to 🌟/star the repo.
 
