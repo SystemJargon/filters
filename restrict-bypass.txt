@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-03-16T00:41:00.769Z
+! Last modified: 2023-03-24T00:36:48.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -19,7 +19,6 @@
 ||2.dnscrypt-cert.blahdns.com^
 ||2.dnscrypt-cert.browser.yandex.net^
 ||2.dnscrypt-cert.captnemo.in^
-||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
 ||2.dnscrypt-cert.pumplex.com^
@@ -76,8 +75,6 @@
 ||antidnsvpn.co.cc^
 ||antispam.vpnvps.com^
 ||antispam.vpsvpn.com^
-||anycast.censurfridns.dk^
-||anycast.uncensoreddns.org^
 ||asia.dnscepat.id^
 ||astrill.com^
 ||astrill.org^
@@ -239,7 +236,6 @@
 ||dns.larsdebruin.net^
 ||dns.mrkaran.dev^
 ||dns.neutopia.org^
-||dns.nextdns.io^
 ||dns.nixnet.xyz^
 ||dns.opendns.com^
 ||dns.oszx.co^
@@ -256,14 +252,12 @@
 ||dns0.eu^
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
-||dns1.nextdns.io^
 ||dns1.ryan-palmer.com^
 ||dns2.alekberg.net^
 ||dns2.developer.li^
 ||dns2.digitalcourage.de^
 ||dns2.digitale-gesellschaft.ch^
 ||dns2.dnscrypt.ca^
-||dns2.nextdns.io^
 ||dnscache.e-utp.net^
 ||dnscrypt-cert.oszx.co^
 ||dnses.alekberg.net^
@@ -1018,7 +1012,6 @@
 ||stayhidden.net^
 ||stealthvpn.com^
 ||stealthy.co^
-||steering.nextdns.io^
 ||stop-block.com^
 ||stopcensoring.me^
 ||strongvpn.com^
@@ -1164,8 +1157,6 @@
 ||unblockyoutubefree.net^
 ||unblockytproxy.com^
 ||undofilters.com^
-||unicast.censurfridns.dk^
-||unicast.uncensoreddns.org^
 ||unifiedvpn.com^
 ||unknownproxy.com^
 ||unlimitedvpnapp.com^
@@ -1347,3 +1338,23 @@
 ||zwyr157wwiu6eior.com^
 
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^
+||censurfridns.dk^
+||uk-proxy.co.uk^
+||dns.weixin.qq.com.cn^
+||vpngermany.dzzz.info^
+||gipvpn.com^
+||homevpn.info^
+||kproxy.asia^
+||maxvpn.info^
+||httpdns.meituan.com^
+||mywebproxy.in^
+||nextdns.io^
+||prontoproxy.info^
+||prox.pw^
+||dns.seby.io^
+||unblockit.app^
+||uncensoreddns.org^
+||vpnmasterx.com^
+||vpnneo.com^
+||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^
+||yourinternetproxy.info^
