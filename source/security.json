@@ -109,6 +109,9 @@
          "source":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt",
 		          "type":"hosts"
       },
+	     "source":"https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt",
+		          "type":"hosts"
+      },
       {
          "source":"https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
 		          "type":"hosts"
