@@ -105,10 +105,11 @@
          "source":"https://urlhaus.abuse.ch/downloads/hostfile/",
 		          "type":"hosts"
       },
- {
+      {
          "source":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt",
 		          "type":"hosts"
       },
+      {
 	     "source":"https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt",
 		          "type":"hosts"
       },
