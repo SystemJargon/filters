@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-04-24T00:37:00.444Z
+! Last modified: 2023-04-25T00:40:04.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1337,29 +1337,14 @@
 ||zscalertwo.net^
 ||zwyr157wwiu6eior.com^
 
-||0020proxy.info^
-||007unblocker.com^
-||02014proxy.info^
-||1234proxysomemore.com^
-||123anonymous.com^
 ||16yd.com^
-||1774.info^
 ||1proxy.de^
-||1proxy.in^
 ||1proxy.us^
-||2999.info^
-||2a87.com^
 ||2anonymousproxy.com^
 ||2fastsurfer.eu^
 ||2fastsurfer.us^
-||2kjb10.net^
-||2kjb8.net^
-||2kjb9.net^
-||2name.info^
 ||2proxy.de^
 ||2proxy.us^
-||2r34.com^
-||2tunnel.info^
 ||33253.com^
 ||3name.info^
 ||3proxy.de^
