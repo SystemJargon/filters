@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-04-26T00:36:39.926Z
+! Last modified: 2023-04-27T00:38:37.468Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1398,10 +1398,7 @@
 ||bypasskey.com^
 ||bypassproxyfree.com^
 ||bypasstunnel.com^
-||cafedots.com^
-||califoniarollerderby.com^
 ||careproxy.com^
-||catproxy.info^
 ||cblocker.info^
 ||censurfridns.dk^
 ||centidoo.com^
@@ -1409,17 +1406,9 @@
 ||chinagrows.com^
 ||ciproxy.de^
 ||circumvent.it^
-||clearhide.com^
 ||clickapp.info^
-||cloakdoctor.com^
-||cloakednow.com^
 ||cloaker.ca^
 ||cloaker.us^
-||cloakpoint.com^
-||clubredweb.com^
-||cloak.co.nl^
-||dutchproxy.co.nl^
-||dutchwebproxy.co.nl^
 ||hide.co.nl^
 ||netherlandsproxy.co.nl^
 ||netherlandswebproxy.co.nl^
@@ -1438,8 +1427,6 @@
 ||cocoombr.com^
 ||cocoproxy.com^
 ||coinsite.info^
-||coinweb.info^
-||collegetunnel.info^
 ||anonymous-proxy.com.de^
 ||fast-proxy.com.de^
 ||fastest-proxy.com.de^
@@ -1454,48 +1441,22 @@
 ||dns.weixin.qq.com.cn^
 ||unblock-proxy.com.de^
 ||webproxy.com.de^
-||coolproxy.org^
-||coverbrowse.com^
 ||coverproxy.com^
 ||covertproxy.com^
 ||crazysurfer.info^
 ||crownproxy.com^
 ||dabmix.com^
-||dailyconnect.info^
-||dailyproxy.info^
-||damuxu.de^
-||datassl.info^
-||dblocker.info^
 ||die-pkw-maut.de^
-||diglet.org^
-||dirtyworkproxy.com^
-||discoverall.today^
-||disguising.info^
 ||districtnewyork.com^
 ||divalane.com^
 ||divaloo.com^
-||divavu.com^
-||doobit.info^
 ||doomshadow.com^
-||door2tor.org^
-||drezdonhoster.com^
-||droprules.com^
 ||dutchproxy.nl^
 ||dynanyx.com^
-||dzproxy.com^
 ||vpngermany.dzzz.info^
-||easyhideip.org^
-||easynetwork.info^
-||eblocker.info^
 ||ebumna.net^
-||echous.info^
-||eeproxy.pw^
 ||emuby.com^
-||esses.info^
-||euproxy.eu^
 ||eurproxy.com^
-||evantbyrne.info^
-||everproxy.info^
 ||everyproxies.info^
 ||facebookproxy.org^
 ||facebookproxyfree.info^
