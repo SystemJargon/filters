@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-05-04T00:35:10.234Z
+! Last modified: 2023-05-05T00:35:08.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -2191,44 +2191,29 @@
 ||workstudyplay.com^
 ||wtools.eu^
 ||wyx.cloud^
-||x-proxy.nl^
-||xblocker.info^
 ||doh.xcom.pro^
 ||xenergy.cc^
 ||doh2.gslb2.xfinity.com^
 ||xite.cc^
 ||xite.mobi^
 ||xite.ws^
-||xtcsoul.net^
-||yasrinu.info^
 ||lion.yazilimatolye.com^
-||yblocker.info^
 ||ychen.cf^
 ||ychen.ga^
 ||ylink.info^
 ||youfreeproxytube.com^
 ||dns.youni.win^
-||youproxything.com^
 ||youproxytube.com^
 ||your-dns.run^
 ||yourinternetproxy.info^
-||youtube-proxy.co^
 ||youtube-unblocker.com^
-||youtubefreeproxy.com^
 ||youtubeproxy.co^
-||youtubeproxyfree.com^
-||youtubeunblocked.org^
-||youtubeunblockproxy.com^
 ||yovbak.com^
-||yubture.info^
 ||adguard.zachitect.com^
 ||zagbit.com^
-||zagvoo.info^
-||zblocker.info^
 ||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||dns.zfsystem.tech^
-||zheat.info^
 ||zippyproxy.com^
 ||zougloub.eu^
 ||zproxy.de^
