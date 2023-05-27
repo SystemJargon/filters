@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-05-26T00:37:51.520Z
+! Last modified: 2023-05-27T00:39:10.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1632,13 +1632,11 @@
 ||ns2.flodns.net^
 ||dns.flymc.cc^
 ||gateway.fomichev.cloud^
-||foundhide.com^
 ||dns.frank-ruan.com^
 ||free-proxy.xyz^
 ||freeanimesonline.com^
 ||freedomproxy.com^
 ||freeproxyaccess.com^
-||freesurfproxy.com^
 ||freewebproxyserver.net^
 ||dns.froth.zone^
 ||awan.ftp.sh^
