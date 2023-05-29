@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-05-28T00:40:15.660Z
+! Last modified: 2023-05-29T00:37:42.175Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1397,7 +1397,6 @@
 ||dns.almir1904.eu^
 ||dns.alvosec.com^
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^
-||adguard.ambiya.net^
 ||mailer.amlegion.org^
 ||dns.andrewnw.xyz^
 ||anonproxy.eu^
@@ -1594,7 +1593,6 @@
 ||easyhandshake.com^
 ||ebumna.net^
 ||dns.eddi.net^
-||dns.edgy.network^
 ||dns.edison42.dev^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
@@ -1830,7 +1828,6 @@
 ||blackhole.myon.lu^
 ||portmapper.myonlineportal.net^
 ||myproxy.ca^
-||myspace-unblocker.org^
 ||myspaceunlock.com^
 ||vm.mytm.cc^
 ||mywebproxy.in^
