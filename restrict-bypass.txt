@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-05-31T00:39:17.494Z
+! Last modified: 2023-06-01T00:48:58.935Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1342,6 +1342,7 @@
 ||1proxy.us^
 ||t2c.240130034.xyz^
 ||doh003.280blocker.net^
+||2999.info^
 ||2anonymousproxy.com^
 ||2fastsurfer.eu^
 ||2fastsurfer.us^
@@ -1507,6 +1508,7 @@
 ||cocoombr.com^
 ||cocoproxy.com^
 ||coinsite.info^
+||coinweb.info^
 ||jpdns.cola16.app^
 ||dns.colorfreedom.org^
 ||dns.7sec.com.br^
@@ -1536,6 +1538,7 @@
 ||covertproxy.com^
 ||crazysurfer.info^
 ||crownproxy.com^
+||crushus.com^
 ||dotdns.cryptroute.com^
 ||cubedns.com^
 ||dns.cwlys.com^
@@ -1591,6 +1594,7 @@
 ||dynanyx.com^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
+||vpngermany.dzzz.info^
 ||easyhandshake.com^
 ||ebumna.net^
 ||dns.eddi.net^
@@ -1607,6 +1611,7 @@
 ||arashi.eu.org^
 ||armorrush.eu.org^
 ||eurproxy.com^
+||evantbyrne.info^
 ||everyproxies.info^
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
@@ -1734,6 +1739,7 @@
 ||dns1.irumatech.com^
 ||dns.islandnet.com^
 ||dns.itdept.pro^
+||ivpn.info^
 ||iweb365.net^
 ||jabber-germany.de^
 ||jackyes.ovh^
@@ -1769,6 +1775,7 @@
 ||xray.krnl.eu^
 ||lagometer.de^
 ||lalal.info^
+||vpninuk.lant.info^
 ||largero.com^
 ||lastentarvike.fi^
 ||adguard1.leadmon.net^
@@ -1875,6 +1882,7 @@
 ||onion.ca^
 ||onion.lt^
 ||onion.lu^
+||onion.nu^
 ||onlineproxy.co^
 ||onlineproxy.us^
 ||adguard.onlyfriends.info^
@@ -1961,6 +1969,7 @@
 ||proxycab.com^
 ||proxyen.com^
 ||proxyhash.net^
+||proxyinternet.info^
 ||proxyist.com^
 ||proxyness.com^
 ||proxyoutlet.com^
@@ -2021,9 +2030,11 @@
 ||doh.sidnlabs.nl^
 ||dns.silen.org^
 ||dns.silentlybren.com^
+||silversurf.info^
 ||dns.siry.de^
 ||sitdns.com^
 ||dns.skrep.eu^
+||skynetwork.info^
 ||dns.slinkyman.net^
 ||snapxs.com^
 ||guard.sntrk.ru^
@@ -2043,6 +2054,7 @@
 ||surffire.info^
 ||surfmo.com^
 ||surfsneaker.com^
+||surfwithease.com^
 ||surt.ml^
 ||swapip.com^
 ||dns.syaifullah.com^
@@ -2081,6 +2093,7 @@
 ||tor2web.io^
 ||tor2web.ru^
 ||tor2web.su^
+||tor2web.to^
 ||tor4pay.com^
 ||nsc.torgues.net^
 ||torrentproxy.co^
@@ -2136,7 +2149,6 @@
 ||neatdns.ustclug.org^
 ||utopianpal.com^
 ||tor.vasi.li^
-||securedns.vendorvista.xyz^
 ||videounblocked.com^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
@@ -2152,7 +2164,6 @@
 ||wantaquddin.com^
 ||abel.waringer-atg.de^
 ||dns.warpnine.de^
-||warpproxy.com^
 ||watchproxy.com^
 ||kswro.web.id^
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^
@@ -2167,6 +2178,7 @@
 ||webypass.info^
 ||doh.wewitro.net^
 ||wez.fr^
+||whyproxy.com^
 ||wiksa.com^
 ||adguard.wirimij.nl^
 ||wobti.com^
@@ -2193,7 +2205,6 @@
 ||your-dns.run^
 ||yourinternetproxy.info^
 ||youtube-unblocker.com^
-||youtubeproxy.co^
 ||yovbak.com^
 ||adguard.zachitect.com^
 ||zagbit.com^
