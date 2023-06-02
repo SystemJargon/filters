@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-06-01T00:48:58.935Z
+! Last modified: 2023-06-02T00:40:16.121Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1934,7 +1934,6 @@
 ||primeproxy23.info^
 ||dns.privilab.net^
 ||prohome.info^
-||project-evoex.de^
 ||prontoproxy.info^
 ||propage.info^
 ||prounlock.org^
@@ -2149,6 +2148,7 @@
 ||neatdns.ustclug.org^
 ||utopianpal.com^
 ||tor.vasi.li^
+||securedns.vendorvista.xyz^
 ||videounblocked.com^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
