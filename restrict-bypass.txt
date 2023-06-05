@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-06-04T00:43:22.640Z
+! Last modified: 2023-06-05T00:40:02.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1533,7 +1533,6 @@
 ||dns.comeonjames.club^
 ||dns1.conne.net^
 ||dns.connect.fail^
-||cossxiu.ga^
 ||coverproxy.com^
 ||covertproxy.com^
 ||crazysurfer.info^
@@ -1668,7 +1667,6 @@
 ||gowork.info^
 ||gratisproxy.nl^
 ||greenpass.info^
-||groupy.ga^
 ||dns.grqu.de^
 ||guesses.info^
 ||gumm.org^
@@ -2197,7 +2195,6 @@
 ||xite.ws^
 ||lion.yazilimatolye.com^
 ||ychen.cf^
-||ychen.ga^
 ||ylink.info^
 ||youfreeproxytube.com^
 ||dns.youni.win^
