@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-06-07T00:40:50.379Z
+! Last modified: 2023-06-08T00:42:17.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
@@ -1576,9 +1576,14 @@
 ||doh.sb^
 ||doomshadow.com^
 ||ns1.dotls.org^
-||adguard.dtness.com^
+||doh.dscloud.me^
+||aattwwss.duckdns.org^
 ||home27.duckdns.org^
+||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
+||osefcorp.duckdns.org^
+||punono.duckdns.org^
+||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
@@ -1823,6 +1828,7 @@
 ||id.terra.my.id^
 ||doh.velyn.my.id^
 ||dns.vmath.my.id^
+||dgca.myds.me^
 ||myip-proxy.info^
 ||blackhole.myon.lu^
 ||portmapper.myonlineportal.net^
@@ -2048,6 +2054,7 @@
 ||surt.ml^
 ||swapip.com^
 ||dns.syaifullah.com^
+||ihctw.synology.me^
 ||a-bld.sys-adm.in^
 ||bld.sys-adm.in^
 ||doh.syshero.org^
@@ -2063,8 +2070,8 @@
 ||sg.teradns.org^
 ||tx.teradns.org^
 ||uk.teradns.org^
-||apne1.dns.terumi.club^
 ||dns.tesem.dog^
+||cloud.tezoi.com^
 ||thebestproxy.info^
 ||dns.theres.one^
 ||thewebtunnel.com^
