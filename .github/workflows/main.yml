@@ -16,6 +16,7 @@ jobs:
     - uses: actions/setup-node@main
       with:
         node-version: '16'  
+    - run: npm audit fix --force
     - run: npm i -g @adguard/hostlist-compiler
     
     - name: Compile bigdargon_HostsVN list
