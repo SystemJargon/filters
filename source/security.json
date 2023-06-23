@@ -119,5 +119,5 @@
       }
    ],
 	"transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["allowlist.txt"]
+    "exclusions_sources": ["allowlist.txt","porn.txt"]
 }
