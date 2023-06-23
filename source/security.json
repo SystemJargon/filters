@@ -62,10 +62,6 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://malware-filter.gitlab.io/malware-filter/pup-filter-domains.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
 		          "type":"hosts"
       },
