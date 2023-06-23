@@ -1,13 +1,13 @@
-name: Filter Compiler
+name: SystemJargon Filters Compiler
 
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
 ## Remove on push
+# workflow_dispatch:
 #  push:
 #    branches:
-      - main
+#      - main
 
 jobs:
   build:
