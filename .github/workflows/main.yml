@@ -3,8 +3,8 @@ name: SystemJargon Filters Compiler
 on:
   schedule:
     - cron: '0 0 * * *'
-## Remove on push
- workflow_dispatch:
+
+    workflow_dispatch:
   push:
     branches:
       - main
