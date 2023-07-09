@@ -64,5 +64,5 @@
       }
     ],
     "transformations": ["Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["allowlist.txt"]
+    "exclusions_sources": ["allowlist.txt","no_break_sites.txt"]
   }
