@@ -22,10 +22,6 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://nsfw.oisd.nl/",
-		          "type":"hosts"
-      },
-      {
          "source":"https://osint.digitalside.it/Threat-Intel/lists/latestdomains.piHole.txt",
 		          "type":"hosts"
       },
@@ -46,10 +42,6 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt",
 		          "type":"hosts"
       },
@@ -67,10 +59,6 @@
       },
       {
          "source":"https://v.firebog.net/hosts/Prigent-Crypto.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
 		          "type":"hosts"
       },
       {
