@@ -2,19 +2,7 @@
    "name":"Security Lists - Aggregated by github.com/systemjargon",
    "sources":[
       {
-         "source":"https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
-         "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/invisiblethreat/openphish-pihole/main/openphish.txt",
 		          "type":"hosts"
       },
       {
@@ -50,10 +38,6 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
 		          "type":"hosts"
       },
@@ -62,19 +46,7 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://phishing.army/download/phishing_army_blocklist_extended.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://v.firebog.net/hosts/RPiList-Malware.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://v.firebog.net/hosts/RPiList-Phishing.txt",
 		          "type":"hosts"
       },
       {
@@ -87,10 +59,6 @@
       },
       {
          "source":"https://urlhaus.abuse.ch/downloads/hostfile/",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt",
 		          "type":"hosts"
       },
       {

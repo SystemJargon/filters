@@ -25,6 +25,9 @@ jobs:
     - name: Compile Security list
       run: hostlist-compiler -c ./source/security.json -o security.txt
       
+    - name: Compile Phishing list
+      run: hostlist-compiler -c ./source/phishing.json -o phishing.txt
+      
     - name: Compile Ads list
       run: hostlist-compiler -c ./source/ads.json -o ads.txt
       

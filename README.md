@@ -43,7 +43,8 @@ Notes:
 | ---- |
 | 🚫   [Core list](core.txt) | [Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | Blocklist core aggregated lists of StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists |
 | 🚫   [Porn list](porn.txt) | [Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) | Blocklist well beyond 1 million entries across several lists for porn. |
-| 🚫   [Security list](security.txt) | [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) | Blocklist aggregated from other well curated lists, anti phishing/scam/coinminer/malware/bad reputation categories|
+| 🚫   [Security list](security.txt) | [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) | Blocklist aggregated from other well curated lists, anti scam/coinminer/malware/bad reputation categories|
+| 🚫   [Phishing list](phishing.txt) | [Phishing list](https://raw.githubusercontent.com/systemjargon/filters/main/phishing.txt) | Blocklist aggregated from other well curated lists exclusively for phishing|
 | 🚫   [Threats list](threats.txt) | [Threats list](https://raw.githubusercontent.com/systemjargon/filters/main/threats.txt) | Blocklist aggregated from my own multiple blocklists, anti phishing/scam/coinminer/malware/bad reputation categories|
 | 🚫   [Telemetry list](telemetry.txt) | [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) | Big custom blocklist for Telemetry via SmartTV, Amazon, Windows, Android, iOS and additional Firebog telemetry lists. |
 | 🚫   [Advertising list](ads.txt) | [Advertising list](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) | Blocklist which is some of my own and aggregated popular adlists across Github and other places.|
