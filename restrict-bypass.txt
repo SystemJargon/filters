@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-12T20:18:12.237Z
+! Last modified: 2023-07-12T23:54:02.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5626,7 +5626,6 @@
 ||webproxy.pw^
 ||webproxy.us^
 ||websitebypass.com^
-||websitevpnx.com^
 ||websynchrony.com^
 ||webxify.com^
 ||webypass.info^
@@ -5644,39 +5643,30 @@
 ||worldgravityapp.com^
 ||wtools.eu^
 ||wyx.cloud^
-||x-web-vip.com^
 ||doh.xcom.pro^
-||xdzyjmfgqj.com^
 ||xenergy.cc^
 ||doh2.gslb2.xfinity.com^
-||xghfi97mk6.com^
 ||xite.cc^
 ||xite.mobi^
 ||xite.ws^
-||xvpn-web.com^
 ||yandex.com^
 ||lion.yazilimatolye.com^
 ||ychen.cf^
 ||ylink.info^
 ||youfreeproxytube.com^
-||young-purple.ga^
 ||dns.youni.win^
 ||youproxytube.com^
 ||your-dns.run^
 ||yourinternetproxy.info^
 ||youtube-unblocker.com^
 ||yovbak.com^
-||yxca6625zeyff.com^
 ||adguard.zachitect.com^
 ||zagbit.com^
 ||zcoup.com^
-||zdenorkorust.tk^
 ||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||dns.zfsystem.tech^
 ||zippyproxy.com^
-||zmksxksaqh.com^
 ||zougloub.eu^
 ||zproxy.de^
-||zqe2jx29qa.com^
 ||dns.zzuhacker.cn^
