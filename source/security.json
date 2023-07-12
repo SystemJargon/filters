@@ -1,5 +1,5 @@
 {
-   "name":"Security Lists - Aggregated by github.com/systemjargon",
+   "name":"Security Lists - Aggregated by github.com/systemjargon. Removed overlap from firebog-ticklist.txt and phishing.txt",
    "sources":[
       {
          "source":"https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt",
@@ -10,19 +10,7 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://osint.digitalside.it/Threat-Intel/lists/latestdomains.piHole.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
 		          "type":"hosts"
       },
       {
@@ -30,46 +18,14 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://v.firebog.net/hosts/Prigent-Crypto.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://v.firebog.net/hosts/RPiList-Malware.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://urlhaus.abuse.ch/downloads/hostfile/",
 		          "type":"hosts"
       },
       {
 	     "source":"https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt",
 		          "type":"hosts"
-      },
-      {
-         "source":"https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
-		          "type":"hosts"
       }
    ],
 	"transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["allowlist.txt","porn.txt"]
+    "exclusions_sources": ["allowlist.txt"]
 }
