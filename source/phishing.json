@@ -26,14 +26,10 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://v.firebog.net/hosts/RPiList-Phishing.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt",
 		          "type":"hosts"
       }
    ],
 	"transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["allowlist.txt","porn.txt"]
+    "exclusions_sources": ["allowlist.txt"]
 }
