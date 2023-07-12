@@ -38,18 +38,28 @@ Notes:
 ## The Lists
 
 | List Name & Github Link | List Name & RAW/Download) | Purpose/About |
-| ---- | ---- | ---- |
+
+
 | 📄   [Allowlist](allowlist.txt) | [Allowlist](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites | 
-| ---- |
+
 | 🚫   [Core list](core.txt) | [Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | Blocklist core aggregated lists of StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists |
+
 | 🚫   [Porn list](porn.txt) | [Porn list](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) | Blocklist well beyond 1 million entries across several lists for porn. |
+
 | 🚫   [Security list](security.txt) | [Security list](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) | Blocklist aggregated from other well curated lists which do appear in phishing.txt nor firebog-ticklist.txt as of time of commit.|
+
 | 🚫   [Phishing list](phishing.txt) | [Phishing list](https://raw.githubusercontent.com/systemjargon/filters/main/phishing.txt) | Blocklist aggregated from other well curated lists exclusively for phishing|
+
 | 🚫   [Threats list](threats.txt) | [Threats list](https://raw.githubusercontent.com/systemjargon/filters/main/threats.txt) | Blocklist aggregated from my own multiple blocklists, anti phishing/scam/coinminer/malware/bad reputation categories|
+
 | 🚫   [Telemetry list](telemetry.txt) | [Telemetry list](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) | Big custom blocklist for Telemetry via SmartTV, Amazon, Windows, Android, iOS and additional Firebog telemetry lists. |
+
 | 🚫   [Advertising list](ads.txt) | [Advertising list](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) | Blocklist which is some of my own and aggregated popular adlists across Github and other places.|
+
 | 🚫   [FireBog Ticklist](firebog-ticklist.txt) | [FireBog Ticklist](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) | The blocklists which feature on the [Firebog ticklist here](https://v.firebog.net/hosts/lists.php?type=tick)
+
 | 🚫   [Restrict-ByPass list](restrict-bypass.txt) | [Restrict-ByPass list](https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass.txt) | My own curated list with supplement lists aggregated. The Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay etc. 
+
 ----
 
 
