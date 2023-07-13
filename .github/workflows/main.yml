@@ -18,9 +18,11 @@ jobs:
       with:
         node-version: '16'  
     - run: npm i -g @adguard/hostlist-compiler
-    
-    - name: Compile bigdargon_HostsVN list
-      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
+
+# No longer aggregate bigdargon. Most sites over lap or are designed for Vietnam which are not relevant to me or most.
+# Leave as comment incase this changes in the future.
+#    - name: Compile bigdargon_HostsVN list
+#      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
 
     - name: Compile Security list
       run: hostlist-compiler -c ./source/security.json -o security.txt
