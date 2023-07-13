@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-12T23:54:02.417Z
+! Last modified: 2023-07-13T23:09:26.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1623,6 +1623,7 @@
 ||everyproxies.info^
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
+||fakeip.org^
 ||dnsvps.familiamv.ml^
 ||dns.fancyorg.at^
 ||fastfreeproxy.info^
@@ -1663,6 +1664,7 @@
 ||cluster-1.gac.edu^
 ||gameproxy.org^
 ||dns.beta.gandi.net^
+||gang4.info^
 ||gclouddns.com^
 ||blade1.algiers-rack401.nodes.gen4.ninja^
 ||blade10.algiers-rack401.nodes.gen4.ninja^
@@ -5118,6 +5120,7 @@
 ||dns.hotta.page^
 ||doh.hottis.de^
 ||hshh.org^
+||httpdserver.info^
 ||doth.huque.com^
 ||dns.bw.i81.ru^
 ||dns.iamninja.ru^
@@ -5142,7 +5145,6 @@
 ||qlf-doh.inria.fr^
 ||internetbypass.com^
 ||internetunblock.us^
-||dns.invisv.com^
 ||ioxy.de^
 ||ipoac.nl^
 ||ipunblocker.com^
@@ -5164,7 +5166,6 @@
 ||adguard.jfchenier.ca^
 ||adg.jnorton.us^
 ||adguard1.jsanagustin.net^
-||dns.jucker.engineering^
 ||judua3rtinpst0s.xyz^
 ||dns.justinnetworkingsolutions.com^
 ||adguard.k0rap.com^
