@@ -28,11 +28,6 @@
         "type":"hosts"
       },
       {
-            "name": "OISD",
-            "source": "https://abp.oisd.nl/",
-            "type": "adblock"
-      },
-      {
         "name": "Ad-wars",
         "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
         "type": "hosts"
