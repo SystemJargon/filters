@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-14T01:50:42.654Z
+! Last modified: 2023-07-15T01:49:50.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5149,6 +5149,7 @@
 ||ipoac.nl^
 ||ipunblocker.com^
 ||dns.ipv6dns.com^
+||ipvpn.info^
 ||ns1-doh.iriseden.fr^
 ||ns2-doh.iriseden.fr^
 ||irre.li^
@@ -5330,6 +5331,7 @@
 ||1a.ns.ozer.im^
 ||packetriot.net^
 ||dns.panszelescik.pl^
+||papervpn.info^
 ||doh.gcp.pathofgrace.com^
 ||fuchur.pentament.de^
 ||peoplesproxy.com^
@@ -5341,6 +5343,7 @@
 ||piaproxy.net^
 ||adguard.piekacz.pl^
 ||pingproxy.com^
+||pinweb.info^
 ||piratebayproxy.co^
 ||pixolium.com^
 ||pktriot.net^
@@ -5362,6 +5365,8 @@
 ||primeproxy23.info^
 ||printruns.us^
 ||printtools.us^
+||private-internet.info^
+||privatefb.info^
 ||dns.privilab.net^
 ||prontoproxy.info^
 ||propage.info^
@@ -5394,6 +5399,7 @@
 ||proxybuss.com^
 ||proxycab.com^
 ||proxyen.com^
+||proxyfort.com^
 ||proxygate.com^
 ||proxyhash.net^
 ||proxyinternet.info^
@@ -5455,6 +5461,7 @@
 ||schoolproxy.co^
 ||schooxy.com^
 ||dns.seby.io^
+||secure-vpn.info^
 ||selfadserver.com^
 ||dns.sellan.fr^
 ||pates.services.sfr.fr.casepp.sfr.fr^
