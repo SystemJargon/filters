@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-17T01:52:53.761Z
+! Last modified: 2023-07-18T02:00:20.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5340,7 +5340,6 @@
 ||phproxysite.com^
 ||phproxysite.org^
 ||piaproxy.net^
-||adguard.piekacz.pl^
 ||pingproxy.com^
 ||pinweb.info^
 ||piratebayproxy.co^
@@ -5658,7 +5657,6 @@
 ||xite.cc^
 ||xite.mobi^
 ||xite.ws^
-||yandex.com^
 ||lion.yazilimatolye.com^
 ||ychen.cf^
 ||ylink.info^
@@ -5672,7 +5670,6 @@
 ||adguard.zachitect.com^
 ||zagbit.com^
 ||zcoup.com^
-||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||dns.zfsystem.tech^
 ||zippyproxy.com^
