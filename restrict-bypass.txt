@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-19T02:50:10.560Z
+! Last modified: 2023-07-20T01:26:45.615Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -305,7 +305,6 @@
 ||doh.eastas.pi-dns.com^
 ||doh.eastau.pi-dns.com^
 ||doh.eastus.pi-dns.com^
-||doh.familyshield.opendns.com^
 ||doh.ffmuc.net^
 ||doh.futa.gg^
 ||doh.gslb2.xfinity.com^
@@ -324,7 +323,6 @@
 ||doh.quickline.ch^
 ||doh.rezhajul.io^
 ||doh.safesurfer.io^
-||doh.sandbox.opendns.com^
 ||doh.seby.io^
 ||doh.this.web.id^
 ||doh.tiar.app^
@@ -5318,6 +5316,8 @@
 ||kr2.ooroot.com^
 ||sg2.ooroot.com^
 ||tw2.ooroot.com^
+||familyshield.opendns.com^
+||sandbox.opendns.com^
 ||ns1.opennameserver.org^
 ||ns2.opennameserver.org^
 ||ns3.opennameserver.org^
@@ -5368,6 +5368,7 @@
 ||privatefb.info^
 ||dns.privilab.net^
 ||prohome.info^
+||project-evoex.de^
 ||prontoproxy.info^
 ||propage.info^
 ||prounlock.org^
@@ -5576,6 +5577,7 @@
 ||ultimatepro.us^
 ||ultrabestproxy.com^
 ||ultrafastproxy.com^
+||dns.umbrella.com^
 ||unblock.pink^
 ||unblocked.biz^
 ||unblocked2.info^
