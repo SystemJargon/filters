@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-20T01:26:45.615Z
+! Last modified: 2023-07-21T01:27:44.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -147,6 +147,8 @@
 ||cloakvpn.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflareclient.com^
+||cloudflareresolve.com^
 ||cloudssh.net^
 ||cloudssh.us^
 ||commons.host^
@@ -1336,7 +1338,6 @@
 ||ns.00dani.me^
 ||dns.0ooo.icu^
 ||16yd.com^
-||1proxy.de^
 ||1proxy.us^
 ||doh003.280blocker.net^
 ||2999.info^
@@ -1355,6 +1356,7 @@
 ||dns.5ososea.com^
 ||family.5ososea.com^
 ||kids.5ososea.com^
+||jp.68360612.xyz^
 ||7713.info^
 ||777surfer.info^
 ||dns.7vpn.com^
@@ -1429,7 +1431,6 @@
 ||jp-dns1.bancuh.com^
 ||sg-dns1.bancuh.com^
 ||base99.com^
-||bcandrade.ml^
 ||bdns.io^
 ||bdns.link^
 ||bdns.nu^
@@ -1621,7 +1622,6 @@
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
 ||fakeip.org^
-||dnsvps.familiamv.ml^
 ||dns.fancyorg.at^
 ||fastfreeproxy.info^
 ||fastieproxy.com^
@@ -5508,7 +5508,6 @@
 ||surfmo.com^
 ||surfsneaker.com^
 ||surfwithease.com^
-||surt.ml^
 ||swapip.com^
 ||dns.syaifullah.com^
 ||ihctw.synology.me^

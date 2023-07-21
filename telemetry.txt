@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-20T01:23:00.141Z
+! Last modified: 2023-07-21T01:24:03.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2661,7 +2661,22 @@ contents.beop.io
 
 # Xioami Mi TV
 ||sdkconfig.ad.intl.xiaomi.com^
+||us.cdpbeacon.lgtvcommon.com^
+||us.cdpsvc.lgtvcommon.com^
+||us.homeprv.lgtvcommon.com^
+||us.nudge.lgtvcommon.com^
+||us.rdl.lgtvcommon.com^
+||us.recommend.lgtvcommon.com^
+||us.lgsmartad.com^
+||us.service.lgtvcommon.com^
 ||tvx.adgrx.com^
+||control-zoo-dai-default.tvinteractive.tv^
+||mcp.tvinteractive.tv^
+||control2.tvinteractive.tv^
+||control.tvinteractive.tv^
+||tvmeta-dynamic.tvinteractive.tv^
+||alphonso.tv^
+||tv.ads.spotx.tv^
 
 # Xioami Mi TV
 
@@ -2677,8 +2692,6 @@ contents.beop.io
 ||mas-sdk.amazon.com^
 
 ||aax-eu.amazon-adsystem.com^
-
-||msh.amazon.co.uk^
 ||d3p8zr0ffa9t17.cloudfront.net^
 
 # third party
