@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-21T01:27:44.246Z
+! Last modified: 2023-07-22T01:26:57.385Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -19,6 +19,7 @@
 ||2.dnscrypt-cert.blahdns.com^
 ||2.dnscrypt-cert.browser.yandex.net^
 ||2.dnscrypt-cert.captnemo.in^
+||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
 ||2.dnscrypt-cert.pumplex.com^
@@ -75,6 +76,8 @@
 ||antidnsvpn.co.cc^
 ||antispam.vpnvps.com^
 ||antispam.vpsvpn.com^
+||anycast.censurfridns.dk^
+||anycast.uncensoreddns.org^
 ||asia.dnscepat.id^
 ||astrill.com^
 ||astrill.org^
@@ -237,6 +240,7 @@
 ||dns.larsdebruin.net^
 ||dns.mrkaran.dev^
 ||dns.neutopia.org^
+||dns.nextdns.io^
 ||dns.nixnet.xyz^
 ||dns.opendns.com^
 ||dns.oszx.co^
@@ -253,12 +257,14 @@
 ||dns0.eu^
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
+||dns1.nextdns.io^
 ||dns1.ryan-palmer.com^
 ||dns2.alekberg.net^
 ||dns2.developer.li^
 ||dns2.digitalcourage.de^
 ||dns2.digitale-gesellschaft.ch^
 ||dns2.dnscrypt.ca^
+||dns2.nextdns.io^
 ||dnscache.e-utp.net^
 ||dnscrypt-cert.oszx.co^
 ||dnses.alekberg.net^
@@ -1010,6 +1016,7 @@
 ||stayhidden.net^
 ||stealthvpn.com^
 ||stealthy.co^
+||steering.nextdns.io^
 ||stop-block.com^
 ||stopcensoring.me^
 ||strongvpn.com^
@@ -1155,6 +1162,8 @@
 ||unblockyoutubefree.net^
 ||unblockytproxy.com^
 ||undofilters.com^
+||unicast.censurfridns.dk^
+||unicast.uncensoreddns.org^
 ||unifiedvpn.com^
 ||unknownproxy.com^
 ||unlimitedvpnapp.com^
@@ -1346,7 +1355,6 @@
 ||2fastsurfer.us^
 ||2proxy.de^
 ||2proxy.us^
-||33253.com^
 ||3proxy.de^
 ||42kjb11.net^
 ||46sdzf3zdg1dxg2.us^
@@ -1474,7 +1482,6 @@
 ||dns2.cbio.top^
 ||cblocker.info^
 ||doh.ccb-net.it^
-||censurfridns.dk^
 ||centidoo.com^
 ||chaos-system.de^
 ||dns.chenu.ch^
@@ -5275,7 +5282,6 @@
 ||dns.neubsi.at^
 ||newads-cdn.com^
 ||doh.luigi.nexific.it^
-||nextdns.io^
 ||ngrok.io^
 ||dns.nhtsky.com^
 ||doh.nic.lv^
@@ -5461,7 +5467,6 @@
 ||schoolnewsletter.us^
 ||schoolproxy.co^
 ||schooxy.com^
-||dns.seby.io^
 ||secure-vpn.info^
 ||selfadserver.com^
 ||dns.sellan.fr^
@@ -5563,7 +5568,6 @@
 ||turkmen-helper.com^
 ||turmericrecipes.com^
 ||nat64.tuxis.nl^
-||dns-east.tylerwahl.com^
 ||typaza.com^
 ||u8sj3.com^
 ||uas2.com^
@@ -5590,7 +5594,6 @@
 ||unblockprox.com^
 ||unblockproxy.us^
 ||unblockyoutube.co^
-||uncensoreddns.org^
 ||dns.unerror.network^
 ||ines.zfn.uni-bremen.de^
 ||galileo.math.unipd.it^
