@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-24T01:28:21.869Z
+! Last modified: 2023-07-25T01:33:25.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1618,7 +1618,6 @@
 ||dns.ellichua.com^
 ||elshad-adgh-dns.ru^
 ||dns.emiliyan.com^
-||emuby.com^
 ||adguard.ender.fr^
 ||arashi.eu.org^
 ||armorrush.eu.org^
@@ -1644,7 +1643,6 @@
 ||filesdownloader.com^
 ||dns.filipccz.eu^
 ||dns01.flm9.net^
-||floating-rate.us^
 ||ns1.flodns.net^
 ||ns2.flodns.net^
 ||dns.flymc.cc^
@@ -1665,7 +1663,6 @@
 ||gabstorm.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||gameproxy.org^
 ||dns.beta.gandi.net^
 ||gang4.info^
 ||gclouddns.com^
@@ -2178,7 +2175,6 @@
 ||blade31.bucharest-rack402.nodes.gen4.ninja^
 ||blade33.bucharest-rack402.nodes.gen4.ninja^
 ||blade34.bucharest-rack402.nodes.gen4.ninja^
-||blade35.bucharest-rack402.nodes.gen4.ninja^
 ||blade37.bucharest-rack402.nodes.gen4.ninja^
 ||blade38.bucharest-rack402.nodes.gen4.ninja^
 ||blade39.bucharest-rack402.nodes.gen4.ninja^
@@ -2190,7 +2186,6 @@
 ||blade47.bucharest-rack402.nodes.gen4.ninja^
 ||blade48.bucharest-rack402.nodes.gen4.ninja^
 ||blade49.bucharest-rack402.nodes.gen4.ninja^
-||blade50.bucharest-rack402.nodes.gen4.ninja^
 ||blade51.bucharest-rack402.nodes.gen4.ninja^
 ||blade52.bucharest-rack402.nodes.gen4.ninja^
 ||blade53.bucharest-rack402.nodes.gen4.ninja^
@@ -2200,7 +2195,6 @@
 ||blade58.bucharest-rack402.nodes.gen4.ninja^
 ||blade6.bucharest-rack402.nodes.gen4.ninja^
 ||blade7.bucharest-rack402.nodes.gen4.ninja^
-||blade8.bucharest-rack402.nodes.gen4.ninja^
 ||blade9.bucharest-rack402.nodes.gen4.ninja^
 ||blade1.bucharest-rack452.nodes.gen4.ninja^
 ||blade10.bucharest-rack452.nodes.gen4.ninja^
@@ -2247,7 +2241,6 @@
 ||blade8.bucharest-rack481.nodes.gen4.ninja^
 ||blade1.bucharest-rack482.nodes.gen4.ninja^
 ||blade10.bucharest-rack482.nodes.gen4.ninja^
-||blade11.bucharest-rack482.nodes.gen4.ninja^
 ||blade12.bucharest-rack482.nodes.gen4.ninja^
 ||blade14.bucharest-rack482.nodes.gen4.ninja^
 ||blade2.bucharest-rack482.nodes.gen4.ninja^
@@ -2338,10 +2331,8 @@
 ||blade9.bucharest-rack488.nodes.gen4.ninja^
 ||blade10.bucharest-rack489.nodes.gen4.ninja^
 ||blade12.bucharest-rack489.nodes.gen4.ninja^
-||blade13.bucharest-rack489.nodes.gen4.ninja^
 ||blade14.bucharest-rack489.nodes.gen4.ninja^
 ||blade15.bucharest-rack489.nodes.gen4.ninja^
-||blade16.bucharest-rack489.nodes.gen4.ninja^
 ||blade17.bucharest-rack489.nodes.gen4.ninja^
 ||blade19.bucharest-rack489.nodes.gen4.ninja^
 ||blade2.bucharest-rack489.nodes.gen4.ninja^
@@ -2360,11 +2351,9 @@
 ||blade16.bucharest-rack490.nodes.gen4.ninja^
 ||blade17.bucharest-rack490.nodes.gen4.ninja^
 ||blade18.bucharest-rack490.nodes.gen4.ninja^
-||blade19.bucharest-rack490.nodes.gen4.ninja^
 ||blade2.bucharest-rack490.nodes.gen4.ninja^
 ||blade20.bucharest-rack490.nodes.gen4.ninja^
 ||blade3.bucharest-rack490.nodes.gen4.ninja^
-||blade4.bucharest-rack490.nodes.gen4.ninja^
 ||blade5.bucharest-rack490.nodes.gen4.ninja^
 ||blade6.bucharest-rack490.nodes.gen4.ninja^
 ||blade9.bucharest-rack490.nodes.gen4.ninja^
@@ -2543,51 +2532,6 @@
 ||blade7.chicago-rack409.nodes.gen4.ninja^
 ||blade8.chicago-rack409.nodes.gen4.ninja^
 ||blade9.chicago-rack409.nodes.gen4.ninja^
-||blade1.chicago-rack410.nodes.gen4.ninja^
-||blade10.chicago-rack410.nodes.gen4.ninja^
-||blade12.chicago-rack410.nodes.gen4.ninja^
-||blade13.chicago-rack410.nodes.gen4.ninja^
-||blade15.chicago-rack410.nodes.gen4.ninja^
-||blade17.chicago-rack410.nodes.gen4.ninja^
-||blade18.chicago-rack410.nodes.gen4.ninja^
-||blade19.chicago-rack410.nodes.gen4.ninja^
-||blade20.chicago-rack410.nodes.gen4.ninja^
-||blade21.chicago-rack410.nodes.gen4.ninja^
-||blade22.chicago-rack410.nodes.gen4.ninja^
-||blade23.chicago-rack410.nodes.gen4.ninja^
-||blade25.chicago-rack410.nodes.gen4.ninja^
-||blade27.chicago-rack410.nodes.gen4.ninja^
-||blade28.chicago-rack410.nodes.gen4.ninja^
-||blade3.chicago-rack410.nodes.gen4.ninja^
-||blade30.chicago-rack410.nodes.gen4.ninja^
-||blade31.chicago-rack410.nodes.gen4.ninja^
-||blade32.chicago-rack410.nodes.gen4.ninja^
-||blade34.chicago-rack410.nodes.gen4.ninja^
-||blade35.chicago-rack410.nodes.gen4.ninja^
-||blade37.chicago-rack410.nodes.gen4.ninja^
-||blade38.chicago-rack410.nodes.gen4.ninja^
-||blade39.chicago-rack410.nodes.gen4.ninja^
-||blade4.chicago-rack410.nodes.gen4.ninja^
-||blade40.chicago-rack410.nodes.gen4.ninja^
-||blade41.chicago-rack410.nodes.gen4.ninja^
-||blade42.chicago-rack410.nodes.gen4.ninja^
-||blade44.chicago-rack410.nodes.gen4.ninja^
-||blade45.chicago-rack410.nodes.gen4.ninja^
-||blade46.chicago-rack410.nodes.gen4.ninja^
-||blade47.chicago-rack410.nodes.gen4.ninja^
-||blade48.chicago-rack410.nodes.gen4.ninja^
-||blade49.chicago-rack410.nodes.gen4.ninja^
-||blade50.chicago-rack410.nodes.gen4.ninja^
-||blade53.chicago-rack410.nodes.gen4.ninja^
-||blade54.chicago-rack410.nodes.gen4.ninja^
-||blade56.chicago-rack410.nodes.gen4.ninja^
-||blade57.chicago-rack410.nodes.gen4.ninja^
-||blade58.chicago-rack410.nodes.gen4.ninja^
-||blade59.chicago-rack410.nodes.gen4.ninja^
-||blade6.chicago-rack410.nodes.gen4.ninja^
-||blade7.chicago-rack410.nodes.gen4.ninja^
-||blade8.chicago-rack410.nodes.gen4.ninja^
-||blade9.chicago-rack410.nodes.gen4.ninja^
 ||blade1.chisinau-rack401.nodes.gen4.ninja^
 ||blade4.chisinau-rack401.nodes.gen4.ninja^
 ||blade2.chisinau-rack451.nodes.gen4.ninja^
@@ -3781,7 +3725,6 @@
 ||blade1.newyork-rack451.nodes.gen4.ninja^
 ||blade10.newyork-rack451.nodes.gen4.ninja^
 ||blade11.newyork-rack451.nodes.gen4.ninja^
-||blade12.newyork-rack451.nodes.gen4.ninja^
 ||blade13.newyork-rack451.nodes.gen4.ninja^
 ||blade14.newyork-rack451.nodes.gen4.ninja^
 ||blade15.newyork-rack451.nodes.gen4.ninja^
@@ -5086,7 +5029,6 @@
 ||gratisproxy.nl^
 ||greenpass.info^
 ||dns.grqu.de^
-||guesses.info^
 ||gumm.org^
 ||gztech.me^
 ||dns.hahnjo.de^
