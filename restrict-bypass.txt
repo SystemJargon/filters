@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-07-26T01:28:04.985Z
+! Last modified: 2023-07-27T01:18:48.294Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5226,7 +5226,6 @@
 ||dns.nhtsky.com^
 ||doh.nic.lv^
 ||adguard.nielsvoorn.nl^
-||ninjaproxy.ninja^
 ||doh.niyawe.de^
 ||resolver.noaddns.com^
 ||pi1.node15.com^
@@ -5248,7 +5247,6 @@
 ||doh.onedns.net^
 ||secure.onedns.cc^
 ||onion.am^
-||onion.ca^
 ||onion.lt^
 ||onion.lu^
 ||onion.nu^
@@ -5615,6 +5613,7 @@
 ||adguard.zachitect.com^
 ||zagbit.com^
 ||zcoup.com^
+||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||dns.zfsystem.tech^
 ||zippyproxy.com^
