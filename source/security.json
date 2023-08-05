@@ -10,10 +10,6 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt",
 		          "type":"hosts"
       },
