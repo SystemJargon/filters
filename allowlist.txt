@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-05T05:12:49.129Z
+! Last modified: 2023-08-06T01:18:03.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -212,7 +212,8 @@ firebog.net
 v.firebog.net
 hostfiles.frogeye.fr
 adaway.org
-
+# add akamai.net for CDN. Some subdomains could be blocked if related to advertising. But blocking just akamai.net breaks quite alot of websites
+akamai.net
 !
 ! Source name: Signal
 ! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt

@@ -1,6 +1,6 @@
 !
 ! Title: Adblocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-05T05:04:33.875Z
+! Last modified: 2023-08-06T01:08:28.690Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136038,7 +136038,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-08-05T00:02:36.032Z
+! Last modified: 2023-08-06T00:02:57.893Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136056,6 +136056,8 @@
 !
 !
 !
+||idydlesswale.info^
+||ucationininancee.info
 ||lumpyactive.com^
 ||adolescentshirt.com^
 ||porgruite.com^
@@ -136157,6 +136159,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d1o6lu9dr4t13s.cloudfront.net^
 ||zap.cdn.zynga.com^
 ||prebid-*.rubiconproject.com^
 
@@ -140435,6 +140438,7 @@ inapps.appsflyersdk.com^
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bnds4.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
 ||boewgph.icu^
@@ -140481,6 +140485,7 @@ inapps.appsflyersdk.com^
 ||dosre12.xyz^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
+||dwfjtz.xyz^
 ||dyeperd.icu^
 ||dzkwj0y.xyz^
 ||eamqbaqzaewwq.top^
@@ -140501,8 +140506,10 @@ inapps.appsflyersdk.com^
 ||ewfsef.com^
 ||eyq3nog.icu^
 ||fantuan.name^
+||fcbqxt.xyz^
 ||fddxbn.xyz^
 ||feiln.xyz^
+||fengyukun03.cn^
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
@@ -140522,6 +140529,7 @@ inapps.appsflyersdk.com^
 ||gyutmrp.com^
 ||hanwdsii.com^
 ||hasgde.site^
+||hbqabbg.cn^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
@@ -140573,6 +140581,7 @@ inapps.appsflyersdk.com^
 ||jochenanabata.guru^
 ||jokerlulm.com^
 ||jpqed.xyz^
+||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jrmrijv.icu^
 ||jslbaha.top^
@@ -140582,6 +140591,7 @@ inapps.appsflyersdk.com^
 ||jutwzssh.icu^
 ||jvjlkih.com^
 ||jzdgn.cn^
+||jzdwl4.cn^
 ||jzixypd.icu^
 ||jzxpxj.xyz^
 ||kahgjjd.com^
@@ -140590,6 +140600,7 @@ inapps.appsflyersdk.com^
 ||kgeesh.site^
 ||kklpe.xyz^
 ||kljslku.com^
+||klufjdo.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
 ||kqubxdb.cn^
@@ -140644,6 +140655,7 @@ inapps.appsflyersdk.com^
 ||nunxhv.com^
 ||nxhwvt.xyz^
 ||oifyeldk.top^
+||oijmds.com^
 ||oiunga.com^
 ||okmhmkjnm.com^
 ||one6u.xyz^
@@ -140673,6 +140685,7 @@ inapps.appsflyersdk.com^
 ||qselic.top^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
+||rdbousn.cn^
 ||rddsjx.xyz^
 ||rdufuxr.icu^
 ||relafp.xyz^
@@ -140728,6 +140741,7 @@ inapps.appsflyersdk.com^
 ||uxtruz.xyz^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
+||vcydyzd.icu^
 ||vhjxrj.xyz^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
@@ -140781,16 +140795,13 @@ inapps.appsflyersdk.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||bnds4.site^
-||klufjdo.com^
-||rdbousn.cn^
-||vcydyzd.icu^
-||fengyukun03.cn^
-||hbqabbg.cn^
-||jzdwl4.cn^
-||fcbqxt.xyz^
-||dwfjtz.xyz^
-||oijmds.com^
+||nmdotj.xyz^
+||dfgpifa.com^
+||canser5.top^
+||yegziyf.cn^
+||foirkrt.icu^
+||mnhknds.com^
+||dghkpp.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -141190,6 +141201,7 @@ analytics-*.aasaam.com
 
 # >> T <<
 
+||analytics.telewebion.com^
 
 # >> U <<
 
@@ -164629,7 +164641,7 @@ Snippets
 Blame
 History
 Permalink
-ede03113
+66f28d1b
 
 
 !
