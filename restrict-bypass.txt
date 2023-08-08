@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-07T01:22:18.947Z
+! Last modified: 2023-08-08T01:14:56.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1567,7 +1567,6 @@
 ||unblock-proxy.com.de^
 ||webproxy.com.de^
 ||brightvpn.comacevpn.com^
-||dns.comeonjames.club^
 ||confirmedvpn.com^
 ||dns1.conne.net^
 ||dns.connect.fail^
@@ -1621,16 +1620,12 @@
 ||domainownership.us^
 ||doomshadow.com^
 ||ns1.dotls.org^
-||doh.dscloud.me^
 ||duapps.com^
 ||aattwwss.duckdns.org^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
-||punono.duckdns.org^
-||tuandns.duckdns.org^
-||tungdnsne.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dutchwhite.nl^
@@ -1944,7 +1939,6 @@
 ||dns.hafidzradhival.my.id^
 ||id.terra.my.id^
 ||dns.vmath.my.id^
-||dgca.myds.me^
 ||myip-proxy.info^
 ||myiphide.com^
 ||blackhole.myon.lu^
@@ -2206,7 +2200,6 @@
 ||seedboxes.cc^
 ||selfadserver.com^
 ||dns.sellan.fr^
-||pates.services.sfr.fr.casepp.sfr.fr^
 ||shadeyouvpn.com^
 ||shalenkov.dev^
 ||sharejav.com^
@@ -2267,7 +2260,6 @@
 ||swapip.com^
 ||switchvpn.net^
 ||dns.syaifullah.com^
-||ihctw.synology.me^
 ||a-bld.sys-adm.in^
 ||bld.sys-adm.in^
 ||doh.syshero.org^
