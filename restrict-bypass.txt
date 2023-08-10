@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-08T01:14:56.309Z
+! Last modified: 2023-08-10T01:19:42.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1435,6 +1435,7 @@
 ||secure.avastdns.com^
 ||adguard.avdkishore.dev^
 ||awabo.com^
+||award-vpn.com^
 ||dns.azsopro.net^
 ||b-dns.se^
 ||dns.b33.space^
@@ -1567,12 +1568,14 @@
 ||unblock-proxy.com.de^
 ||webproxy.com.de^
 ||brightvpn.comacevpn.com^
+||dns.comeonjames.club^
 ||confirmedvpn.com^
 ||dns1.conne.net^
 ||dns.connect.fail^
 ||contentabc.com^
 ||covertproxy.com^
 ||crashes-analysis.com^
+||crawlbase.com^
 ||crazysurfer.info^
 ||crownproxy.com^
 ||crushus.com^
@@ -1609,6 +1612,7 @@
 ||doh.dns4all.eu^
 ||dns4me.net^
 ||dns8.org^
+||dnschecker.org^
 ||do.dnscrypt.uk^
 ||dns1.ipv6.dnscrypt.ca^
 ||dns2.ipv6.dnscrypt.ca^
@@ -1620,12 +1624,16 @@
 ||domainownership.us^
 ||doomshadow.com^
 ||ns1.dotls.org^
+||doh.dscloud.me^
 ||duapps.com^
 ||aattwwss.duckdns.org^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
+||punono.duckdns.org^
+||tuandns.duckdns.org^
+||tungdnsne.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dutchwhite.nl^
@@ -1635,6 +1643,7 @@
 ||gustamadh.dynv6.net^
 ||vpngermany.dzzz.info^
 ||easyhandshake.com^
+||easyvpn.com^
 ||ebumna.net^
 ||dns.eddi.net^
 ||dns.edison42.dev^
@@ -1751,6 +1760,7 @@
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||dns.haoxuan.xyz^
+||hauxcore.de^
 ||us-ny-alula.heliumcloud.cc^
 ||betternet-backend.herokuapp.com^
 ||ad1.heronet.nl^
@@ -1835,13 +1845,16 @@
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||tj.jamesxue.xyz^
+||jellyvpn.com^
 ||doh.jeroenhd.nl^
 ||jetbean.com^
+||jetproxy.com^
 ||jfalling.com^
 ||adguard.jfchenier.ca^
 ||adg.jnorton.us^
 ||adguard1.jsanagustin.net^
 ||judua3rtinpst0s.xyz^
+||juproxy.com^
 ||dns.justinnetworkingsolutions.com^
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
@@ -1905,6 +1918,7 @@
 ||adguard.meddy94.de^
 ||dns.meeo.win^
 ||meganerd.nl^
+||megaproxylist.net^
 ||httpdns.meituan.com^
 ||dns.melalandia.tk^
 ||testaghome.meshkov.info^
@@ -1939,6 +1953,8 @@
 ||dns.hafidzradhival.my.id^
 ||id.terra.my.id^
 ||dns.vmath.my.id^
+||ssl-proxy.my-addr.com^
+||dgca.myds.me^
 ||myip-proxy.info^
 ||myiphide.com^
 ||blackhole.myon.lu^
@@ -1990,6 +2006,7 @@
 ||ns3.com^
 ||ns3.cx^
 ||ns3.link^
+||nslookup.io^
 ||dns.nullgate.net^
 ||nur68cnnc5.com^
 ||o1.lt^
@@ -2021,6 +2038,7 @@
 ||ns2.opennameserver.org^
 ||ns3.opennameserver.org^
 ||ns4.opennameserver.org^
+||openproxy.space^
 ||openvpn.cc^
 ||openzend.com^
 ||dns.eu-frankfurt-1.oraclecloud.com^
@@ -2032,12 +2050,16 @@
 ||oystervpn.com^
 ||1a.ns.ozer.im^
 ||packetriot.net^
+||unblockit.pages.dev^
 ||paladinvpn.com^
 ||pandapow.co^
 ||pandapow.io^
+||pandasecurity.com^
 ||dns.panszelescik.pl^
 ||papervpn.info^
 ||doh.gcp.pathofgrace.com^
+||pbproxy.red^
+||pbproxy2.co^
 ||pc-streaming.com^
 ||fuchur.pentament.de^
 ||peoplesproxy.com^
@@ -2077,6 +2099,7 @@
 ||privacyprotector.eu^
 ||private-internet.info^
 ||privatefb.info^
+||privateproxy.me^
 ||privatewifi.com^
 ||dns.privilab.net^
 ||privoxy.org^
@@ -2105,16 +2128,22 @@
 ||proxy.sx^
 ||proxy-123.com^
 ||proxy-german.de^
+||proxy-n-vpn.com^
 ||proxy-search.com^
 ||proxy-seller.com^
 ||proxy-youtube.net^
 ||proxy4free.me^
 ||proxybits.com^
+||proxybros.com^
 ||proxybrowser.info^
 ||proxybrowser.org^
 ||proxybuss.com^
 ||proxycab.com^
 ||proxydrop.com^
+||proxydude.faith^
+||proxydude.red^
+||proxydude.xyz^
+||proxyelite.info^
 ||proxyen.com^
 ||proxyfort.com^
 ||proxygate.com^
@@ -2122,6 +2151,7 @@
 ||proxyhash.net^
 ||proxyinternet.info^
 ||proxyist.com^
+||proxyium.com^
 ||proxyness.com^
 ||proxyoutlet.com^
 ||proxyprivate.info^
@@ -2129,9 +2159,11 @@
 ||proxyscope.com^
 ||proxysheep.com^
 ||proxysite.site^
+||proxysite.us^
 ||proxysurfing.org^
 ||proxytime.net^
 ||proxyunlock.com^
+||proxyway.com^
 ||psiphon.ca^
 ||psiphon3.com^
 ||pupilproxy.com^
@@ -2166,6 +2198,7 @@
 ||resolver.rferee.dev^
 ||ricko.is^
 ||dns.rin.sh^
+||riseup.net^
 ||rocketprox.com^
 ||dns.ronc.ru^
 ||roodel.com^
@@ -2200,6 +2233,7 @@
 ||seedboxes.cc^
 ||selfadserver.com^
 ||dns.sellan.fr^
+||pates.services.sfr.fr.casepp.sfr.fr^
 ||shadeyouvpn.com^
 ||shalenkov.dev^
 ||sharejav.com^
@@ -2233,6 +2267,7 @@
 ||doh.southam.family^
 ||spacedns.org^
 ||spicevpn.com^
+||sslunblocker.com^
 ||doh.ntu.ssooss.win^
 ||ag.ssrahul96.xyz^
 ||starruby.us^
@@ -2241,6 +2276,7 @@
 ||staticnetcontent.com^
 ||steganos.com^
 ||dns.stevenz.net^
+||stormproxies.com^
 ||streamvia.com^
 ||streamvpn.com^
 ||studysurf.com^
@@ -2260,6 +2296,7 @@
 ||swapip.com^
 ||switchvpn.net^
 ||dns.syaifullah.com^
+||ihctw.synology.me^
 ||a-bld.sys-adm.in^
 ||bld.sys-adm.in^
 ||doh.syshero.org^
@@ -2271,6 +2308,7 @@
 ||tblocker.info^
 ||tbunet.com^
 ||dns.telekom.de^
+||telleport.me^
 ||de.teradns.org^
 ||ny.teradns.org^
 ||sg.teradns.org^
@@ -2316,6 +2354,7 @@
 ||nebula.tru.io^
 ||trueproxy.com^
 ||dns.truong.fi^
+||trustedproxies.com^
 ||doh.ibr.cs.tu-bs.de^
 ||turkmen-helper.com^
 ||turmericrecipes.com^
@@ -2335,6 +2374,7 @@
 ||ultrabestproxy.com^
 ||ultrafastproxy.com^
 ||dns.umbrella.com^
+||unbl4you.lol^
 ||unblock.pink^
 ||unblock-us.com^
 ||unblocked.biz^
@@ -2346,9 +2386,14 @@
 ||unblockfacebook.eu^
 ||unblockit.app^
 ||unblockme.us^
+||unblockmywebsite.com^
 ||unblockprox.com^
 ||unblockproxy.us^
 ||unblockproxy.win^
+||unblocksite.org^
+||unblocksites.online^
+||unblockweb.one^
+||unblockwebsites.com^
 ||unblockyoutube.co^
 ||dns.unerror.network^
 ||ines.zfn.uni-bremen.de^
@@ -2359,6 +2404,7 @@
 ||resolver.unstoppable.io^
 ||untraceable.us^
 ||untracer.com^
+||uproxy.online^
 ||url10.org^
 ||webproxy.us.com^
 ||usaip.eu^
@@ -2383,10 +2429,12 @@
 ||vpn.ht^
 ||vpn.org^
 ||vpn.sh^
+||vpn-free.download^
 ||vpn-service.us^
 ||vpn4all.com^
 ||vpnarea.com^
 ||vpnbaron.com^
+||vpncast.comroxys^
 ||vpncentral.com^
 ||vpndaily.com^
 ||vpnhost.info^
@@ -2397,6 +2445,7 @@
 ||vpnneo.com^
 ||vpnoneclick.com^
 ||vpnproxy.info^
+||vpnproxy.site^
 ||vpnranks.com^
 ||vpnreactor.com^
 ||vpnsecure.me^
@@ -2429,6 +2478,7 @@
 ||doh.wewitro.net^
 ||wez.fr^
 ||whatsonthebox.net^
+||whitehatvpn.com^
 ||whyproxy.com^
 ||widevpn.com^
 ||wiksa.com^
@@ -2439,6 +2489,7 @@
 ||workarena.info^
 ||workbypass.com^
 ||workdigi.com^
+||workingvpn.com^
 ||workstudyplay.com^
 ||worldgravityapp.com^
 ||worldvpn.net^
