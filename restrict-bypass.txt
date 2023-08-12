@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-11T01:04:52.026Z
+! Last modified: 2023-08-12T01:05:15.848Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1391,6 +1391,7 @@
 ||us-east.adhole.org^
 ||dns.adrianlam.com^
 ||ads-help-link2.com^
+||advancedvpn.com^
 ||shield.afixer.app^
 ||blitz-setup.ahadns.com^
 ||airdns.org^
@@ -1539,6 +1540,7 @@
 ||sbdns.co.in^
 ||dns.spil.co.id^
 ||uk-proxy.co.uk^
+||unblocksites.co.uk^
 ||vpncompare.co.uk^
 ||webproxy.co.at^
 ||cocoombr.com^
@@ -1578,6 +1580,7 @@
 ||crawlbase.com^
 ||crazysurfer.info^
 ||crownproxy.com^
+||croxy.red^
 ||crushus.com^
 ||cryptovpn.com^
 ||dotdns.cryptroute.com^
@@ -1592,6 +1595,7 @@
 ||mail.data.haus^
 ||doh.datacore.ch^
 ||doh.datahata.by^
+||datatech.icu^
 ||dns.david888.com^
 ||dns.daw.dev^
 ||adguard.dekonix.ru^
@@ -1702,6 +1706,8 @@
 ||freehollandproxy.nl^
 ||freemicvpn.com^
 ||freeproxyaccess.com^
+||freeproxysites.co^
+||freeproxyupdate.com^
 ||freevpn.pw^
 ||freevpnplanet.com^
 ||freewebproxyserver.net^
@@ -2133,6 +2139,7 @@
 ||proxy-seller.com^
 ||proxy-youtube.net^
 ||proxy4free.me^
+||proxyarab.com^
 ||proxybits.com^
 ||proxybros.com^
 ||proxybrowser.info^
@@ -2158,6 +2165,8 @@
 ||proxysan.info^
 ||proxyscope.com^
 ||proxysheep.com^
+||proxysite.page^
+||proxysite.pro^
 ||proxysite.site^
 ||proxysite.us^
 ||proxysurfing.org^
@@ -2270,6 +2279,7 @@
 ||sslunblocker.com^
 ||doh.ntu.ssooss.win^
 ||ag.ssrahul96.xyz^
+||stackfront.xyz^
 ||starruby.us^
 ||dns.startupstack.tech^
 ||starvpn.com^
@@ -2472,6 +2482,7 @@
 ||webshare.io^
 ||janvet.website.pl^
 ||websitebypass.com^
+||websiteproxy.net^
 ||websynchrony.com^
 ||webxify.com^
 ||webypass.info^
