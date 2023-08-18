@@ -1,6 +1,6 @@
 !
 ! Title: Security Lists - Aggregated by github.com/systemjargon. Removed overlap from firebog-ticklist.txt and phishing.txt
-! Last modified: 2023-08-17T00:59:23.518Z
+! Last modified: 2023-08-18T01:00:02.787Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -85,6 +85,7 @@
 ||17381738.com^
 ||1782.htn1788.net^
 ||17collaborate.xyz^
+||17f84.jssiuhr.com^
 ||17gamming.com^
 ||17joke.com^
 ||17kshop.com^
@@ -116,6 +117,7 @@
 ||1c4a2a84t.com^
 ||1copfeida.com^
 ||1copjieda.com^
+||1defiwalletweb3.bio^
 ||1dollarcryptogangstar.com^
 ||1e01.co^
 ||1ghsminingfarm.com^
@@ -721,6 +723,7 @@
 ||a.885883.cn^
 ||a.anhdty.com^
 ||a.avainvestr.com^
+||a.b.tw3368.top^
 ||a.b.tw692.top^
 ||a.b.tw718.top^
 ||a.bycp23.com^
@@ -737,6 +740,7 @@
 ||a.linesea.me^
 ||a.linesea.site^
 ||a.m84.icu^
+||a.mazonshopm.com^
 ||a.mazonshops.com^
 ||a.mc62.cn^
 ||a.mf122.cn^
@@ -904,6 +908,7 @@
 ||aavemobilecoin.com^
 ||aaveontology.com^
 ||aaveprofinance.com^
+||aavepromaxfinance.com^
 ||aaveprotrade.xyz^
 ||aaveprox.com^
 ||aavesafepal.com^
@@ -1278,6 +1283,7 @@
 ||aetosszonetws.com^
 ||aetxmining.com^
 ||aex-china.com^
+||aexange.com^
 ||aexbitpro.vip^
 ||aexcrypto.com^
 ||aexft.com^
@@ -1362,6 +1368,7 @@
 ||agtfrxtraders.com^
 ||agtkantors.com^
 ||agustrading.com^
+||agvglobaltech.com^
 ||agweb01.com^
 ||agyayu.com^
 ||ah.qjzalid.cn^
@@ -1433,6 +1440,7 @@
 ||air666.homles.city^
 ||aircarbon.exchange^
 ||aircargoexpinc.online^
+||aircash.cc^
 ||aircorex.org^
 ||airdropminepi.com^
 ||airdroppro.site^
@@ -1450,6 +1458,7 @@
 ||aismex.com^
 ||aismexd.com^
 ||aismexg.com^
+||aismexk.com^
 ||aismexks.com^
 ||aismexq.com^
 ||aismexr.com^
@@ -1571,11 +1580,13 @@
 ||alibaba-seller.com^
 ||alibaba18.vip^
 ||alibabasg.com^
+||alibabavoucher.com^
 ||alichainex.com^
 ||alicryptotrades.com^
 ||alienexchange.org^
 ||aliexpress-shop.vip^
 ||alignedapp.life^
+||alisoso-shop.com^
 ||alixpabn.com^
 ||alksg.com^
 ||allaboutfxbroker.com^
@@ -1590,6 +1601,7 @@
 ||allcrypton.com^
 ||allegianceprime-fx.com^
 ||allemall.com^
+||allemall.vip^
 ||allencapital.online^
 ||allepro.shop^
 ||alleviatedebtfx.com^
@@ -1682,6 +1694,7 @@
 ||alphaminvestment.com^
 ||alphapaytrading.com^
 ||alphapremiumfx.com^
+||alphaprideinvestment.com^
 ||alphaprofits-mining.com^
 ||alphascrypto.com^
 ||alphasignex.com^
@@ -1832,6 +1845,7 @@
 ||ameiat.vip^
 ||ameidp.vip^
 ||ameids.vip^
+||ameits.vip^
 ||amekts.vip^
 ||amendaex.com^
 ||amerainvests.trade^
@@ -1877,6 +1891,7 @@
 ||ammuni.shop^
 ||ammuni.top^
 ||ammuplan.com^
+||amobbuy.com^
 ||amodfxmining.com^
 ||amplemine.com^
 ||amplifydefi.club^
@@ -1888,6 +1903,7 @@
 ||ams198.net^
 ||amsinvestpty.com^
 ||amtmfx.com^
+||amtop-pro.com^
 ||amtop.top^
 ||amtop.xyz^
 ||amtopco.com^
@@ -1895,6 +1911,7 @@
 ||amtopex.com^
 ||amtopforex.com^
 ||amtopfx.online^
+||amtopokx.com^
 ||amwns.99679.xyz^
 ||amwns.am-g.live^
 ||amy-fx.net^
@@ -2225,6 +2242,7 @@
 ||apogeetrades.com^
 ||apollo-investment-trade.com^
 ||apollosw.com^
+||apolloxexp.com^
 ||apothekelimited.com^
 ||app-150732.amztpss.xyz^
 ||app-bitfiehx.top^
@@ -2308,6 +2326,7 @@
 ||app.didisdbg.com^
 ||app.djdjwo.com^
 ||app.djgfskyv.com^
+||app.djqwiewhq.com^
 ||app.dongzhenggp.com^
 ||app.droprich.co^
 ||app.dsuyreitr.com^
@@ -2373,6 +2392,7 @@
 ||app.kelakenxia.xyz^
 ||app.kineprodn.bar^
 ||app.kingchoice2.me^
+||app.kingchoice2023.me^
 ||app.kkyyipa.com^
 ||app.kpcb66.com^
 ||app.kpcb77.com^
@@ -2393,6 +2413,7 @@
 ||app.maxcurrency.net^
 ||app.maxprofitsexchange.com^
 ||app.mbtcet.com^
+||app.mdbgughf.com^
 ||app.mngrnhjasq.com^
 ||app.monday1.org^
 ||app.mozmcg.com^
@@ -2409,6 +2430,7 @@
 ||app.oamxjnhg.com^
 ||app.ocaiwkjemq.com^
 ||app.odfhdff.com^
+||app.odhgufdg.com^
 ||app.ogcwallet.com^
 ||app.okex-global.xyz^
 ||app.pdaneb.top^
@@ -2623,6 +2645,7 @@
 ||arexr99.jobscoiinesz.com^
 ||arexr99.jobscoiineszs.com^
 ||arexr99.jobscoioeszs.com^
+||arexr99.jobscroes.com^
 ||arftxbot.com^
 ||argamishtradingclub.org^
 ||argo-capitaltrade.com^
@@ -2699,6 +2722,7 @@
 ||ascendex-index.com^
 ||ascendex-miningdefi.com^
 ||ascendex-miningweb.com^
+||ascendex.top^
 ||ascendexalgorand.com^
 ||ascendexaudius.com^
 ||ascendexcfx.com^
@@ -2753,6 +2777,7 @@
 ||asia.pepperstone-twstone.com^
 ||asia.qoo1otwn.com^
 ||asia.wanhuitrc.com^
+||asia.yajewi.com^
 ||asia.yajhbtae.com^
 ||asia.yajhdb.com^
 ||asia5fx.com^
@@ -3304,6 +3329,7 @@
 ||aztekmine.ltd^
 ||aztekprimexchange.com^
 ||aztradec.com^
+||aztraded.com^
 ||aztradeda.com^
 ||aztradedb.com^
 ||aztrading.live^
@@ -3505,6 +3531,7 @@
 ||bb1.ziiearyes.com^
 ||bb2.ziiearaties.com^
 ||bb2581.com^
+||bba-shopping.top^
 ||bba.frameb998.com^
 ||bbankcointw.com^
 ||bbankpower.com^
@@ -3585,6 +3612,7 @@
 ||bcioms.com^
 ||bckavip.com^
 ||bckivip.com^
+||bckmvip.com^
 ||bcl-bone.com^
 ||bcl-trade.net^
 ||bcloudminer.com^
@@ -3714,6 +3742,7 @@
 ||bep20alicecoinmigrate.live^
 ||bep8888.com^
 ||bepbits.com^
+||bepumarkets.com^
 ||bequence.com^
 ||berat-fx.com^
 ||berayd.xyz^
@@ -4253,6 +4282,7 @@
 ||bingx.com^
 ||bingxcoins.com^
 ||bingxcopytrade.com^
+||bingxpro.net^
 ||binlegtrade.com^
 ||binnoexfxtm.com^
 ||binocryptotrade.com^
@@ -5130,6 +5160,7 @@
 ||bitdiamondxtra.com^
 ||bitdiamondxtra.net^
 ||bitdigitatrading.com^
+||bitdju.com^
 ||bitdog.com^
 ||bitdoll.pro^
 ||bitdote.com^
@@ -5315,6 +5346,7 @@
 ||bitfinex-defipro.com^
 ||bitfinex-defipromax.com^
 ||bitfinex-giveway.com^
+||bitfinex-vp.com^
 ||bitfinex.com^
 ||bitfinex07.top^
 ||bitfinex11.top^
@@ -5484,6 +5516,7 @@
 ||bitget.market^
 ||bitgetab.vip^
 ||bitgetac.vip^
+||bitgetah.com^
 ||bitgetapp.com^
 ||bitgetcoin.shop^
 ||bitgetcrypto.com^
@@ -5916,6 +5949,7 @@
 ||bitmicroethnode.com^
 ||bitmillion.app^
 ||bitmillion.cc^
+||bitmillion.one^
 ||bitmillionwin.com^
 ||bitmin-vest.com^
 ||bitmin.pro^
@@ -6331,6 +6365,7 @@
 ||bitrexltd.com^
 ||bitrexswap.fun^
 ||bitribee.vip^
+||bitrich555.top^
 ||bitrise.online^
 ||bitrise.world^
 ||bitrised.com^
@@ -6377,6 +6412,7 @@
 ||bitruebes.com^
 ||bitruecoinexs.com^
 ||bitruecoinup.com^
+||bitruecrypto.com^
 ||bitrueery.com^
 ||bitrueex.com^
 ||bitrueexchana.com^
@@ -6600,6 +6636,7 @@
 ||bitstarzcasino.net^
 ||bitstemp.com^
 ||bitsten-crypto.com^
+||bitsten-otc.com^
 ||bitsten.org^
 ||bitsten.top^
 ||bitstenb2c.com^
@@ -6967,6 +7004,7 @@
 ||bitzucoin.com^
 ||bitzum.net^
 ||bitzzex.com^
+||biud.top^
 ||biueex.me^
 ||biuuex.com^
 ||bivertycoinvest.com^
@@ -6979,6 +7017,7 @@
 ||bixtcoin.net^
 ||biyicoin.com^
 ||biz-ex.cc^
+||bizatasni.com^
 ||bizcoin.gives^
 ||bizcoin.pro^
 ||bizcoininvestments.com^
@@ -6989,6 +7028,8 @@
 ||bizfundingco.com^
 ||bizinvestmgmt.com^
 ||biznesklass.com^
+||bizoc.btfinn1eks.top^
+||bizoc.btfnets.top^
 ||bizoptxtrade.com^
 ||bizoucoin.com^
 ||bizrcoin.com^
@@ -7089,6 +7130,7 @@
 ||blkvipex.com^
 ||blmexf.top^
 ||blmexh.top^
+||blmexj.top^
 ||blochainfxpayment.com^
 ||blochaintrade.com^
 ||block-crypt.com^
@@ -7204,6 +7246,7 @@
 ||bluefoxinvestment.com^
 ||bluefxplanets.com^
 ||bluefxtrade.com^
+||bluegldfx.com^
 ||bluehaleinvest.org^
 ||bluelephantexpress.com.co^
 ||bluelephantexpress.site^
@@ -7287,6 +7330,7 @@
 ||bnbpexpay.com^
 ||bnbpro.me^
 ||bnbrr.com^
+||bnbtr.net^
 ||bnbview.com^
 ||bncdd.com^
 ||bne.honda6.com^
@@ -7393,6 +7437,7 @@
 ||bondicoinpty.com^
 ||boneglobal.cc^
 ||boniry.cloud^
+||boniry.cyou^
 ||boniry699d.vip^
 ||bonirys.com^
 ||boniryweb.com^
@@ -7643,6 +7688,7 @@
 ||bsm.sevezxxd.com^
 ||bsn19.com^
 ||bsn56.com^
+||bstaceusdt.com^
 ||bstdoup.qian.kbai.tw^
 ||bstfreebtc.com^
 ||bstmadasutd.com^
@@ -7971,6 +8017,7 @@
 ||btcsnex.com^
 ||btcstaple.com^
 ||btcsworld.com^
+||btcszhb.co^
 ||btctesla.com^
 ||btcto888.com^
 ||btctoaed.com^
@@ -7993,6 +8040,7 @@
 ||btctrex.com^
 ||btcturk-aa.com^
 ||btcturk-bb.com^
+||btcturk-il.com^
 ||btcturk-vip.com^
 ||btcturkabittrade.com^
 ||btcturkan.vip^
@@ -8210,6 +8258,7 @@
 ||bux.ghwcy2.com^
 ||buxasia.com^
 ||buxasia.live^
+||buxasia.top^
 ||buxmining.com^
 ||buxs-exchange.org^
 ||buxtrademarkets.com^
@@ -8239,6 +8288,7 @@
 ||bv66.net^
 ||bvbfdbg.com^
 ||bvcryptoinvestments.com^
+||bvdshff.com^
 ||bvfinances.com^
 ||bvgoing.com^
 ||bvtcoinbases.com^
@@ -8258,6 +8308,7 @@
 ||bwos.vip^
 ||bx66cs.com^
 ||bx88st.com^
+||bxcghyds.com^
 ||bxcryptotrading.com^
 ||bxmex.com^
 ||bxtradeoption.com^
@@ -8706,6 +8757,7 @@
 ||casontrade.com^
 ||caspadecrypto.com^
 ||caspytrade.org^
+||castillo-otc.com^
 ||cat-eth.net^
 ||catcat.pro^
 ||catcoin.tips^
@@ -8763,6 +8815,7 @@
 ||cboechange.com^
 ||cboecoins.com^
 ||cboedep.com^
+||cboet.com^
 ||cbotboxs.com^
 ||cbotclub.com^
 ||cbotcoin.net^
@@ -8790,6 +8843,7 @@
 ||cc-bpb.u2ubs.com^
 ||cc.22233346.com^
 ||cc.25380.net^
+||cc.568910.com^
 ||cc.cnqyzb.com^
 ||cc.coshop.club^
 ||cc.hyhtml5.com^
@@ -8824,6 +8878,7 @@
 ||cdcamge.com^
 ||cdcamke.com^
 ||cdcamop.com^
+||cdcvdsb.com^
 ||cdefilmex.com^
 ||cdffxinvestment.com^
 ||cdgos.top^
@@ -9006,6 +9061,7 @@
 ||chainceinfoex.top^
 ||chaincofx.net^
 ||chaincryptltd.net^
+||chainex88.top^
 ||chainfxtrade.com^
 ||chainlinktow.com^
 ||chainlity.com^
@@ -9118,6 +9174,7 @@
 ||chjasfebsa.com^
 ||chobit-mails.com^
 ||choicefx.online^
+||chorderct.com^
 ||chosenone.io^
 ||choshop.net^
 ||chrimafx.com^
@@ -9261,6 +9318,7 @@
 ||clicktrades.com^
 ||client.collart.co^
 ||client.collart.group^
+||client.foxglobal.info^
 ||client.furionglobal.com^
 ||client.gbay-shop.website^
 ||client.gbay-shops.space^
@@ -9616,6 +9674,7 @@
 ||coin-miners.live^
 ||coin-mining.shop^
 ||coin-multipad.org^
+||coin-mun.com^
 ||coin-neos.org^
 ||coin-next301.com^
 ||coin-now.net^
@@ -10411,6 +10470,8 @@
 ||coinjabip.com^
 ||coinjabs.com^
 ||coinjabs.me^
+||coinjarq.com^
+||coinjarr.com^
 ||coinjety.com^
 ||coinjmdifi.top^
 ||coinjungle.org^
@@ -10470,6 +10531,7 @@
 ||coinmama.com^
 ||coinmamaglb.com^
 ||coinmamamining.com^
+||coinmamausda.com^
 ||coinmamausdt.com^
 ||coinmanager.pro^
 ||coinmarketbull.co.uk^
@@ -10652,10 +10714,12 @@
 ||coinplace.pro^
 ||coinplanetfinance.live^
 ||coinplatform.top^
+||coinplay.ygzkfr.top^
 ||coinplaypartners.com^
 ||coinplugus.com^
 ||coinpocket.info^
 ||coinpola.com^
+||coinpools.info^
 ||coinpopuler.xyz^
 ||coinportal.ltd^
 ||coinportservice.online^
@@ -10701,6 +10765,7 @@
 ||coinretrieval.com^
 ||coinretrievers.com^
 ||coinrexpro.com^
+||coinrf.ygzkfr.top^
 ||coinrichie.com^
 ||coinrichness.com^
 ||coinrickie.com^
@@ -11149,6 +11214,7 @@
 ||coinwskill.com^
 ||coinwso.com^
 ||coinwstorm.com^
+||coinwstrive.com^
 ||coinwure.com^
 ||coinwyx.com^
 ||coinx.live^
@@ -11376,6 +11442,7 @@
 ||costcoshopimg.com^
 ||costcoshopp.com^
 ||costcosnsk.com^
+||costcotdgu.com^
 ||costcovips.com^
 ||costerexchange.com^
 ||costpayin.com^
@@ -11868,6 +11935,7 @@
 ||crypto.lion.institute^
 ||crypto.lion.training^
 ||crypto.miesiers.com^
+||crypto.minerbitcoin.org^
 ||crypto.nion.space^
 ||crypto.zen-credits.com^
 ||crypto143.site^
@@ -11910,6 +11978,7 @@
 ||cryptoartevent.org^
 ||cryptoashltd.com^
 ||cryptoassessors.com^
+||cryptoassests.com^
 ||cryptoassetcomplaint.com^
 ||cryptoassetrecovery.net^
 ||cryptoassetsolution.com^
@@ -12119,6 +12188,7 @@
 ||cryptoday-trading.com^
 ||cryptodeal.dev^
 ||cryptodecimal.com^
+||cryptodefi-web3.com^
 ||cryptodefi.finance^
 ||cryptodeox.com^
 ||cryptodeskexchange.com^
@@ -13130,6 +13200,7 @@
 ||cs.fusgth.top^
 ||cs.hnsgjr.top^
 ||cs.mpgdyt.top^
+||cs.msndgj.sbs^
 ||cs.tahark.top^
 ||cs.tsieej.cn^
 ||cs.tzdtkm.top^
@@ -13140,6 +13211,7 @@
 ||cschoerrt.com^
 ||cscuonline.com^
 ||csd.pimcodefi.com^
+||csdirer.com^
 ||csempirex.com^
 ||csfinancial.com.tw^
 ||cskkingss.com^
@@ -13152,6 +13224,7 @@
 ||csscostcooss.com^
 ||cssostcoos.com^
 ||csszsw.com^
+||csvfxpro.com^
 ||ct300.ostrades.com^
 ||ctbex-ap.com^
 ||ctc-defi.com^
@@ -13199,6 +13272,7 @@
 ||cuionc.com^
 ||cultivate66.cultivaterccd.top^
 ||cultivate667.cultivatercent.top^
+||cultivate667.cultivatereds.top^
 ||cultivate667.cultivaterege.top^
 ||cultivate667.cultivaterpre.top^
 ||cultivatercenterc.top^
@@ -13322,6 +13396,7 @@
 ||d.btchdwl.xyz^
 ||d.btchmhp.buzz^
 ||d.cbjkz.top^
+||d.cfhkdgk.top^
 ||d.cmeintnl.buzz^
 ||d.dadpas.xyz^
 ||d.dcgnyse.xyz^
@@ -13628,6 +13703,7 @@
 ||dcc.musicxoon.com^
 ||dcccoin.com^
 ||dcelcoin.com^
+||dcenbus.vip^
 ||dcepglobaltop.com^
 ||dcepglobalvip.com^
 ||dceunus.vip^
@@ -13640,6 +13716,7 @@
 ||dcggroup.mystrikingly.com^
 ||dcinvestments.cash^
 ||dcm.suning-mart.com^
+||dcnmkvv.com^
 ||dcoare.manelies.com^
 ||dcoare.manelx.com^
 ||dcoare.nateraoex.com^
@@ -13698,6 +13775,7 @@
 ||deamed.cc^
 ||deameg.cc^
 ||dearborn-market.com^
+||dearglsp.vip^
 ||dearnclimeddefi.com^
 ||dearnnode.cc^
 ||debankdex.com^
@@ -13830,6 +13908,7 @@
 ||defi.dmcc-eth.com^
 ||defi.dmcc-eth20.com^
 ||defi.dmcc-ethexr20.com^
+||defi.dmcc-ethrco.com^
 ||defi.etcdefi81.xyz^
 ||defi.eth-def.net^
 ||defi.ethereum-usd.vip^
@@ -13996,6 +14075,7 @@
 ||deribitscoinfx.com^
 ||deribok.buzz^
 ||deriv.com^
+||derivativemarket-app.com^
 ||derivativetrades.net^
 ||derivefx.com^
 ||derivefxincome.com^
@@ -14107,12 +14187,14 @@
 ||dfeabcsq.xyz^
 ||dffdsa.com^
 ||dfglforex.com^
+||dfi-moneyag.com^
 ||dfi-moneyah.com^
 ||dfinity.mobi^
 ||dfjf.hyhtml5.com^
 ||dfl-finance-service.com^
 ||dfmt4.com^
 ||dfmt5.net^
+||dfrtge.ploesiw.xyz^
 ||dfrtge.ploexiw.com^
 ||dfsj9.net^
 ||dftrade.uk^
@@ -14424,6 +14506,7 @@
 ||dn-trade.org^
 ||dn8vj1.dada13.xyz^
 ||dnexpress-bd.com^
+||dnfbbih.com^
 ||dnfsss.com^
 ||dngjfhgj.com^
 ||dntp.io^
@@ -14609,11 +14692,13 @@
 ||download.00888.tw^
 ||download.anyingouji.com^
 ||download.baoshigj.com^
+||download.bblcp.vip^
 ||download.begoniapro.net^
 ||download.bitflyer66.xyz^
 ||download.bithumb77.me^
 ||download.bthexb.com^
 ||download.cboe.cloud^
+||download.cloudwirex.net^
 ||download.coinspot.cc^
 ||download.dm9588.com^
 ||download.ezdanex.org^
@@ -14715,6 +14800,7 @@
 ||dsjkch.com^
 ||dso-fx.com^
 ||dsp16.ds5858.net^
+||dstwmy.online^
 ||dsx-8.com^
 ||dsxgmy.online^
 ||dt03.zhyioc.com^
@@ -15037,6 +15123,7 @@
 ||ebay-tw.buzz^
 ||ebay-tw.click^
 ||ebay-tw.com^
+||ebay-tw.ink^
 ||ebay-tw.life^
 ||ebay-tw.top^
 ||ebay-uk.shop^
@@ -15212,6 +15299,7 @@
 ||eightcapbl.com^
 ||eightcapdigitalservicelimited.trade^
 ||eightd.xyz^
+||eightvcapfx.com^
 ||eightvzt.vip^
 ||eiightcapfx.com^
 ||eim-capitaltrades.online^
@@ -15622,6 +15710,7 @@
 ||esandapp.com^
 ||esanping.com^
 ||escbuyseller.com^
+||escbuysellers.com^
 ||escocrypt.com^
 ||escofntex.com^
 ||escoprime.io^
@@ -15665,6 +15754,7 @@
 ||et6one.xyz^
 ||etalbit.com^
 ||etaloon.pw^
+||etao.store^
 ||etaoshop.com^
 ||etausdc.com^
 ||etay.com^
@@ -16429,6 +16519,7 @@
 ||ethtrust.biz^
 ||ethtsi-max.com^
 ||ethtsiplus.com^
+||ethtsipro.com^
 ||ethtv.me^
 ||ethu2e.com^
 ||ethubw.com^
@@ -16557,6 +16648,7 @@
 ||evantofx24.com^
 ||eve.dwshuoc.com^
 ||eve.faregndt.com^
+||eve.huiycs.com^
 ||eventmsc.com^
 ||everbit-coin.com^
 ||everdomex.online^
@@ -16580,6 +16672,7 @@
 ||evest.life^
 ||evfmo.xyz^
 ||evfxgroup.com^
+||evgjb.com^
 ||evibit.com^
 ||evo-defi.online^
 ||evocrypto.net^
@@ -16613,6 +16706,7 @@
 ||ex-crypto.pro^
 ||ex-cryptos.com^
 ||ex-m.cashbtc.app^
+||ex.riseex.com^
 ||exabtc.com^
 ||exabytecapitals.com^
 ||exactgoldtrading.com^
@@ -17061,6 +17155,7 @@
 ||faith-zxbitcoin.com^
 ||faithinvest.net^
 ||faizaekeys.com^
+||faizekkyer.com^
 ||faizoeker.com^
 ||faiztrades.com^
 ||falcomstock.com^
@@ -17241,6 +17336,7 @@
 ||fcigroups.net^
 ||fcinvestmentsgroup.com^
 ||fcjadch.vip^
+||fcjbdch.vip^
 ||fckzoie.vip^
 ||fclcoin.com^
 ||fclubexchange.com^
@@ -17292,6 +17388,7 @@
 ||feemstr.com^
 ||feex.cc^
 ||feex.vip^
+||feex8866.top^
 ||feexeexs.cc^
 ||feexinfo.xyz^
 ||feextop.top^
@@ -17363,6 +17460,7 @@
 ||fg.euronext-tranport.top^
 ||fg.icmarkets.top^
 ||fg.mkaddgov.top^
+||fg.mkaddts.top^
 ||fg.mkads.top^
 ||fg.tncn.club^
 ||fg5000.com^
@@ -17954,6 +18052,7 @@ fore-focus-.mystrikingly.co
 ||forexh5.forexprohome.com^
 ||forexheist.org^
 ||forexhiexperts.com^
+||forexinvechcorporation.com^
 ||forexlifestylesoda.com^
 ||forexmarketltd.com^
 ||forexmillionersclub.com^
@@ -18197,6 +18296,7 @@ fore-focus-.mystrikingly.co
 ||fsx-ex.com^
 ||fsx-otc.com^
 ||fsx-vip.com^
+||fsxcoin-vip.com^
 ||fsxex-otc.com^
 ||ft-ex.pro^
 ||ft-fx-as.com^
@@ -18334,7 +18434,6 @@ fore-focus-.mystrikingly.co
 ||fun-defi.net^
 ||fun-eth.com^
 ||fun.galaxyquantitative.vip^
-||fun88.yggaming.net^
 ||fun899.net^
 ||funcoinstore.com^
 ||fund-trade.com^
@@ -18393,6 +18492,7 @@ fore-focus-.mystrikingly.co
 ||fundyourfx.site^
 ||fundyourfx.website^
 ||fundyourtrades.com^
+||fungamebest77.net^
 ||fungo24pc.com^
 ||funlovebite.online^
 ||funska.vip^
@@ -18418,6 +18518,7 @@ fore-focus-.mystrikingly.co
 ||futaba.bet^
 ||futabas.app^
 ||futu-coin.net^
+||futubase.shop^
 ||futuo-fx.info^
 ||futuo-fx.net^
 ||futuohk.com^
@@ -18477,6 +18578,7 @@ fore-focus-.mystrikingly.co
 ||fuyuninvestment.co^
 ||fuyuninvestment.com^
 ||fvqbvrs.com^
+||fvrvp.com^
 ||fvwltrq.top^
 ||fwbap.vip^
 ||fweqsnu.top^
@@ -18681,6 +18783,7 @@ fore-focus-.mystrikingly.co
 ||fxconsignment.com^
 ||fxcopierpro.com^
 ||fxcoreminers.com^
+||fxcorpltd-pro.bio^
 ||fxcrevess.com^
 ||fxcribe.com^
 ||fxcryptex.com^
@@ -19605,6 +19708,7 @@ fore-focus-.mystrikingly.co
 ||givespacex.com^
 ||gixcoinbit.com^
 ||gj2006.com.cn^
+||gjfc133.com^
 ||gjfc633.com^
 ||gjfcwz.com^
 ||gjhb.vip^
@@ -19622,6 +19726,7 @@ fore-focus-.mystrikingly.co
 ||gkfxprimeu7.com^
 ||gkfxusd.top^
 ||gkglobals.com^
+||gki52.com^
 ||gkjk.vip^
 ||gkjk2021.com^
 ||gkmfinance.com^
@@ -19666,6 +19771,7 @@ fore-focus-.mystrikingly.co
 ||globabc.com^
 ||globaexpressdispatch.com^
 ||globaftma.com^
+||global-11st.com^
 ||global-2014.com^
 ||global-activefx.com^
 ||global-alphatrade.com^
@@ -20013,6 +20119,7 @@ fore-focus-.mystrikingly.co
 ||gm1888.net^
 ||gmaes.twd-exness.com^
 ||gmall-tw.buzz^
+||gmall-tw.one^
 ||gmarket-go.click^
 ||gmarket-go.online^
 ||gmarket.life^
@@ -20062,7 +20169,9 @@ fore-focus-.mystrikingly.co
 ||gmxexchangeio.com^
 ||gmxio-exchange.com^
 ||gmxioarbitrum.com^
+||gmxtron.com^
 ||gmxvip.top^
+||gmxyoun.com^
 ||gn70.com^
 ||gnkex.com^
 ||gnptradings.com^
@@ -20271,6 +20380,7 @@ fore-focus-.mystrikingly.co
 ||gomarkfinance.com^
 ||gomarkleadfex.com^
 ||gomarkleadfx.com^
+||gomarklink.com^
 ||gomarkprofx.com^
 ||gomecntw.com^
 ||gominerx.com^
@@ -20340,6 +20450,7 @@ fore-focus-.mystrikingly.co
 ||gqtz285.com.cn^
 ||gqtz297.com.cn^
 ||gra-amm.com^
+||gra-amm.org^
 ||grab.tc^
 ||grabcoin.net^
 ||gracecryptofx.com^
@@ -20549,6 +20660,7 @@ fore-focus-.mystrikingly.co
 ||gtimarkets.com^
 ||gtjypro.com^
 ||gtnnsjqekh.com^
+||gts999666.com^
 ||gtvcoin.com^
 ||gtxwrsjn.qian.didjjx.vip^
 ||gtznycq.top^
@@ -20790,6 +20902,7 @@ fore-focus-.mystrikingly.co
 ||h5.htaigold.com^
 ||h5.hxl-exchange.com^
 ||h5.icehuv.com^
+||h5.ifeshfcpl.com^
 ||h5.internationalue.com^
 ||h5.itbitbt.com^
 ||h5.iteglobal.cc^
@@ -20811,6 +20924,7 @@ fore-focus-.mystrikingly.co
 ||h5.kkrpro.club^
 ||h5.kkrpro.xyz^
 ||h5.kkrpublic.top^
+||h5.kmr8sabt.com^
 ||h5.koorbitcc.com^
 ||h5.koorbitk.com^
 ||h5.korblt.com^
@@ -20943,6 +21057,7 @@ fore-focus-.mystrikingly.co
 ||h5.wlnactu.top^
 ||h5.wwbac.net^
 ||h5.xh3p18x01.top^
+||h5.xigishopping.com^
 ||h5.xintid.com^
 ||h5.xintinv.com^
 ||h5.yd-shop.tw^
@@ -21031,6 +21146,8 @@ fore-focus-.mystrikingly.co
 ||hardcoin.shop^
 ||haremark.online^
 ||harorde.com^
+||harordq.com^
+||harordr.com^
 ||harords.co^
 ||harris-forex.com^
 ||harris-fx.com^
@@ -21156,6 +21273,7 @@ fore-focus-.mystrikingly.co
 ||hengry-fx.com^
 ||hengryfx.net^
 ||hengryltd.com^
+||hengtuo-st6.com^
 ||hengxin-fx.com^
 ||hengxingfores.com^
 ||hengxingfoxy.com^
@@ -21380,6 +21498,7 @@ fore-focus-.mystrikingly.co
 ||hkcae.5mt4yy.site^
 ||hkcae.org^
 ||hkcoex.com^
+||hkcwlot.com^
 ||hkd1668-t.xyz^
 ||hkdbsuper.com^
 ||hkdbsystem.com^
@@ -21413,6 +21532,7 @@ fore-focus-.mystrikingly.co
 ||hkirex.com^
 ||hkkaiser.net^
 ||hklottocn.com^
+||hklottoin.com^
 ||hklqicg.top^
 ||hklusda.com^
 ||hkmbctrade.com^
@@ -21602,6 +21722,7 @@ fore-focus-.mystrikingly.co
 ||howcrypto.org^
 ||hoyomining.net^
 ||hoyomining.org^
+||hpcy8592.com^
 ||hpoptionstrade.live^
 ||hps9999.com^
 ||hpt.com^
@@ -21670,6 +21791,7 @@ fore-focus-.mystrikingly.co
 ||ht.tfdexcoin2.com^
 ||ht.tfdexcoin8.cc^
 ||ht.ukexqi06.top^
+||ht.ukexqi07.top^
 ||ht007.awstw.net^
 ||ht560.com^
 ||htbnbcrm.com^
@@ -21705,6 +21827,7 @@ fore-focus-.mystrikingly.co
 ||huanqiushangcheng.com.tw^
 ||huaqiang35.com^
 ||huarunkijxsef.top^
+||huatai168.com^
 ||huawei.sttfe.com^
 ||huaxindaikuan.com.tw^
 ||huaxing789.com^
@@ -21856,11 +21979,13 @@ fore-focus-.mystrikingly.co
 ||hysdgwsuak.com^
 ||hyssel.com^
 ||hyusiwjauzhw.net^
+||hyvudrb.com^
 ||hywlkj-sz.com^
 ||hyyyh681.com^
 ||hzforyou.com^
 ||hzlcoin.com^
 ||hzvfo6.mmcoin8.com^
+||hzvip66.com^
 ||hzxfx.online^
 ||hzyouyushenghuo.comOiLD.app^
 ||hzytai.com^
@@ -21954,6 +22079,7 @@ fore-focus-.mystrikingly.co
 ||iceuki.com^
 ||icexax.live^
 ||icgcoin.tech^
+||ichiyoshia.securities.tw^
 ||icmarkets-tw.com^
 ||icmarkets.news^
 ||icmarketstw.com^
@@ -22507,6 +22633,7 @@ fore-focus-.mystrikingly.co
 ||ip-ethminer.uk.com^
 ||ip896547m.top^
 ||ipeenbb.com^
+||ipeendb.com^
 ||ipeeneb.com^
 ||ipeenec.com^
 ||ipeengb.com^
@@ -22693,6 +22820,7 @@ fore-focus-.mystrikingly.co
 ||jdptp.com^
 ||jdq3.com^
 ||jdrsecrurities.com^
+||jdtwmall.com^
 ||jdvip1.shop^
 ||jdvips.shop^
 ||jdvvip.shop^
@@ -22794,6 +22922,7 @@ fore-focus-.mystrikingly.co
 ||jiofxt.com^
 ||jirbreakerl888.top^
 ||jisha888.com^
+||jisofuodi.com^
 ||jisstykemrllo.com^
 ||jisubanchang.com^
 ||jiu-lai-shop.com^
@@ -22809,6 +22938,7 @@ fore-focus-.mystrikingly.co
 ||jkefx.com^
 ||jkevb.xyz^
 ||jkf.goldvwn.com^
+||jkf.lianfgold.com^
 ||jkfjgkfjgkfj.life^
 ||jkhiurthrkjhfg.space^
 ||jkk777.com^
@@ -22849,6 +22979,7 @@ fore-focus-.mystrikingly.co
 ||johnson-marketpro.com^
 ||johsonmarketpro.com^
 ||johsonprotrade.com^
+||johsonstrivepro.com^
 ||johyvula.cyou^
 ||join2trading.com^
 ||joincryptolab.com^
@@ -22857,6 +22988,7 @@ fore-focus-.mystrikingly.co
 ||jolover.com^
 ||jonspot.com^
 ||joom61.com^
+||joomgroup.org^
 ||joybit.io^
 ||joybit.vip^
 ||joybvt.vip^
@@ -22905,11 +23037,13 @@ fore-focus-.mystrikingly.co
 ||jscoin8.com^
 ||jscoptyltd.com^
 ||jse589.co^
+||jsforex21.com^
 ||jsforex73.com^
 ||jsforex89.com^
 ||jsfsjx.top^
 ||jsgj168.top^
 ||jsgj6788.com^
+||jsgjpt.com^
 ||jsgjwftw.com^
 ||jsholdings.com.tw^
 ||jsjekus.net^
@@ -22942,6 +23076,7 @@ fore-focus-.mystrikingly.co
 ||juavk.com^
 ||jubengjinronglicai.webnode.tw^
 ||jubiall.com^
+||jubicoins.com^
 ||jubikda.com^
 ||jubiopt.com^
 ||jubipod.com^
@@ -23095,6 +23230,7 @@ fore-focus-.mystrikingly.co
 ||kavabtc.com^
 ||kavadappflymaxpro.com^
 ||kavalamb.com^
+||kavapork.com^
 ||kavarunmax.com^
 ||kavasun.com^
 ||kavatsimaxpro.com^
@@ -23119,15 +23255,18 @@ fore-focus-.mystrikingly.co
 ||kcmusdt.com^
 ||kcoin.buzz^
 ||kcoin.ltd^
+||kcoinclare.com^
 ||kcoindog.com^
 ||kcoinfoot.com^
 ||kcoinhome.com^
 ||kcoinlinks.com^
 ||kcoinonline.com^
+||kcoinpeg.com^
 ||kcowebs.com^
 ||kcreso.com^
 ||kcresoes.com^
 ||kcroaeees.com^
+||kcroraees.com^
 ||kcryptex.com^
 ||kctraders.pro^
 ||kczwup.vip^
@@ -23194,6 +23333,7 @@ fore-focus-.mystrikingly.co
 ||kftrader.com^
 ||kfwiowg.xyz^
 ||kg1688.org^
+||kgcapitals.com^
 ||kgd58.eahengtong.com^
 ||kgfinancials.com^
 ||kgi2.vip^
@@ -23204,6 +23344,7 @@ fore-focus-.mystrikingly.co
 ||kh-tradeonline.com^
 ||khaliforex.com^
 ||khcxzinrtmshizf.com^
+||khfinances.com^
 ||khshares.com^
 ||khtron.com^
 ||kianashop.com^
@@ -23261,6 +23402,7 @@ fore-focus-.mystrikingly.co
 ||kingcoin-online.com^
 ||kingdata-concept.com^
 ||kingdata-nmr.com^
+||kingex.top^
 ||kingex66.top^
 ||kinginfo.cc^
 ||kingscoinmarket.com^
@@ -23279,6 +23421,7 @@ fore-focus-.mystrikingly.co
 ||kinsbi.org^
 ||kinsmine.com^
 ||kinstafx.com^
+||kinvestcap.com^
 ||kioe.xyz^
 ||kirainu.com^
 ||kirunaonline.com^
@@ -23340,6 +23483,7 @@ fore-focus-.mystrikingly.co
 ||knnexcr.com^
 ||knnexct.com^
 ||knnexd.com^
+||knnexem.com^
 ||knnexse.com^
 ||knnexsi.com^
 ||knwex.com^
@@ -23438,6 +23582,7 @@ fore-focus-.mystrikingly.co
 ||krakgexo.com^
 ||krakps.vip^
 ||krall-ken.com^
+||krallex-ken.com^
 ||kranefx.com^
 ||kraproz.vip^
 ||krasnysen.com^
@@ -23457,6 +23602,7 @@ fore-focus-.mystrikingly.co
 ||kryptonaryfx.online^
 ||kryptondesk.com^
 ||kryptoprofitfx.live^
+||kryptoriakuc.com^
 ||kryptosminer.com^
 ||kryptostraders.online^
 ||kryptoxminer.com^
@@ -23467,6 +23613,7 @@ fore-focus-.mystrikingly.co
 ||ksbxp.com^
 ||kscapitalfx.com^
 ||ksda.hnd8.com^
+||ksgyg.com^
 ||ksi-markets.com^
 ||ksimarkets.com^
 ||ksjhqwjhvru.com^
@@ -23477,6 +23624,7 @@ fore-focus-.mystrikingly.co
 ||ktinvest.co^
 ||ktoll.com^
 ||ktpexclsive.com^
+||ktpexclusngo.com^
 ||ktpoptuigonx.com^
 ||ktpoptuionxx.com^
 ||ktwall.com^
@@ -23612,6 +23760,7 @@ fore-focus-.mystrikingly.co
 ||lan1.centrojouserr.click^
 ||lanbty.com^
 ||landbridgetoleningrad.com^
+||landbrt.com^
 ||landing.minebase.io^
 ||landunglobal.com^
 ||lanjingmall.com^
@@ -23649,6 +23798,7 @@ fore-focus-.mystrikingly.co
 ||lazada-tw.com^
 ||lazada58.com^
 ||lazada80.com^
+||lazadanet.com^
 ||lazadao.org^
 ||lazadasg-twshop.com^
 ||lazadashop-twmall.com^
@@ -23675,6 +23825,7 @@ fore-focus-.mystrikingly.co
 ||lbankis.com^
 ||lbankmax.com^
 ||lbanktop.com^
+||lbauxub.vip^
 ||lbctrade.vip^
 ||lbcyxtg.com^
 ||lbeth.com^
@@ -23821,6 +23972,7 @@ fore-focus-.mystrikingly.co
 ||leprecoin.pro^
 ||lesannoncesducoin.com^
 ||let-gaminngs.site^
+||leta-shop.com^
 ||letaex.co^
 ||letan168.com^
 ||letanx.vip^
@@ -23957,6 +24109,7 @@ fore-focus-.mystrikingly.co
 ||ligalexus.net^
 ||light4tradetw.com^
 ||light4tradetw.top^
+||light4tradetw.xyz^
 ||lightbit.biz^
 ||lightningcoinapp.com^
 ||lighttradeltd.com^
@@ -24096,6 +24249,7 @@ fore-focus-.mystrikingly.co
 ||liusuliusu.com^
 ||live-fairtrade.com^
 ||live-shopee.com^
+||live.ahahf.com^
 ||live.baadx.com^
 ||live.bgmine.vip^
 ||live24trade.com^
@@ -24136,6 +24290,7 @@ fore-focus-.mystrikingly.co
 ||llc-exclusiv.tw^
 ||llgjscshop-tw.com^
 ||llinft.com^
+||llsexvip.com^
 ||llshopping-tw.com^
 ||llsspshop-tw.com^
 ||llsssanllliw.com^
@@ -24247,6 +24402,7 @@ fore-focus-.mystrikingly.co
 ||lovehash1.com^
 ||loveinworld.com^
 ||lovemeet1.com^
+||lovesweiilie.com^
 ||lovetea.shop^
 ||lovetobuyshop.com^
 ||lowescoins.com^
@@ -24301,6 +24457,7 @@ fore-focus-.mystrikingly.co
 ||luckjupiter-coin.com^
 ||lucky.baojingbiz.com^
 ||lucky03.opuersw.net^
+||lucky168.pleroma.cc^
 ||lucky168.pleroma.live^
 ||lucky168.yasenfinancial.live^
 ||lucky168.yasenfinancial.xyz^
@@ -24409,7 +24566,6 @@ fore-focus-.mystrikingly.co
 ||m.amtop.bio^
 ||m.amtop.org^
 ||m.amtophub.com^
-||m.amtopokx.com^
 ||m.amwns12345.com^
 ||m.aomahjs.com^
 ||m.aomanjs.com^
@@ -24514,6 +24670,7 @@ fore-focus-.mystrikingly.co
 ||m.ethfxglobal.com^
 ||m.exbmo.online^
 ||m.excelleqb.cn^
+||m.fapyz.xyz^
 ||m.fh17888.com^
 ||m.filecoinfo.com^
 ||m.filecoinpro.com^
@@ -24577,6 +24734,7 @@ fore-focus-.mystrikingly.co
 ||m.imtokense.com^
 ||m.indoex.io^
 ||m.ise589.co^
+||m.ivdhhg.top^
 ||m.jfmolw.top^
 ||m.jinkraltd.com^
 ||m.jiutongjr.vip^
@@ -24663,6 +24821,7 @@ fore-focus-.mystrikingly.co
 ||m.pskw0206.com^
 ||m.qffgu.top^
 ||m.qh68.top^
+||m.qhiylv.top^
 ||m.qiyuantw.cn.com^
 ||m.qiyuantw.com^
 ||m.qsd88.cn^
@@ -24732,6 +24891,7 @@ fore-focus-.mystrikingly.co
 ||m.vldwmn.top^
 ||m.vnsr1590.com^
 ||m.vnsr1598.com^
+||m.wadmof.top^
 ||m.walletput.com^
 ||m.wdy66.com^
 ||m.wealthexchange.com^
@@ -24789,6 +24949,7 @@ fore-focus-.mystrikingly.co
 ||m.xmzfxs.com^
 ||m.xmzfxss.com^
 ||m.xp99999.com^
+||m.xpj16386.com^
 ||m.xpj16888.xyzmember.bindcard.do^
 ||m.xpj3515.com^
 ||m.xpj36857.com^
@@ -24839,6 +25000,7 @@ fore-focus-.mystrikingly.co
 ||ma897.top^
 ||mabiconfx.com^
 ||mac-coin.world^
+||macao9017.com^
 ||macaosands.org^
 ||maccoinbd.com^
 ||macking-forex.com^
@@ -24864,6 +25026,7 @@ fore-focus-.mystrikingly.co
 ||maicoinmax-defi.com^
 ||maicoinstrivepro.com^
 ||maicoinsun.com^
+||maicointhis.com^
 ||maihaowanjia.com^
 ||maili.com^
 ||mailiex.com^
@@ -24882,6 +25045,7 @@ fore-focus-.mystrikingly.co
 ||majoritytrade.com^
 ||majorprimefx.com^
 ||makbit24.com^
+||make8.xyz^
 ||makeevtrade.com^
 ||makemine.com^
 ||maker-dao.pro^
@@ -25007,6 +25171,7 @@ fore-focus-.mystrikingly.co
 ||masterpiececoin.net^
 ||masterstrading.live-website.com^
 ||mastertrademore.com^
+||mastertrademores.com^
 ||mastertraderacademyfx.com^
 ||mastertraders.org^
 ||masterviewtrades.com^
@@ -25024,6 +25189,7 @@ fore-focus-.mystrikingly.co
 ||maticcryptoearn.com^
 ||maticey.com^
 ||matichk.com^
+||matictyy.com^
 ||matoex.com^
 ||matrading.online^
 ||matricstrader.com^
@@ -25047,6 +25213,7 @@ fore-focus-.mystrikingly.co
 ||mavince-trading.ltd^
 ||mavislisatrade.com^
 ||mavtopfxtrade.com^
+||mawsonmall.top^
 ||max-bit.com^
 ||max-coins.net^
 ||max-profitinvestment.co^
@@ -25074,6 +25241,7 @@ fore-focus-.mystrikingly.co
 ||maxcoins.online^
 ||maxcore.vip^
 ||maxearningsfx.com^
+||maxex24.com^
 ||maxexchange.digital^
 ||maxexllc.com^
 ||maxfx.com^
@@ -25180,6 +25348,7 @@ fore-focus-.mystrikingly.co
 ||mcquacps.com^
 ||mcquagroup.com^
 ||mcquamarket.com^
+||mcssonec.vip^
 ||mctu.coingcx.com^
 ||mcus.me^
 ||mcveytraders.com^
@@ -25188,6 +25357,8 @@ fore-focus-.mystrikingly.co
 ||mdapp.coinrulen.com^
 ||mdapp.coinrulen.vip^
 ||mdapp.xcmud.top^
+||mdbfbvs.vip^
+||mdbfis.vip^
 ||mdbfns.cc^
 ||mdcscryptoinvestment.com^
 ||mdct.bstustb.com^
@@ -25330,6 +25501,8 @@ fore-focus-.mystrikingly.co
 ||mer.zwnflom.com^
 ||merbcu.com^
 ||merbokfx.com^
+||mercadobltcoinlas.com^
+||mercadolibre-mallshop.com^
 ||mercadolibref10.com^
 ||mercadolibref8.com^
 ||mercadolibrm.com^
@@ -25531,6 +25704,8 @@ fore-focus-.mystrikingly.co
 ||mexcoi.vip^
 ||mexcoin.top^
 ||mexcplus-crun.com^
+||mexcpro.fit^
+||mexcrushplus.com^
 ||mexcss.vip^
 ||mexctradepromax.com^
 ||mexcuzo.com^
@@ -25557,6 +25732,7 @@ fore-focus-.mystrikingly.co
 ||mfxbillionaire.com^
 ||mfxmax.net^
 ||mfxtomine.org^
+||mfxye.com^
 ||mfxyi.com^
 ||mg.dnlmy.com^
 ||mg.panokc.com^
@@ -25927,6 +26103,7 @@ fore-focus-.mystrikingly.co
 ||mipexcrypto.com^
 ||mir-refund.live^
 ||miraclecoins884.com^
+||miracletro.com^
 ||miragecoins.com^
 ||mirai-trade.com^
 ||miranofx.com^
@@ -26139,6 +26316,7 @@ fore-focus-.mystrikingly.co
 ||moonbitfx.ltd^
 ||moonchi-coin.com^
 ||mooncrestminers.org^
+||moondrds.com^
 ||moonethereum.org^
 ||moonfxtrade.com^
 ||mooniswap-defi.com^
@@ -26246,6 +26424,7 @@ fore-focus-.mystrikingly.co
 ||ms.amhsbc.com^
 ||msainvest.pro^
 ||msaproex.com^
+||msbayfdu.com^
 ||mscgroupglobal.com^
 ||msdsaxs.com^
 ||mseccrypto.com^
@@ -26288,6 +26467,7 @@ fore-focus-.mystrikingly.co
 ||mtdfx.com^
 ||mtdroppship.com^
 ||mtdtrading.com^
+||mtecarlo.com^
 ||mtfexg.net^
 ||mtfxpro.com^
 ||mtglobals.com^
@@ -26309,6 +26489,7 @@ fore-focus-.mystrikingly.co
 ||mtradingcom.shop^
 ||mtradingcom.space^
 ||mtt-aab.com^
+||mtt-abx.com^
 ||mtt-ce.com^
 ||mttds.shop^
 ||mtweb68.com^
@@ -26525,6 +26706,7 @@ fore-focus-.mystrikingly.co
 ||n.kassanses.com^
 ||n.nasdaq12.xyz^
 ||n.seagenx.com^
+||n.seagenxios.com^
 ||n.seagenxiosau.com^
 ||n.tfhfinaer.com^
 ||n.tfhfinssra.com^
@@ -26585,6 +26767,7 @@ fore-focus-.mystrikingly.co
 ||nasdaqmine.com^
 ||nasdaqserver.com^
 ||nasdaqtw.com^
+||nasdaqus.net^
 ||nasdaqwincoin.com^
 ||nasdqdubai.com^
 ||nasz.hlm28.com^
@@ -26727,6 +26910,7 @@ fore-focus-.mystrikingly.co
 ||new.cheap-homese.store^
 ||new.cheap-homese.top^
 ||new.inv-finder.pro^
+||new188.top^
 ||newabtc.top^
 ||newagetrade.org^
 ||newaminer.net^
@@ -26753,12 +26937,14 @@ fore-focus-.mystrikingly.co
 ||newexglobal.com^
 ||newgoodcoin.com^
 ||newgrowntraders.com^
+||newhocclg.com^
 ||newhoccpodkk.com^
 ||newhoney.com^
 ||newhotcoin.com^
 ||newhoteccaq.com^
 ||newidea.solutions^
 ||newidea.tips^
+||newideas.world^
 ||newinvestmarkets.online^
 ||newmall.space^
 ||newmcputin.com^
@@ -26809,6 +26995,7 @@ fore-focus-.mystrikingly.co
 ||nextrbtc.com^
 ||nextshibacoin.com^
 ||nexttoptrade.com^
+||nexuares.com^
 ||nexus-investing.com^
 ||nexusalliancemining.com^
 ||nexuscryptomining.net^
@@ -26928,6 +27115,7 @@ fore-focus-.mystrikingly.co
 ||nobitx.org^
 ||nobleamm.com^
 ||nobleassetraders.com^
+||nocks.cc^
 ||node-crypto.com^
 ||nodevip.top^
 ||nodiasc.com^
@@ -27094,6 +27282,7 @@ fore-focus-.mystrikingly.co
 ||nyfocu.com^
 ||nygcmtwk.com^
 ||nylivetrade.com^
+||nymexc.com^
 ||nymexcel.com^
 ||nymexep.com^
 ||nymexery.com^
@@ -27140,6 +27329,7 @@ fore-focus-.mystrikingly.co
 ||oacllc.com^
 ||oag188.com^
 ||oajvinmo.com^
+||oakcoin1995.com^
 ||oakdyor.com^
 ||oaklandfx.life^
 ||oaktb1995.com^
@@ -27172,6 +27362,7 @@ fore-focus-.mystrikingly.co
 ||obnerw.com^
 ||obnesrw.com^
 ||obofx.net^
+||obp.deergwe.com^
 ||obp.herfond.com^
 ||obus.top^
 ||obybit.top^
@@ -27257,6 +27448,7 @@ fore-focus-.mystrikingly.co
 ||odn688.com^
 ||odpfir.com^
 ||odqaktm.top^
+||odtie.lotkgt.host^
 ||odtie.lotkgt.shop^
 ||odycoin.com^
 ||odzsgtw.com^
@@ -27443,6 +27635,7 @@ fore-focus-.mystrikingly.co
 ||oneex.top^
 ||onefstw.com^
 ||oneglobalproinvestment.com^
+||oneklixc.com^
 ||onemain.club^
 ||onemain.fun^
 ||onemain.live^
@@ -27507,6 +27700,7 @@ fore-focus-.mystrikingly.co
 ||op.gdzyzx.xyz^
 ||opamzss.com^
 ||opaqueinvesting.net^
+||open-trade.com^
 ||openbankaccount.org^
 ||opencoinvip.net^
 ||opendcoin.com^
@@ -27643,6 +27837,7 @@ fore-focus-.mystrikingly.co
 ||orousd-fx.com^
 ||orson66.com^
 ||orsp.xyz^
+||orsted-dex.com^
 ||ortraxinvestment.com^
 ||os-bitsky.com^
 ||oshincrypfx.com^
@@ -27920,6 +28115,7 @@ fore-focus-.mystrikingly.co
 ||pc.serc-capital.com^
 ||pc.shakepaytrade.net^
 ||pc.tg-makets.com^
+||pc.toobit.top^
 ||pc.ueexpro.com^
 ||pc.uvs123.com^
 ||pc.xtcrypto.vip^
@@ -28055,6 +28251,7 @@ fore-focus-.mystrikingly.co
 ||phemesafetrades.org^
 ||phemex.com^
 ||phemexproe.com^
+||phemexw.com^
 ||phftrades.online^
 ||phhshopify.com^
 ||philcotoken.net^
@@ -28246,6 +28443,7 @@ fore-focus-.mystrikingly.co
 ||pocketoption.com^
 ||pockettradingsignal.net^
 ||pocumtuck.com^
+||podcastaw.com^
 ||podcastdw.com^
 ||poecryptocoin.com^
 ||pogglobal.cc^
@@ -28406,6 +28604,7 @@ fore-focus-.mystrikingly.co
 ||prestigeminings.com^
 ||pretty-go-shop.com^
 ||pretty-my.com^
+||prettygift-my.com^
 ||prettygo-shop.com^
 ||prettygoshop.com^
 ||prettyshop-my.com^
@@ -28726,6 +28925,7 @@ fore-focus-.mystrikingly.co
 ||prww621.com^
 ||pscorp.com.tw^
 ||pscsec.com^
+||pscstocks.com^
 ||psctrades.com^
 ||psexap.vip^
 ||psexs.vip^
@@ -28793,6 +28993,7 @@ fore-focus-.mystrikingly.co
 ||qatlst.com^
 ||qaz1688.syuanltd.com^
 ||qbctex.com^
+||qbdjfgggh.xyz^
 ||qbes3.com^
 ||qbgforex.com^
 ||qbt8306.com^
@@ -28852,6 +29053,7 @@ fore-focus-.mystrikingly.co
 ||qmdapes.com^
 ||qmfirst.com^
 ||qmywkb.cyou^
+||qnjvkfgfh.com^
 ||qoaisknhdf.site^
 ||qoems.com^
 ||qok2856.com^
@@ -29153,6 +29355,7 @@ fore-focus-.mystrikingly.co
 ||reefbifd.com^
 ||reefgre.com^
 ||reefibl.com^
+||reefknc.com^
 ||reeftrc.com^
 ||reel-crypto.com^
 ||reemfx.com^
@@ -29266,6 +29469,7 @@ fore-focus-.mystrikingly.co
 ||rich.bnan700.com^
 ||rich.fxmarket66.com^
 ||rich.gamespg888.com^
+||rich888.etoraiertes.com^
 ||rich888.net^
 ||richardtrade.life^
 ||richardtrade.online^
@@ -29375,6 +29579,7 @@ fore-focus-.mystrikingly.co
 ||rochisgroup.com^
 ||rocket-poola.com^
 ||rocket-poolf.com^
+||rocket-poolj.com^
 ||rockettrades.world^
 ||rockfort-markets.com^
 ||rockfortcrypto.com^
@@ -29402,6 +29607,7 @@ fore-focus-.mystrikingly.co
 ||rolloverinvest.com^
 ||rolytradings.net^
 ||romanticdatin.com^
+||romanticing.org^
 ||romosstrade.org^
 ||ronbink.com^
 ||ronexcoin.com^
@@ -29420,6 +29626,7 @@ fore-focus-.mystrikingly.co
 ||ronghuimarkets.com^
 ||ronghuitrade.com^
 ||rongjiusc.cn^
+||rongssl.top^
 ||roomeel.com^
 ||rooroex.com^
 ||rootpintraders.live^
@@ -29498,6 +29705,7 @@ fore-focus-.mystrikingly.co
 ||rstrader.tech^
 ||rsygvpo.comQ7wB.app^
 ||rtcoin.net^
+||rthjfghh.com^
 ||rtorrents.com^
 ||rtradem.com^
 ||rtshop.vip^
@@ -29559,6 +29767,7 @@ fore-focus-.mystrikingly.co
 ||rybet888.com^
 ||rycoincrypto.pro^
 ||ryderexchange.site^
+||ryderinternationalshopping.com^
 ||rydermall.net^
 ||rydervip.net^
 ||ryeasytrade.com^
@@ -29753,6 +29962,7 @@ fore-focus-.mystrikingly.co
 ||scamrecovery.net^
 ||scamrecoveryservices.com^
 ||scaniatrade.com^
+||scarlet.tronim.com^
 ||scbstd.com^
 ||scdgs.com^
 ||scex.pro^
@@ -29889,6 +30099,7 @@ fore-focus-.mystrikingly.co
 ||select-global.com^
 ||select-limited.com^
 ||selforex.com^
+||seller.hottkshop.com^
 ||selleract.com^
 ||sellercoindescription.info^
 ||sellthiscoin.com^
@@ -30072,6 +30283,7 @@ fore-focus-.mystrikingly.co
 ||shop168.xyz^
 ||shop888.co^
 ||shopapp.tw^
+||shopbopvip.xyz^
 ||shopckk.com^
 ||shopcoinswap.com^
 ||shopee-avail.life^
@@ -30252,6 +30464,7 @@ fore-focus-.mystrikingly.co
 ||silverfxmarket.com^
 ||silverlionex.com^
 ||silverlionsec.com^
+||silverlionstock.com^
 ||silverliontrade.com^
 ||silverliontrades.com^
 ||silversuncrypto.com^
@@ -30333,6 +30546,7 @@ fore-focus-.mystrikingly.co
 ||sjm.h2288.xyz^
 ||sjmission96.com^
 ||sjncnvwjehu.com^
+||sjnvmxhf.com^
 ||sjpplcplus.com^
 ||sjpplcs.com^
 ||sjwajndawja.com^
@@ -30641,6 +30855,7 @@ fore-focus-.mystrikingly.co
 ||sosy8.com^
 ||sotglobalfxs.com^
 ||sotwex.com^
+||souhu85.com^
 ||soultrade72.com^
 ||soultradings.com^
 ||sourcemo.store^
@@ -30780,6 +30995,7 @@ fore-focus-.mystrikingly.co
 ||square.9087721.site^
 ||square.9253489.site^
 ||square.9255139.site^
+||square.9366561.site^
 ||square36a.top^
 ||square67a.top^
 ||square83c.top^
@@ -30807,6 +31023,7 @@ fore-focus-.mystrikingly.co
 ||ssg.cowrr.com^
 ||ssgj.dotasy.com^
 ||ssgsun.com^
+||sshopgivebacking.com^
 ||sshopgivebacknow.com^
 ||ssolutionteam.com^
 ||sspappfx.com^
@@ -30905,6 +31122,7 @@ fore-focus-.mystrikingly.co
 ||starelitetrade.com^
 ||starexch.games^
 ||starexchangeit.com^
+||starexchangep.com^
 ||starexchanges.com^
 ||starexchangey.com^
 ||starexpresslogistics.net^
@@ -31197,6 +31415,8 @@ fore-focus-.mystrikingly.co
 ||super2.yanseapps.com^
 ||super2023.xp3.biz^
 ||super210420.com^
+||superb-trading.cc^
+||superbdc.com^
 ||superbit.shop^
 ||superbtc.top^
 ||superbtm.com^
@@ -31232,6 +31452,7 @@ fore-focus-.mystrikingly.co
 ||superuuex.org^
 ||supervdx.com^
 ||superviamt.com^
+||superwre.com^
 ||superwxx.com^
 ||superxxtrades.com^
 ||supleadfx.com^
@@ -31276,6 +31497,7 @@ fore-focus-.mystrikingly.co
 ||sushilimited.com^
 ||sutterinvestment.com^
 ||svakx3.top^
+||svdhg.com^
 ||sveltetrade.com^
 ||svfxs.com^
 ||svglobals.com^
@@ -31440,6 +31662,7 @@ fore-focus-.mystrikingly.co
 ||syncaccuratefx.com^
 ||syncfxt.online^
 ||synergyworldmining.com^
+||synquotescrm.com^
 ||synquotescrma.com^
 ||syntaxtrade.com^
 ||synthetic-fxalgorithm.com^
@@ -31504,6 +31727,7 @@ fore-focus-.mystrikingly.co
 ||taife.vip^
 ||taifinancialcorps.com^
 ||taifuex5.tw^
+||taifuweb.top^
 ||taijinxitou.com^
 ||taikoomall.com^
 ||tailait.top^
@@ -31576,6 +31800,7 @@ fore-focus-.mystrikingly.co
 ||tbitpp.vip^
 ||tbitsop.vip^
 ||tblgame.com^
+||tbtansk.com^
 ||tbw918.com^
 ||tc.acsfx.cc^
 ||tc88.net^
@@ -31781,6 +32006,7 @@ fore-focus-.mystrikingly.co
 ||tfxcontinuum.com^
 ||tfxi.com^
 ||tfxi2.com^
+||tfxip.com^
 ||tfxlegitmining.com^
 ||tg.cmeusa.pw^
 ||tg3.sejv888.com^
@@ -31950,7 +32176,9 @@ fore-focus-.mystrikingly.co
 ||thl.wheppc.com^
 ||thldownload.wheppc.com^
 ||thomasnet.top^
+||thorchainc.com^
 ||thorchainf.com^
+||thorchaintsipro.com^
 ||thrifty.maxwayco.com^
 ||thrifty.waytecics.com^
 ||thrillbottrades.com^
@@ -31976,6 +32204,7 @@ fore-focus-.mystrikingly.co
 ||tickmilltw.xyz^
 ||tickmilltwb.xyz^
 ||tickmilltwk.xyz^
+||tickmilltwml.xyz^
 ||tickmilltwsl.xyz^
 ||tickmilltwy.xyz^
 ||tickmilltwz.xyz^
@@ -32057,6 +32286,7 @@ fore-focus-.mystrikingly.co
 ||titanekc.com^
 ||titanfx.com^
 ||titanlort.com^
+||titanopr.com^
 ||titantrade.live^
 ||titantradinginternational.com^
 ||titanwde.com^
@@ -32386,6 +32616,7 @@ fore-focus-.mystrikingly.co
 ||trade.br-stone.net^
 ||trade.btccoin6.com^
 ||trade.eaglefxportfolio.com^
+||trade.ghpxy.com^
 ||trade.ircatital-tw.com^
 ||trade.kijmoop.com^
 ||trade.lem-tw.com^
@@ -32600,6 +32831,7 @@ fore-focus-.mystrikingly.co
 ||trademobileinvest.com^
 ||trademycrypto.net^
 ||traden.xyz^
+||tradenation.tw^
 ||tradenationfex.com^
 ||tradenationus.com^
 ||tradendex.com^
@@ -32935,6 +33167,7 @@ fore-focus-.mystrikingly.co
 ||tranquility-fx.com^
 ||trans.tran123.com^
 ||transactioncurrency.com^
+||transactionview.club^
 ||transandex.co.uk^
 ||transcoinex.com^
 ||transexpressfreight.com^
@@ -32956,6 +33189,7 @@ fore-focus-.mystrikingly.co
 ||traverbit.com^
 ||traversecargoandminerallinks.com^
 ||travonfx.com^
+||traweb3.top^
 ||traxalt.cool^
 ||traxebit.com^
 ||trc-trade.com^
@@ -32974,6 +33208,7 @@ fore-focus-.mystrikingly.co
 ||tree16888.txnnezsf.com^
 ||treeecg.com^
 ||treequant.com^
+||treevnb.com^
 ||trendbitsltd.com^
 ||trendcoin.co^
 ||trendcsx.com^
@@ -32991,6 +33226,7 @@ fore-focus-.mystrikingly.co
 ||trenthamfx.com^
 ||tresurcryptoexchange.com^
 ||tretoken.com^
+||treuie.com^
 ||trewvcgh.club^
 ||trexproin.com^
 ||trexwebs.com^
@@ -33050,6 +33286,7 @@ fore-focus-.mystrikingly.co
 ||tronlive.net^
 ||tronmining.live^
 ||tronminingcoin.com^
+||tronminingfarm.com^
 ||tronminings.com^
 ||tronmsc.com^
 ||tronnesz.com^
@@ -33069,6 +33306,7 @@ fore-focus-.mystrikingly.co
 ||trovscoin.live^
 ||trp-fx.com^
 ||trptrade.net^
+||trsde.cotchmax.store^
 ||trsde.cotchmax.xyz^
 ||trsptw.net^
 ||trudeltradings.com^
@@ -33173,6 +33411,7 @@ fore-focus-.mystrikingly.co
 ||trustyshipment.com^
 ||trustyswap.net^
 ||trutexpserv.com^
+||trutrade.zone^
 ||truvacrypto.com^
 ||trw-gambit.com^
 ||trw60.com^
@@ -33374,6 +33613,7 @@ fore-focus-.mystrikingly.co
 ||tw1.shopsyx.com^
 ||tw1.yxshop99.com^
 ||tw11st.com^
+||tw13.shopyyf.com^
 ||tw2.fi-delity-design.info^
 ||tw2.fi-delity-trade.top^
 ||tw2.fidelity-twn.info^
@@ -33427,7 +33667,10 @@ fore-focus-.mystrikingly.co
 ||twokx.com^
 ||twonly.akoues.com^
 ||twprofinance.com^
+||twrddsd.com^
 ||twse.cyberllsr.com^
+||twsehtml.com^
+||twsehtmls1.com^
 ||twshopee.top^
 ||twshopeee.com^
 ||twshopify-lat.com^
@@ -33441,6 +33684,7 @@ fore-focus-.mystrikingly.co
 ||twvstock.com^
 ||twvstockk.com^
 ||twwelcome.com^
+||twyuanda.top^
 ||twyundingit.com^
 ||twzhenhan.com^
 ||twzhenhanziban.com^
@@ -33516,6 +33760,7 @@ fore-focus-.mystrikingly.co
 ||uberinfoverification.online^
 ||ubextw.com^
 ||ubggies.com^
+||ubggiraes.com^
 ||ublochain.com^
 ||ubn4234.live^
 ||ubs-ex.com^
@@ -33530,6 +33775,7 @@ fore-focus-.mystrikingly.co
 ||ubsexgr.com^
 ||ubsexgs.com^
 ||ubsexgw.com^
+||ubsexgz.com^
 ||ubsexlo.com^
 ||ubsext.com^
 ||ubsjp.com^
@@ -33580,6 +33826,7 @@ fore-focus-.mystrikingly.co
 ||uesdx.com^
 ||uetvhl.com^
 ||ueugv.com^
+||uevuseors.com^
 ||uevuser.com^
 ||uexcex.vip^
 ||uexos.vip^
@@ -34418,6 +34665,7 @@ fore-focus-.mystrikingly.co
 ||uuc.com^
 ||uuex.shop^
 ||uuexfly.com^
+||uuexjap.vip^
 ||uuexna.com^
 ||uuexpro.com^
 ||uuexpro.io^
@@ -34426,6 +34674,7 @@ fore-focus-.mystrikingly.co
 ||uunicomk.vip^
 ||uunicomll.vip^
 ||uuteas.com^
+||uuxekap.vip^
 ||uuxekop.vip^
 ||uvexcoin.com^
 ||uw.allh5.com^
@@ -34623,6 +34872,7 @@ fore-focus-.mystrikingly.co
 ||vforex3650.com^
 ||vfx.asia^
 ||vgcapitalmex.com^
+||vgdp6868.com^
 ||vgdt6658.com^
 ||vgdt6678.com^
 ||vgiforex.com^
@@ -34790,6 +35040,7 @@ fore-focus-.mystrikingly.co
 ||vitex222.top^
 ||vitex333.top^
 ||vitex555.top^
+||vitex666.top^
 ||vitolresourcesinvestment.org^
 ||vitotoken.com^
 ||vitovex.com^
@@ -34905,6 +35156,7 @@ fore-focus-.mystrikingly.co
 ||vsw.kekgy.club^
 ||vsw.kekgy.site^
 ||vsw.tslessd.store^
+||vsw.tslessd.xyz^
 ||vsw.waves.city^
 ||vsw.waves.directory^
 ||vsw.waves.works^
@@ -35005,8 +35257,10 @@ fore-focus-.mystrikingly.co
 ||walletdefi-max.com^
 ||walletexchange.buzz^
 ||walletfinancepro.com^
+||walletfuturemax.com^
 ||walletfuturepro.com^
 ||walletmaxdefi.com^
+||walletpab.com^
 ||walletsdefimining.com^
 ||walletspacex.com^
 ||wallex-tradez.com^
@@ -35174,6 +35428,7 @@ fore-focus-.mystrikingly.co
 ||wbb.huizitn.com^
 ||wbex-coin.com^
 ||wbex-coins.top^
+||wbexbel.vip^
 ||wbexcoins.com^
 ||wbexcoinup.com^
 ||wbexcoinup.top^
@@ -35189,6 +35444,7 @@ fore-focus-.mystrikingly.co
 ||wc555.net^
 ||wccy269.top^
 ||wclubpro.com^
+||wcr.oilvtcs.com^
 ||wd.hjswd.top^
 ||wd2.vii178.com^
 ||wdamb.com^
@@ -35365,6 +35621,7 @@ fore-focus-.mystrikingly.co
 ||web3.coinivs.com^
 ||web3.coinivst.com^
 ||web30defi.org^
+||web30miningpool.com^
 ||web34.net^
 ||web3bitsgap.vip^
 ||web3cryptohopper.com^
@@ -35533,6 +35790,7 @@ fore-focus-.mystrikingly.co
 ||whitextremeservices.com^
 ||whizfx.com^
 ||wholesaler-mall.com^
+||whooshops.com^
 ||whososystem.com^
 ||whyxbit.com^
 ||wi4u.co^
@@ -35663,10 +35921,12 @@ fore-focus-.mystrikingly.co
 ||wmm.berhduj.com^
 ||wmm.blocugold.com^
 ||wmm.gevgold.com^
+||wmm.okvgold.com^
 ||wmm.tanakaesd.com^
 ||wmm.tanakamk.com^
 ||wmt-x.com^
 ||wnc.lijun88.live^
+||wncgesx.com^
 ||wncgvax.com^
 ||wnershipoflove.com^
 ||wnfkrntnskamrnf.com^
@@ -35701,6 +35961,7 @@ fore-focus-.mystrikingly.co
 ||wollcion.com^
 ||wollflex.com^
 ||wolvetrade.com^
+||wook.cloud^
 ||worcoin.net^
 ||wordfxtrade.org^
 ||work4bit.com^
@@ -35775,6 +36036,7 @@ fore-focus-.mystrikingly.co
 ||wqddl.xyz^
 ||wqs.jd.com^
 ||wrap.cptex.can.com^
+||wreherg.cn^
 ||wright.ios03.com^
 ||wright.ios04.com^
 ||wrightvips.com^
@@ -35853,79 +36115,8 @@ fore-focus-.mystrikingly.co
 ||www-ig.cjzqls.com^
 ||www-lfex.com^
 ||www-poloniex.com^
+||www-vip.oklink.fit^
 ||www-ysb.com^
-||www.alisoso-shop.com^
-||www.ameits.vip^
-||www.amobbuy.com^
-||www.apolloxexp.com^
-||www.bitmillion.one^
-||www.bnbtr.net^
-||www.bxcghyds.com^
-||www.castillo-otc.com^
-||www.cdcvdsb.com^
-||www.chainex88.top^
-||www.coin-mun.com^
-||www.coinwstrive.com^
-||www.costcotdgu.com^
-||www.derivativemarket-app.com^
-||www.dfi-moneyag.com^
-||www.etao.store^
-||www.forexinvechcorporation.com^
-||www.fxcorpltd-pro.bio^
-||www.gmxtron.com^
-||www.harordq.com^
-||www.hpcy8592.com^
-||www.hyvudrb.com^
-||www.johsonstrivepro.com^
-||www.joomgroup.org^
-||www.kavapork.com^
-||www.kcoinclare.com^
-||www.kcroraees.com^
-||www.kingex.top^
-||www.kryptoriakuc.com^
-||www.ktpexclusngo.com^
-||www.lazadanet.com^
-||www.lovesweiilie.com^
-||www.matictyy.com^
-||www.maxex24.com^
-||www.mcssonec.vip^
-||www.mdbfbvs.vip^
-||www.mexcrushplus.com^
-||www.mfxye.com^
-||www.msbayfdu.com^
-||www.new188.top^
-||www.nocks.cc^
-||www.orsted-dex.com^
-||www.phemexw.com^
-||www.prettygift-my.com^
-||www.qbdjfgggh.xyz^
-||www.qnjvkfgfh.com^
-||www.rongssl.top^
-||www.rthjfghh.com^
-||www.ryderinternationalshopping.com^
-||www.shopbopvip.xyz^
-||www.souhu85.com^
-||www.sshopgivebacking.com^
-||www.starexchangep.com^
-||www.superb-trading.cc^
-||www.superwre.com^
-||www.svdhg.com^
-||www.tfxip.com^
-||www.thorchaintsipro.com^
-||www.tradenation.tw^
-||www.treevnb.com^
-||www.twsehtml.com^
-||www.ubggiraes.com^
-||www.uevuseors.com^
-||www.uuxekap.vip^
-||www.walletfuturemax.com^
-||www.xjwgp.com^
-||www.xtxtop.com^
-||www.ydnexks.cc^
-||www.yoxxwfe.top^
-||www.zalora-tw.com^
-||www.zldshop.online^
-||www.zouskru.com^
 ||www1.dt599.net^
 ||www1.initaltrades.com^
 ||www1.zxbit1.com^
@@ -36022,6 +36213,7 @@ fore-focus-.mystrikingly.co
 ||xcvnmoz.top^
 ||xcwxpx.cn^
 ||xcwz01.top^
+||xcz.uccaze.icu^
 ||xd.58168.com^
 ||xd.taixingdk.xyz^
 ||xd19789.com^
@@ -36106,6 +36298,7 @@ fore-focus-.mystrikingly.co
 ||xinzimei666.top^
 ||xiongteamfx.com^
 ||xj.dmwk.cc^
+||xjwgp.com^
 ||xjy9188.com^
 ||xkjvuriqweuij.com^
 ||xkmawuejqujajd.com^
@@ -36133,6 +36326,7 @@ fore-focus-.mystrikingly.co
 ||xmforexweb.com^
 ||xmfx-usa.com^
 ||xmltdfx.com^
+||xmndugf.com^
 ||xmonbit.com^
 ||xmonetatrading.com^
 ||xmoney.farm^
@@ -36210,8 +36404,10 @@ fore-focus-.mystrikingly.co
 ||xtreminers.com^
 ||xttw.xyz^
 ||xtwnqhsbe.08.tw.bdhov.xyz^
+||xtxtop.com^
 ||xtzcryptoearn.com^
 ||xtzgrac.com^
+||xtzido.com^
 ||xtzsxz.com^
 ||xu1688.net^
 ||xuanzhongwei.xyz^
@@ -36268,6 +36464,7 @@ fore-focus-.mystrikingly.co
 ||yahuifinancefx.com^
 ||yajecx.com^
 ||yajuvds.com^
+||yamakinxsz.com^
 ||yamato-global.com^
 ||yamato-mt.online^
 ||yamatoonline.com^
@@ -36304,6 +36501,7 @@ fore-focus-.mystrikingly.co
 ||ydfxmm.com^
 ||ydfxmmm.com^
 ||ydhcnxbd.com^
+||ydnexks.cc^
 ||ydotc.com^
 ||ydxprodefi.com^
 ||ydxprodefi.xyz^
@@ -36320,6 +36518,7 @@ fore-focus-.mystrikingly.co
 ||yexbe28.com^
 ||yexbe68.com^
 ||yexbe86.com^
+||yexexpro.com^
 ||yfassets.com^
 ||yfcvivocity.com^
 ||yfeiw.com^
@@ -36461,6 +36660,7 @@ fore-focus-.mystrikingly.co
 ||youxinbi.net^
 ||youzbit.com^
 ||yoxbit.com^
+||yoxxwfe.top^
 ||ypscshowtw.com^
 ||ypshowtw.com^
 ||yptd-music.cn^
@@ -36516,6 +36716,7 @@ fore-focus-.mystrikingly.co
 ||yunhzsfx1109.com^
 ||yunnanyitianyun.com^
 ||yuntonghbgyvf.top^
+||yusagcxg.com^
 ||yutudnscom.com^
 ||yuwsiawojxakqxnsj.com^
 ||yuwsiawojxakqxnsj.net^
@@ -36575,6 +36776,7 @@ fore-focus-.mystrikingly.co
 ||zalandoshops.cc^
 ||zalandoshops.com^
 ||zalora-shop.com.tw^
+||zalora-tw.com^
 ||zalora-tw.com.tw^
 ||zalorapro.world^
 ||zambezitrade.com^
@@ -36791,6 +36993,7 @@ fore-focus-.mystrikingly.co
 ||zksync.bid^
 ||zkuok.com^
 ||zl6.co^
+||zldshop.online^
 ||zlgcdn.online^
 ||zlutfx.com^
 ||zlwqbg.com^
@@ -36829,6 +37032,7 @@ fore-focus-.mystrikingly.co
 ||zoteex.com^
 ||zouscikj.com^
 ||zousdzx.com^
+||zouskru.com^
 ||zoussxz.com^
 ||zoxbit.com^
 ||zoyomining.com^
@@ -37018,6 +37222,7 @@ fore-focus-.mystrikingly.co
 ||buzzazone.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
+||c3scores.com^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
 ||candlesbymadison.com^
@@ -37057,7 +37262,6 @@ fore-focus-.mystrikingly.co
 ||cofdeal.com^
 ||coffeeteaware.com^
 ||coinaps.com^
-||coinstoretra.com^
 ||colorandcotton.com^
 ||columbiatopdeals.com^
 ||compoundexotics.com^
@@ -37224,6 +37428,7 @@ fore-focus-.mystrikingly.co
 ||flattee.com^
 ||fms88.shop^
 ||forksbike.com^
+||fraeuleinemma.fun^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -37776,7 +37981,6 @@ fore-focus-.mystrikingly.co
 ||sugarandpearl.com^
 ||sununi.us^
 ||supercutestuff.com^
-||superfacehoodie.com^
 ||supperbrand.company.site^
 ||supportdelivery3414-ups.com^
 ||supreme-adblocker.net^
@@ -37802,7 +38006,6 @@ fore-focus-.mystrikingly.co
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||store.tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -37880,8 +38083,7 @@ fore-focus-.mystrikingly.co
 ||vegamartz.com^
 ||venezuelabaseballjerseys.com^
 ||verfun.com^
-||www.vetoro.cc^
-||store.vetoro.cc^
+||vetoro.cc^
 ||vicidola.com^
 ||vikingstore.co^
 ||vinisay.com^
@@ -37907,7 +38109,7 @@ fore-focus-.mystrikingly.co
 ||wezpod.com^
 ||whbinder.com^
 ||wideranging-protector.com^
-||wikeb.com^
+||www.wikeb.com^
 ||wind88.shop^
 ||wisdomganga.com^
 ||woadoodles.com^
@@ -43171,7 +43373,6 @@ fore-focus-.mystrikingly.co
 ||1608041-ck72590.twc1.net^
 ||1717.1000uc.com^
 ||1ct-diamond.hu^
-||1ecosolution.it^
 ||1mtiktok.com^
 ||1qaz.quest^
 ||222mlms.com^
@@ -43204,6 +43405,7 @@ fore-focus-.mystrikingly.co
 ||6.prefil.es^
 ||6a8a0e9a749bb0.lap.detroitdragway.com^
 ||70982.fate.truelance.com^
+||727140534.oss-cn-beijing.aliyuncs.com^
 ||73cceb63-7ecd-45e2-9eab-f8d98aab177f.usrfiles.com^
 ||77asikb4nget.xyz^
 ||77uhuyb4nget.xyz^
@@ -43264,6 +43466,7 @@ fore-focus-.mystrikingly.co
 ||accessoriesmuseum.com^
 ||acdpk.org^
 ||acedigitalworld.com^
+||acellr.co.uk^
 ||acienco.com^
 ||acih.co.za^
 ||acmesoft.site^
@@ -43282,7 +43485,6 @@ fore-focus-.mystrikingly.co
 ||adecoco.us^
 ||adelaidetooling.com.au^
 ||aderefix.com^
-||adfagh.com^
 ||adharshevent.in^
 ||adijey.com^
 ||adinegold.com^
@@ -43329,7 +43531,6 @@ fore-focus-.mystrikingly.co
 ||after8s.com^
 ||agagulf.com^
 ||agcs.com.bd^
-||agemn.co.za^
 ||agenciaglamour.com^
 ||agenciahotlead.com^
 ||agenciailever.com^
@@ -43598,6 +43799,7 @@ fore-focus-.mystrikingly.co
 ||assignmentmentor.co.uk^
 ||assurancebtp.net^
 ||assurancetp.com^
+||asterglobal.com^
 ||astergo.in^
 ||astonclinic.ie^
 ||astrologia.com.co^
@@ -43657,7 +43859,9 @@ fore-focus-.mystrikingly.co
 ||axoten.com^
 ||ayalapublicidad.com^
 ||ayukburuanisisaldo.store^
+||ayyappatemplerohini.com^
 ||azaleaservices.org^
+||azmeasurement.com^
 ||azooma.co^
 ||b.0x420.lol^
 ||b.clu-e.eu^
@@ -43675,7 +43879,6 @@ fore-focus-.mystrikingly.co
 ||bahrainplumbing.com^
 ||bajosombra.com^
 ||balaoboituva.com.br^
-||balgocburada.com^
 ||balinsa.com^
 ||baliwebpro.net^
 ||balkun.com^
@@ -43719,6 +43922,9 @@ fore-focus-.mystrikingly.co
 ||bdprimenews.com^
 ||bdral.com^
 ||beachwood.ug^
+||bearcatpumps.com.cn^
+||bearware.org^
+||beautifulqueen.com.br^
 ||beauty-house-ye.com^
 ||beautychoose.com^
 ||beccoviolonista.com^
@@ -43733,6 +43939,7 @@ fore-focus-.mystrikingly.co
 ||belma.ro^
 ||bengalurupools.com^
 ||benigletechnologies.com^
+||benwellgroup.co.uk^
 ||berkeley.edu.eu^
 ||bernardinoressende.com^
 ||berown.in^
@@ -43865,6 +44072,7 @@ fore-focus-.mystrikingly.co
 ||book-keepinghub.com^
 ||booking.wiki.br^
 ||bookingdone.com^
+||bookkeepingagents.com^
 ||boostassurance.com^
 ||bordeaux-budget-hotels.com^
 ||bostonflooringservices.com^
@@ -43872,7 +44080,6 @@ fore-focus-.mystrikingly.co
 ||botklub.com^
 ||botnet.chalntz.top^
 ||botnet.denvert.pro^
-||botnet.nguyennghi.info^
 ||botnetlogs.com^
 ||bouchardtowing.com^
 ||bouldertowingservices.com^
@@ -43934,7 +44141,6 @@ fore-focus-.mystrikingly.co
 ||burjbiz.com^
 ||burritosvictoria.net^
 ||busaracenter.org^
-||buscascolegios.diit.cl^
 ||businessreviewer.co^
 ||businessservicesla.com^
 ||businesstechniques.ca^
@@ -43951,6 +44157,7 @@ fore-focus-.mystrikingly.co
 ||byedp.nodes.gammalambdalambda.org^
 ||bylinkers.com^
 ||bytecom.group^
+||bz.bbbeioaag.com^
 ||c-54.com^
 ||ca2solution.it^
 ||cabelomeu.com.br^
@@ -44015,7 +44222,6 @@ fore-focus-.mystrikingly.co
 ||carrot-entertainment.com^
 ||cartbd.info^
 ||cartravelsgunturnalluri.com^
-||carwashdenham.com^
 ||casa-forte.it^
 ||casaabierta.org^
 ||casadabateria.com^
@@ -44194,7 +44400,6 @@ fore-focus-.mystrikingly.co
 ||cmt-edu.info^
 ||cnc.chinesetable.us^
 ||cncs.lk^
-||cnom.sante.gov.ml^
 ||coachesmarketingcenter.com^
 ||cobaep-puebla.edu.mx^
 ||cobranzas.uy^
@@ -44318,6 +44523,7 @@ fore-focus-.mystrikingly.co
 ||crackload.net^
 ||crafttech.co^
 ||crawlercarriers.net^
+||crawlercarriersales.com^
 ||crazystory.xyz^
 ||cre4tives.co^
 ||creapb.org.br^
@@ -44382,6 +44588,7 @@ fore-focus-.mystrikingly.co
 ||d9e1c3dd-1fee-48c1-9089-09a70580408e.usrfiles.com^
 ||daachisports.com^
 ||daamanecer.com.mx^
+||dacsandongthapmuoi.vn^
 ||dacsansonla.net^
 ||dacui.online^
 ||dadaorganics.com^
@@ -44445,7 +44652,6 @@ fore-focus-.mystrikingly.co
 ||deltaplumbingsydney.com.au^
 ||delwanqatar.com^
 ||demirancho.xyz^
-||demirelmarka.com^
 ||demo-broker.com^
 ||demo-re-usables.inertiasoft.net^
 ||democracydomain.click^
@@ -44553,6 +44759,7 @@ fore-focus-.mystrikingly.co
 ||dmsasoc.mx^
 ||dnjdistributors.co.tz^
 ||doanlienhiep.vn^
+||doc-10-b0-docs.googleusercontent.com^
 ||doctorshealthcaresystem.com^
 ||docura.sa^
 ||dodiam.live^
@@ -44661,7 +44868,6 @@ fore-focus-.mystrikingly.co
 ||eastcoastmotorhomes.co.uk^
 ||easterninstrumed.com^
 ||eastindiaagro.com^
-||eastpooja.com.my^
 ||easy2hire.in^
 ||easyemaillistbuilding.com^
 ||easylinkacademy.com^
@@ -44713,6 +44919,7 @@ fore-focus-.mystrikingly.co
 ||edgepro.co.in^
 ||edraak.it^
 ||educacionparticular.click^
+||educajuris.cl^
 ||education.needtoday.com^
 ||educationday.ca^
 ||eduinfo.com.ng^
@@ -44794,7 +45001,6 @@ fore-focus-.mystrikingly.co
 ||enterpriseclerk.click^
 ||enterprisedecent.xyz^
 ||enterpriseoral.xyz^
-||enterpriseresearch.ac.uk^
 ||entregabrasx.com^
 ||entregainmediata21.com^
 ||entrenaconraulfit.com^
@@ -44832,6 +45038,7 @@ fore-focus-.mystrikingly.co
 ||esplay.com.br^
 ||esplendoreconsultoria.com.br^
 ||esquadriasmp.com.br^
+||esquiudigital.com^
 ||essayever.com^
 ||essenfoods.in^
 ||estatistica.info^
@@ -44937,6 +45144,7 @@ fore-focus-.mystrikingly.co
 ||farmacomdemexico.com^
 ||farmatech.xyz^
 ||farming4you.com^
+||farwestlandscape.net^
 ||fas.wyb.ac.lk^
 ||fashionbronze.top^
 ||fashionchicsdistribution.com^
@@ -44992,6 +45200,7 @@ fore-focus-.mystrikingly.co
 ||finia.com.py^
 ||finkfe.com^
 ||fioruciengenharia.com.br^
+||firankomania.kylos.pl^
 ||firmenakademie.com^
 ||firstfilmsfirst.com^
 ||firsthomes.in^
@@ -45067,7 +45276,6 @@ fore-focus-.mystrikingly.co
 ||fran.ac.ug^
 ||franciseureka.com.br^
 ||francomontoro.com.br^
-||fransceysse.ac.ug^
 ||free.360totalsecurity.com^
 ||freewebdesign.web.tr^
 ||fresh2go.co.ke^
@@ -45104,6 +45312,7 @@ fore-focus-.mystrikingly.co
 ||fwcdigital.com.br^
 ||fxhwx.timeline.transversallearning.com^
 ||fxsoll.com^
+||fysiotherapie-panken.nl^
 ||fytco.sa^
 ||fzllix.com^
 ||gabconsultingtechservices.com^
@@ -45235,7 +45444,6 @@ fore-focus-.mystrikingly.co
 ||gmhealthcare.dothome.co.kr^
 ||gmodesto.com^
 ||gmpacademy.com.br^
-||gobesitysurgery.com^
 ||godism.online^
 ||gofaster.net^
 ||gofisheye.com^
@@ -45252,6 +45460,7 @@ fore-focus-.mystrikingly.co
 ||goldwaycrm.com^
 ||goldwincfs.com.ph^
 ||golfviewhotelsuites.com^
+||gomezcompany.com^
 ||gomlgaming.dev^
 ||gomusanna.xyz^
 ||goodconnect.co^
@@ -45314,7 +45523,6 @@ fore-focus-.mystrikingly.co
 ||gstatic-node.io^
 ||gstwb.in^
 ||gtechdesigns.net^
-||gtn.cl^
 ||gtrack.com.mm^
 ||guardmaster.in^
 ||guavaprosolutions.com^
@@ -45343,7 +45551,6 @@ fore-focus-.mystrikingly.co
 ||guthealthsolutions.info^
 ||guyanacf.com^
 ||gvisalain.com^
-||h169056.srv22.test-hf.su^
 ||h169212.srv22.test-hf.su^
 ||h169738.srv22.test-hf.su^
 ||h170013.srv22.test-hf.su^
@@ -45439,7 +45646,6 @@ fore-focus-.mystrikingly.co
 ||hiqsolution.com^
 ||hireawhitewitchtherapist.com^
 ||hitechhives.com^
-||hitstation.nl^
 ||hjc.rs^
 ||hjsdfyuewghf.com^
 ||hkkkk3eedffgggdkkk3333fff.hawklogger.repl.co^
@@ -45487,6 +45693,7 @@ fore-focus-.mystrikingly.co
 ||houseot.com^
 ||houseownerhub.com^
 ||housesnhomes.in^
+||houssagynecologue.com^
 ||howaska.co.id^
 ||howo.com.mx^
 ||howtoplungeatoilet.com^
@@ -45503,7 +45710,6 @@ fore-focus-.mystrikingly.co
 ||hseqinternational.com.co^
 ||hshans.com^
 ||hsplus.mx^
-||htownbars.com^
 ||hugersi.com^
 ||human-sarl.ml^
 ||humanaapparels.com^
@@ -45574,12 +45780,14 @@ fore-focus-.mystrikingly.co
 ||ilovemybeer.shop^
 ||imaccochinkalabhavan.com^
 ||imagecolorist.com^
+||imbueautoworx.co.za^
 ||imc-oil.com^
 ||imdsmart.in^
 ||imersaomaster.com.br^
 ||imesiojugbaye.com^
 ||imextrade.ltd^
 ||img.softmedal.com^
+||imit.ac.in^
 ||immuno.mn^
 ||imobiliariadigitalimoveis.com^
 ||impatienstours.co.tz^
@@ -45616,7 +45824,6 @@ fore-focus-.mystrikingly.co
 ||infotrace.cl^
 ||infraarch.in^
 ||ingemarsa.cl^
-||ingonherbal.com^
 ||ingsermart.cl^
 ||inkpressivedesigns.co.za^
 ||inmentus.com.mx^
@@ -45672,7 +45879,6 @@ fore-focus-.mystrikingly.co
 ||ipn.co.id^
 ||ipti.com.mx^
 ||iptves.store^
-||iqrabooksbd.com^
 ||iqramubarik.com^
 ||iraqhotels.online^
 ||irasdesign.nl^
@@ -45705,7 +45911,6 @@ fore-focus-.mystrikingly.co
 ||itrevolution.in^
 ||itstoreindia.com^
 ||itvations.co.uk^
-||ivibits.com^
 ||iwebtravel.com^
 ||iwitech.bj^
 ||iwopay.co.id^
@@ -45744,7 +45949,6 @@ fore-focus-.mystrikingly.co
 ||jazigus.com.br^
 ||jbsacademy.com^
 ||jcc-e-systems.com^
-||jcedu.org^
 ||jcijcom.com^
 ||jdwebsol.com^
 ||jeanclaudecelin.com^
@@ -45799,7 +46003,6 @@ fore-focus-.mystrikingly.co
 ||jpnureg.com.ar^
 ||jr-software-web.net^
 ||jrbaterias.com.br^
-||jsl.com.ng^
 ||jsmg.in^
 ||jspkragujevac.rs^
 ||jtmkarquitetura.com.br^
@@ -45946,6 +46149,7 @@ fore-focus-.mystrikingly.co
 ||lakirasa.com^
 ||lalunavida.com^
 ||lamaratourism.com^
+||lameguard.ru^
 ||lamiera.net^
 ||lamodafirmata.it^
 ||lamolinace.com^
@@ -45956,7 +46160,6 @@ fore-focus-.mystrikingly.co
 ||lapampa.co^
 ||laperlaapp.com^
 ||laptopstorevimannagar.in^
-||lara.amiyon.com^
 ||lareencuentro.com^
 ||lares17.com^
 ||larissacarboni.com^
@@ -46018,24 +46221,24 @@ fore-focus-.mystrikingly.co
 ||lifemedic.pe^
 ||lifeofmatt.net^
 ||lifesounds.us^
-||lifestyle.mn^
 ||lightyearsaheads.com^
 ||liiala0j.beget.tech^
 ||lilianmeneghel-imoveis.com.br^
 ||limelightchurchinternational.org^
 ||limelightempire.org^
 ||lindaameen.com^
+||lindnerelektroanlagen.de^
 ||lineart.in^
 ||liniriben.com^
 ||linkajobs.com^
 ||linkfone.com.br^
 ||linkstricks.com^
-||linkvilleplayers.org^
 ||lipsumtechnologies.com^
 ||litexperu.com^
 ||littlesandbox.com.ph^
 ||live.fxcrm.net^
 ||liverpulapp.ru^
+||livetrack.in^
 ||livinglytips.com^
 ||livingwellwithmikeandlisa.com^
 ||lizardiartedecorativo.com^
@@ -46082,7 +46285,6 @@ fore-focus-.mystrikingly.co
 ||lsmongolia.company^
 ||lspl.pk^
 ||lt.paramountflow.com^
-||ltc.typoten.com^
 ||luckyday0728.org^
 ||luckynight.shop^
 ||luckytradeone.com^
@@ -46109,7 +46311,6 @@ fore-focus-.mystrikingly.co
 ||maadnet.com^
 ||maazthadal.com^
 ||mabdurrazzaque.me^
-||macayaywaak.cl^
 ||macbahawalpur.com^
 ||maccaroniyarn.com^
 ||macherie.ro^
@@ -46172,7 +46373,6 @@ fore-focus-.mystrikingly.co
 ||manguerasindustriales.info^
 ||mantulslot.org^
 ||manueldalzon.cl^
-||manuelferreirag.com^
 ||mapla.com.mx^
 ||maplehcr.com^
 ||maquinariaslopez.pe^
@@ -46186,7 +46386,6 @@ fore-focus-.mystrikingly.co
 ||marel.gq^
 ||mariestopesnig.org^
 ||mario-klemz.de^
-||mario-sunjic.com^
 ||marius.capital^
 ||markcompressor.pk^
 ||market-egypt.com^
@@ -46234,7 +46433,6 @@ fore-focus-.mystrikingly.co
 ||maxxuselanza.com^
 ||mayoreomuebles.com^
 ||mbertoni.org.py^
-||mbgrm.com^
 ||mbhadvisory.com^
 ||mbition.social^
 ||mbr-soluciones.com^
@@ -46262,7 +46460,6 @@ fore-focus-.mystrikingly.co
 ||medmasters.in^
 ||medro.mx^
 ||medstream-ea.com^
-||meeweb.com^
 ||megabrindespg.com.br^
 ||megacert.net^
 ||megadulces.com.mx^
@@ -46329,6 +46526,7 @@ fore-focus-.mystrikingly.co
 ||milfordgaragedoorslocal.com^
 ||milkpiggies.pw^
 ||millatuibrahimkano.com^
+||millenniumtech.co.za^
 ||millionforamorgue.com^
 ||mimmo.pw^
 ||mindzone.site^
@@ -46343,7 +46541,6 @@ fore-focus-.mystrikingly.co
 ||mirrornews.in^
 ||mirtsprint.com^
 ||missredwine.com^
-||mistitis.ug^
 ||mistydeblasiophotography.com^
 ||mitarameridian.com^
 ||mithransilks.com^
@@ -46402,7 +46599,6 @@ fore-focus-.mystrikingly.co
 ||mott54874.b-cdn.net^
 ||mount-fields.com^
 ||movebikes.cl^
-||movidoc.com.br^
 ||movimentoadoratori.it^
 ||moyamoldmakers.com.mx^
 ||mpcintl.com^
@@ -46423,6 +46619,7 @@ fore-focus-.mystrikingly.co
 ||muitomaisshop.com.br^
 ||mujerpotencialmenterica.com^
 ||mulberryhotels.in^
+||mumgee.co.za^
 ||mundialpinturas.com.py^
 ||mundoportero.cl^
 ||municipiounionhidalgo.gob.mx^
@@ -46463,7 +46660,6 @@ fore-focus-.mystrikingly.co
 ||mynsd2u.com^
 ||mypetspedia.com^
 ||myquiztest.in^
-||mysura.it^
 ||mythcreationsltd.com^
 ||mytheacademy.com^
 ||mytravel.pt^
@@ -46566,6 +46762,7 @@ fore-focus-.mystrikingly.co
 ||nienkz.nl^
 ||niffrstaffschools.com^
 ||nikotta.com^
+||nima.brickslimited.com^
 ||ninetofab.com^
 ||nirause.com^
 ||nishaoverseas.in^
@@ -46615,9 +46812,9 @@ fore-focus-.mystrikingly.co
 ||novocupom.com.br^
 ||npmapparels.com^
 ||nppnguyenduc.com^
-||nprlogistica.com.br^
 ||npskudlu.com^
 ||nrbexpresstourstravels.in^
+||nrc-soluciones.com.ar^
 ||nrgservices.net.au^
 ||ns.com.pk^
 ||ns1.gns.net.tr^
@@ -46715,6 +46912,7 @@ fore-focus-.mystrikingly.co
 ||opentalents.co^
 ||openviewmarketing.com^
 ||opescinofilia.it^
+||opolis.io^
 ||opontodoestudante.com.br^
 ||opticaskairoz.com.mx^
 ||orangebrands.co.tz^
@@ -46729,6 +46927,7 @@ fore-focus-.mystrikingly.co
 ||orimar.com.mx^
 ||orionsligi.com^
 ||orlaterole.com^
+||orlcasablanca.com^
 ||orleansfoodsltd.com^
 ||ormmoney.com^
 ||ormschool.com^
@@ -46804,6 +47003,7 @@ fore-focus-.mystrikingly.co
 ||pasalaproperties.com^
 ||pasargadloster.ir^
 ||pasca.org.br^
+||pascasarjana.iainfmpapua.ac.id^
 ||passbaan.com^
 ||passmyassignment.org^
 ||paste-bin.xyz^
@@ -46830,6 +47030,7 @@ fore-focus-.mystrikingly.co
 ||pdamtbwkotasmi.co.id^
 ||pdf-readonline.website^
 ||peachypinktumblers.com^
+||peacocklaw.in^
 ||peallandik.eu-4.evennode.com^
 ||peasx.com^
 ||pegasussourcing.com^
@@ -46870,7 +47071,6 @@ fore-focus-.mystrikingly.co
 ||piaggiomx.com^
 ||pianoguide.co.zw^
 ||picc-penang.com^
-||pico-eg.org^
 ||piedixterrabra.it^
 ||piktor.in^
 ||pilkishop.ru^
@@ -46962,7 +47162,6 @@ fore-focus-.mystrikingly.co
 ||prfjk.org^
 ||prgtti.pk^
 ||pride-shop.co.uk^
-||primaflor-sby.com^
 ||primarilyfloat.click^
 ||primeelevadores.com^
 ||primegradeboosters.com^
@@ -47017,6 +47216,7 @@ fore-focus-.mystrikingly.co
 ||protech-lb.net^
 ||protechasia.com^
 ||protic.web.id^
+||protrasa.com.mx^
 ||proveedoresdeconstruccion.pe^
 ||proximaconnect.mx^
 ||proyectohome.com^
@@ -47051,7 +47251,6 @@ fore-focus-.mystrikingly.co
 ||qadonline.org^
 ||qaliy.sa.com^
 ||qasmexico.com.mx^
-||qaswrahc.com^
 ||qcast.live^
 ||qcollect.co.za^
 ||qderika.com^
@@ -47161,7 +47360,6 @@ fore-focus-.mystrikingly.co
 ||redepintadas.org.br^
 ||redeshopping.net^
 ||redesignshomeinspections.com^
-||redmag-dz.com^
 ||redomacapital.com.br^
 ||redrosespa.xyz^
 ||redseafunding.com^
@@ -47176,7 +47374,6 @@ fore-focus-.mystrikingly.co
 ||registration.uoz.edu.krd^
 ||reifenquick.de^
 ||reinroot.top^
-||reiwo-service.de^
 ||rekordplast.rs^
 ||relacionamentoadois.net^
 ||relaxindulge.co.nz^
@@ -47216,10 +47413,8 @@ fore-focus-.mystrikingly.co
 ||rhnomina.com.ve^
 ||rhwupload.site^
 ||ricardoscatering.ca^
-||richterhi-tech.com^
 ||richtools.info^
 ||riddles.top^
-||ridersintl.org^
 ||rifataluminium.com^
 ||riovinyl.com.mx^
 ||ripasho.com^
@@ -47237,7 +47432,6 @@ fore-focus-.mystrikingly.co
 ||rjos.excluded.everyadpaysmefirst.com^
 ||rjsi.org.pk^
 ||rkelectrical.in^
-||rlcjba7wduej3xcstcjo577eqgjsjvcjfsw4i23fqvf2y27ylylhmhad.onion.pet^
 ||rlpconsulting.ro^
 ||rngroup-bd.com^
 ||rnltechnologies.com^
@@ -47253,7 +47447,6 @@ fore-focus-.mystrikingly.co
 ||ronaldlitt.top^
 ||roncartavio.com^
 ||roniacservice.com^
-||roofing.galacticleads.com^
 ||rootingenious.in^
 ||rosecollectionofficial.com^
 ||rosneft-armenia.am^
@@ -47274,7 +47467,6 @@ fore-focus-.mystrikingly.co
 ||rpmp.international^
 ||rpsconsultants.co.za^
 ||rpwallet.uk^
-||rretoques.cl^
 ||rsgroupcapital.com^
 ||rstransbrokerage.com^
 ||rtanet.info^
@@ -47303,6 +47495,7 @@ fore-focus-.mystrikingly.co
 ||sachz.online^
 ||safagoldmarketing.com^
 ||safaribeachlodgemalawi.com^
+||safetygear.pk^
 ||safetyofficer.pk^
 ||safira-widd.com^
 ||safrat-alriyadh.com^
@@ -47326,6 +47519,7 @@ fore-focus-.mystrikingly.co
 ||sandblaster.com.mx^
 ||sandiisells.com^
 ||sandlerandassociates.com^
+||sangfor-udpate.oss-cn-beijing.aliyuncs.com^
 ||sanivir19.com^
 ||sanjeevtextile.in^
 ||sanjosedegracia.gob.mx^
@@ -47381,6 +47575,7 @@ fore-focus-.mystrikingly.co
 ||scgcofres.com^
 ||scglobal.co.th^
 ||schiller-reinigung.de^
+||scientific.pk^
 ||scl-servicios.com^
 ||scl.tn^
 ||scorejumpers.com^
@@ -47398,6 +47593,7 @@ fore-focus-.mystrikingly.co
 ||sdsolutionseg.com^
 ||sdspush.beget.tech^
 ||sealfoxasphaltfl.com^
+||sealicensing.com^
 ||seatpoint.com^
 ||seatrack.net.au^
 ||sebastianloro.com^
@@ -47438,6 +47634,7 @@ fore-focus-.mystrikingly.co
 ||serplac.ind.br^
 ||serralheriajvs.com.br^
 ||server.easysalepage.in.th^
+||server.toeicswt.co.kr^
 ||server1.childrenspiace.us^
 ||servercrypter.ddns.com.br^
 ||serverftp.online^
@@ -47495,6 +47692,7 @@ fore-focus-.mystrikingly.co
 ||shreepanchratan.com^
 ||shreesiddharthaschool.edu.np^
 ||shriswamivivekanandcollege.com^
+||shsplatform.co.uk^
 ||shuayb.ae^
 ||siaventure.com^
 ||siberiannalimentos.com.br^
@@ -47672,6 +47870,7 @@ fore-focus-.mystrikingly.co
 ||speedycabng.com^
 ||speedyvtu.com.ng^
 ||spensoftgame.site^
+||spices.com.sg^
 ||spicysalthk.com^
 ||spisefisk.dk^
 ||splendourbangalore.in^
@@ -47711,12 +47910,12 @@ fore-focus-.mystrikingly.co
 ||standoutuk.com^
 ||stantexfabrics.com^
 ||star-tech.mx^
-||starcountry.net^
 ||stareheboyscentre.ac.ke^
 ||starkmadstuff.com^
 ||starlightindiemusic.com^
 ||starting5.com^
 ||stasimax.com^
+||static-201-163-99-83.alestra.net.mx^
 ||static.cz01.cn^
 ||stayinoceancitymd.com^
 ||stdown.dinju.com^
@@ -47883,6 +48082,7 @@ fore-focus-.mystrikingly.co
 ||techviralo.com^
 ||techviralos.com^
 ||teckzone.co.uk^
+||tecni-soft.com^
 ||tecnodroid.co^
 ||teesidepat.online^
 ||tejuoshoshoppingcomplex.com^
@@ -47894,6 +48094,7 @@ fore-focus-.mystrikingly.co
 ||telesense-carrier.com^
 ||telusgroup.co^
 ||tempatnyagacor.cyou^
+||temptmag.com^
 ||tenagakerja.org^
 ||tenants.com^
 ||tendasagape.com.br^
@@ -47907,6 +48108,7 @@ fore-focus-.mystrikingly.co
 ||tessacharpentier.com^
 ||test.earborist.com^
 ||test.liquidtelecom.co.ke^
+||test.typoten.com^
 ||testbots.maizhangyu.top^
 ||testserbia.com^
 ||testsieger-online.com^
@@ -47930,7 +48132,6 @@ fore-focus-.mystrikingly.co
 ||thecrescentschools.com^
 ||thecrownbuilder.com^
 ||thecrownbuilders.com.pk^
-||thedefencezone.com^
 ||thedoctorsgym.net^
 ||theelementtech.com^
 ||theelevatedpalate.com^
@@ -47943,6 +48144,7 @@ fore-focus-.mystrikingly.co
 ||theheadsoccerunblocked.com^
 ||thehouseofkitty.com^
 ||theinteriorstudio.com.au^
+||thekassia.co.uk^
 ||thekingflix.com^
 ||thelanguages.club^
 ||theloder.top^
@@ -47997,6 +48199,7 @@ fore-focus-.mystrikingly.co
 ||tipsfreehealth.com^
 ||tlt.ma^
 ||tmaksys.com^
+||tmglawpalawan.com^
 ||tmportal.rcm.edu.ng^
 ||tmqt.photo.beyoudcor.com^
 ||tmsms.rcm.edu.ng^
@@ -48060,6 +48263,7 @@ fore-focus-.mystrikingly.co
 ||topnotchinspection.com^
 ||topranks.co^
 ||topresumesolution.com^
+||topsepatu.com^
 ||topvaluationfirms.com^
 ||topzeus.cyou^
 ||torahs2cents.com^
@@ -48144,6 +48348,7 @@ fore-focus-.mystrikingly.co
 ||tropikalyamarket.com^
 ||tropikalyapub.com^
 ||troqueseunome.com.br^
+||trtmyanmar.com^
 ||trucknow.com^
 ||truejobs.xyz^
 ||trueman.us^
@@ -48166,6 +48371,7 @@ fore-focus-.mystrikingly.co
 ||tuluk.com.br^
 ||tupiel.co^
 ||tvd-packages-download-file.pw^
+||tvdicasderelacionamentocursos.com^
 ||tvnzsports.live^
 ||tween.id^
 ||twipake.co.tz^
@@ -48201,7 +48407,6 @@ fore-focus-.mystrikingly.co
 ||umakarmaker.com.bd^
 ||umasacco.com^
 ||ummeedngo.org^
-||unapromo.com^
 ||und.web.id^
 ||understand-development.xyz^
 ||understand-themselves.click^
@@ -48252,7 +48457,7 @@ fore-focus-.mystrikingly.co
 ||utkalautomobiles.com^
 ||uttaraspa.xyz^
 ||uxgroupllc.com^
-||uxsingh.com^
+||uylab.org^
 ||v-onerotate.com^
 ||v4yougroup.com^
 ||vaa.rfc.zitoprohealth.com^
@@ -48277,6 +48482,7 @@ fore-focus-.mystrikingly.co
 ||vccrp.com^
 ||vdf.in^
 ||vdtlte.com^
+||vdxs.photo.beyoudcor.com^
 ||vedhousing.com^
 ||vedrishi.com^
 ||veerayatan.org^
@@ -48328,7 +48534,6 @@ fore-focus-.mystrikingly.co
 ||vinosalrio.com^
 ||vinvestmentsandtradinginc.com^
 ||vip-monitoring.com^
-||vipbeed.com^
 ||vipnightsgirls.com^
 ||vipysknik.by^
 ||viralkns.com^
@@ -48371,7 +48576,6 @@ fore-focus-.mystrikingly.co
 ||vps-135c3c5b.vps.ovh.ca^
 ||vpsemotiv.com^
 ||vscleaning.com^
-||vtope.info^
 ||vtuapi.com.ng^
 ||vtutrade.com^
 ||vuelosfantastico.com^
@@ -48386,7 +48590,6 @@ fore-focus-.mystrikingly.co
 ||waff-fight.com^
 ||wahdaniyyadatahub.com^
 ||wajahatenterprises.com^
-||walkindrivetoday.com^
 ||walleyewanderers.ca^
 ||wallowemb.com^
 ||wallpaperus.click^
@@ -48490,7 +48693,6 @@ fore-focus-.mystrikingly.co
 ||writesongs.com^
 ||writingservice.in^
 ||writospark.com^
-||wshsoft.company^
 ||wtmc.com.pk^
 ||wtwfilms.fr^
 ||wx-l.in^
@@ -48520,6 +48722,7 @@ fore-focus-.mystrikingly.co
 ||xpressfreightsolutions.com^
 ||xraecity.com.ng^
 ||xrpreward.live^
+||xt.lykj988.com^
 ||xtremedevelopers.com^
 ||xvrp.online^
 ||xz888.oss-cn-hangzhou.aliyuncs.com^
@@ -48557,9 +48760,12 @@ fore-focus-.mystrikingly.co
 ||yoursellersbuddy.com^
 ||yourwebhouse.com^
 ||youth2youthtraining.com^
+||yp.hnggzyjy.cn^
 ||yrzs.timeline.transversallearning.com^
+||ysbaojia.com^
 ||ystramconsulting.com^
 ||yummlyrecipes.xyz^
+||yzkzixun.com^
 ||z-physique.com^
 ||z.shavsl.com^
 ||zafarsithub.com^
