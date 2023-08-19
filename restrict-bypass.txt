@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-18T01:05:49.787Z
+! Last modified: 2023-08-19T01:05:06.845Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1766,7 +1766,6 @@
 ||gumm.org^
 ||gztech.me^
 ||dns.hahnjo.de^
-||dns.hakutakucn.com^
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||dns.haoxuan.xyz^
@@ -2120,6 +2119,7 @@
 ||propage.info^
 ||prounlock.org^
 ||prox.pw^
+||prox.rocks^
 ||proxery.com^
 ||proxie.us^
 ||proxied.org^
@@ -2137,6 +2137,7 @@
 ||proxy.nu^
 ||proxy.red^
 ||proxy.sx^
+||proxy.yt^
 ||proxy-123.com^
 ||proxy-german.de^
 ||proxy-n-vpn.com^
@@ -2177,6 +2178,7 @@
 ||proxysurfing.org^
 ||proxytime.net^
 ||proxyunlock.com^
+||proxyvpnserver.com^
 ||proxyway.com^
 ||psiphon.ca^
 ||psiphon3.com^
@@ -2187,6 +2189,7 @@
 ||vpsus3.pzhg.me^
 ||doh.qis.io^
 ||ns1.qquack.org^
+||quick-proxy.com^
 ||quickproxies.com^
 ||ant.dns.qwer.pw^
 ||dog.dns.qwer.pw^
@@ -2268,6 +2271,7 @@
 ||dns.siry.de^
 ||sitdns.com^
 ||siteget.net^
+||sitework.info^
 ||dns.skrep.eu^
 ||skynetwork.info^
 ||dns.slinkyman.net^

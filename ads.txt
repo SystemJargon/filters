@@ -1,6 +1,6 @@
 !
 ! Title: Adblocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-18T01:01:15.518Z
+! Last modified: 2023-08-19T00:59:56.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136023,7 +136023,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-08-18T00:02:20.327Z
+! Last modified: 2023-08-19T00:02:15.009Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136041,6 +136041,7 @@
 !
 !
 !
+||watekade.xyz^
 ||dr7.biz^
 ||wuftoars.net^
 ||afdrivovoq.com^
@@ -136329,6 +136330,7 @@ vkcdnservice.appspot.com^
 ||addresslegbreathless.com^
 ||adfburwubd.com^
 ||adfgetlink.net^
+||admax.network^
 ||admedia.network^
 ||adolescentcounty.pro^
 ||adqapvtrad.com^
@@ -139848,6 +139850,8 @@ vkcdnservice.appspot.com^
 ! Criteo mobile ads
 !
 !
+||ad.buzzvil.com^
+||screen.buzzvil.com^
 ||adstrategy.biz.weibo.com^
 ||ad.weibo.com^
 ! Ads on some Chinese smartphones
@@ -140070,6 +140074,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||apps.nhk.jp^
 ||trcksp.cordial.io^
 ||track.msg.fortune.com^
 ||track.sp.crdl.io^
@@ -140784,7 +140789,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
-
+||market-backend.api.2gis.ru^
 !
 ! Source name: AdGuard Russian filter ad servers first-party
 !
@@ -140988,6 +140993,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||vkjsnvk.com^
 ||yruws6.com^
 ||3338637.com^
 ||3338652.com^
@@ -141015,6 +141021,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||pixoctopus.pixnet.net^
 !
 ! Source name: AdGuard Dutch filter ad servers
 !
@@ -141154,9 +141161,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Aug 2023 10:45 UTC+7
-! Version: 2308161045
-! Blocked: 837 rules
+! Last modified: 18 Aug 2023 21:54 UTC+7
+! Version: 2308182154
+! Blocked: 838 rules
 ! Expires: 1 days (update frequency)
 !
 ||admicro*.vcmedia.vn^
@@ -141173,6 +141180,7 @@ inapps.appsflyersdk.com^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||quangcaococcoc.vn^
 ||tvc.biphim.club^
 ||vipads.live^
 
@@ -141203,10 +141211,13 @@ inapps.appsflyersdk.com^
 ||aaenv48847h.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
+||afgp10l.com^
 ||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||anwqj0i.xyz^
+||anyunwl04.com^
+||apdfmhp.cn^
 ||aqvwn18102h.com^
 ||arpg2.com^
 ||b4g7k9d2.com^
@@ -141271,6 +141282,7 @@ inapps.appsflyersdk.com^
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
+||daeis.cn^
 ||dafdf.cn^
 ||dalld.xyz^
 ||dalmfn.xyz^
@@ -141407,6 +141419,7 @@ inapps.appsflyersdk.com^
 ||islbaho.top^
 ||jakid.xyz^
 ||janwzsqi.icu^
+||jayhou.top^
 ||jdcnwd.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
@@ -141490,6 +141503,7 @@ inapps.appsflyersdk.com^
 ||lvrvdn.xyz^
 ||lwide.xyz^
 ||lycjsix.cn^
+||lzmvcrp.icu^
 ||metaversemolecule.com^
 ||mh616.org^
 ||mifyeldx.top^
@@ -141520,6 +141534,7 @@ inapps.appsflyersdk.com^
 ||northcookie.xyz^
 ||nqdufv.xyz^
 ||nryqr.cn^
+||nswtojdi.icu^
 ||ntozchv.icu^
 ||nunxhv.com^
 ||nxhwvt.xyz^
@@ -141563,6 +141578,7 @@ inapps.appsflyersdk.com^
 ||qucncfo.cn^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
+||rcblfd.xyz^
 ||rdbousn.cn^
 ||rddsjx.xyz^
 ||rdufuxr.icu^
@@ -141611,6 +141627,7 @@ inapps.appsflyersdk.com^
 ||thesac2.top^
 ||thesac3.top^
 ||thesac4.top^
+||thesac5.top^
 ||thesac7.top^
 ||tifyeldi.top^
 ||tknkfd.xyz^
@@ -141658,6 +141675,7 @@ inapps.appsflyersdk.com^
 ||vxhtxt.xyz^
 ||wddsva0.com^
 ||wnzle.com^
+||wrpsouf.cn^
 ||wsdfame.com^
 ||wslbahe.top^
 ||wubizigeng.com^
@@ -141678,6 +141696,7 @@ inapps.appsflyersdk.com^
 ||xlvqhx.xyz^
 ||xmawwbz.icu^
 ||xmxupz.xyz^
+||xn--521-x72fh66s.cn^
 ||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
 ||xopxptn.cn^
@@ -141693,6 +141712,7 @@ inapps.appsflyersdk.com^
 ||yhhnjg.com^
 ||yjnhkd.com^
 ||yjnhndt.com^
+||yjnkas.com^
 ||ymhyw6.lol^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
@@ -141710,18 +141730,18 @@ inapps.appsflyersdk.com^
 ||zfvltd.xyz^
 ||zggrxf.life^
 ||zghsfh.xyz^
+||zglmvz.buzz^
+||zglmvz.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
+||lishuaibin.cn^
+||gvbhae0.com^
+||vlujojf.icu^
+||zmdjbl.xyz^
+||leadc4.icu^
 ||zszhln.xyz^
-||zglmvz.xyz^
-||xn--521-x72fh66s.cn^
-||apdfmhp.cn^
-||thesac5.top^
-||rcblfd.xyz^
-||afgp10l.com^
-||lzmvcrp.icu^
 ||zvasuzb.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -141914,6 +141934,7 @@ inapps.appsflyersdk.com^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||bd*-ys.km.com^
+||bd-js.duote.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
 ||d*.ruiwen.com^
@@ -149120,7 +149141,6 @@ analytics-*.aasaam.com
 ||cdn.ll.project-limelight.com^
 ||meltwaternews.com^
 ||hubcloud.com.cn^
-||screen.buzzvil.com^
 ||travelpayouts.com^
 ||tracker.scalarr.net^
 ||cert-test.sandbox.google.com^
@@ -165848,7 +165868,7 @@ Register
 Blame
 History
 Permalink
-bee28069
+c28b4e61
 
 
 !
