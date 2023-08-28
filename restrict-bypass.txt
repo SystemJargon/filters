@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-27T01:09:44.064Z
+! Last modified: 2023-08-28T01:07:57.757Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1380,6 +1380,7 @@
 ||block.abstergo.it^
 ||doh.iucc.ac.il^
 ||accessmeproxy.com^
+||actmobile.com^
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
@@ -1391,6 +1392,7 @@
 ||us-east.adhole.org^
 ||dns.adrianlam.com^
 ||ads-help-link2.com^
+||adsocialmediamarketing.com^
 ||advancedvpn.com^
 ||shield.afixer.app^
 ||blitz-setup.ahadns.com^
@@ -1401,6 +1403,8 @@
 ||odoh-target-noads.alekberg.net^
 ||odoh-target-noads-se.alekberg.net^
 ||odoh-target-se.alekberg.net^
+||alhapi.com^
+||alhvp.com^
 ||aliveproxies.com^
 ||dns.alloxr.info^
 ||dns.almir1904.eu^
@@ -1428,6 +1432,7 @@
 ||dns.apigw.online^
 ||aplusvpn.com^
 ||appleproxy.com^
+||appshost.us^
 ||dns.aquilenet.fr^
 ||arcai.com^
 ||nsec.arnor.org^
@@ -1450,6 +1455,8 @@
 ||bdns.link^
 ||bdns.nu^
 ||bdns.pro^
+||beapasswpn.com^
+||beecomf.xyz^
 ||beetvpn.com^
 ||adguard.beliefanx.cn^
 ||bellproxy.com^
@@ -1465,6 +1472,7 @@
 ||bi-tree.ru^
 ||ns3.bit-trail.nl^
 ||dns.bitdefender.net^
+||nimbus.bitdefender.net^
 ||adguard.bitteeinbyte.de^
 ||blacklogic.com^
 ||us1.blissdns.net^
@@ -1472,9 +1480,11 @@
 ||bloquer.fr^
 ||bluemood.me^
 ||blufvpn.com^
+||bmetrics.org^
 ||dns.bobstrecansky.com^
 ||bodvpn.com^
 ||dns.bofh.in^
+||boi9osyg1uwtyafn.com^
 ||doh.boje8.me^
 ||boomtunnel.com^
 ||adblock.borjalopez.eu^
@@ -1517,7 +1527,11 @@
 ||cloaker.ca^
 ||cloaker.us^
 ||dns.cloudfiction.eu^
+||d11nlh9luc38sm.cloudfront.net^
+||d1pijg9qb98hxx.cloudfront.net^
+||d2j70jcgnynkmz.cloudfront.net^
 ||d32z5ni8t5127x.cloudfront.net^
+||europe-west3-topvpn-873d5.cloudfunctions.net^
 ||adguard.cloudmini.net^
 ||dns-secondary.cloudnx.cloud^
 ||cloudnymous.com^
@@ -1646,6 +1660,7 @@
 ||easyhandshake.com^
 ||easyvpn.com^
 ||ebumna.net^
+||ecoweb-network.com^
 ||dns.eddi.net^
 ||dns.edison42.dev^
 ||dns.tuna.tsinghua.edu.cn^
@@ -1665,6 +1680,7 @@
 ||evantbyrne.info^
 ||everyproxies.info^
 ||expatshield.com^
+||expressapisv2.net^
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
 ||f-secure.com^
@@ -1687,6 +1703,8 @@
 ||filesdownloader.com^
 ||dns.filipccz.eu^
 ||finevpn.org^
+||antistalkerfree-eu.europe-west1.firebasedatabase.app^
+||xcomvpn-7000b-default-rtdb.firebaseio.com^
 ||fitnessdepotprices.com^
 ||dns01.flm9.net^
 ||ns1.flodns.net^
@@ -1696,8 +1714,11 @@
 ||fortniters.info^
 ||frandcomfort.us^
 ||free-proxy.xyz^
+||free-signal.com^
 ||free2surfvpn.com^
 ||freeanimesonline.com^
+||freeconnect.link^
+||freedome-vpn.net^
 ||freedomproxy.com^
 ||freehollandproxy.nl^
 ||freemicvpn.com^
@@ -1727,6 +1748,7 @@
 ||get-xweb-help-link4.com^
 ||getcloak.com^
 ||getflix.com^
+||getiantem.org^
 ||getvpnx.com^
 ||getxhelp.com^
 ||getxvpn.com^
@@ -1734,6 +1756,7 @@
 ||gifttrees.us^
 ||dns.ginovs.nl^
 ||gipvpn.com^
+||masterproxy-proxy.github.io^
 ||gizlen.net^
 ||globalchatinc.com^
 ||dns.api.globus.org^
@@ -1805,6 +1828,7 @@
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
 ||mask-api.icloud.com^
+||icpsuawn1zy5amys.com^
 ||idealvpn.com^
 ||adguard.shuting.idv.tw^
 ||idvanish.com^
@@ -1886,6 +1910,7 @@
 ||lantern.io^
 ||largero.com^
 ||larva.app^
+||lashlightproxy.com^
 ||lastentarvike.fi^
 ||adguard1.leadmon.net^
 ||leafyvpn.net^
@@ -1901,6 +1926,7 @@
 ||linkideo.com^
 ||dns.linkr.ninja^
 ||liquidvpn.com^
+||litebrowser.net^
 ||literally.info^
 ||n5.lsasss.com^
 ||dns.lsho.top^
@@ -1909,6 +1935,8 @@
 ||orau.lz0724.com^
 ||mailproxy.info^
 ||mainprox.com^
+||mallocapp.com^
+||mallocprivacy.com^
 ||maskedip.com^
 ||master-clock.us^
 ||masters-of-cloud.de^
@@ -1932,10 +1960,12 @@
 ||dns.mipauns.com^
 ||mitmproxy.org^
 ||dnstls.mobik.com^
+||mobilejump.mobi^
 ||mobrain.xyz^
 ||mockblock.com^
 ||ps1.modr.club^
 ||dns.molinero.dev^
+||monoprivacy.io^
 ||zrh1-ns01.monzoon.net^
 ||dns.moog.sh^
 ||dns.moonssif.com^
@@ -2011,6 +2041,8 @@
 ||dns.nullgate.net^
 ||nur68cnnc5.com^
 ||o1.lt^
+||oceanbrowser.co^
+||octohide.com^
 ||dns.ofdoom.net^
 ||okayfreedom.com^
 ||onconnect.info^
@@ -2046,6 +2078,7 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
+||ospylac.com^
 ||oxylabs.io^
 ||oystervpn.com^
 ||1a.ns.ozer.im^
@@ -2067,6 +2100,7 @@
 ||perlproxy.com^
 ||personalvpn.com^
 ||personaly.click^
+||photonsecure.com^
 ||phpbido.com^
 ||phproxysite.com^
 ||phproxysite.org^
@@ -2086,17 +2120,20 @@
 ||doh.port53.dk^
 ||dns.porteii.com^
 ||portmap.host^
+||potatovpn.io^
 ||poxy.pl^
 ||dns.ha-dvin.pp.ua^
 ||lindung.pp.ua^
 ||virga.pp.ua^
 ||zxcvb.pp.ua^
 ||pr0xy.com^
+||a1free-optimal.prcdn.net^
 ||primeproxy23.info^
 ||printruns.us^
 ||printtools.us^
 ||privacy.io^
 ||privacyprotector.eu^
+||privado.io^
 ||private-internet.info^
 ||privatefb.info^
 ||privateproxy.me^
@@ -2172,6 +2209,7 @@
 ||psiphon.ca^
 ||psiphon3.com^
 ||pupilproxy.com^
+||purevpn-tools.com^
 ||pushokey.com^
 ||doh.pyry.me^
 ||at.pzhg.me^
@@ -2212,6 +2250,8 @@
 ||adguard-dns.rouga.ch^
 ||o.rsaikat.com^
 ||rvpn.ws^
+||s4m.tech^
+||s4m.xyz^
 ||safe-inet.com^
 ||safenetbrowser.com^
 ||safeservedns.com^
@@ -2227,7 +2267,10 @@
 ||schooxy.com^
 ||secure-vpn.com^
 ||secure-vpn.info^
+||vpncenter.avg.securebrowser.com^
+||vpncenter-tenta.securebrowser.com^
 ||securetunnel.com^
+||securetunnels.net^
 ||securevpn.co^
 ||securitales.com^
 ||securitykiss.com^
@@ -2236,6 +2279,7 @@
 ||seedboxes.cc^
 ||selfadserver.com^
 ||dns.sellan.fr^
+||assets-prod-a230.s3.serverwild.com^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||shadeyouvpn.com^
 ||shalenkov.dev^
@@ -2273,6 +2317,7 @@
 ||sslunblocker.com^
 ||doh.ntu.ssooss.win^
 ||ag.ssrahul96.xyz^
+||stable-vpn.com^
 ||stackfront.xyz^
 ||starruby.us^
 ||dns.startupstack.tech^
@@ -2289,6 +2334,7 @@
 ||suissl.com^
 ||sunnetdata.com^
 ||sunvpn.net^
+||superunlimited.com^
 ||supervpn.net^
 ||surfbytes.info^
 ||surffire.info^
@@ -2303,6 +2349,7 @@
 ||a-bld.sys-adm.in^
 ||bld.sys-adm.in^
 ||doh.syshero.org^
+||t-application.website^
 ||t-dz.com^
 ||t2w.pw^
 ||tailscale.com^
@@ -2324,6 +2371,7 @@
 ||thebestproxy.info^
 ||dns.theres.one^
 ||thesafety.us^
+||thevpncompany.net^
 ||thundervpnwin.com^
 ||tiiner.com^
 ||timetohide.me^
@@ -2334,6 +2382,8 @@
 ||d.toairs.com^
 ||tonvpn.com^
 ||topsecure.info^
+||toptip.cc^
+||topvpn.cc^
 ||tor-gateways.de^
 ||tor2web.fi^
 ||tor2web.io^
@@ -2341,6 +2391,8 @@
 ||tor2web.su^
 ||tor2web.to^
 ||tor4pay.com^
+||torguard.biz^
+||torguard.org^
 ||nsc.torgues.net^
 ||torrentprivacy.com^
 ||torrentproxy.co^
@@ -2350,6 +2402,8 @@
 ||totovps.com^
 ||towervpn.com^
 ||tradeadspace.info^
+||consumervpn.trendmicro.com^
+||geovpn.trendmicro.com^
 ||trialproxy.com^
 ||trilightzone.org^
 ||trlone.com^
@@ -2488,7 +2542,9 @@
 ||worldgravityapp.com^
 ||worldvpn.net^
 ||wyx.cloud^
+||x9fnzrtl4x8pynsf.com^
 ||doh.xcom.pro^
+||xcomplus.com^
 ||xenergy.cc^
 ||doh2.gslb2.xfinity.com^
 ||xite.cc^
