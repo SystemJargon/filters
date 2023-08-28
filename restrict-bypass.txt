@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-28T01:07:57.757Z
+! Last modified: 2023-08-28T08:40:00.604Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1472,7 +1472,6 @@
 ||bi-tree.ru^
 ||ns3.bit-trail.nl^
 ||dns.bitdefender.net^
-||nimbus.bitdefender.net^
 ||adguard.bitteeinbyte.de^
 ||blacklogic.com^
 ||us1.blissdns.net^
@@ -1528,9 +1527,21 @@
 ||cloaker.us^
 ||dns.cloudfiction.eu^
 ||d11nlh9luc38sm.cloudfront.net^
+||d1dxafvkz5efdk.cloudfront.net^
 ||d1pijg9qb98hxx.cloudfront.net^
+||d1yqrjo3t9z45y.cloudfront.net^
+||d1ziyscmc3vy4y.cloudfront.net^
+||d22wz8n8kxtekt.cloudfront.net^
+||d25x2lo7c2cgcg.cloudfront.net^
+||d2aie540xlenvh.cloudfront.net^
+||d2bt0exxr0npbv.cloudfront.net^
 ||d2j70jcgnynkmz.cloudfront.net^
 ||d32z5ni8t5127x.cloudfront.net^
+||d560g3bzhkqrf.cloudfront.net^
+||dbneime5ub7kb.cloudfront.net^
+||djx5taukzt3mb.cloudfront.net^
+||dmh2vhxzf0tuf.cloudfront.net^
+||dxyef5b084fjk.cloudfront.net^
 ||europe-west3-topvpn-873d5.cloudfunctions.net^
 ||adguard.cloudmini.net^
 ||dns-secondary.cloudnx.cloud^
@@ -1652,7 +1663,6 @@
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dutchwhite.nl^
-||dns.dyn1.de^
 ||dynanyx.com^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
@@ -2088,6 +2098,7 @@
 ||pandapow.co^
 ||pandapow.io^
 ||pandasecurity.com^
+||pango-paas.co^
 ||dns.panszelescik.pl^
 ||papervpn.info^
 ||doh.gcp.pathofgrace.com^
