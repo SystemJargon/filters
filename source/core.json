@@ -13,7 +13,7 @@
         },
 	{
             "name": "firebog-ticklist-hosts",
-            "source": "https://raw.githubusercontent.com/SystemJargon/pi-hole/main/firebog-ticklist-hosts.txt",
+            "source": "https://github.com/SystemJargon/filters/raw/main/firebog-ticklist.txt",
             "type": "hosts"
       }
     ],
