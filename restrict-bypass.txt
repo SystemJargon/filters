@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-28T08:40:00.604Z
+! Last modified: 2023-08-29T01:07:58.443Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1663,6 +1663,7 @@
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dutchwhite.nl^
+||dns.dyn1.de^
 ||dynanyx.com^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
@@ -2049,7 +2050,6 @@
 ||nslookup.io^
 ||nsv4w.com^
 ||dns.nullgate.net^
-||nur68cnnc5.com^
 ||o1.lt^
 ||oceanbrowser.co^
 ||octohide.com^
