@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-08-30T01:08:07.024Z
+! Last modified: 2023-08-31T01:07:59.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1474,7 +1474,6 @@
 ||bi-tree.ru^
 ||ns3.bit-trail.nl^
 ||dns.bitdefender.net^
-||adguard.bitteeinbyte.de^
 ||blacklogic.com^
 ||us1.blissdns.net^
 ||blockaway.net^
@@ -2386,8 +2385,6 @@
 ||switchvpn.net^
 ||dns.syaifullah.com^
 ||ihctw.synology.me^
-||a-bld.sys-adm.in^
-||bld.sys-adm.in^
 ||doh.syshero.org^
 ||t-application.website^
 ||t-dz.com^
@@ -2602,6 +2599,7 @@
 ||yourinternetproxy.info^
 ||youtube-unblocker.com^
 ||yovbak.com^
+||adguard.zachitect.com^
 ||zagbit.com^
 ||zcoup.com^
 ||zenrows.com^
