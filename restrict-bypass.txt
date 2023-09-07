@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-09-06T01:08:15.523Z
+! Last modified: 2023-09-07T01:06:56.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1943,7 +1943,6 @@
 ||lantern.io^
 ||largero.com^
 ||larva.app^
-||lashlightproxy.com^
 ||lastentarvike.fi^
 ||adguard1.leadmon.net^
 ||leafyvpn.net^
@@ -2232,7 +2231,6 @@
 ||proxyium.com^
 ||proxyness.com^
 ||proxyoutlet.com^
-||proxyprivate.info^
 ||proxysan.info^
 ||proxyscope.com^
 ||proxysheep.com^
@@ -2267,7 +2265,6 @@
 ||dns.api.rackspacecloud.com^
 ||dns.rafn.is^
 ||rapidprivacy.com^
-||rapidproxy.org^
 ||rapidvpn.com^
 ||ratecuts.us^
 ||rayneau.fr^
@@ -2568,7 +2565,6 @@
 ||websiteproxy.net^
 ||websynchrony.com^
 ||webxify.com^
-||webypass.info^
 ||doh.wewitro.net^
 ||wez.fr^
 ||whatsonthebox.net^
