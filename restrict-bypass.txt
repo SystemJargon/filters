@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-09-08T01:08:56.461Z
+! Last modified: 2023-09-09T01:06:12.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2595,7 +2595,6 @@
 ||ychen.cf^
 ||ylink.info^
 ||youfreeproxytube.com^
-||dns.youni.win^
 ||youproxytube.com^
 ||your-dns.run^
 ||yourinternetproxy.info^
