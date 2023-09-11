@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-09-10T01:11:13.376Z
+! Last modified: 2023-09-11T01:08:12.364Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2012,7 +2012,6 @@
 ||dns.muxinghe.cn^
 ||muxyuji.ru^
 ||d.apemlegit.my.id^
-||dns.hafidzradhival.my.id^
 ||id.terra.my.id^
 ||dns.vmath.my.id^
 ||ssl-proxy.my-addr.com^
@@ -2033,7 +2032,6 @@
 ||dns.mzrme.cn^
 ||n0.eu^
 ||doh.nala.ru^
-||namecheap.com^
 ||nanoproxy.com^
 ||dns.nas-server.ru^
 ||natfrp.cloud^
