@@ -1,6 +1,6 @@
 !
 ! Title: Adblocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-09-20T01:03:35.001Z
+! Last modified: 2023-09-21T01:03:10.879Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136002,7 +136002,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-09-20T00:02:34.966Z
+! Last modified: 2023-09-21T00:02:53.065Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136020,6 +136020,9 @@
 !
 !
 !
+||whoustoa.net^
+||gijxsthpuqdwcn.com^
+||opkfijuifbuyynyny.com^
 ||chrothe.com^
 ||urnigarted.com^
 ||slivmux.com^
@@ -136632,6 +136635,7 @@ vkcdnservice.appspot.com^
 ||asnortsalol.website^
 ||asopn.com^
 ||asosettoourma.info^
+||asrntiljustetyerec.info^
 ||asrowjkagg.com^
 ||assaysmohr.cfd^
 ||assistantdroppedseries.com^
@@ -136661,6 +136665,7 @@ vkcdnservice.appspot.com^
 ||augigous.net^
 ||auhbjjvbx.com^
 ||auhjyihlbhvvkv.com^
+||aukroaze.xyz^
 ||aukseseemyr.info^
 ||auksofthecompan.info^
 ||aulricol.xyz^
@@ -136739,6 +136744,7 @@ vkcdnservice.appspot.com^
 ||ballateprebind.digital^
 ||ballotsevicts.space^
 ||bangrighteous.com^
+||baptrqyesunv.xyz^
 ||barbeduseless.com^
 ||barnaclecocoonjest.com^
 ||barren-date.pro^
@@ -136848,6 +136854,7 @@ vkcdnservice.appspot.com^
 ||biturl.co^
 ||bizonads-ssp.com^
 ||bjbjrlnakwvz.top^
+||bjjnovsnejwm.com^
 ||bjqug.xyz^
 ||bkbrmmlyyvekz.top^
 ||bkbrmmlyyvlyk.top^
@@ -137011,6 +137018,7 @@ vkcdnservice.appspot.com^
 ||bydurantr.com^
 ||bymnyzbkylvkv.top^
 ||bymyth.com^
+||bytejtxbulpncg.com^
 ||bytesreunitedcedar.com^
 ||bywntfg.com^
 ||byzkrjamkqyjr.top^
@@ -137603,6 +137611,7 @@ vkcdnservice.appspot.com^
 ||djldrhxb.com^
 ||dkojawwuloj.com^
 ||dkrely.com^
+||dkrqyly.com^
 ||dkrxtdnlg.com^
 ||dledthebarrowb.com^
 ||dlhqffirehv.com^
@@ -138303,6 +138312,7 @@ vkcdnservice.appspot.com^
 ||gayuxhswva.com^
 ||gbbgaiuqq.com^
 ||gckkxvpbhhlx.com^
+||gcqaxqowifrf.com^
 ||gcukphxabcifwlo.com^
 ||gcyzgld.com^
 ||gdjejefdqthxmy.xyz^
@@ -138637,6 +138647,7 @@ vkcdnservice.appspot.com^
 ||honestlygipsy.com^
 ||honourcunninglowest.com^
 ||hoogajee.net^
+||hoopukoetfqqbqr.com^
 ||hopsackmoth.com^
 ||horaebanca.life^
 ||horrifieddespair.com^
@@ -138800,6 +138811,7 @@ vkcdnservice.appspot.com^
 ||inchrepay.com^
 ||incidentenglandtattoo.com^
 ||incomptstress.uno^
+||indelphoxom.com^
 ||indicatemellowlotion.com^
 ||indicesvestigetruck.com^
 ||indigestioninadmissible.com^
@@ -139571,6 +139583,7 @@ vkcdnservice.appspot.com^
 ||midnightconsessionconsession.com^
 ||midstdropped.com^
 ||midsummerinoculate.com^
+||migopwrajhca.com^
 ||migrationscarletquick.com^
 ||migric.com^
 ||mildredsnareinsolent.com^
@@ -140655,6 +140668,7 @@ vkcdnservice.appspot.com^
 ||realityamorphous.com^
 ||realsh.xyz^
 ||realvids.online^
+||realvids.space^
 ||reaoryhuluios.com^
 ||rearmhoulet.uno^
 ||reaseinprofitstefu.info^
@@ -140735,6 +140749,7 @@ vkcdnservice.appspot.com^
 ||resentfulelsewherethoroughfare.com^
 ||reservesagacious.com^
 ||resesmyinteukr.info^
+||reshuntyanan.com^
 ||resinyanthdia.com^
 ||resoilaldea.digital^
 ||resolvedalarmmelodramatic.com^
@@ -140758,6 +140773,7 @@ vkcdnservice.appspot.com^
 ||revsolder.com^
 ||rewardingindependentvisit.shop^
 ||reyswrloef.xyz^
+||rfhddwa.com^
 ||rgrd.xyz^
 ||rhjcnfypo.com^
 ||rhufmdelxa.com^
@@ -141520,6 +141536,7 @@ vkcdnservice.appspot.com^
 ||tidigrated.space^
 ||tidyingpreludeatonement.com^
 ||tiemerry.com^
+||tikiwi.org^
 ||tilpahaidance.space^
 ||tilttrk.com^
 ||tiltwin.com^
@@ -142386,6 +142403,7 @@ vkcdnservice.appspot.com^
 ||zjybqqaleeva.top^
 ||zlinkc.com^
 ||zlinkd.com^
+||zoadoash.net^
 ||zoileanfinbone.com^
 ||zoiqrudc.com^
 ||zombiharshen.top^
@@ -142416,6 +142434,7 @@ vkcdnservice.appspot.com^
 ||adhash.com^
 ||adinplay.workers.dev^
 ||adline.com^
+||admaru.com^
 ||admax.space^
 ||adqva.com^
 ||adsolutely.com^
@@ -142489,6 +142508,7 @@ vkcdnservice.appspot.com^
 ||d1p0vowokmovqz.cloudfront.net^
 ||d1pdf4c3hchi80.cloudfront.net^
 ||d1sboz88tkttfp.cloudfront.net^
+||d1spc7iz1ls2b1.cloudfront.net^
 ||d1tizxwina1bjc.cloudfront.net^
 ||d1tt3ye7u0e0ql.cloudfront.net^
 ||d1vqm5k0hezeau.cloudfront.net^
@@ -142603,6 +142623,13 @@ vkcdnservice.appspot.com^
 ! AfreecaTV
 ! Yandex ads in apps
 !
+||ali-ad.a.yximgs.com^
+||v*-ad.video.yximgs.com^
+||tx-ad.a.yximgs.com^
+||tx-kmpaudio.pull.yximgs.com^
+||hw-ot-ad.a.yximgs.com^
+||kskwai.com^
+||adkwai.com^
 ||marketing.mangacopy.com^
 ||gdfp.gifshow.com^
 ||p1-lm.adukwai.com^
@@ -142700,6 +142727,8 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||stat.dongqiudi.com^
+||sensors-log.dongqiudi.com^
 ||jokerly.com^
 ||analytics.gnetworks.xyz^
 ||mon.zijieapi.com^
@@ -143085,6 +143114,7 @@ inapps.appsflyersdk.com^
 ||fourtimessmelly.com^
 ||fptls3.com^
 ||geotargetly-api-*.com^
+||glamipixel.com^
 ||iconmediapixel.com^
 ||logtail.com^
 ||loopcybersec.com^
@@ -143109,12 +143139,14 @@ inapps.appsflyersdk.com^
 ||hadronid.net^
 ||hyperdx.io^
 ||ingest-lr.com^
+||knotch-cdn.com^
 ||loomi-prod.xyz^
 ||lr-ingest.com^
 ||mirabelsmarketingmanager.com^
 ||nelioabtesting.com^
 ||nexx360.io^
 ||owltrack.com^
+||prebidmanager.com^
 ||premiumimpression.com^
 ||publytics.net^
 ||pubperf.com^
@@ -143441,6 +143473,8 @@ inapps.appsflyersdk.com^
 ! Persian
 ! Polish
 ! Portuguese
+||premiumprogrammatic.com.br^
+||widgets.solutions^
 ! Romanian
 ! Serbian
 ! Slovak
@@ -143461,6 +143495,7 @@ inapps.appsflyersdk.com^
 -logging.nextmedia.com^
 ! Croatian
 ! Czech
+||c.seznam.cz^
 ! Georgian
 ||stats2.*.fdnames.com^
 ! Korean
@@ -144065,8 +144100,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Sep 2023 10:01 UTC+7
-! Version: 2309111001
+! Last modified: 20 Sep 2023 15:22 UTC+7
+! Version: 2309201522
 ! Blocked: 839 rules
 ! Expires: 1 days (update frequency)
 !
@@ -144987,6 +145022,20 @@ inapps.appsflyersdk.com^
 ||rsde1.top^
 ||ewzavfde.xyz^
 ||fnitw.xyz^
+||clisatf.top^
+||wzguosutang.com^
+||gzdszb.cn^
+||cirruscarnival.com^
+||pelageforgers.com^
+||vuedivv.icu^
+||pzykrcq.cn^
+||duobyj.icu^
+||tsfwzz.xyz^
+||recds8.icu^
+||nwrgdifq.xyz^
+||crvbnac.xyz^
+||gniew.xyz^
+||sdjvbsjbvas.com^
 ||01v62.xyz^
 ||0krdn3.com^
 ||50aqzb.com^
@@ -150878,7 +150927,6 @@ analytics-*.aasaam.com
 ||platform.adwep.com^
 ||cdn.pyadx.com^
 ||js-ad.a.yximgs.com^
-||tx-ad.a.yximgs.com^
 ||adashx.ut.ele.me^
 ||h-adashx.ut.ele.me^
 ||e-ad-monitor.huya.com^
@@ -150999,12 +151047,9 @@ analytics-*.aasaam.com
 ||ads.oneway.mobi^
 ||ads.oway.mobi^
 ||owads.audioadx.com^
-||p3.adkwai.com^
 ||adx.sogaha.cn^
 ||api.jialiangad.com^
 ||track.adxwork.com^
-||p1-lm.adkwai.com^
-||p1.adkwai.com^
 ||report.yumobi.cn^
 ||ssp.indexmob.com^
 ||engine.liandaomobi.com^
@@ -151118,7 +151163,6 @@ analytics-*.aasaam.com
 ||cc.map.qq.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||ynuf.aliapp.org^
-||ali-ad.a.yximgs.com^
 ||adashbc.m.taobao.com^
 ||adashx.m.taobao.com^
 ||c-adash.m.taobao.com^
@@ -152052,7 +152096,6 @@ analytics-*.aasaam.com
 ||51.la^
 ||apps.outfit7.com^
 ||xlog.jd.com^
-||p2.adkwai.com^
 ||cdn.stroeerdigitalgroup.de^
 ||lfeeder.com^
 ||hm.e.shifen.com^
@@ -152360,7 +152403,6 @@ analytics-*.aasaam.com
 ||yoc.com^
 ||delivery.r2b2.cz^
 ||e-volution.rtb-as-useast.ak-is2.net^
-||p2-yx.adkwai.com^
 ||digital-analytics.amadeus.com^
 ||unibotscdn.b-cdn.net^
 ||cookiereports.com^
@@ -152381,7 +152423,6 @@ analytics-*.aasaam.com
 ||cheshmak.me^
 ||mintegral-imp.aarki.net^
 ||myway.com^
-||p1-yx.adkwai.com^
 ||vungle-imp.aarki.net^
 ||my.toruftuiov.com^
 ||stbanalyticschy.echostarbeta.com^
@@ -152714,7 +152755,6 @@ analytics-*.aasaam.com
 ||gmial.com^
 ||ps2.gamedl.qq.com^
 ||imadrep.co.kr^
-||glamipixel.com^
 ||vmeasuredl.dishaccess.tv^
 ||pisano.com.tr^
 ||textlink.simba.taobao.com^
@@ -153261,7 +153301,6 @@ analytics-*.aasaam.com
 ||mynetreklam.com^
 ||rainbowanalytics-a.wpdigital.net^
 ||vidshub.top^
-||ads.admaru.com^
 ||arcade.show^
 ||bime.io^
 ||kunpeng-sc.csdnimg.cn^
@@ -169690,7 +169729,7 @@ analytics-*.aasaam.com
 Blame
 History
 Permalink
-19accd1a
+04bf74dc
 
 
 !
