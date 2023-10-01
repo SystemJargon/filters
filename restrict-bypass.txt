@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-09-30T01:06:46.910Z
+! Last modified: 2023-10-01T01:15:47.739Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1449,6 +1449,7 @@
 ||arcai.com^
 ||nsec.arnor.org^
 ||adguardhome.atakorah.com^
+||atomicstudios.info^
 ||auto-aufladen.de^
 ||vanheim.ff.avast.com^
 ||secure.avastdns.com^
@@ -2013,6 +2014,7 @@
 ||mainprox.com^
 ||mallocapp.com^
 ||mallocprivacy.com^
+||market-id-auto.com^
 ||maskedip.com^
 ||master-clock.us^
 ||masters-of-cloud.de^
@@ -2638,6 +2640,7 @@
 ||websiteproxy.net^
 ||websynchrony.com^
 ||webxify.com^
+||webypass.info^
 ||doh.wewitro.net^
 ||wez.fr^
 ||whatsonthebox.net^
