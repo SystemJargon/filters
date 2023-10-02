@@ -12,6 +12,11 @@
 		"type":"hosts"
       },
 	  	  {
+		"name": "Service Function Required",
+		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/service-function.txt",
+		"type":"hosts"
+      },
+	  	  {
             "name": "Signal",
             "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt",
             "type": "hosts"
