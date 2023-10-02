@@ -12,8 +12,8 @@
 		"type":"hosts"
       },
 	  	  {
-		"name": "Service Function Required",
-		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/service-function.txt",
+		"name": "MDM Services",
+		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/mdm-services.txt",
 		"type":"hosts"
       },
 	  	  {
