@@ -1,6 +1,6 @@
 !
 ! Title: Security Lists - Aggregated by github.com/systemjargon. Removed overlap from firebog-ticklist.txt and phishing.txt
-! Last modified: 2023-10-02T01:03:49.131Z
+! Last modified: 2023-10-02T05:09:09.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -38432,6 +38432,7 @@ fore-focus-.mystrikingly.co
 ||amcclothes.com^
 ||amznshirts.com^
 ||andamente.pt^
+||animeshoppers.com^
 ||anydebrid.com^
 ||aoocib.com^
 ||apple.enablemyidservices.com^
@@ -38571,6 +38572,7 @@ fore-focus-.mystrikingly.co
 ||crm2.tbg-lmtd.xyz^
 ||crocssalenz.com^
 ||crueltyspongy.cn^
+||crypto030.online^
 ||cryptolnvest.com^
 ||cryptot.net^
 ||csbo.shop^
@@ -38638,6 +38640,7 @@ fore-focus-.mystrikingly.co
 ||ekyfoa.shop^
 ||elitestrustonline.biz^
 ||elitestrustonline.com^
+||www.elon-bit.com^
 ||elonspace.org^
 ||emberio.com^
 ||enchantestore.myshopify.com^
@@ -38685,7 +38688,6 @@ fore-focus-.mystrikingly.co
 ||faze41.com^
 ||faze42.com^
 ||faze47.com^
-||www.faze49.com^
 ||faze5.com^
 ||faze54.com^
 ||faze6.com^
@@ -38736,6 +38738,7 @@ fore-focus-.mystrikingly.co
 ||fundcash.id^
 ||furoshop.com^
 ||gabanmalls.com^
+||www.galickgear.com^
 ||gamgoing.com^
 ||gamingbuffs.com^
 ||gamingtoolz.club^
@@ -38760,13 +38763,11 @@ fore-focus-.mystrikingly.co
 ||globaldependableshippers.com^
 ||glstee.com^
 ||godeskonettbutikk.com^
-||store.goexpressparcel.com^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
 ||goshop.vin^
 ||gossvibe.com^
-||www.gosusport.store^
 ||govmedcareers.com^
 ||gowarehouse.net^
 ||goyourheart.com^
@@ -38895,6 +38896,7 @@ fore-focus-.mystrikingly.co
 ||magnasat.com^
 ||magnite.shop^
 ||majucash.xyz^
+||store.makewallperfect.store^
 ||mamapapaclothing.com^
 ||markethops.com^
 ||marleytecnologica.com^
@@ -38941,11 +38943,9 @@ fore-focus-.mystrikingly.co
 ||navi10.ru^
 ||navi100.com^
 ||navi12.com^
-||www.navi13.com^
-||store.navi13.com^
+||navi13.com^
 ||navi18.com^
 ||navi2.com^
-||www.navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -38974,12 +38974,14 @@ fore-focus-.mystrikingly.co
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
+||store.navi53.ru^
 ||navi54.com^
 ||navi55.com^
 ||navi55.ru^
 ||navi56.com^
 ||navi59.ru^
 ||navi6.com^
+||store.navi6.ru^
 ||navi61.com^
 ||navi65.com^
 ||navi66.com^
@@ -38997,6 +38999,7 @@ fore-focus-.mystrikingly.co
 ||navi77.com^
 ||navi78.ru^
 ||navi79.com^
+||www.navi79.ru^
 ||navi8.com^
 ||navi81.com^
 ||navi82.com^
@@ -39013,7 +39016,6 @@ fore-focus-.mystrikingly.co
 ||navi9.ru^
 ||navi90.com^
 ||navi91.com^
-||www.navi92.com^
 ||navi92.ru^
 ||navi94.com^
 ||navi96.com^
@@ -39108,7 +39110,7 @@ fore-focus-.mystrikingly.co
 ||parisiporlin-ktki.kemkes.go.id^
 ||parklaneupholstemk.com^
 ||pasarkta.pasaruang.id^
-||www.pateim.com^
+||pateim.com^
 ||path2zillion.com^
 ||paypartc.top^
 ||penguinnow.com^
@@ -39135,7 +39137,6 @@ fore-focus-.mystrikingly.co
 ||www.pn10.xyz^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
-||www.poppop.online^
 ||posehee.com^
 ||potterheads.co^
 ||premiumqualityblanket.com^
@@ -39159,6 +39160,7 @@ fore-focus-.mystrikingly.co
 ||rabamnetee.com^
 ||raiffeisenmining.com^
 ||rasamalls.com^
+||store.rbkbb.com^
 ||reanimando.org^
 ||rebeccatees.com^
 ||redwingshoes-usa.com^
@@ -39229,7 +39231,7 @@ fore-focus-.mystrikingly.co
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
-||www.southernlife.net^
+||southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -39287,9 +39289,11 @@ fore-focus-.mystrikingly.co
 ||teefoody.com^
 ||teemax.store^
 ||teenimo.com^
+||store.teeslegendary.com^
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -39375,6 +39379,7 @@ fore-focus-.mystrikingly.co
 ||vip-yuki-shop.com^
 ||vipdeit.com^
 ||vipticketgiveaway.com^
+||virgo-eth.net^
 ||virtuectech.com^
 ||visoedifica.com^
 ||vkeys.online^
@@ -39397,6 +39402,7 @@ fore-focus-.mystrikingly.co
 ||woadoodles.com^
 ||wywacua8.boats^
 ||x2-promo.net^
+||www.xajzfwgs.com^
 ||xrp-give.pro^
 ||xunlei.it^
 ||yahhhoo.com^

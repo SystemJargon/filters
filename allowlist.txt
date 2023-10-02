@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-02T01:08:24.584Z
+! Last modified: 2023-10-02T05:14:30.868Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -214,6 +214,16 @@ hostfiles.frogeye.fr
 adaway.org
 # add akamai.net for CDN. Some subdomains could be blocked if related to advertising. But blocking just akamai.net breaks quite alot of websites
 akamai.net
+# Microsoft autopilot
+ztd.dds.microsoft.com
+# intune and azure portals
+portal.azure.com
+intune.microsoft.com
+# Meraki MDM
+m.meraki.com
+# Google Family Link
+familylink.google.com
+
 !
 ! Source name: Signal
 ! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt
