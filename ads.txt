@@ -1,6 +1,6 @@
 !
 ! Title: Adblocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-03T01:04:53.505Z
+! Last modified: 2023-10-04T01:05:55.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136014,7 +136014,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-10-03T00:02:25.576Z
+! Last modified: 2023-10-04T00:02:33.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136032,6 +136032,10 @@
 !
 !
 !
+||lajouly.com^
+||qxpwiqydg.com^
+||hpaakmsumarzy.com^
+||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 ||xxjcedclosxcaox.com^
 ||zmhwaiapbtfq.com^
 ||nuerprwm.xyz^
@@ -136353,6 +136357,7 @@ vkcdnservice.appspot.com^
 ||6593167243.com^
 ||68109deb96.com^
 ||6810f7dd2b.com^
+||6f752f73ce.com^
 ||71ec0646e6.com^
 ||7253d56acf.com^
 ||734b84bb92.com^
@@ -136825,6 +136830,7 @@ vkcdnservice.appspot.com^
 ||bailedperiodic.com^
 ||baiwhuga.net^
 ||bajracashboy.com^
+||bakatvackzat.com^
 ||bakrfugarbi.com^
 ||bakubabasilic.space^
 ||ballateprebind.digital^
@@ -138248,6 +138254,7 @@ vkcdnservice.appspot.com^
 ||fayijxrs.com^
 ||fazanppq.com^
 ||fb99ef9239.com^
+||fbebmgbiou.com^
 ||fbffdfproxwqi.com^
 ||fbgwruetfgbhp.com^
 ||fbpgdlprsiz.com^
@@ -139735,6 +139742,7 @@ vkcdnservice.appspot.com^
 ||lsjvqovgx.com^
 ||lsqggflcsm.com^
 ||lsqzxexvphk.com^
+||lsvblpynuezkbf.com^
 ||ltaqqgvitq.com^
 ||lteyrcwpoh.xyz^
 ||ltikmizimsmu.com^
@@ -139931,6 +139939,7 @@ vkcdnservice.appspot.com^
 ||miluwo.com^
 ||mimxdsqiativb.com^
 ||minderalasselfemployed.com^
+||mindless-fruit.pro^
 ||minimumacquitteam.com^
 ||mintclick.xyz^
 ||miraculousregimentabbreviate.com^
@@ -141142,6 +141151,7 @@ vkcdnservice.appspot.com^
 ||record.rizk.com^
 ||recordstunradioactive.com^
 ||recruitresidebitterness.com^
+||rectangular-hook.pro^
 ||rectresultofthepla.info^
 ||redderspsiloi.guru^
 ||redealstonage.com^
@@ -141453,6 +141463,7 @@ vkcdnservice.appspot.com^
 ||separashparyro.info^
 ||separatepattern.pro^
 ||sepstough.com^
+||serfdivia.com^
 ||serpentineillegal.pro^
 ||serumlisp.com^
 ||serv1for.pro^
@@ -143064,7 +143075,6 @@ vkcdnservice.appspot.com^
 ||girls.xyz^
 ||headerbidding.ai^
 ||hyros.com^
-||linkspy.cc^
 ||playmatic.video^
 ||rtbhouse.com^
 ||sap-traffic.com^
@@ -143102,6 +143112,7 @@ vkcdnservice.appspot.com^
 ||1331665238.rsc.cdn77.org^
 ||1409674995.rsc.cdn77.org^
 ||1431327521.rsc.cdn77.org^
+||1436653548.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1520586082.rsc.cdn77.org^
 ||1567644002.rsc.cdn77.org^
@@ -143114,6 +143125,7 @@ vkcdnservice.appspot.com^
 ||1809442125.rsc.cdn77.org^
 ||1857169728.rsc.cdn77.org^
 ||1917697853.rsc.cdn77.org^
+||1942213827.rsc.cdn77.org^
 ||1944696125.rsc.cdn77.org^
 ||360playvid.com^
 ||360playvid.info^
@@ -143382,6 +143394,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||hubtydum.me^
 ||mobadme.jp^
 ||analytics.jslib.win^
 ||easter-analytics.com^
@@ -143522,6 +143535,7 @@ vkcdnservice.appspot.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 !
 ! Disabled in DNS filter
+!+ PLATFORM(windows, mac, android)
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
@@ -143780,6 +143794,7 @@ inapps.appsflyersdk.com^
 ||bidgx.com^
 ||cityrobotflower.com^
 ||convertlink.com^
+||dataofpages.com^
 ||digi-ping.com^
 ||emailsnow.info^
 ||envato.market^
@@ -144821,13 +144836,21 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
-||vttqld.xyz^
+||beste3.icu^
+||pexavfro.xyz^
+||bydcxdy.cn^
+||ldvnehc.xyz^
+||serda10.icu^
+||ddvoht.xyz^
+||tcgaqh.icu^
+||dhgfhedxx.xyz^
 ||jofknbpe.xyz^
+||neeujqf.cn^
+||psroyx.icu^
 ||roxewwq.cn^
 ||ulrvkee.xyz^
-||psroyx.icu^
-||beste3.icu^
-||neeujqf.cn^
+||vttqld.xyz^
+||xkfigjh.cn^
 ||01v62.xyz^
 ||023best.cn^
 ||0krdn3.com^
@@ -154906,6 +154929,7 @@ analytics-*.aasaam.com
 ||capetown.xhamster.com^
 ||creative.imagetwistcams.com^
 ||crowdynews.com^
+||linkspy.cc^
 ||news-log.lsttnews.com^
 ||ofairnur.com^
 ||push.aws.kambicdn.com^
