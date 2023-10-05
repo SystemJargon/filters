@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-04T01:09:38.817Z
+! Last modified: 2023-10-05T01:08:23.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1379,6 +1379,7 @@
 ||9w9.org^
 ||doh.aaaab3n.moe^
 ||adb.aadityakushwaha.com^
+||dns.aaytorr.com^
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
@@ -2379,7 +2380,6 @@
 ||seed.st^
 ||seed4.me^
 ||seedboxes.cc^
-||selfadserver.com^
 ||dns.sellan.fr^
 ||assets-prod-a230.s3.serverwild.com^
 ||dns.sev.monster^
