@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-09T01:08:56.432Z
+! Last modified: 2023-10-11T01:08:19.453Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1525,7 +1525,6 @@
 ||careproxy.com^
 ||dns.carson-family.com^
 ||dns2.cbio.top^
-||cblocker.info^
 ||doh.ccb-net.it^
 ||centidoo.com^
 ||chandr1000.net^
@@ -1683,24 +1682,13 @@
 ||dns1.ipv6.dnscrypt.ca^
 ||dns2.ipv6.dnscrypt.ca^
 ||dnsenc.com^
-||doh.beauty^
-||doh.buzz^
 ||doh.lv^
 ||doh.sb^
 ||dns.doh.best^
 ||domainownership.us^
-||doomshadow.com^
 ||ns1.dotls.org^
 ||doh.dscloud.me^
 ||duapps.com^
-||aattwwss.duckdns.org^
-||home27.duckdns.org^
-||jurre-home.duckdns.org^
-||krtekvpn.duckdns.org^
-||osefcorp.duckdns.org^
-||punono.duckdns.org^
-||tuandns.duckdns.org^
-||tungdnsne.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dutchwhite.nl^
@@ -1824,7 +1812,6 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
-||dns.glorydns.com^
 ||dns.gnb09.id^
 ||goingthere.org^
 ||goldenfrog.com^
@@ -1895,7 +1882,6 @@
 ||icpsuawn1zy5amys.com^
 ||idealvpn.com^
 ||adguard.shuting.idv.tw^
-||idvanish.com^
 ||adguard.ihatemy.live^
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
@@ -1914,12 +1900,10 @@
 ||qlf-doh.inria.fr^
 ||intego.com^
 ||internetbypass.com^
-||internetunblock.us^
 ||intl-alliance.com^
 ||ioxy.de^
 ||ipinator.com^
 ||ipoac.nl^
-||iportal.me^
 ||iprovpn.com^
 ||ipunblocker.com^
 ||dns.ipv6dns.com^
@@ -2001,7 +1985,6 @@
 ||dns.linkr.ninja^
 ||liquidvpn.com^
 ||litebrowser.net^
-||literally.info^
 ||doh.dns1.lonet.org^
 ||n5.lsasss.com^
 ||dns.lsho.top^
@@ -2442,7 +2425,6 @@
 ||sunvpn.net^
 ||superunlimited.com^
 ||supervpn.net^
-||surfbytes.info^
 ||surffire.info^
 ||surfmo.com^
 ||surfonym.com^
@@ -2460,7 +2442,6 @@
 ||tbjr6.com^
 ||tbjr6.net^
 ||tbjr6.org^
-||tblocker.info^
 ||tbunet.com^
 ||dns1.techeasy.org^
 ||doh.technochat.in^
@@ -2472,7 +2453,6 @@
 ||tx.teradns.org^
 ||uk.teradns.org^
 ||dns.tesem.dog^
-||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
 ||dns.theres.one^
@@ -2500,7 +2480,6 @@
 ||tor4pay.com^
 ||torguard.biz^
 ||torguard.org^
-||nsc.torgues.net^
 ||torrentprivacy.com^
 ||torrentproxy.co^
 ||torsona.com^
@@ -2514,7 +2493,6 @@
 ||consumervpn.trendmicro.com^
 ||geovpn.trendmicro.com^
 ||trialproxy.com^
-||trilightzone.org^
 ||trlone.com^
 ||nebula.tru.io^
 ||trueproxy.com^
@@ -2527,7 +2505,6 @@
 ||nat64.tuxis.nl^
 ||typaza.com^
 ||u8sj3.com^
-||uas2.com^
 ||ubint.net^
 ||ublocker.info^
 ||ugdsoft.com^
@@ -2578,7 +2555,6 @@
 ||usaip.net^
 ||usaproxy.co^
 ||userproxy.com^
-||usgo.info^
 ||uskt.info^
 ||neatdns.ustclug.org^
 ||utopianpal.com^
