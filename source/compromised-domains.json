@@ -1,0 +1,12 @@
+{
+    "name": "Compromised Domain List - Convert to AGH format by github.com/systemjargon",
+    "sources": [   
+      {
+        "name": "zonefiles-compromised-full",
+        "source": "https://zonefiles.io/f/compromised/domains/full/",
+        "type": "hosts"
+      }
+    ],
+    "transformations": ["Compress","Validate","Deduplicate"],
+    "exclusions_sources": ["allowlist.txt","no_break_sites.txt"]
+  }
