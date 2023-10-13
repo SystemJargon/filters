@@ -1,13 +1,13 @@
-name: SystemJargon Filters Compiler
+name: SystemJargon Filters Repo Compiler
 
 on:
   schedule:
     - cron: '0 0 * * *'
 
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+#  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
 
 jobs:
   build:
@@ -24,6 +24,8 @@ jobs:
 # Leave as comment incase this changes in the future.
 #    - name: Compile bigdargon_HostsVN list
 #      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
+
+# Lists input and output
 
     - name: Compile Security list
       run: hostlist-compiler -c ./source/security.json -o security.txt
@@ -60,7 +62,9 @@ jobs:
 
     - name: Compile Compromised Domains list
       run: hostlist-compiler -c ./source/compromised-domains.json -o compromised-domains.txt
-        
+
+# Commit Actions
+
     - name: Start commit change
       run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV
     
