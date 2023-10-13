@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-12T01:07:03.234Z
+! Last modified: 2023-10-13T01:10:10.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2454,6 +2454,7 @@
 ||tx.teradns.org^
 ||uk.teradns.org^
 ||dns.tesem.dog^
+||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
 ||dns.theres.one^
@@ -2560,7 +2561,6 @@
 ||neatdns.ustclug.org^
 ||utopianpal.com^
 ||tor.vasi.li^
-||securedns.vendorvista.xyz^
 ||viatun.com^
 ||videocollage.us^
 ||videounblocked.com^
