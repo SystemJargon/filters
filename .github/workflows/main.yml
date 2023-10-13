@@ -57,6 +57,9 @@ jobs:
       
     - name: Compile Restrict-ByPass list
       run: hostlist-compiler -c ./source/restrict-bypass.json -o restrict-bypass.txt
+
+    - name: Compile Compromised Domains list
+      run: hostlist-compiler -c ./source/compromised-domains.json -o compromised-domains.txt
         
     - name: Start commit change
       run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV
