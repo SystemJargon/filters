@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-15T01:13:51.136Z
+! Last modified: 2023-10-16T01:10:15.280Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1695,6 +1695,9 @@
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
+||punono.duckdns.org^
+||tuandns.duckdns.org^
+||tungdnsne.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dutchwhite.nl^
@@ -2039,7 +2042,6 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
-||doh.morizt.id^
 ||dns.moulticast.net^
 ||adguard.mrmartian.co^
 ||msr177.com^
@@ -2280,6 +2282,7 @@
 ||proxyium.com^
 ||proxyness.com^
 ||proxyoutlet.com^
+||proxyprivate.info^
 ||proxysan.info^
 ||proxyscope.com^
 ||proxysheep.com^
@@ -2315,6 +2318,7 @@
 ||dns.api.rackspacecloud.com^
 ||dns.rafn.is^
 ||rapidprivacy.com^
+||rapidproxy.org^
 ||rapidvpn.com^
 ||ratecuts.us^
 ||dns.rayanbab.com^
@@ -2432,6 +2436,7 @@
 ||sunvpn.net^
 ||superunlimited.com^
 ||supervpn.net^
+||surfbytes.info^
 ||surffire.info^
 ||surfmo.com^
 ||surfonym.com^
@@ -2466,6 +2471,7 @@
 ||dns.theres.one^
 ||thesafety.us^
 ||thevpncompany.net^
+||thewebtunnel.com^
 ||thundervpnwin.com^
 ||tiiner.com^
 ||timetohide.me^
@@ -2502,6 +2508,7 @@
 ||consumervpn.trendmicro.com^
 ||geovpn.trendmicro.com^
 ||trialproxy.com^
+||trilightzone.org^
 ||trlone.com^
 ||nebula.tru.io^
 ||trueproxy.com^
