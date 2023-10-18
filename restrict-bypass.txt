@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-17T01:09:14.088Z
+! Last modified: 2023-10-18T01:09:43.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1706,6 +1706,7 @@
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
 ||vpngermany.dzzz.info^
+||earnapp.com^
 ||easyhandshake.com^
 ||easyvpn.com^
 ||ebumna.net^
@@ -2350,7 +2351,6 @@
 ||safe-inet.com^
 ||safenetbrowser.com^
 ||safeservedns.com^
-||salesforceliveagent.com^
 ||cloud.samutz.com^
 ||sandparticles.us^
 ||dns.sarak.as^
