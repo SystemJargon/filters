@@ -2,24 +2,14 @@
     "name": "Allowlist for Filters Repo - Aggregated by github.com/systemjargon",
     "sources": [
       {
-        "name": "AnudeepND Whitelist",
-        "source": "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
+        "name": "SystemJargon Core-Allowlist",
+        "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist.txt",
         "type": "hosts"
       },
 	  	  {
 		"name": "List sites",
 		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-domains.txt",
 		"type":"hosts"
-      },
-	  	  {
-		"name": "MDM Services",
-		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/mdm-services.txt",
-		"type":"hosts"
-      },
-	  	  {
-            "name": "Signal",
-            "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt",
-            "type": "hosts"
       }
    ],
    "transformations":[	
