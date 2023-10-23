@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-22T01:12:34.820Z
+! Last modified: 2023-10-23T01:10:02.752Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -150,6 +150,7 @@
 ||cloakvpn.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflare.com^
 ||cloudflareclient.com^
 ||cloudflareresolve.com^
 ||cloudssh.net^
@@ -220,7 +221,6 @@
 ||dns.blokada.org^
 ||dns.brahma.world^
 ||dns.cfiec.net^
-||dns.cloudflare.com^
 ||dns.cmrg.net^
 ||dns.containerpi.co^
 ||dns.containerpi.com^
@@ -2041,6 +2041,7 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
+||doh.morizt.id^
 ||dns.moulticast.net^
 ||adguard.mrmartian.co^
 ||msr177.com^

@@ -1,13 +1,10 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-22T01:12:33.671Z
+! Last modified: 2023-10-23T01:10:00.465Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
-!
-! Source name: AnudeepND Whitelist
-! Source: https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
-!
+# add the rest of re-compiled list below
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -29,13 +26,11 @@ attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
 brightcove.net
 c.s-microsoft.com
-cdn.cloudflare.net
 cdn.embedly.com
 cdn.optimizely.com
 cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
-cdnjs.cloudflare.com
 cert.mgt.xboxlive.com
 clientconfig.passport.net
 clients1.google.com
@@ -214,33 +209,3 @@ hostfiles.frogeye.fr
 adaway.org
 # add akamai.net for CDN. Some subdomains could be blocked if related to advertising. But blocking just akamai.net breaks quite alot of websites
 akamai.net
-# Microsoft autopilot
-ztd.dds.microsoft.com
-# intune and azure portals
-portal.azure.com
-intune.microsoft.com
-# Meraki MDM
-m.meraki.com
-# Google Family Link
-familylink.google.com
-
-!
-! Source name: Signal
-! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/signal.txt
-!
-ud-chat.signal.org
-chat.signal.org
-storage.signal.org
-signal.org
-www.signal.org
-updates2.signal.org
-textsecure-service-whispersystems.org
-giphy-proxy-production.whispersystems.org
-cdn.signal.org
-whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
-d83eunklitikj.cloudfront.net
-souqcdn.com
-cms.souqcdn.com
-api.directory.signal.org
-contentproxy.signal.org
-turn1.whispersystems.org
