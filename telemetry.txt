@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-23T01:08:16.394Z
+! Last modified: 2023-10-24T01:06:57.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -604,6 +604,7 @@ oca.telemetry.microsoft.com
 ||weus2watcab02.blob.core.windows.net^
 ||win1710.ipv6.microsoft.com^
 ||win8.ipv6.microsoft.com^
+||ztd.dds.microsoft.com^
 sportdata-dre.things.hicloud.com 
 update-dre.platform.hicloud.com 
 ||dbankcdn.com^
