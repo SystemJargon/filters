@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-10-31T01:09:24.907Z
+! Last modified: 2023-11-01T01:13:42.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1504,6 +1504,7 @@
 ||bramka-proxy.pl^
 ||breakwall.net^
 ||ag.brianlee.fun^
+||bright4good.eco^
 ||brightvpn.com^
 ||britishproxy.com^
 ||browsebridge.com^
@@ -1615,7 +1616,6 @@
 ||germany-proxy.com.de^
 ||dns.joaofidelix.com.br^
 ||new-proxy.com.de^
-||dns.opnsource.com.au^
 ||proxy.com.de^
 ||proxy-service.com.de^
 ||proxy-site.com.de^
@@ -1870,6 +1870,8 @@
 ||holax.io^
 ||homemail.info^
 ||homevpn.info^
+||honeygain.com^
+||honeygain.me^
 ||keithchung.hopto.org^
 ||hotbotvpn.com^
 ||hothide.com^
@@ -2091,6 +2093,7 @@
 ||ngrok-free.app^
 ||dns.nhtsky.com^
 ||doh.nic.lv^
+||nice-autosurf.com^
 ||dns1.nielsdb.be^
 ||adguard.nielsvoorn.nl^
 ||nimbleway.com^
