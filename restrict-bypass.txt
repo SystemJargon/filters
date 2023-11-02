@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-01T01:13:42.268Z
+! Last modified: 2023-11-02T01:09:00.355Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1394,10 +1394,6 @@
 ||per.adfilter.net^
 ||syd.adfilter.net^
 ||adfreeproxy.com^
-||sg.adhole.org^
-||uk.adhole.org^
-||us-central.adhole.org^
-||us-east.adhole.org^
 ||dns.adrianlam.com^
 ||ads-help-link2.com^
 ||adsocialmediamarketing.com^
@@ -1870,7 +1866,6 @@
 ||holax.io^
 ||homemail.info^
 ||homevpn.info^
-||honeygain.com^
 ||honeygain.me^
 ||keithchung.hopto.org^
 ||hotbotvpn.com^
