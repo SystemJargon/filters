@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-02T01:09:00.355Z
+! Last modified: 2023-11-03T01:08:35.391Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1870,6 +1870,7 @@
 ||keithchung.hopto.org^
 ||hotbotvpn.com^
 ||hothide.com^
+||hotspotproxy.tk^
 ||hotspotvpn.com^
 ||dns.hotta.page^
 ||doh.hottis.de^
@@ -2035,7 +2036,6 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
-||doh.morizt.id^
 ||dns.moulticast.net^
 ||adguard.mrmartian.co^
 ||msr177.com^
@@ -2084,8 +2084,13 @@
 ||newads-cdn.com^
 ||newshosting.com^
 ||doh.luigi.nexific.it^
+||ngrok.app^
+||ngrok.com^
+||ngrok.dev^
 ||ngrok.io^
+||ngrok.pizza^
 ||ngrok-free.app^
+||ngrok-free.dev^
 ||dns.nhtsky.com^
 ||doh.nic.lv^
 ||nice-autosurf.com^
