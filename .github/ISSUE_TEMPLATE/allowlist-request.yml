@@ -1,0 +1,37 @@
+name: Allowlist Request
+description: Submit a request for blocked domain or sub-domain/s.
+labels: ["allowlist-request"]
+assignees: 
+  - systemjargon
+body:
+  - type: dropdown
+    id: blocklists
+    attributes:
+      label: Which blocklist are you using?
+      multiple: true
+      options:
+        - Core
+        - Phishing
+        - Porn
+        - Restrict-ByPass
+        - Security
+        - Telemetry
+        - Threats
+    validations:
+      required: true
+
+  - type: textarea
+    id: domains
+    attributes:
+      label: Which domain/s or sub-domain/s should be un-blocked?
+    validations:
+      required: true
+  
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should the domain/s or sub-domain/s be unblocked?
+      description: |
+        What happens if this is not blocked? What functions do not work for a domain or site? Feel free to add a screenshot.
+    validations:
+      required: true
