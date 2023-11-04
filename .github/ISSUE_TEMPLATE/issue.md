@@ -9,6 +9,7 @@ assignees: SystemJargon
 
 **Describe the issue**
 A clear and concise description of what the issue is as a problem statement.
+Please use the allowlist-request if this to unblock a domain or sub-domain.
 
 **To Reproduce**
 Steps to reproduce the behavior:
