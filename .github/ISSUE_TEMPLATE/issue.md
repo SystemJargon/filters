@@ -2,7 +2,8 @@
 name: Issue
 about: Create an issue.
 title: "[Issue] - "
-labels: ''
+labels: '[issue]'
+
 assignees: SystemJargon
 
 ---
