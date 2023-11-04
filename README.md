@@ -40,7 +40,7 @@ Notes:
 | List Name & Github Link | List Name & RAW/Download) | Purpose/About |
 
 
-| 📄   [Allowlist](allowlist.txt) | [Allowlist](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites | 
+| ✅   [Allowlist](allowlist.txt) | [Allowlist](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites | 
 
 | 🚫   [Core list](core.txt) | [Core list](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | Blocklist core aggregated lists of StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists |
 
