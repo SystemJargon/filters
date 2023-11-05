@@ -1,7 +1,0 @@
-### Written by github.com/SystemJargon/filters July 2023
-### Usually this should be on an allowlist or in your own custom filtering rules. This exists just to showcase exceptions/allowlists needed.
-### This is usually where another aggregated list won't or can't fix an issue on GitHub. Say if a site is blocked - example remove it from an adlist in a request (issue).
-### EXAMPLE BLOCKED MOST COMMON SUB-DOMAIN graph.facebook.com which is on a few blocklists. 
-### Example list currently blocking the subdomain as of July 9th 2023, https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-## facebook
-graph.facebook.com
