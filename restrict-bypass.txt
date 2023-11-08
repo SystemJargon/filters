@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-05T01:14:08.277Z
+! Last modified: 2023-11-08T23:18:58.728Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1813,7 +1813,6 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
-||dns.glorydns.com^
 ||dns.gnb09.id^
 ||goingthere.org^
 ||goldenfrog.com^
@@ -2107,7 +2106,7 @@
 ||ttag.dns.nomu.pw^
 ||noodlevpn.com^
 ||1.dns.noridev.moe^
-||norton.com^
+||core-vpn.norton.com^
 ||dns.norvig.dk^
 ||dns.novali.date^
 ||novatech.fun^
@@ -2328,7 +2327,6 @@
 ||redschool.info^
 ||redus.info^
 ||remotevpn.net^
-||dns.repressoh.it^
 ||restaurantgift.us^
 ||revko.info^
 ||resolver.rferee.dev^
