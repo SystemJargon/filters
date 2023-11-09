@@ -1,0 +1,44 @@
+name: "Create HOSTS format files FROM the adblock format files in the Filters repo"
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+
+    
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  main:
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: "actions/checkout@main"
+
+      - name: "Process Filter Files"
+        run: |
+          FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "restrict-bypass" "security" "telemetry" "threats")
+
+          for FILTER in "${FILTERS[@]}"; do
+              wget -O "./temp/$FILTER.txt" "https://raw.githubusercontent.com/SystemJargon/filters/main/$FILTER.txt"
+              sed -i '/^[ \t]*#/d' "./temp/$FILTER.txt"
+              sed -i '/^[ \t]*!/d' "./temp/$FILTER.txt"
+              sed -i 's/[^.a-zA-Z0-9]//g' "./temp/$FILTER.txt"
+              sed -i '/^$/d' "./temp/$FILTER.txt"
+              sed "s/^/127.0.0.1 /" "./temp/$FILTER.txt" > "./hosts/$FILTER.txt"
+              rm "./temp/$FILTER.txt"
+          done
+
+## commit the changes          
+
+      - name: Start commit change
+        run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV
+    
+      - name: Commit changes
+        uses: EndBug/add-and-commit@main
+        with:
+           default_author: github_actions
+           message: ${{ env.MSG }}
+    
+
