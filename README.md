@@ -2,7 +2,9 @@
 
 This Repo is scheduled to automatically update (and it's lists) at least every 24 hours.
 
-Lists are to be used with an adblocker solution which supports the "adguard" list format, an example: [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+Lists are to be used with an adblocker solution which supports the appropriate format. This may be such as but not limited to the formats of, adblock (AdGuard), hosts, domains.
+
+Info about formats using [Pi-Hole](https://pi-hole.net/blog/2023/03/22/pi-hole-ftl-v5-22-web-v5-19-and-core-v5-16-1-released#page-content) and [AdGuard](https://adguard.com/kb/general/ad-filtering/create-own-filters/)
 
 
 ### Repo Status
