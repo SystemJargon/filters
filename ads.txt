@@ -1,6 +1,6 @@
 !
 ! Title: Ad-blocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-08T23:15:24.593Z
+! Last modified: 2023-11-09T01:06:20.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136002,7 +136002,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-11-08T18:01:10.292Z
+! Last modified: 2023-11-09T00:02:31.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -137405,6 +137405,7 @@ vkcdnservice.appspot.com^
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdpommmy.com^
 ||cduamwclb.com^
 ||cduygiph.com^
 ||ce2c208e9f.com^
@@ -139584,6 +139585,7 @@ vkcdnservice.appspot.com^
 ||jaigaivi.xyz^
 ||jainbagong.com^
 ||jamchew.com^
+||jamminds.com^
 ||jamstech.store^
 ||jaqvamdceoz.com^
 ||jarsools.xyz^
@@ -141668,6 +141670,7 @@ vkcdnservice.appspot.com^
 ||raogjkrgjtrml.xyz^
 ||raosmeac.net^
 ||rapanearozzer.cfd^
+||rapidlybeaver.com^
 ||raptingy.net^
 ||rashtiprimomo.com^
 ||ratesatrociousplans.com^
@@ -142812,6 +142815,7 @@ vkcdnservice.appspot.com^
 ||topatincompany.com^
 ||topcastshoran.space^
 ||topmoststramp.com^
+||toprevenuegate.com^
 ||torselinly.com^
 ||tosolroa.xyz^
 ||tosspowers.com^
@@ -146216,6 +146220,12 @@ inapps.appsflyersdk.com^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||mlumlio.cn^
+||xxlfteg.xyz^
+||arbbj6.com^
+||sglahyea.xyz^
+||nndytv.xyz^
+||eshbqn.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
