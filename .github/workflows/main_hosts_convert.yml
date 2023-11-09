@@ -1,5 +1,6 @@
 name: "Create HOSTS format files FROM the adblock format files in the Filters repo"
 
+# run 2 hours after main.yml
 on:
   schedule:
     - cron: '0 2 * * *'
