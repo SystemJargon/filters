@@ -1,6 +1,6 @@
 !
 ! Title: Ad-blocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-09T21:49:06.080Z
+! Last modified: 2023-11-10T01:05:20.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136001,7 +136001,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-11-09T18:01:16.104Z
+! Last modified: 2023-11-10T00:02:20.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -144933,6 +144933,7 @@ inapps.appsflyersdk.com^
 ||thoughtlessknot.com^
 ||tiredthroat.com^
 ||toadtexture.com^
+||tradetooth.com^
 ||tremendousearthquake.com^
 ||tritebadge.com^
 ||troubleshade.com^
@@ -146241,6 +146242,11 @@ inapps.appsflyersdk.com^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||erutxdk.cn^
+||bgdgpbpm.xyz^
+||jppxnhe.xyz^
+||whqgyo.xyz^
+||icwnix.icu^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
