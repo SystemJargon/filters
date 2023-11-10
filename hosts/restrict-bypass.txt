@@ -1806,6 +1806,7 @@
 127.0.0.1 dns.api.sandbox.globuscs.info
 127.0.0.1 dns.api.staging.globuscs.info
 127.0.0.1 dns.api.test.globuscs.info
+127.0.0.1 dns.glorydns.com
 127.0.0.1 dns.gnb09.id
 127.0.0.1 goingthere.org
 127.0.0.1 goldenfrog.com
@@ -2029,7 +2030,6 @@
 127.0.0.1 morbitzer.de
 127.0.0.1 morevpn.com
 127.0.0.1 dns.moulticast.net
-127.0.0.1 adguard.mrmartian.co
 127.0.0.1 msr177.com
 127.0.0.1 dns.msxnet.ru
 127.0.0.1 muchproxy.com
