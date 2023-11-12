@@ -1,6 +1,6 @@
 !
 ! Title: Security Lists - Aggregated by github.com/systemjargon. Removed overlap from firebog-ticklist.txt and phishing.txt
-! Last modified: 2023-11-11T02:31:23.346Z
+! Last modified: 2023-11-12T01:09:03.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -38808,6 +38808,7 @@ fore-focus-.mystrikingly.co
 ||assassinfitness.com^
 ||atrendsz.com^
 ||attenstyle.com^
+||store.au-bloomreach.com^
 ||audiosg.com.sg^
 ||augusthenri.be^
 ||auspost.your-redelivery-au.com^
@@ -38852,6 +38853,7 @@ fore-focus-.mystrikingly.co
 ||bitsoft360.com^
 ||bitsoft360.io^
 ||bitsoft360.net^
+||store.bitstenali.com^
 ||bknstore.com^
 ||blackabdo.company.site^
 ||blastparis.com^
@@ -38893,8 +38895,7 @@ fore-focus-.mystrikingly.co
 ||casha.xyz^
 ||cebesale.com^
 ||chandeco.com^
-||www.charmsection.com^
-||store.charmsection.com^
+||charmsection.com^
 ||cheat-on.com^
 ||cherryzones.com^
 ||chiclife.co.uk^
@@ -39023,7 +39024,7 @@ fore-focus-.mystrikingly.co
 ||faze1.com^
 ||faze11.com^
 ||faze13.com^
-||faze18.com^
+||www.faze18.com^
 ||faze19.com^
 ||faze2.com^
 ||faze21.com^
@@ -39039,6 +39040,7 @@ fore-focus-.mystrikingly.co
 ||faze42.com^
 ||faze47.com^
 ||faze5.com^
+||faze55.com^
 ||faze6.com^
 ||faze60.com^
 ||faze64.com^
@@ -39073,6 +39075,7 @@ fore-focus-.mystrikingly.co
 ||flattee.com^
 ||fotballsko-salg.com^
 ||fraeuleinemma.fun^
+||store.freedom-deposit.ca^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -39103,13 +39106,14 @@ fore-focus-.mystrikingly.co
 ||gizmopage.com^
 ||gladiadormalas.com.br^
 ||gllomall.com^
-||gload.info^
+||www.gload.info^
+||store.gload.info^
 ||glstee.com^
 ||goglle.com^
 ||goldtimeinvest.com^
 ||gonedewcopy.live^
 ||gossvibe.com^
-||www.gowarehouse.net^
+||gowarehouse.net^
 ||goyourheart.com^
 ||graciaszone.com^
 ||gsport.com^
@@ -39222,7 +39226,8 @@ fore-focus-.mystrikingly.co
 ||lucchesestore.online^
 ||lucidtiger.com^
 ||lucysstyle.com^
-||lunapresent.com^
+||www.lunapresent.com^
+||store.lunapresent.com^
 ||luxsgear.com^
 ||m-contact.site^
 ||m.bpfutures.top^
@@ -39235,7 +39240,6 @@ fore-focus-.mystrikingly.co
 ||markethops.com^
 ||marleytecnologica.com^
 ||maxdebrid.com^
-||maxearningcryp.com^
 ||mayor4london.com^
 ||mcdowellsmaltesepuppies.com^
 ||mcppty.com^
@@ -39284,8 +39288,7 @@ fore-focus-.mystrikingly.co
 ||navi15.com^
 ||navi18.com^
 ||navi2.com^
-||www.navi20.com^
-||store.navi20.com^
+||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -39294,7 +39297,8 @@ fore-focus-.mystrikingly.co
 ||navi24.com^
 ||navi24.ru^
 ||navi25.ru^
-||navi26.com^
+||www.navi26.com^
+||store.navi26.com^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -39359,7 +39363,6 @@ fore-focus-.mystrikingly.co
 ||negotiatefoam.cn^
 ||neozor.com^
 ||netcotto.com^
-||store.netsugar.shop^
 ||networksfishing.com^
 ||new.bestageoffers22.com^
 ||newdompet.com^
@@ -39386,6 +39389,7 @@ fore-focus-.mystrikingly.co
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
+||store.nip55.com^
 ||nip57.com^
 ||nip6.com^
 ||nip69.com^
@@ -39450,6 +39454,7 @@ fore-focus-.mystrikingly.co
 ||pateim.com^
 ||path2zillion.com^
 ||paypartc.top^
+||store.paypays.shop^
 ||penguinnow.com^
 ||peppatees.com^
 ||perlatoshoe.com^
@@ -39559,12 +39564,12 @@ fore-focus-.mystrikingly.co
 ||snapchaty.com^
 ||sneakermart.us^
 ||snowroxy.com^
+||sodipi.com^
 ||software19797.blogspot.com^
 ||soreldiscount.com^
 ||souhoney.com^
 ||source84.com^
 ||www.southernlife.net^
-||store.southernlife.net^
 ||spacexmusk.io^
 ||sportfirestore.com^
 ||sportsapparelmarket.com^
@@ -39624,12 +39629,11 @@ fore-focus-.mystrikingly.co
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||store.tesla-openai.com^
+||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
 ||teslatucker.com^
-||www.thecabinas.com^
 ||thecycleshoes.com^
 ||theeaglebrand.company.site^
 ||thegeekgifts.com^
@@ -39673,15 +39677,18 @@ fore-focus-.mystrikingly.co
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
+||store.twoter.info^
 ||www.uangmu.top^
 ||uangmudahapp.com^
 ||uangqu.online^
+||ug5m.guru^
 ||uk-wemakewebsites.com^
 ||ukoutdoordeal.com^
 ||ultimate-tech-products.myshopify.com^
 ||um-bs.com^
 ||unifully.com^
 ||uniqueetee.com^
+||www.uniqueshirt.shop^
 ||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
@@ -44985,7 +44992,6 @@ fore-focus-.mystrikingly.co
 ||101kpop.com^
 ||1055thehawk.com^
 ||143-42-8-90.ip.linodeusercontent.com^
-||1717.1000uc.com^
 ||179527.com^
 ||180plan.com.au^
 ||19dm82.info^
@@ -45009,7 +45015,6 @@ fore-focus-.mystrikingly.co
 ||31180.website^
 ||3365.templates.victoryoverdieting.com^
 ||33rdderryscouts.com^
-||360.lcy2zzx.pw^
 ||360clients.in^
 ||360coffeemaker.com^
 ||360design.in^
@@ -45045,7 +45050,6 @@ fore-focus-.mystrikingly.co
 ||6shoequarterhorses.com^
 ||70northair.com^
 ||727140534.oss-cn-beijing.aliyuncs.com^
-||73cceb63-7ecd-45e2-9eab-f8d98aab177f.usrfiles.com^
 ||7keuet.haiertelevisao.sa.com^
 ||7mat2.faiasa.sa.com^
 ||7yaa6k.pereirare.sa.com^
@@ -45103,7 +45107,7 @@ fore-focus-.mystrikingly.co
 ||abhijayaspices.com^
 ||abhiyandainik.com^
 ||abissnet.net^
-||ableinfo.co.kr^
+||abmaxdigital.com^
 ||abodeclime.com^
 ||abouthealthupdates.us^
 ||aboveandbeyondmovers.com^
@@ -45550,7 +45554,6 @@ fore-focus-.mystrikingly.co
 ||alcatrazsecurity.co.za^
 ||alcodshop.ro^
 ||aleeftrade.com^
-||alertsecurities.in^
 ||alessiadegaspari.it^
 ||alethium.com^
 ||alexboatsrental.com^
@@ -45569,6 +45572,7 @@ fore-focus-.mystrikingly.co
 ||alibabashop.pk^
 ||alibasi.com^
 ||alikhan.com.pk^
+||alinac.ca^
 ||alj.ed.sa^
 ||aljassimaluminium.com^
 ||alkawsar.org^
@@ -45657,6 +45661,7 @@ fore-focus-.mystrikingly.co
 ||amzfix.com^
 ||amzpro.com.br^
 ||anamurziraatodasi.org.tr^
+||anapa-zarya.ru^
 ||anclegalbusiness.com^
 ||andersonassociates.co^
 ||andrewjohnson.top^
@@ -45682,12 +45687,10 @@ fore-focus-.mystrikingly.co
 ||anywayit.com^
 ||aonefeeds.com.pk^
 ||aonenetwork.com.np^
-||aosafrica.co.za^
 ||aparatefitness.info^
 ||apc-projects.eu^
 ||aperasolarlightltd.com^
 ||api-alajman.com^
-||api-ms.cobainaja.id^
 ||api.52kkg.com^
 ||api.baimless.com^
 ||api.net.bd^
@@ -45740,6 +45743,7 @@ fore-focus-.mystrikingly.co
 ||arihantinfrastructure.com^
 ||arinosolidale.org^
 ||arishhomeschool.com.ng^
+||aristonbentre.com^
 ||ariyabodgroup.ir^
 ||arizonaakdenver.hotcrumblecompany.com^
 ||arizonaorbatonrouge.phoenixcareintl.com^
@@ -45767,6 +45771,7 @@ fore-focus-.mystrikingly.co
 ||artidesign.studio^
 ||artinicrash.com.au^
 ||artisanvinegar.co.uk^
+||artmediastudio.ro^
 ||artnneslie.com^
 ||artsbygrace.com.br^
 ||aryanmediasolutions.com^
@@ -45821,7 +45826,6 @@ fore-focus-.mystrikingly.co
 ||associatedpackers.com^
 ||associatedwindowcleaners.co.uk^
 ||assuredservice.co.in^
-||asterglobal.com^
 ||astomengenharia.com.br^
 ||astroheenasharma.in^
 ||astrologia.com.co^
@@ -45928,6 +45932,7 @@ fore-focus-.mystrikingly.co
 ||beaconsfieldmortgages.ca^
 ||beaiik.philipstelevisao.sa.com^
 ||bearcatpumps.com.cn^
+||bearware.org^
 ||beatrizmancilla.com^
 ||beauticiousbronze.com^
 ||beautifullike.com^
@@ -46121,7 +46126,6 @@ fore-focus-.mystrikingly.co
 ||brilliant-solutions.ae^
 ||brilliantshipping.com^
 ||brindiz.com^
-||bripst.com^
 ||british-shorthair.es^
 ||brknarikan.com^
 ||broadwayevents.co.za^
@@ -46385,7 +46389,6 @@ fore-focus-.mystrikingly.co
 ||co-create2071.org^
 ||co0peuch.website^
 ||coachingfinancieroconfidencial.com^
-||coadymarine.com^
 ||coalizaobrasil.com.br^
 ||cocoplaynut.com^
 ||codebluesystem.com^
@@ -46625,7 +46628,6 @@ fore-focus-.mystrikingly.co
 ||departamentosamuebladosmonterrey.mx^
 ||depositomh.com^
 ||deputadoevandroaraujo.com.br^
-||derekludlow.com^
 ||deroze.net^
 ||derryhealthwellness.com^
 ||des.faqserv.com^
@@ -46773,6 +46775,7 @@ fore-focus-.mystrikingly.co
 ||drep.space^
 ||drewhuddleston.com^
 ||drguentert.mls-test.ch^
+||drhanneserasmus.co.za^
 ||drift.rayna-web.fr^
 ||drmanojaggarwal.com^
 ||drmarcostavaresdeoliveira.com.br^
@@ -46994,7 +46997,6 @@ fore-focus-.mystrikingly.co
 ||elsantotomesino.com.ar^
 ||elvalledetarrazu.com^
 ||emadparibahan.com.bd^
-||emaids.co.za^
 ||emailbuilder.a6uat.co.uk^
 ||emailmarketing.locaweb.com.br^
 ||emandmore.hu^
@@ -47117,6 +47119,7 @@ fore-focus-.mystrikingly.co
 ||expoteam.ro^
 ||expresodelacosta.com.ar^
 ||expressioncomp.com^
+||expressionsofwood.ca^
 ||exsef.com^
 ||exsefbazar.com^
 ||extintoresflash.cl^
@@ -47169,7 +47172,6 @@ fore-focus-.mystrikingly.co
 ||ferdartob.com.ng^
 ||fermrock.com^
 ||ferreterialirquen.cl^
-||fetchdesignprint.co.za^
 ||fetyma.com^
 ||fex.timeline.transversallearning.com^
 ||fhfya.photo.beyoudcor.com^
@@ -47386,6 +47388,7 @@ fore-focus-.mystrikingly.co
 ||globalgujaratifederation.org^
 ||globalhi-tech.sg^
 ||globalhunttechnologies.in^
+||globallaborsupply.com^
 ||globalseorim.co.in^
 ||globalvisiongroupbd.com^
 ||gloessays.com^
@@ -47398,7 +47401,6 @@ fore-focus-.mystrikingly.co
 ||goamiev.com^
 ||gobelconstruction.com^
 ||gobelmarine.com^
-||gobesitysurgery.com^
 ||gobo06fc.top^
 ||gobo09fv.top^
 ||gobo10fc.top^
@@ -47408,12 +47410,12 @@ fore-focus-.mystrikingly.co
 ||goh.org.au^
 ||goigt.photo.beyoudcor.com^
 ||goingtoasia.org^
+||gokcevizyon.com^
 ||golamsoroar.com^
 ||goldentelecommunication.com.ng^
 ||goldenyieldfarms.com^
 ||goldleaf-revenup.com^
 ||gomaspureglow.com.br^
-||gomlgaming.dev^
 ||gonitech.com.ng^
 ||gonow.cl^
 ||gons09fc.top^
@@ -47444,7 +47446,6 @@ fore-focus-.mystrikingly.co
 ||greencraftbags.in^
 ||greenfieldschool.edu.pk^
 ||greenglobalbenefittrade.com^
-||greenisco.com^
 ||greenrootslandscaping.ae^
 ||greenserenity.ca^
 ||greentechelectric.eu^
@@ -47475,6 +47476,7 @@ fore-focus-.mystrikingly.co
 ||gta5cheatmenu.com^
 ||gtech.com.co^
 ||gtf.rs^
+||gtn.cl^
 ||gtopakistan.org^
 ||gtzenterprises.com.np^
 ||guboh2p.top^
@@ -47556,7 +47558,6 @@ fore-focus-.mystrikingly.co
 ||healthylivingdiet.us^
 ||heartwoodproperties.com^
 ||heatherwoodpta.org^
-||hebgb.top^
 ||heckelmann.info^
 ||hecpadarquitectos.com^
 ||hectorlavarellofoundation.org^
@@ -47594,7 +47595,6 @@ fore-focus-.mystrikingly.co
 ||hiremeclean.com^
 ||historiasdelescarabajo.com^
 ||hitechhomes.ca^
-||hitstation.nl^
 ||hlcombustibles.com^
 ||hlgx.workout.oystergardener.net^
 ||hmas.mx^
@@ -47641,10 +47641,12 @@ fore-focus-.mystrikingly.co
 ||hotelsunplaza.in^
 ||hotshortlet.com^
 ||housingphotography.com^
+||houssagynecologue.com^
 ||howtomake.live^
 ||hoxtonparktowingservices.com.au^
 ||hpiflogistics.com^
 ||hptest.ro^
+||hr2019.vrcom7.com^
 ||hranp10.gbbs8.cc^
 ||hrsphr.com^
 ||hseda.com^
@@ -47671,6 +47673,7 @@ fore-focus-.mystrikingly.co
 ||hybridproduction.hu^
 ||hydra.com.my^
 ||hypeplumbing.com.au^
+||hyper-soft.pro^
 ||hyperwall.ir^
 ||hypnotherapytrainingcollege.com.au^
 ||hypospray.com^
@@ -47752,6 +47755,7 @@ fore-focus-.mystrikingly.co
 ||img.proxies.world^
 ||img.softmedal.com^
 ||imhansen.com^
+||imit.ac.in^
 ||impeccableafricatour.com^
 ||imperatizdaconcertina.com.br^
 ||imperialcnc-dz.com^
@@ -48255,6 +48259,7 @@ fore-focus-.mystrikingly.co
 ||lakh.es^
 ||lakuiksong.known.co.ke^
 ||lambdacientifica.com^
+||lameguard.ru^
 ||lamirandehoteltchad.com^
 ||lanahospital.com^
 ||lancecertoconsultoria.com.br^
@@ -48345,6 +48350,7 @@ fore-focus-.mystrikingly.co
 ||livescorekapuas88.com^
 ||liveskorhdp.com^
 ||livetectelecom.com.br^
+||livetrack.in^
 ||livework.in^
 ||ljbtrainingsolutions.com^
 ||llavedelaprendizaje.com^
@@ -48419,7 +48425,6 @@ fore-focus-.mystrikingly.co
 ||madekingrealties.com^
 ||madele.bi^
 ||madhavbelbase.com.np^
-||madicon.co.za^
 ||maesthetics.pk^
 ||maestheticsclinic.com^
 ||mafuliyadevimm.in^
@@ -48495,6 +48500,7 @@ fore-focus-.mystrikingly.co
 ||maxguenter.de^
 ||maxixeatelier.com^
 ||maxman.shop^
+||maxmoney.com^
 ||maxsave.cfd^
 ||maxsolution.in^
 ||mayanmexico.travel^
@@ -48502,7 +48508,6 @@ fore-focus-.mystrikingly.co
 ||mb.oiu.edu.sd^
 ||mbbadvertiser.com^
 ||mbcci.com.pk^
-||mbgrm.com^
 ||mbservingenieria.com^
 ||mcbsistemas.com.br^
 ||mcenter.info^
@@ -48602,6 +48607,7 @@ fore-focus-.mystrikingly.co
 ||michiganmebatonrouge.ashleycollinsdesigns.com^
 ||michiganwylansing.fakaza2018.website^
 ||microonline.com.au^
+||microsecurityupdate.com^
 ||microtrimsltd.com.bd^
 ||midad-adv.com^
 ||midiajcbdigital.com.br^
@@ -48639,8 +48645,8 @@ fore-focus-.mystrikingly.co
 ||missendenrailwaymodellers.org.uk^
 ||missionforex.com^
 ||misterbbqgalati.ro^
+||mistydeblasiophotography.com^
 ||mitgliederbereich.frederik-malsy.com^
-||mithransilks.com^
 ||mitica.eu^
 ||mittmexico.com^
 ||mittnyahem.com^
@@ -48793,7 +48799,6 @@ fore-focus-.mystrikingly.co
 ||naeuet.ciprestre.sa.com^
 ||nafi.co.tz^
 ||nahitahukuk.com^
-||namthaibinh.net^
 ||naniwa-ginzaaward.hisaki-design.com^
 ||nargana.co^
 ||nasa2000.com.mx^
@@ -49071,6 +49076,7 @@ fore-focus-.mystrikingly.co
 ||orgoniteplus.net^
 ||orgsaojorge.com.br^
 ||orgsapi.com^
+||orlcasablanca.com^
 ||orsahomes.com^
 ||orsan.gruporhynous.com^
 ||orsomedia.cosavostra.com^
@@ -49130,7 +49136,6 @@ fore-focus-.mystrikingly.co
 ||parafianieboczowy.pl^
 ||parafusacos.com.br^
 ||paragonprinting.co.uk^
-||parallel.rockvideos.at^
 ||paramountfiresafety.com^
 ||parasempreflores.store^
 ||paratodohayfans.com^
@@ -49145,6 +49150,7 @@ fore-focus-.mystrikingly.co
 ||pascasarjana.iainfmpapua.ac.id^
 ||passionacademy.edu.et^
 ||pasta-mania.it^
+||paste-bin.xyz^
 ||pastelerosentrerios.com.ar^
 ||patelresidency.com.pk^
 ||path4hosts.com^
@@ -49347,7 +49353,6 @@ fore-focus-.mystrikingly.co
 ||proshantika.com^
 ||prosimmex.com^
 ||protag.com.my^
-||protechasia.com^
 ||protechsecuritysolutions.com^
 ||protect.line.pm^
 ||protectstudio.com^
@@ -49392,6 +49397,7 @@ fore-focus-.mystrikingly.co
 ||pzr.2023.ebeenj.com^
 ||qastoman.com^
 ||qbhhospitality.com^
+||qcollect.co.za^
 ||qdl-inm.faqserv.com^
 ||qmsled.com^
 ||qualiteodonto.com.br^
@@ -49411,6 +49417,7 @@ fore-focus-.mystrikingly.co
 ||quind.de^
 ||quinnconstructioninc.com^
 ||quintadospinheirais.pt^
+||quizbn.com^
 ||qumnsbph.page.link^
 ||quolocations.com^
 ||quote.keydesignwebsites.com^
@@ -49515,7 +49522,6 @@ fore-focus-.mystrikingly.co
 ||res.faqserv.com^
 ||resetqi.com^
 ||reshuld247.click^
-||resourceedge.org^
 ||restauracekup.cz^
 ||restaurangfolkparken.se^
 ||retailexpertscloud.com^
@@ -49575,7 +49581,6 @@ fore-focus-.mystrikingly.co
 ||romancehotel.net^
 ||roncluv.com^
 ||rontymobile.in^
-||roofing.galacticleads.com^
 ||rootsivyintschools.edu.pk^
 ||rootsschools.edu.pk^
 ||roraimastudios.com^
@@ -49652,6 +49657,7 @@ fore-focus-.mystrikingly.co
 ||sadrate.monster^
 ||sadrate.pics^
 ||sadrate.skin^
+||saf-oil.ru^
 ||saf.faqserv.com^
 ||safetyofficer.pk^
 ||safha.co^
@@ -49855,6 +49861,7 @@ fore-focus-.mystrikingly.co
 ||sds.pe^
 ||sdsdryliningandpaintingsolutions.com^
 ||sdt.faqserv.com^
+||sealicensing.com^
 ||sealsandsealings.com^
 ||searleivsolutions.com^
 ||seatapps.ma^
@@ -49864,6 +49871,7 @@ fore-focus-.mystrikingly.co
 ||secora.cl^
 ||secretbeauty.ge^
 ||secretbeuty.ge^
+||secretmindcontrol.com^
 ||securecashapp.com^
 ||securehosting.vip^
 ||secureshare.us.com^
@@ -49924,7 +49932,6 @@ fore-focus-.mystrikingly.co
 ||shaadow.net^
 ||shadowmaskbungalow.com^
 ||shahnazbeautyclinic.com^
-||shahu66.com^
 ||shajaratlemon.com^
 ||shalife.in^
 ||shamsuddeensparepartsenterprise.com.ng^
@@ -50032,6 +50039,7 @@ fore-focus-.mystrikingly.co
 ||skyalarabia.com^
 ||skynnex.com^
 ||slimdiet.eu^
+||slpbridge.com^
 ||slsofficial.co.id^
 ||smahrec.com^
 ||smancydata.com.ng^
@@ -50059,7 +50067,6 @@ fore-focus-.mystrikingly.co
 ||smsfunny.ir^
 ||smt.faqserv.com^
 ||smv.faqserv.com^
-||smz-llc.net^
 ||snappretail.io^
 ||sngie.ml^
 ||snowhillvythiri.com^
@@ -50102,6 +50109,7 @@ fore-focus-.mystrikingly.co
 ||southwestairtrip.com^
 ||sozoagrib.com^
 ||spacaruaru.com^
+||spaceframe.mobi.space-frame.co.za^
 ||spacetechnasa.site^
 ||spacetrack.co.tz^
 ||spangle1.online^
@@ -50159,7 +50167,6 @@ fore-focus-.mystrikingly.co
 ||stayinoceancitymd.com^
 ||stconfig.oss-accelerate-overseas.aliyuncs.com^
 ||stcvalue.co.uk^
-||stdown.dinju.com^
 ||stellar-ai.sg^
 ||stellenboschdstvinstallation.com^
 ||stephenmichaelsmith.com^
@@ -50227,6 +50234,7 @@ fore-focus-.mystrikingly.co
 ||supperly.co.uk^
 ||supplementsforsale.online^
 ||suppliededucation.co.uk^
+||support.clz.kr^
 ||support.firesecurityproducts.com.au^
 ||supporttrust.org.nz^
 ||supremeelevator.com^
@@ -50346,7 +50354,6 @@ fore-focus-.mystrikingly.co
 ||tesscastleman.com^
 ||test.earborist.com^
 ||test.link4solution.com^
-||test.typoten.com^
 ||teuwebsite.com^
 ||texasmtboston.kasinoraha.com^
 ||texasnewusa.com^
@@ -50424,6 +50431,7 @@ fore-focus-.mystrikingly.co
 ||tigersproductos.com^
 ||tikwave.site^
 ||tillit-hjarta.se^
+||timamollo.co.za^
 ||time4realestate.com^
 ||timewiseconsulting.co.uk^
 ||timmuehitus.com^
@@ -50502,7 +50510,6 @@ fore-focus-.mystrikingly.co
 ||tropicanarestaurants.com^
 ||tropiclean.vn^
 ||troubletorn.ydns.eu^
-||trtmyanmar.com^
 ||truckslele.com^
 ||trudumax.ukt.co.id^
 ||true-hrm.com^
@@ -50560,6 +50567,7 @@ fore-focus-.mystrikingly.co
 ||uniformescorporativos.com^
 ||uniglobe.com.pk^
 ||unimerfertilizzanti.it^
+||unioneterna.com^
 ||uniquemanufacture.co.in^
 ||unitedusedfurniture.com^
 ||unitelexperts.com^
@@ -50609,7 +50617,6 @@ fore-focus-.mystrikingly.co
 ||uvht.2023.ebeenj.com^
 ||uvqe.2023.ebeenj.com^
 ||uwoya.or.tz^
-||uxsingh.com^
 ||vacanzenelmediterraneo.com^
 ||vahid.intendemo.ir^
 ||valentinhenning.de^
@@ -50688,6 +50695,7 @@ fore-focus-.mystrikingly.co
 ||viveaskin.com^
 ||vivianecerqueira.adv.br^
 ||vividsalonindia.com^
+||vkengcivil.com.br^
 ||vkm.co.za^
 ||vkmusicfix.com^
 ||vlandvn.com^
@@ -50907,7 +50915,6 @@ fore-focus-.mystrikingly.co
 ||xuyentri.com^
 ||xv-fiesta.com^
 ||xz888.oss-cn-hangzhou.aliyuncs.com^
-||y.shavsl.com^
 ||yac.org.pk^
 ||yacht-rentalm.com^
 ||yagneek.com^
@@ -50941,6 +50948,7 @@ fore-focus-.mystrikingly.co
 ||yoursafetymattershs.com^
 ||youth.digital^
 ||youunis.net^
+||yp.hnggzyjy.cn^
 ||ypaafi.pessegore.sa.com^
 ||yrspc-app.net^
 ||yrzs.timeline.transversallearning.com^
@@ -50963,6 +50971,7 @@ fore-focus-.mystrikingly.co
 ||zamned17.xyz^
 ||zamned5342.xyz^
 ||zang1.almashreaq.top^
+||zaofisa.net^
 ||zarc.online^
 ||zatel.com.br^
 ||zato.or.tz^
