@@ -1,6 +1,6 @@
 !
 ! Title: Ad-blocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-13T01:07:30.631Z
+! Last modified: 2023-11-14T01:05:57.808Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136004,7 +136004,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-11-13T00:02:31.197Z
+! Last modified: 2023-11-14T00:02:24.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -136022,6 +136022,20 @@
 !
 !
 !
+||ykmvnhue.com^
+||vauthaud.net^
+||nabicbh.com^
+||ioxffew.com^
+||fodsoack.com^
+||mllatydz.com^
+||bohowhepsked.com^
+||cideparenhem.com^
+||tuddicijloxb.com^
+||diidgtmupyls.com^
+||absjcirtbhm.com^
+||advymjwwsuhs.com^
+||yaiehgpawwu.com^
+||longlakeweb.com^
 ||sgunqfpjtxfndtt.com^
 ||bvudraqxpl.com^
 ||kusidcfbb.com^
@@ -136300,6 +136314,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||dad1mq193mgtr.cloudfront.net^
 ||d3vw74hiy9xqtm.cloudfront.net^
 ||d36utvtykl56bp.cloudfront.net^
 ||d34gjfm75zhp78.cloudfront.net^
@@ -136588,6 +136603,7 @@ vkcdnservice.appspot.com^
 ||accessdatatrack.com^
 ||accompanyingjean.com^
 ||accomplishedacquaintedbungalow.com^
+||acedtousles.com^
 ||achecaskmeditate.com^
 ||achievebeneficial.com^
 ||achmic.com^
@@ -141216,6 +141232,7 @@ vkcdnservice.appspot.com^
 ||pgmpsqoq.xyz^
 ||phaglalt.com^
 ||phaivais.net^
+||phamsacm.net^
 ||phasecrance.com^
 ||phauraur.com^
 ||phause.com^
@@ -143466,6 +143483,7 @@ vkcdnservice.appspot.com^
 ||wavysnarlfollow.com^
 ||wawhairt.net^
 ||waxapushlite.com^
+||waybillbulged.com^
 ||wazaki.xyz^
 ||wazctigribhy.com^
 ||wbfhivtydh.com^
@@ -144429,6 +144447,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.cocolog-nifty.com^
 ||analytics.clubic.com^
 ||logs.netflix.com^
 ||analytics.innologica.com^
@@ -144648,6 +144667,10 @@ inapps.appsflyersdk.com^
 !+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ! Kochava
 !
+! NOTE: Regular rules
+!
+||fraud.adjoe.zone^
+||sdk-monitoring.ogury.co^
 ||tracker.srta.spectrum.com^
 ||us-east-1.paa-reporting-advertising.amazon^
 ||analytics.nianticlabs.com^
@@ -144945,6 +144968,7 @@ inapps.appsflyersdk.com^
 ||quantumlagoon.com^
 ||questionableobservation.com^
 ||quixoticnebula.com^
+||radiateprose.com^
 ||rainyzinc.com^
 ||rampantwork.com^
 ||rangeplayground.com^
@@ -145263,6 +145287,8 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||givemelink.cc^
+||mediabrama.com^
 ||ehqaobjhna.com^
 ||istmvh.com^
 ||bzgmcqqfxd.com^
@@ -145724,8 +145750,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-12 17:37:45 CET
-# entries:        1171
+# last updated:   2023-11-13 15:07:44 CET
+# entries:        1061
 # format:         hosts (hosts -- in hosts file format)
 ||addrevenue.io^
 ||cdn.sprida.se^
@@ -145790,6 +145816,8 @@ inapps.appsflyersdk.com^
 ||tracking.illvet.se^
 ||tracking.nvp.se^
 ||tracking.etidning.fagersta-posten.se^
+||webbplatsanalys.goteborg.se^
+||www.adnordics.com^
 ||www.alphalete.com.se^
 ||www.aservice.tools^
 ||www.championsverige.com.se^
@@ -145865,6 +145893,8 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||05826.online^
+||0a2b3c4d5e.com^
 ||0efghij.com^
 ||0ghijkl.com^
 ||0mnopqr.com^
@@ -146004,6 +146034,7 @@ inapps.appsflyersdk.com^
 ||foizico.cn^
 ||fotaxf.xyz^
 ||fptdxkm.com^
+||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fzgetdy.cn^
 ||g2ak5.com^
@@ -146054,6 +146085,7 @@ inapps.appsflyersdk.com^
 ||grthhr.xyz^
 ||gscsahv011.com^
 ||gscsahv012.com^
+||gscsahv013.com^
 ||gslejoki.xyz^
 ||gth112.com^
 ||gwdobvs.cn^
@@ -146094,6 +146126,7 @@ inapps.appsflyersdk.com^
 ||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
+||jcbjcb9.cn^
 ||jevwdao.cn^
 ||jiangjinmoa.cn^
 ||jili9.io^
@@ -146125,6 +146158,7 @@ inapps.appsflyersdk.com^
 ||kzprugp.xyz^
 ||l404k.com^
 ||l80ays.com^
+||lblwhh.xyz^
 ||ldvnehc.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
@@ -146186,10 +146220,12 @@ inapps.appsflyersdk.com^
 ||oapyrzde.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
+||oektiu.xyz^
 ||okpcyp.icu^
 ||olltcqg.xyz^
 ||omkxes.xyz^
 ||omzxutfm.com^
+||ooejkd.xyz^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
@@ -146230,6 +146266,7 @@ inapps.appsflyersdk.com^
 ||rkds5.icu^
 ||rntdqwc.xyz^
 ||roxewwq.cn^
+||rrfccx.com^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
 ||rzflhxn.cn^
@@ -146239,6 +146276,7 @@ inapps.appsflyersdk.com^
 ||sglahyea.xyz^
 ||shx11.xyz^
 ||smlpcz.icu^
+||splfnok.cn^
 ||sqevnrb.com^
 ||sregfle.cn^
 ||srlhgo.cn^
@@ -146248,6 +146286,7 @@ inapps.appsflyersdk.com^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
 ||tewsdnka35.xyz^
+||tfczk.xyz^
 ||tgjdbx.xyz^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
@@ -146255,8 +146294,10 @@ inapps.appsflyersdk.com^
 ||toyhyhv.icu^
 ||tqrznqs.cn^
 ||trdmtx.xyz^
+||tuvixr.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
+||uakxkb.icu^
 ||uavejnys.xyz^
 ||udpdmeb.cn^
 ||ugvbsrbht.xyz^
@@ -146342,6 +146383,7 @@ inapps.appsflyersdk.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
+||yjxzvqy.xyz^
 ||ynulcpt.cn^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
@@ -146356,23 +146398,22 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zmfcnlvu.xyz^
 ||zndvfrl.xyz^
 ||znwzcmd.cn^
+||zpvuugw.cn^
 ||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||05826.online^
-||splfnok.cn^
-||yjxzvqy.xyz^
-||zmfcnlvu.xyz^
-||gscsahv013.com^
-||lblwhh.xyz^
-||uakxkb.icu^
-||oektiu.xyz^
-||tuvixr.xyz^
-||rrfccx.com^
+||gaopinoa.cn^
+||ppenid.xyz^
+||imxsvpxe.xyz^
+||llnxdx.xyz^
+||trrmkzesvyqrary.com^
+||gscsahv014.com^
+||fgttbz.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -148304,7 +148345,6 @@ analytics-*.aasaam.com
 # [adj.st]
 
 # [adjoe.zone]
-||fraud.adjoe.zone^
 ||prod.adjoe.zone^
 
 # [adjust.com]
@@ -151290,7 +151330,6 @@ analytics-*.aasaam.com
 # [offerstrack.net]
 
 # [ogury.co]
-||sdk-monitoring.ogury.co^
 
 # [ogury.io]
 ||cloud.ogury.io^
@@ -153763,7 +153802,6 @@ analytics-*.aasaam.com
 ||aff.celebritytrip.club^
 ||aja-recommend.com^
 ||ams.exad.jp^
-||analytics.cocolog-nifty.com^
 ||analytics.qlook.net^
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
@@ -168321,7 +168359,6 @@ analytics-*.aasaam.com
 ||testlink.peak.net^
 ||consent.perry-rhodan.net^
 ||appstat.petafuel.net^
-||phamsacm.net^
 ||adserver.phatmax.net^
 ||phobia.net^
 ||ad.pickple.net^
@@ -170496,7 +170533,7 @@ analytics-*.aasaam.com
 Blame
 History
 Permalink
-6dd1f5bb
+50f09e42
 
 
 !
