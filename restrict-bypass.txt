@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-19T01:15:52.720Z
+! Last modified: 2023-11-20T01:11:56.457Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1694,6 +1694,7 @@
 ||tungdnsne.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
+||dns.dyn1.de^
 ||dynanyx.com^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
@@ -2377,6 +2378,7 @@
 ||seed.st^
 ||seed4.me^
 ||seedboxes.cc^
+||selfadserver.com^
 ||dns.sellan.fr^
 ||assets-prod-a230.s3.serverwild.com^
 ||dns.sev.monster^
@@ -2439,6 +2441,7 @@
 ||sunvpn.net^
 ||superunlimited.com^
 ||supervpn.net^
+||supervpn.top^
 ||surfbytes.info^
 ||surffire.info^
 ||surfmo.com^
@@ -2523,6 +2526,7 @@
 ||nat64.tuxis.nl^
 ||typaza.com^
 ||u8sj3.com^
+||uas2.com^
 ||ubint.net^
 ||ublocker.info^
 ||ugdsoft.com^
@@ -2577,6 +2581,7 @@
 ||neatdns.ustclug.org^
 ||utopianpal.com^
 ||tor.vasi.li^
+||vblocker.info^
 ||viatun.com^
 ||videocollage.us^
 ||videounblocked.com^
