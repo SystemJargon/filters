@@ -1,8 +1,8 @@
 !
 ! Title: Compromised Domain List - Convert to AGH format by github.com/systemjargon
-! Last modified: 2023-11-21T01:12:37.973Z
+! Last modified: 2023-11-22T01:13:34.852Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.22
+! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 !
 ! Source name: zonefiles-compromised-full
@@ -130386,3 +130386,4 @@ qdiwudnqiwndqcom
 ||acutbank.com^
 ||miners-gold.com^
 ||lastimaners.ug^
+||loodwork.fun^
