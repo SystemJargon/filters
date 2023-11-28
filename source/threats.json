@@ -1,5 +1,5 @@
 {
-   "name":"Threats Lists - Creaated by systemjargon",
+   "name":"Threats Lists - Created by systemjargon",
    "sources":[
           {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt",
@@ -12,6 +12,10 @@
       {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/bad-image-icon-domains.txt",
          "type":"hosts"
+      },
+	  {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/IDN_homograph_attack_agh.txt",
+         "type":"adblock"
       },
       {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
