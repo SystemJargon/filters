@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-28T01:12:21.352Z
+! Last modified: 2023-11-29T01:11:57.725Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1514,6 +1514,7 @@
 ||bvpn.com^
 ||byewall.com^
 ||bypass.pw^
+||bypassable.com^
 ||bypassed.wtf^
 ||bypassfw.com^
 ||bypassip.com^
@@ -1738,7 +1739,6 @@
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
-||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
@@ -2037,8 +2037,6 @@
 ||larva.app^
 ||lastentarvike.fi^
 ||adguard1.leadmon.net^
-||leafyvpn.net^
-||leekemx.com^
 ||yarp.lefolgoc.net^
 ||legaladvisor.us^
 ||legalweb.info^
@@ -2475,6 +2473,7 @@
 ||dns.siry.de^
 ||sitdns.com^
 ||siteget.net^
+||sitesunblocked.com^
 ||sitework.info^
 ||dns.skrep.eu^
 ||skynetwork.info^
@@ -2548,6 +2547,7 @@
 ||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
+||theproxyguide.com^
 ||dns.theres.one^
 ||thesafety.us^
 ||thevpncompany.net^
