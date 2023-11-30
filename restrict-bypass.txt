@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-11-29T01:11:57.725Z
+! Last modified: 2023-11-30T01:11:04.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1739,6 +1739,7 @@
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
+||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
@@ -1772,7 +1773,6 @@
 ||armorrush.eu.org^
 ||eurproxy.com^
 ||evantbyrne.info^
-||everovpn.co^
 ||everyproxies.info^
 ||expatshield.com^
 ||expressapisv2.net^
