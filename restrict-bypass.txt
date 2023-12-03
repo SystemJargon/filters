@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-12-02T01:08:39.499Z
+! Last modified: 2023-12-03T01:14:57.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1528,7 +1528,6 @@
 ||centidoo.com^
 ||chandr1000.net^
 ||chaos-system.de^
-||vpn.charraud.eu^
 ||dns.chenu.ch^
 ||dns.chromeina.top^
 ||oraclejp2.chungyu.com^
@@ -1616,6 +1615,7 @@
 ||germany-proxy.com.de^
 ||dns.joaofidelix.com.br^
 ||new-proxy.com.de^
+||dns.opnsource.com.au^
 ||proxy.com.de^
 ||proxy-service.com.de^
 ||proxy-site.com.de^
