@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-12-06T01:11:39.432Z
+! Last modified: 2023-12-07T01:11:07.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2502,7 +2502,6 @@
 ||streamvpn.com^
 ||studysurf.com^
 ||dns.stvsk.ml^
-||sudoproxy.net^
 ||suissl.com^
 ||sunnetdata.com^
 ||sunvpn.net^
@@ -2522,7 +2521,6 @@
 ||doh.syshero.org^
 ||t-application.website^
 ||t-dz.com^
-||t2w.pw^
 ||tailscale.com^
 ||tbjr6.com^
 ||tbjr6.net^
@@ -2618,7 +2616,6 @@
 ||unblockedme.com^
 ||unblockedproxy.us^
 ||unblockedsites.org^
-||unblockfacebook.eu^
 ||unblockit.app^
 ||unblockit.rsvp^
 ||unblockme.us^
@@ -2628,7 +2625,6 @@
 ||unblockproxy.win^
 ||unblocksite.org^
 ||unblocksites.online^
-||unblockweb.one^
 ||unblockwebsites.com^
 ||unblockyoutube.co^
 ||dns.unerror.network^
@@ -2649,7 +2645,6 @@
 ||usaproxy.co^
 ||userproxy.com^
 ||uskt.info^
-||neatdns.ustclug.org^
 ||utopianpal.com^
 ||tor.vasi.li^
 ||vblocker.info^
@@ -2662,8 +2657,6 @@
 ||virtual-browser.com^
 ||dns.vishalk.com^
 ||vitaproxy.com^
-||vpn.vokuev.org^
-||vps.vokuev.org^
 ||vpn0109.voodonline.fr^
 ||vpn.ht^
 ||vpn.lat^
@@ -2677,7 +2670,6 @@
 ||vpncentral.com^
 ||vpndaily.com^
 ||vpnhellings.nl^
-||vpnhost.info^
 ||vpnintouch.com^
 ||vpnmag.fr^
 ||vpnmasterx.com^
