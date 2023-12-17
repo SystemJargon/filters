@@ -1,6 +1,6 @@
 !
 ! Title: Compromised Domain List - Convert to AGH format by github.com/systemjargon
-! Last modified: 2023-12-16T01:10:13.942Z
+! Last modified: 2023-12-17T01:15:19.368Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -130406,3 +130406,4 @@ qdiwudnqiwndqcom
 ||loremipsum.network^
 ||essentialdrivers.org^
 ||second.amadgood.com^
+||couriercare.in^
