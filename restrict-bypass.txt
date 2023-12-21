@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-12-20T00:58:40.770Z
+! Last modified: 2023-12-21T01:09:38.436Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2233,11 +2233,13 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
+||os4work.com^
 ||ospylac.com^
 ||vps-33e5a7f3.vps.ovh.us^
 ||oxylabs.io^
 ||oystervpn.com^
 ||1a.ns.ozer.im^
+||p99nxpivfscyverz.me^
 ||packetriot.net^
 ||unblockit.pages.dev^
 ||vpn-ru-msk.pakharenko.ru^
@@ -2434,6 +2436,7 @@
 ||schoolnewsletter.us^
 ||schoolproxy.co^
 ||schooxy.com^
+||se3v5tjfff3aet.me^
 ||secure-vpn.com^
 ||secure-vpn.info^
 ||vpncenter.avg.securebrowser.com^
