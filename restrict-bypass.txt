@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2023-12-21T01:09:38.436Z
+! Last modified: 2023-12-22T01:09:23.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2291,6 +2291,7 @@
 ||pr0xy.com^
 ||a1free-optimal.prcdn.net^
 ||predecessor.info^
+||primeproxy23.info^
 ||agh.printk.info^
 ||printruns.us^
 ||printtools.us^
@@ -2306,6 +2307,7 @@
 ||privoxy.org^
 ||prohome.info^
 ||project-evoex.de^
+||prontoproxy.info^
 ||prounlock.org^
 ||prox.pw^
 ||prox.rocks^
@@ -2334,6 +2336,7 @@
 ||proxy-seller.com^
 ||proxy-youtube.net^
 ||proxy4free.me^
+||proxyanonymizer.net^
 ||proxyarab.com^
 ||proxybits.com^
 ||proxybros.com^
@@ -2397,6 +2400,7 @@
 ||rayneau.fr^
 ||rayobyte.com^
 ||dns.reckoningslug.name^
+||redproxy.info^
 ||redschool.info^
 ||redus.info^
 ||reflect4.me^
@@ -2467,6 +2471,7 @@
 ||do.shimul.me^
 ||shopping-website.us^
 ||shrunkunseeingbacklight.info^
+||shyf.info^
 ||doh.sidnlabs.nl^
 ||dns.silen.org^
 ||dns.silentlybren.com^
