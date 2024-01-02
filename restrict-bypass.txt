@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-01T01:16:51.378Z
+! Last modified: 2024-01-02T01:09:23.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1362,7 +1362,6 @@
 ||dns.4-the.win^
 ||42kjb11.net^
 ||46sdzf3zdg1dxg2.us^
-||4proxy.de^
 ||dns.52306.org^
 ||57824.com^
 ||dns.5ososea.com^
@@ -1910,6 +1909,7 @@
 ||hideman.net^
 ||hideme.be^
 ||hideme101.info^
+||hidemy.io^
 ||hidemyna.me^
 ||hidemyurl.info^
 ||hidesurf.us^
@@ -2482,6 +2482,7 @@
 ||siteget.net^
 ||sitesunblocked.com^
 ||sitework.info^
+||iproyal.sjv.io^
 ||dns.skrep.eu^
 ||skynetwork.info^
 ||dns.slinkyman.net^
