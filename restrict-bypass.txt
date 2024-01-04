@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-03T01:10:47.559Z
+! Last modified: 2024-01-04T01:11:15.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1843,7 +1843,6 @@
 ||gecko.fun^
 ||nodes.gen4.ninja^
 ||geosurf.com^
-||german-proxy.de^
 ||vpn.geshido.ru^
 ||get-xmore-link3s.com^
 ||get-xmore-links8.com^
@@ -1881,7 +1880,6 @@
 ||gracarno.com^
 ||granules.us^
 ||gratisproxy.nl^
-||greenpass.info^
 ||dns.grqu.de^
 ||vps.grussenmeyer.com^
 ||guavi.com^
@@ -1940,7 +1938,6 @@
 ||dns-public.ibakerserver.pt^
 ||iblocker.info^
 ||webproxy.ich-war-hier.de^
-||icitek.com^
 ||mask-api.icloud.com^
 ||icpsuawn1zy5amys.com^
 ||idealvpn.com^
