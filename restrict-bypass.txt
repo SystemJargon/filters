@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-04T01:11:15.222Z
+! Last modified: 2024-01-05T01:11:20.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1685,7 +1685,6 @@
 ||cvt01.dnscry.pt^
 ||dfw01.dnscry.pt^
 ||dtw01.dnscry.pt^
-||dub01.dnscry.pt^
 ||dus01.dnscry.pt^
 ||fra01.dnscry.pt^
 ||geg01.dnscry.pt^
@@ -1739,10 +1738,8 @@
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
-||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
-||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
@@ -2004,7 +2001,6 @@
 ||dns.justinnetworkingsolutions.com^
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
-||adguard.kantinyoyok.xyz^
 ||dns.karl.one^
 ||katonetwork.com^
 ||dns.kawa.tf^
@@ -2043,7 +2039,6 @@
 ||legalweb.info^
 ||br.servers.legat.ml^
 ||externalmobiel.lekdijk.online^
-||letshide.me^
 ||libertyvpn.net^
 ||likeproxy.com^
 ||linkideo.com^
@@ -2207,7 +2202,6 @@
 ||onlineproxy.io^
 ||onlineproxy.us^
 ||adguard.onlyfriends.info^
-||onweb.info^
 ||hk2.ooroot.com^
 ||jp2.ooroot.com^
 ||kr1.ooroot.com^
@@ -2546,7 +2540,6 @@
 ||tx.teradns.org^
 ||uk.teradns.org^
 ||dns.tesem.dog^
-||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
 ||theproxyguide.com^
@@ -2655,7 +2648,6 @@
 ||utopianpal.com^
 ||tor.vasi.li^
 ||vblocker.info^
-||securedns.vendorvista.xyz^
 ||viatun.com^
 ||videocollage.us^
 ||videounblocked.com^
