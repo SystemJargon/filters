@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-05T01:11:20.643Z
+! Last modified: 2024-01-06T01:10:25.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1738,8 +1738,10 @@
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
+||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
+||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
@@ -2001,6 +2003,7 @@
 ||dns.justinnetworkingsolutions.com^
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
+||adguard.kantinyoyok.xyz^
 ||dns.karl.one^
 ||katonetwork.com^
 ||dns.kawa.tf^
@@ -2540,6 +2543,7 @@
 ||tx.teradns.org^
 ||uk.teradns.org^
 ||dns.tesem.dog^
+||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
 ||theproxyguide.com^
@@ -2593,7 +2597,6 @@
 ||turmericrecipes.com^
 ||tuvpn.com^
 ||nat64.tuxis.nl^
-||typaza.com^
 ||u8sj3.com^
 ||uas2.com^
 ||ubint.net^
@@ -2641,13 +2644,12 @@
 ||url10.org^
 ||webproxy.us.com^
 ||usaip.eu^
-||usaip.net^
-||usaproxy.co^
 ||userproxy.com^
 ||uskt.info^
 ||utopianpal.com^
 ||tor.vasi.li^
 ||vblocker.info^
+||securedns.vendorvista.xyz^
 ||viatun.com^
 ||videocollage.us^
 ||videounblocked.com^
@@ -2686,7 +2688,6 @@
 ||vpnuk.net^
 ||vpnv6.com^
 ||vpnwelt.com^
-||vpservice.cf^
 ||darkness.is.my.waifu.cz^
 ||waitfree.us^
 ||dns.wakgood.net^
