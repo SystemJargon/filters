@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-13T01:12:04.028Z
+! Last modified: 2024-01-14T01:17:44.429Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1745,7 +1745,6 @@
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
-||dns.dyn1.de^
 ||dynanyx.com^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
@@ -2486,6 +2485,7 @@
 ||sourceproxy.com^
 ||doh.southam.family^
 ||spacedns.org^
+||speedshare.app^
 ||speedyth.com^
 ||spicevpn.com^
 ||sslunblocker.com^
@@ -2510,7 +2510,6 @@
 ||sunvpn.net^
 ||superunlimited.com^
 ||supervpn.net^
-||supervpn.top^
 ||surfbytes.info^
 ||surffire.info^
 ||surfmo.com^
