@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-15T01:15:20.161Z
+! Last modified: 2024-01-16T01:12:33.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1362,6 +1362,7 @@
 ||dns.4-the.win^
 ||42kjb11.net^
 ||46sdzf3zdg1dxg2.us^
+||4proxy.de^
 ||dns.52306.org^
 ||57824.com^
 ||dns.5ososea.com^
@@ -1503,6 +1504,7 @@
 ||cloudns.bosco.ovh^
 ||bramka-proxy.pl^
 ||breakwall.net^
+||ag.brianlee.fun^
 ||bright4good.eco^
 ||brightvpn.com^
 ||britishproxy.com^
@@ -1745,6 +1747,7 @@
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
+||dns.dyn1.de^
 ||dynanyx.com^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
@@ -1837,7 +1840,6 @@
 ||cluster-1.gac.edu^
 ||dns.beta.gandi.net^
 ||gang4.info^
-||gclouddns.com^
 ||gecko.fun^
 ||nodes.gen4.ninja^
 ||geosurf.com^
@@ -2749,6 +2751,7 @@
 ||yourinternetproxy.info^
 ||youtube-unblocker.com^
 ||yovbak.com^
+||adg.yybyy.wiki^
 ||adguard.zachitect.com^
 ||zagbit.com^
 ||zcoup.com^
