@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-17T01:13:21.872Z
+! Last modified: 2024-01-18T01:12:55.803Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1789,6 +1789,7 @@
 ||fastpro.info^
 ||fastproxy.nl^
 ||fastproxynetwork.com^
+||fastvpn.me^
 ||favoriteshoes.us^
 ||dns.faze.dev^
 ||ns0.fdn.fr^
@@ -1853,6 +1854,7 @@
 ||getvpnx.com^
 ||getxhelp.com^
 ||getxvpn.com^
+||getxweb.com^
 ||ghostpath.com^
 ||gifttrees.us^
 ||dns.ginovs.nl^
@@ -1962,6 +1964,7 @@
 ||intego.com^
 ||internetbypass.com^
 ||intl-alliance.com^
+||iot-dns.com^
 ||ioxy.de^
 ||ipinator.com^
 ||ipoac.nl^
@@ -2037,6 +2040,8 @@
 ||larva.app^
 ||lastentarvike.fi^
 ||adguard1.leadmon.net^
+||leafyvpn.net^
+||leekemx.com^
 ||yarp.lefolgoc.net^
 ||legaladvisor.us^
 ||legalweb.info^
