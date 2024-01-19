@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-18T01:12:55.803Z
+! Last modified: 2024-01-19T01:13:22.220Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1868,7 +1868,6 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
-||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||goingthere.org^
