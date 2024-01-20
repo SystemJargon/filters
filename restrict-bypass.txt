@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-19T01:13:22.220Z
+! Last modified: 2024-01-20T01:12:29.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1868,6 +1868,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||goingthere.org^
@@ -2113,7 +2114,6 @@
 ||muxyuji.ru^
 ||d.apemlegit.my.id^
 ||vpnto.bhadrikais.my.id^
-||dns.feldy.my.id^
 ||id.terra.my.id^
 ||dns.vmath.my.id^
 ||ssl-proxy.my-addr.com^
@@ -2516,6 +2516,7 @@
 ||sunvpn.net^
 ||superunlimited.com^
 ||supervpn.net^
+||supervpn.top^
 ||surfbytes.info^
 ||surffire.info^
 ||surfmo.com^
@@ -2600,6 +2601,7 @@
 ||turmericrecipes.com^
 ||tuvpn.com^
 ||nat64.tuxis.nl^
+||typaza.com^
 ||u8sj3.com^
 ||uas2.com^
 ||ubint.net^
@@ -2631,6 +2633,7 @@
 ||unblockproxy.win^
 ||unblocksite.org^
 ||unblocksites.online^
+||unblockweb.one^
 ||unblockwebsites.com^
 ||unblockyoutube.co^
 ||dns.unerror.network^
@@ -2663,6 +2666,7 @@
 ||dns.vishalk.com^
 ||vitaproxy.com^
 ||vpn0109.voodonline.fr^
+||vornz.com^
 ||vpn.ht^
 ||vpn.lat^
 ||vpn.org^
@@ -2683,6 +2687,7 @@
 ||vpnoneclick.com^
 ||vpnonelove.ru^
 ||vpnproxy.info^
+||vpnproxy.online^
 ||vpnproxy.site^
 ||vpnranks.com^
 ||vpnreactor.com^
