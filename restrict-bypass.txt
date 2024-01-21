@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-20T01:12:29.297Z
+! Last modified: 2024-01-21T01:18:31.951Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2730,6 +2730,7 @@
 ||wireguard.com^
 ||adguard.wirimij.nl^
 ||witopia.net^
+||wobti.com^
 ||workarena.info^
 ||workdigi.com^
 ||workingvpn.com^
