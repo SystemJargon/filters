@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-26T01:08:49.744Z
+! Last modified: 2024-01-27T01:07:06.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1586,7 +1586,6 @@
 ||us.doh.cloudveil.org^
 ||pope.cnblw.me^
 ||adguard.aa4.co.uk^
-||cars-a.co.za^
 ||clearvpn.co.uk^
 ||pihole.datamatter.co.za^
 ||www.dnsadguard.co.uk^
@@ -1633,7 +1632,6 @@
 ||contentabc.com^
 ||coverproxy.com^
 ||covertproxy.com^
-||crashes-analysis.com^
 ||crawlbase.com^
 ||crazysurfer.info^
 ||crownproxy.com^
@@ -2654,7 +2652,6 @@
 ||utopianpal.com^
 ||tor.vasi.li^
 ||vblocker.info^
-||securedns.vendorvista.xyz^
 ||viatun.com^
 ||videocollage.us^
 ||videounblocked.com^
