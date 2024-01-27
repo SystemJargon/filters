@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-26T01:08:49.744Z
+! Last modified: 2024-01-27T01:07:06.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1586,7 +1586,6 @@
 ||us.doh.cloudveil.org^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
 ||adguard.aa4.co.uk^$ctag=user_child
-||cars-a.co.za^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
 ||pihole.datamatter.co.za^$ctag=user_child
 ||www.dnsadguard.co.uk^$ctag=user_child
@@ -1633,7 +1632,6 @@
 ||contentabc.com^$ctag=user_child
 ||coverproxy.com^$ctag=user_child
 ||covertproxy.com^$ctag=user_child
-||crashes-analysis.com^$ctag=user_child
 ||crawlbase.com^$ctag=user_child
 ||crazysurfer.info^$ctag=user_child
 ||crownproxy.com^$ctag=user_child
@@ -2654,7 +2652,6 @@
 ||utopianpal.com^$ctag=user_child
 ||tor.vasi.li^$ctag=user_child
 ||vblocker.info^$ctag=user_child
-||securedns.vendorvista.xyz^$ctag=user_child
 ||viatun.com^$ctag=user_child
 ||videocollage.us^$ctag=user_child
 ||videounblocked.com^$ctag=user_child
