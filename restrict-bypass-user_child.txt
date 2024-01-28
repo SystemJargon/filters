@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-27T01:07:06.028Z
+! Last modified: 2024-01-28T01:12:31.517Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1833,7 +1833,6 @@
 ||doh.funil.de^$ctag=user_child
 ||funknetwork.com^$ctag=user_child
 ||doh.funtopia.tv^$ctag=user_child
-||gabstorm.com^$ctag=user_child
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
@@ -1904,7 +1903,6 @@
 ||hideip.co^$ctag=user_child
 ||hideman.net^$ctag=user_child
 ||hideme.be^$ctag=user_child
-||hideme101.info^$ctag=user_child
 ||hidemy.io^$ctag=user_child
 ||hidemyna.me^$ctag=user_child
 ||hidemyurl.info^$ctag=user_child
@@ -1953,7 +1951,6 @@
 ||noads.imbuffering.com^$ctag=user_child
 ||dns1.in-berlin.de^$ctag=user_child
 ||in-disguise.com^$ctag=user_child
-||india-timeline.com^$ctag=user_child
 ||indialifes.com^$ctag=user_child
 ||dns.indust.me^$ctag=user_child
 ||dns.infosec.xyz^$ctag=user_child
@@ -2296,7 +2293,6 @@
 ||privatefb.info^$ctag=user_child
 ||privateproxy.me^$ctag=user_child
 ||privatewifi.com^$ctag=user_child
-||dns.privilab.net^$ctag=user_child
 ||privoxy.org^$ctag=user_child
 ||prohome.info^$ctag=user_child
 ||project-evoex.de^$ctag=user_child
