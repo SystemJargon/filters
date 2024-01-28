@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-27T01:07:06.028Z
+! Last modified: 2024-01-28T01:12:31.517Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1833,7 +1833,6 @@
 ||doh.funil.de^
 ||funknetwork.com^
 ||doh.funtopia.tv^
-||gabstorm.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.beta.gandi.net^
@@ -1904,7 +1903,6 @@
 ||hideip.co^
 ||hideman.net^
 ||hideme.be^
-||hideme101.info^
 ||hidemy.io^
 ||hidemyna.me^
 ||hidemyurl.info^
@@ -1953,7 +1951,6 @@
 ||noads.imbuffering.com^
 ||dns1.in-berlin.de^
 ||in-disguise.com^
-||india-timeline.com^
 ||indialifes.com^
 ||dns.indust.me^
 ||dns.infosec.xyz^
@@ -2296,7 +2293,6 @@
 ||privatefb.info^
 ||privateproxy.me^
 ||privatewifi.com^
-||dns.privilab.net^
 ||privoxy.org^
 ||prohome.info^
 ||project-evoex.de^
