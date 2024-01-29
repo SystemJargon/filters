@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-28T01:12:31.517Z
+! Last modified: 2024-01-29T01:08:16.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2042,7 +2042,6 @@
 ||br.servers.legat.ml^$ctag=user_child
 ||externalmobiel.lekdijk.online^$ctag=user_child
 ||libertyvpn.net^$ctag=user_child
-||likeproxy.com^$ctag=user_child
 ||linkideo.com^$ctag=user_child
 ||dns.linkr.ninja^$ctag=user_child
 ||liquidvpn.com^$ctag=user_child
@@ -2323,7 +2322,6 @@
 ||proxy-n-vpn.com^$ctag=user_child
 ||proxy-search.com^$ctag=user_child
 ||proxy-seller.com^$ctag=user_child
-||proxy-youtube.net^$ctag=user_child
 ||proxy4free.me^$ctag=user_child
 ||proxyanonymizer.net^$ctag=user_child
 ||proxyarab.com^$ctag=user_child
@@ -2349,7 +2347,6 @@
 ||proxyprivate.info^$ctag=user_child
 ||proxysan.info^$ctag=user_child
 ||proxyscope.com^$ctag=user_child
-||proxysheep.com^$ctag=user_child
 ||proxysite.page^$ctag=user_child
 ||proxysite.pro^$ctag=user_child
 ||proxysite.site^$ctag=user_child
