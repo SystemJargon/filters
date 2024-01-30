@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-29T01:08:16.235Z
+! Last modified: 2024-01-30T01:07:33.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -844,6 +844,7 @@
 ||proxy.sh^
 ||proxy.toolur.com^
 ||proxy.vpner.com^
+||proxy.vpnmag.fr^
 ||proxy2014.net^
 ||proxy4freedom.com^
 ||proxy7.club^
@@ -2472,7 +2473,6 @@
 ||dns.skrep.eu^
 ||skynetwork.info^
 ||dns.slinkyman.net^
-||smpbhfiwr.com^
 ||snapxs.com^
 ||guard.sntrk.ru^
 ||socialnetworkinfo.us^
@@ -2508,7 +2508,6 @@
 ||supervpn.net^
 ||supervpn.top^
 ||surfbytes.info^
-||surffire.info^
 ||surfmo.com^
 ||surfonym.com^
 ||surfsneaker.com^
@@ -2587,7 +2586,6 @@
 ||dns.truong.fi^
 ||trustedproxies.com^
 ||doh.ibr.cs.tu-bs.de^
-||turkmen-helper.com^
 ||turmericrecipes.com^
 ||tuvpn.com^
 ||nat64.tuxis.nl^
@@ -2669,7 +2667,6 @@
 ||vpndaily.com^
 ||vpnhellings.nl^
 ||vpnintouch.com^
-||vpnmag.fr^
 ||vpnmasterx.com^
 ||vpnmonster.ru^
 ||vpnneo.com^
@@ -2698,7 +2695,6 @@
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^
 ||webpro.xyz^
 ||webproxy.online^
-||webproxy.us^
 ||webshare.io^
 ||janvet.website.pl^
 ||websitebypass.com^
