@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-01-29T01:08:16.235Z
+! Last modified: 2024-01-30T01:07:33.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -844,6 +844,7 @@
 ||proxy.sh^$ctag=user_child
 ||proxy.toolur.com^$ctag=user_child
 ||proxy.vpner.com^$ctag=user_child
+||proxy.vpnmag.fr^$ctag=user_child
 ||proxy2014.net^$ctag=user_child
 ||proxy4freedom.com^$ctag=user_child
 ||proxy7.club^$ctag=user_child
@@ -2472,7 +2473,6 @@
 ||dns.skrep.eu^$ctag=user_child
 ||skynetwork.info^$ctag=user_child
 ||dns.slinkyman.net^$ctag=user_child
-||smpbhfiwr.com^$ctag=user_child
 ||snapxs.com^$ctag=user_child
 ||guard.sntrk.ru^$ctag=user_child
 ||socialnetworkinfo.us^$ctag=user_child
@@ -2508,7 +2508,6 @@
 ||supervpn.net^$ctag=user_child
 ||supervpn.top^$ctag=user_child
 ||surfbytes.info^$ctag=user_child
-||surffire.info^$ctag=user_child
 ||surfmo.com^$ctag=user_child
 ||surfonym.com^$ctag=user_child
 ||surfsneaker.com^$ctag=user_child
@@ -2587,7 +2586,6 @@
 ||dns.truong.fi^$ctag=user_child
 ||trustedproxies.com^$ctag=user_child
 ||doh.ibr.cs.tu-bs.de^$ctag=user_child
-||turkmen-helper.com^$ctag=user_child
 ||turmericrecipes.com^$ctag=user_child
 ||tuvpn.com^$ctag=user_child
 ||nat64.tuxis.nl^$ctag=user_child
@@ -2669,7 +2667,6 @@
 ||vpndaily.com^$ctag=user_child
 ||vpnhellings.nl^$ctag=user_child
 ||vpnintouch.com^$ctag=user_child
-||vpnmag.fr^$ctag=user_child
 ||vpnmasterx.com^$ctag=user_child
 ||vpnmonster.ru^$ctag=user_child
 ||vpnneo.com^$ctag=user_child
@@ -2698,7 +2695,6 @@
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^$ctag=user_child
 ||webpro.xyz^$ctag=user_child
 ||webproxy.online^$ctag=user_child
-||webproxy.us^$ctag=user_child
 ||webshare.io^$ctag=user_child
 ||janvet.website.pl^$ctag=user_child
 ||websitebypass.com^$ctag=user_child
