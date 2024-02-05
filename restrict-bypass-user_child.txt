@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-04T01:11:26.782Z
+! Last modified: 2024-02-05T01:08:58.367Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1768,6 +1768,7 @@
 ||doh.dscloud.me^$ctag=user_child
 ||duapps.com^$ctag=user_child
 ||aattwwss.duckdns.org^$ctag=user_child
+||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
@@ -1987,7 +1988,6 @@
 ||vd.i81.ru^$ctag=user_child
 ||vpn.i81.ru^$ctag=user_child
 ||dns.iamninja.ru^$ctag=user_child
-||dns-public.ibakerserver.pt^$ctag=user_child
 ||iblocker.info^$ctag=user_child
 ||webproxy.ich-war-hier.de^$ctag=user_child
 ||mask-api.icloud.com^$ctag=user_child
