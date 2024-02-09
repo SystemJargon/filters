@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-08T01:05:50.304Z
+! Last modified: 2024-02-09T01:06:09.850Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -214,7 +214,6 @@
 ||dns.aaflalo.me^$ctag=user_child
 ||dns.adguard.com^$ctag=user_child
 ||dns.alekberg.net^$ctag=user_child
-||dns.alidns.com^$ctag=user_child
 ||dns.arapurayil.com^$ctag=user_child
 ||dns.artikel10.org^$ctag=user_child
 ||dns.bitgeek.in^$ctag=user_child
@@ -1399,7 +1398,6 @@
 ||per.adfilter.net^$ctag=user_child
 ||syd.adfilter.net^$ctag=user_child
 ||adfreeproxy.com^$ctag=user_child
-||adguard-server.cf^$ctag=user_child
 ||dns.adrianlam.com^$ctag=user_child
 ||ads-help-link2.com^$ctag=user_child
 ||adsocialmediamarketing.com^$ctag=user_child
@@ -1417,6 +1415,7 @@
 ||odoh-target-se.alekberg.net^$ctag=user_child
 ||alhapi.com^$ctag=user_child
 ||alhvp.com^$ctag=user_child
+||alidns.com^$ctag=user_child
 ||aliveproxies.com^$ctag=user_child
 ||dns.alloxr.info^$ctag=user_child
 ||vps.alloxr.info^$ctag=user_child
@@ -1816,7 +1815,6 @@
 ||dns.extrawdw.net^$ctag=user_child
 ||fra1.eyecay.xyz^$ctag=user_child
 ||f-secure.com^$ctag=user_child
-||jp1.f7b6h9.tk^$ctag=user_child
 ||dns.f97.xyz^$ctag=user_child
 ||fakeip.org^$ctag=user_child
 ||dns.fancyorg.at^$ctag=user_child
@@ -1988,6 +1986,7 @@
 ||vd.i81.ru^$ctag=user_child
 ||vpn.i81.ru^$ctag=user_child
 ||dns.iamninja.ru^$ctag=user_child
+||dns-public.ibakerserver.pt^$ctag=user_child
 ||iblocker.info^$ctag=user_child
 ||webproxy.ich-war-hier.de^$ctag=user_child
 ||mask-api.icloud.com^$ctag=user_child
@@ -2891,8 +2890,6 @@
 ||common.dot.dns.yandex.net^$ctag=user_child
 ||family.dot.dns.yandex.net^$ctag=user_child
 ||safe.dot.dns.yandex.net^$ctag=user_child
-||ychen.cf^$ctag=user_child
-||ychen.gq^$ctag=user_child
 ||yd6n63ptky.com^$ctag=user_child
 ||ylink.info^$ctag=user_child
 ||youfreeproxytube.com^$ctag=user_child
