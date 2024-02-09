@@ -1,10 +1,23 @@
 # Format
+# wildcards
 /*.txt linguist-language=adblock linguist-detectable
 /adblock/*.txt linguist-language=adblock linguist-detectable
 /domains/*.txt linguist-language=fundamental linguist-detectable
 /hosts/*.txt linguist-language=hosts linguist-detectable
 /regex/*.txt linguist-language=regex linguist-detectable
 /wildcard/*.txt linguist-language=fundamental linguist-detectable
+# defined lists
+/ads.txt linguist-language=adblock linguist-detectable
+/allowlist.txt linguist-language=adblock linguist-detectable
+/compromised-domains.txt linguist-language=adblock linguist-detectable
+/core.txt linguist-language=adblock linguist-detectable
+/firebog-ticklist.txt linguist-language=adblock linguist-detectable
+/phishing.txt linguist-language=adblock linguist-detectable
+/porn.txt linguist-language=adblock linguist-detectable
+/restrict-bypass.txt linguist-language=adblock linguist-detectable
+/security.txt linguist-language=adblock linguist-detectable
+/telemtry.txt linguist-language=adblock linguist-detectable
+/threats.txt linguist-language=adblock linguist-detectable
 
 # Auto detect text files and perform LF normalization
 * text=auto eol=lf
