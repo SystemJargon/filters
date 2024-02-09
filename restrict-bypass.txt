@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-08T01:05:50.304Z
+! Last modified: 2024-02-09T01:06:09.850Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -214,7 +214,6 @@
 ||dns.aaflalo.me^
 ||dns.adguard.com^
 ||dns.alekberg.net^
-||dns.alidns.com^
 ||dns.arapurayil.com^
 ||dns.artikel10.org^
 ||dns.bitgeek.in^
@@ -1399,7 +1398,6 @@
 ||per.adfilter.net^
 ||syd.adfilter.net^
 ||adfreeproxy.com^
-||adguard-server.cf^
 ||dns.adrianlam.com^
 ||ads-help-link2.com^
 ||adsocialmediamarketing.com^
@@ -1417,6 +1415,7 @@
 ||odoh-target-se.alekberg.net^
 ||alhapi.com^
 ||alhvp.com^
+||alidns.com^
 ||aliveproxies.com^
 ||dns.alloxr.info^
 ||vps.alloxr.info^
@@ -1816,7 +1815,6 @@
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
 ||f-secure.com^
-||jp1.f7b6h9.tk^
 ||dns.f97.xyz^
 ||fakeip.org^
 ||dns.fancyorg.at^
@@ -1988,6 +1986,7 @@
 ||vd.i81.ru^
 ||vpn.i81.ru^
 ||dns.iamninja.ru^
+||dns-public.ibakerserver.pt^
 ||iblocker.info^
 ||webproxy.ich-war-hier.de^
 ||mask-api.icloud.com^
@@ -2891,8 +2890,6 @@
 ||common.dot.dns.yandex.net^
 ||family.dot.dns.yandex.net^
 ||safe.dot.dns.yandex.net^
-||ychen.cf^
-||ychen.gq^
 ||yd6n63ptky.com^
 ||ylink.info^
 ||youfreeproxytube.com^
