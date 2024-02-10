@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-09T01:06:09.850Z
+! Last modified: 2024-02-10T01:05:19.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1911,6 +1911,7 @@
 ||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
+||gobestvpn.com^$ctag=user_child
 ||goingthere.org^$ctag=user_child
 ||goldenfrog.com^$ctag=user_child
 ||dns.goldplate.org^$ctag=user_child
@@ -1963,6 +1964,7 @@
 ||pihole3.hoerli.net^$ctag=user_child
 ||pihole4.hoerli.net^$ctag=user_child
 ||holax.io^$ctag=user_child
+||holyubvpn.com^$ctag=user_child
 ||homemail.info^$ctag=user_child
 ||homevpn.info^$ctag=user_child
 ||honeygain.me^$ctag=user_child
@@ -2684,6 +2686,7 @@
 ||timmes.nl^$ctag=user_child
 ||tk31z.com^$ctag=user_child
 ||dns.tls-data.de^$ctag=user_child
+||tnvpn.com^$ctag=user_child
 ||d.toairs.com^$ctag=user_child
 ||tonvpn.com^$ctag=user_child
 ||dot.tooli.ca^$ctag=user_child
