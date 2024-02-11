@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-10T01:05:19.771Z
+! Last modified: 2024-02-11T01:11:22.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1748,7 +1748,6 @@
 ||vie01.dnscry.pt^$ctag=user_child
 ||waw01.dnscry.pt^$ctag=user_child
 ||waw02.dnscry.pt^$ctag=user_child
-||ycg01.dnscry.pt^$ctag=user_child
 ||yul01.dnscry.pt^$ctag=user_child
 ||zal01.dnscry.pt^$ctag=user_child
 ||do.dnscrypt.uk^$ctag=user_child
@@ -2035,7 +2034,6 @@
 ||irre.li^$ctag=user_child
 ||dns1.irumatech.com^$ctag=user_child
 ||dns.islandnet.com^$ctag=user_child
-||dns.itdept.pro^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
 ||ivpn.info^$ctag=user_child
