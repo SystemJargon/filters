@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-10T01:03:32.658Z
+! Last modified: 2024-02-11T01:09:43.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -426,7 +426,6 @@
 ||controlhk2wns1b.wns.windows.com^
 ||controllb1.www.ms.akadns.net^
 ||controllive.rads.msn.com^
-||controlmobile.pipe.aria.microsoft.com^
 ||controlmodern.watson.data.microsoft.com.akadns.net^
 ||controlmsedge.net^
 ||controlmsntest.serving-sys.com^
@@ -562,7 +561,6 @@
 ||insideruser.trafficmanager.net^
 ||lb1.www.ms.akadns.net^
 ||live.rads.msn.com^
-||mobile.pipe.aria.microsoft.com^
 ||modern.watson.data.microsoft.com.akadns.net^
 ||msedge.net^
 ||msntest.serving-sys.com^
