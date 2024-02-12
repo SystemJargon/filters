@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-11T01:11:22.288Z
+! Last modified: 2024-02-12T01:07:11.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1348,6 +1348,8 @@
 ||dns.0ooo.icu^$ctag=user_child
 ||16yd.com^$ctag=user_child
 ||cloud.198.games^$ctag=user_child
+||dns.1byte.top^$ctag=user_child
+||dns1.1byte.top^$ctag=user_child
 ||dns.23-4.cn^$ctag=user_child
 ||dns.240527.xyz^$ctag=user_child
 ||doh003.280blocker.net^$ctag=user_child
@@ -1364,11 +1366,13 @@
 ||42kjb11.net^$ctag=user_child
 ||46sdzf3zdg1dxg2.us^$ctag=user_child
 ||4proxy.de^$ctag=user_child
+||alidns.51top.info^$ctag=user_child
 ||dns.52306.org^$ctag=user_child
 ||57824.com^$ctag=user_child
 ||dns.5ososea.com^$ctag=user_child
 ||family.5ososea.com^$ctag=user_child
 ||kids.5ososea.com^$ctag=user_child
+||dns.5pj58.ltd^$ctag=user_child
 ||jp.68360612.xyz^$ctag=user_child
 ||7713.info^$ctag=user_child
 ||777surfer.info^$ctag=user_child
@@ -1540,6 +1544,8 @@
 ||dns.carson-family.com^$ctag=user_child
 ||dns.carter.me^$ctag=user_child
 ||catdns.org^$ctag=user_child
+||alidns.cb1999.top^$ctag=user_child
+||alidns2.cb1999.top^$ctag=user_child
 ||dns2.cbio.top^$ctag=user_child
 ||doh.ccb-net.it^$ctag=user_child
 ||vpn.ccnt.fr^$ctag=user_child
@@ -1605,6 +1611,7 @@
 ||dns.cloudtrust.solutions^$ctag=user_child
 ||ca.doh.cloudveil.org^$ctag=user_child
 ||us.doh.cloudveil.org^$ctag=user_child
+||dns.clun.top^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
 ||adguard.aa4.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
@@ -1808,6 +1815,7 @@
 ||www.memorialus.eu.org^$ctag=user_child
 ||eurproxy.com^$ctag=user_child
 ||evantbyrne.info^$ctag=user_child
+||everovpn.co^$ctag=user_child
 ||everyproxies.info^$ctag=user_child
 ||expatshield.com^$ctag=user_child
 ||expressapisv2.net^$ctag=user_child
@@ -1919,11 +1927,13 @@
 ||gotrusted.com^$ctag=user_child
 ||gowork.info^$ctag=user_child
 ||gpreport.us^$ctag=user_child
+||dns.gptofjiang.top^$ctag=user_child
 ||gracarno.com^$ctag=user_child
 ||granules.us^$ctag=user_child
 ||gratisproxy.nl^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
 ||vps.grussenmeyer.com^$ctag=user_child
+||dns.guard.io^$ctag=user_child
 ||guavi.com^$ctag=user_child
 ||gumm.org^$ctag=user_child
 ||gztech.me^$ctag=user_child
@@ -2137,6 +2147,8 @@
 ||mainprox.com^$ctag=user_child
 ||mallocapp.com^$ctag=user_child
 ||mallocprivacy.com^$ctag=user_child
+||dns4.mannix.top^$ctag=user_child
+||dns5.mannix.top^$ctag=user_child
 ||market-id-auto.com^$ctag=user_child
 ||adguard.marto.si^$ctag=user_child
 ||maskedip.com^$ctag=user_child
@@ -2172,6 +2184,7 @@
 ||mobilejump.mobi^$ctag=user_child
 ||mobrain.xyz^$ctag=user_child
 ||mockblock.com^$ctag=user_child
+||dns2.modcake.club^$ctag=user_child
 ||nue2.moderateinfra.net^$ctag=user_child
 ||ps1.modr.club^$ctag=user_child
 ||dns.molinero.dev^$ctag=user_child
@@ -2500,6 +2513,7 @@
 ||rayneau.fr^$ctag=user_child
 ||rayobyte.com^$ctag=user_child
 ||dns.reckoningslug.name^$ctag=user_child
+||dnscache.redflagblog.org^$ctag=user_child
 ||redproxy.info^$ctag=user_child
 ||redschool.info^$ctag=user_child
 ||redus.info^$ctag=user_child
@@ -2794,7 +2808,6 @@
 ||videounblocked.com^$ctag=user_child
 ||vikingvpn.com^$ctag=user_child
 ||dns.vinnyp.xyz^$ctag=user_child
-||dns.vinokurov.tk^$ctag=user_child
 ||virtual-browser.com^$ctag=user_child
 ||dns.vishalk.com^$ctag=user_child
 ||vitaproxy.com^$ctag=user_child
@@ -2864,7 +2877,6 @@
 ||wireguard.com^$ctag=user_child
 ||adguard.wirimij.nl^$ctag=user_child
 ||witopia.net^$ctag=user_child
-||wobti.com^$ctag=user_child
 ||clearweb.woodbridge.club^$ctag=user_child
 ||workarena.info^$ctag=user_child
 ||workdigi.com^$ctag=user_child
