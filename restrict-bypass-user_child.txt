@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-12T01:07:11.061Z
+! Last modified: 2024-02-13T01:07:19.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1348,8 +1348,6 @@
 ||dns.0ooo.icu^$ctag=user_child
 ||16yd.com^$ctag=user_child
 ||cloud.198.games^$ctag=user_child
-||dns.1byte.top^$ctag=user_child
-||dns1.1byte.top^$ctag=user_child
 ||dns.23-4.cn^$ctag=user_child
 ||dns.240527.xyz^$ctag=user_child
 ||doh003.280blocker.net^$ctag=user_child
@@ -1372,7 +1370,6 @@
 ||dns.5ososea.com^$ctag=user_child
 ||family.5ososea.com^$ctag=user_child
 ||kids.5ososea.com^$ctag=user_child
-||dns.5pj58.ltd^$ctag=user_child
 ||jp.68360612.xyz^$ctag=user_child
 ||7713.info^$ctag=user_child
 ||777surfer.info^$ctag=user_child
@@ -1611,7 +1608,6 @@
 ||dns.cloudtrust.solutions^$ctag=user_child
 ||ca.doh.cloudveil.org^$ctag=user_child
 ||us.doh.cloudveil.org^$ctag=user_child
-||dns.clun.top^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
 ||adguard.aa4.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
@@ -1927,7 +1923,6 @@
 ||gotrusted.com^$ctag=user_child
 ||gowork.info^$ctag=user_child
 ||gpreport.us^$ctag=user_child
-||dns.gptofjiang.top^$ctag=user_child
 ||gracarno.com^$ctag=user_child
 ||granules.us^$ctag=user_child
 ||gratisproxy.nl^$ctag=user_child
@@ -2147,8 +2142,6 @@
 ||mainprox.com^$ctag=user_child
 ||mallocapp.com^$ctag=user_child
 ||mallocprivacy.com^$ctag=user_child
-||dns4.mannix.top^$ctag=user_child
-||dns5.mannix.top^$ctag=user_child
 ||market-id-auto.com^$ctag=user_child
 ||adguard.marto.si^$ctag=user_child
 ||maskedip.com^$ctag=user_child
@@ -2184,7 +2177,6 @@
 ||mobilejump.mobi^$ctag=user_child
 ||mobrain.xyz^$ctag=user_child
 ||mockblock.com^$ctag=user_child
-||dns2.modcake.club^$ctag=user_child
 ||nue2.moderateinfra.net^$ctag=user_child
 ||ps1.modr.club^$ctag=user_child
 ||dns.molinero.dev^$ctag=user_child
@@ -2513,7 +2505,6 @@
 ||rayneau.fr^$ctag=user_child
 ||rayobyte.com^$ctag=user_child
 ||dns.reckoningslug.name^$ctag=user_child
-||dnscache.redflagblog.org^$ctag=user_child
 ||redproxy.info^$ctag=user_child
 ||redschool.info^$ctag=user_child
 ||redus.info^$ctag=user_child
