@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-12T01:07:11.061Z
+! Last modified: 2024-02-13T01:07:19.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1348,8 +1348,6 @@
 ||dns.0ooo.icu^
 ||16yd.com^
 ||cloud.198.games^
-||dns.1byte.top^
-||dns1.1byte.top^
 ||dns.23-4.cn^
 ||dns.240527.xyz^
 ||doh003.280blocker.net^
@@ -1372,7 +1370,6 @@
 ||dns.5ososea.com^
 ||family.5ososea.com^
 ||kids.5ososea.com^
-||dns.5pj58.ltd^
 ||jp.68360612.xyz^
 ||7713.info^
 ||777surfer.info^
@@ -1611,7 +1608,6 @@
 ||dns.cloudtrust.solutions^
 ||ca.doh.cloudveil.org^
 ||us.doh.cloudveil.org^
-||dns.clun.top^
 ||pope.cnblw.me^
 ||adguard.aa4.co.uk^
 ||clearvpn.co.uk^
@@ -1927,7 +1923,6 @@
 ||gotrusted.com^
 ||gowork.info^
 ||gpreport.us^
-||dns.gptofjiang.top^
 ||gracarno.com^
 ||granules.us^
 ||gratisproxy.nl^
@@ -2147,8 +2142,6 @@
 ||mainprox.com^
 ||mallocapp.com^
 ||mallocprivacy.com^
-||dns4.mannix.top^
-||dns5.mannix.top^
 ||market-id-auto.com^
 ||adguard.marto.si^
 ||maskedip.com^
@@ -2184,7 +2177,6 @@
 ||mobilejump.mobi^
 ||mobrain.xyz^
 ||mockblock.com^
-||dns2.modcake.club^
 ||nue2.moderateinfra.net^
 ||ps1.modr.club^
 ||dns.molinero.dev^
@@ -2513,7 +2505,6 @@
 ||rayneau.fr^
 ||rayobyte.com^
 ||dns.reckoningslug.name^
-||dnscache.redflagblog.org^
 ||redproxy.info^
 ||redschool.info^
 ||redus.info^
