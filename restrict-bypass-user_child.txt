@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-17T01:06:29.715Z
+! Last modified: 2024-02-18T01:10:58.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1818,7 +1818,6 @@
 ||hole.elbschloss.xyz^$ctag=user_child
 ||dns.elemental.software^$ctag=user_child
 ||elephantvpn.com^$ctag=user_child
-||dns.ellichua.com^$ctag=user_child
 ||elshad-adgh-dns.ru^$ctag=user_child
 ||dns.emiliyan.com^$ctag=user_child
 ||emuby.com^$ctag=user_child
@@ -1875,6 +1874,7 @@
 ||ns1.flodns.net^$ctag=user_child
 ||ns2.flodns.net^$ctag=user_child
 ||agh.fltn.us^$ctag=user_child
+||dns.flwagners.com^$ctag=user_child
 ||dns.flymc.cc^$ctag=user_child
 ||gateway.fomichev.cloud^$ctag=user_child
 ||cranking90s.fortnitebuilder.pro^$ctag=user_child
@@ -1920,6 +1920,7 @@
 ||getcloak.com^$ctag=user_child
 ||getflix.com^$ctag=user_child
 ||getiantem.org^$ctag=user_child
+||getproton.me^$ctag=user_child
 ||getvpnx.com^$ctag=user_child
 ||getxhelp.com^$ctag=user_child
 ||getxvpn.com^$ctag=user_child
@@ -2002,6 +2003,7 @@
 ||hiload.org^$ctag=user_child
 ||hiproxy.net^$ctag=user_child
 ||store.hkordermedicine.hk^$ctag=user_child
+||hmavpn.com^$ctag=user_child
 ||pihole1.hoerli.net^$ctag=user_child
 ||pihole2.hoerli.net^$ctag=user_child
 ||pihole3.hoerli.net^$ctag=user_child
