@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-17T01:06:29.715Z
+! Last modified: 2024-02-18T01:10:58.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1818,7 +1818,6 @@
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||elephantvpn.com^
-||dns.ellichua.com^
 ||elshad-adgh-dns.ru^
 ||dns.emiliyan.com^
 ||emuby.com^
@@ -1875,6 +1874,7 @@
 ||ns1.flodns.net^
 ||ns2.flodns.net^
 ||agh.fltn.us^
+||dns.flwagners.com^
 ||dns.flymc.cc^
 ||gateway.fomichev.cloud^
 ||cranking90s.fortnitebuilder.pro^
@@ -1920,6 +1920,7 @@
 ||getcloak.com^
 ||getflix.com^
 ||getiantem.org^
+||getproton.me^
 ||getvpnx.com^
 ||getxhelp.com^
 ||getxvpn.com^
@@ -2002,6 +2003,7 @@
 ||hiload.org^
 ||hiproxy.net^
 ||store.hkordermedicine.hk^
+||hmavpn.com^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
