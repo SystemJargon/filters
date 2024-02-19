@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-18T01:10:58.185Z
+! Last modified: 2024-02-19T01:08:17.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1808,6 +1808,7 @@
 ||vpngermany.dzzz.info^
 ||earnapp.com^
 ||easyhandshake.com^
+||easynetwork.info^
 ||easyvpn.com^
 ||ebumna.net^
 ||ecoweb-network.com^
@@ -1832,7 +1833,6 @@
 ||arashi.eu.org^
 ||armorrush.eu.org^
 ||dns.fullaccesstointernet.jp.eu.org^
-||www.memorialus.eu.org^
 ||eurproxy.com^
 ||evantbyrne.info^
 ||everovpn.co^
@@ -1874,7 +1874,6 @@
 ||ns1.flodns.net^
 ||ns2.flodns.net^
 ||agh.fltn.us^
-||dns.flwagners.com^
 ||dns.flymc.cc^
 ||gateway.fomichev.cloud^
 ||cranking90s.fortnitebuilder.pro^
@@ -1913,6 +1912,7 @@
 ||gecko.fun^
 ||nodes.gen4.ninja^
 ||geosurf.com^
+||german-proxy.de^
 ||vpn.geshido.ru^
 ||get-xmore-link3s.com^
 ||get-xmore-links8.com^
