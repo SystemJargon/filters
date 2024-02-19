@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-18T01:10:58.185Z
+! Last modified: 2024-02-19T01:08:17.785Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1808,6 +1808,7 @@
 ||vpngermany.dzzz.info^$ctag=user_child
 ||earnapp.com^$ctag=user_child
 ||easyhandshake.com^$ctag=user_child
+||easynetwork.info^$ctag=user_child
 ||easyvpn.com^$ctag=user_child
 ||ebumna.net^$ctag=user_child
 ||ecoweb-network.com^$ctag=user_child
@@ -1832,7 +1833,6 @@
 ||arashi.eu.org^$ctag=user_child
 ||armorrush.eu.org^$ctag=user_child
 ||dns.fullaccesstointernet.jp.eu.org^$ctag=user_child
-||www.memorialus.eu.org^$ctag=user_child
 ||eurproxy.com^$ctag=user_child
 ||evantbyrne.info^$ctag=user_child
 ||everovpn.co^$ctag=user_child
@@ -1874,7 +1874,6 @@
 ||ns1.flodns.net^$ctag=user_child
 ||ns2.flodns.net^$ctag=user_child
 ||agh.fltn.us^$ctag=user_child
-||dns.flwagners.com^$ctag=user_child
 ||dns.flymc.cc^$ctag=user_child
 ||gateway.fomichev.cloud^$ctag=user_child
 ||cranking90s.fortnitebuilder.pro^$ctag=user_child
@@ -1913,6 +1912,7 @@
 ||gecko.fun^$ctag=user_child
 ||nodes.gen4.ninja^$ctag=user_child
 ||geosurf.com^$ctag=user_child
+||german-proxy.de^$ctag=user_child
 ||vpn.geshido.ru^$ctag=user_child
 ||get-xmore-link3s.com^$ctag=user_child
 ||get-xmore-links8.com^$ctag=user_child
