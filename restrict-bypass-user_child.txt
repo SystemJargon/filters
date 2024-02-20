@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-19T01:08:17.785Z
+! Last modified: 2024-02-20T01:06:11.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1555,6 +1555,7 @@
 ||careproxy.com^$ctag=user_child
 ||dns.carson-family.com^$ctag=user_child
 ||dns.carter.me^$ctag=user_child
+||casinovpn.com^$ctag=user_child
 ||catdns.org^$ctag=user_child
 ||alidns.cb1999.top^$ctag=user_child
 ||alidns2.cb1999.top^$ctag=user_child
@@ -1624,7 +1625,6 @@
 ||ca.doh.cloudveil.org^$ctag=user_child
 ||us.doh.cloudveil.org^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
-||adguard.aa4.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
 ||pihole.datamatter.co.za^$ctag=user_child
 ||www.dnsadguard.co.uk^$ctag=user_child
@@ -2209,6 +2209,7 @@
 ||maxvpn.info^$ctag=user_child
 ||dns.maybe.icu^$ctag=user_child
 ||mazevpn.com^$ctag=user_child
+||ispcapi.mcafee.com^$ctag=user_child
 ||adguard.meddy94.de^$ctag=user_child
 ||dns.meeo.win^$ctag=user_child
 ||meganerd.nl^$ctag=user_child
@@ -2322,7 +2323,6 @@
 ||doh.nic.lv^$ctag=user_child
 ||nice-autosurf.com^$ctag=user_child
 ||dns1.nielsdb.be^$ctag=user_child
-||adguard.nielsvoorn.nl^$ctag=user_child
 ||nimbleway.com^$ctag=user_child
 ||dns.ningkelle.id^$ctag=user_child
 ||ninjaproxy.ninja^$ctag=user_child
@@ -2337,6 +2337,7 @@
 ||1.dns.noridev.moe^$ctag=user_child
 ||core-vpn.norton.com^$ctag=user_child
 ||dns.norvig.dk^$ctag=user_child
+||dns.notjakob.com^$ctag=user_child
 ||dns.novali.date^$ctag=user_child
 ||novatech.fun^$ctag=user_child
 ||dns.novg.net^$ctag=user_child
@@ -2730,7 +2731,6 @@
 ||streamvia.com^$ctag=user_child
 ||streamvpn.com^$ctag=user_child
 ||studysurf.com^$ctag=user_child
-||dns.stvsk.ml^$ctag=user_child
 ||local.sufly.top^$ctag=user_child
 ||suissl.com^$ctag=user_child
 ||sunnetdata.com^$ctag=user_child
