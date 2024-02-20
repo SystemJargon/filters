@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-19T01:08:17.785Z
+! Last modified: 2024-02-20T01:06:11.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1555,6 +1555,7 @@
 ||careproxy.com^
 ||dns.carson-family.com^
 ||dns.carter.me^
+||casinovpn.com^
 ||catdns.org^
 ||alidns.cb1999.top^
 ||alidns2.cb1999.top^
@@ -1624,7 +1625,6 @@
 ||ca.doh.cloudveil.org^
 ||us.doh.cloudveil.org^
 ||pope.cnblw.me^
-||adguard.aa4.co.uk^
 ||clearvpn.co.uk^
 ||pihole.datamatter.co.za^
 ||www.dnsadguard.co.uk^
@@ -2209,6 +2209,7 @@
 ||maxvpn.info^
 ||dns.maybe.icu^
 ||mazevpn.com^
+||ispcapi.mcafee.com^
 ||adguard.meddy94.de^
 ||dns.meeo.win^
 ||meganerd.nl^
@@ -2322,7 +2323,6 @@
 ||doh.nic.lv^
 ||nice-autosurf.com^
 ||dns1.nielsdb.be^
-||adguard.nielsvoorn.nl^
 ||nimbleway.com^
 ||dns.ningkelle.id^
 ||ninjaproxy.ninja^
@@ -2337,6 +2337,7 @@
 ||1.dns.noridev.moe^
 ||core-vpn.norton.com^
 ||dns.norvig.dk^
+||dns.notjakob.com^
 ||dns.novali.date^
 ||novatech.fun^
 ||dns.novg.net^
@@ -2730,7 +2731,6 @@
 ||streamvia.com^
 ||streamvpn.com^
 ||studysurf.com^
-||dns.stvsk.ml^
 ||local.sufly.top^
 ||suissl.com^
 ||sunnetdata.com^
