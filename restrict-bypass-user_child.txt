@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-20T01:06:11.271Z
+! Last modified: 2024-02-21T01:07:30.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1874,6 +1874,7 @@
 ||ns1.flodns.net^$ctag=user_child
 ||ns2.flodns.net^$ctag=user_child
 ||agh.fltn.us^$ctag=user_child
+||dns.flwagners.com^$ctag=user_child
 ||dns.flymc.cc^$ctag=user_child
 ||gateway.fomichev.cloud^$ctag=user_child
 ||cranking90s.fortnitebuilder.pro^$ctag=user_child
@@ -2502,6 +2503,7 @@
 ||proxite.ws^$ctag=user_child
 ||proxy.nu^$ctag=user_child
 ||proxy.red^$ctag=user_child
+||proxy.rocks^$ctag=user_child
 ||proxy.sx^$ctag=user_child
 ||proxy.yt^$ctag=user_child
 ||proxy-123.com^$ctag=user_child
@@ -2863,6 +2865,7 @@
 ||unblockedme.com^$ctag=user_child
 ||unblockedproxy.us^$ctag=user_child
 ||unblockedsites.org^$ctag=user_child
+||unblockfacebook.eu^$ctag=user_child
 ||unblockit.app^$ctag=user_child
 ||unblockit.rsvp^$ctag=user_child
 ||unblockme.us^$ctag=user_child
@@ -2924,6 +2927,7 @@
 ||vpn.lat^$ctag=user_child
 ||vpn.org^$ctag=user_child
 ||vpn.sh^$ctag=user_child
+||vpn-for-test.ru^$ctag=user_child
 ||vpn-free.download^$ctag=user_child
 ||vpn4all.com^$ctag=user_child
 ||vpnarea.com^$ctag=user_child
