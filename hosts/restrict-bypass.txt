@@ -1378,6 +1378,7 @@
 127.0.0.1 dns.888654.xyz
 127.0.0.1 8proxy.com
 127.0.0.1 8v9m.com
+127.0.0.1 922proxy.com
 127.0.0.1 9w9.org
 127.0.0.1 doh.aaaab3n.moe
 127.0.0.1 adb.aadityakushwaha.com
@@ -1400,6 +1401,7 @@
 127.0.0.1 per.adfilter.net
 127.0.0.1 syd.adfilter.net
 127.0.0.1 adfreeproxy.com
+127.0.0.1 adguardvpn.online
 127.0.0.1 dns.adrianlam.com
 127.0.0.1 adshelplink2.com
 127.0.0.1 adsocialmediamarketing.com
@@ -1463,6 +1465,7 @@
 127.0.0.1 secure.avastdns.com
 127.0.0.1 vps.avc.cx
 127.0.0.1 adguard.avdkishore.dev
+127.0.0.1 aviravpn.net
 127.0.0.1 awabo.com
 127.0.0.1 awardvpn.com
 127.0.0.1 doh.azoris.ovh
@@ -1569,6 +1572,7 @@
 127.0.0.1 ciproxy.de
 127.0.0.1 dns.circl.lu
 127.0.0.1 circumvent.it
+127.0.0.1 mus.cisco.com
 127.0.0.1 dns.clanless.ovh
 127.0.0.1 dns.clanto.cloud
 127.0.0.1 clickwork7secure.com
@@ -1679,6 +1683,7 @@
 127.0.0.1 dns.cryptomize.com
 127.0.0.1 cryptovpn.com
 127.0.0.1 dotdns.cryptroute.com
+127.0.0.1 ctvpn.com
 127.0.0.1 cubedns.com
 127.0.0.1 qual.cuprum.ru
 127.0.0.1 dns.cwlys.com
@@ -1699,6 +1704,7 @@
 127.0.0.1 datatech.icu
 127.0.0.1 dns.david888.com
 127.0.0.1 dns.daw.dev
+127.0.0.1 deepwebvpn.net
 127.0.0.1 adguard.dekonix.ru
 127.0.0.1 acetaminophen.deleesportsmedicine.com
 127.0.0.1 adguard.depieri.net
@@ -1839,6 +1845,7 @@
 127.0.0.1 dns.f97.xyz
 127.0.0.1 fakeip.org
 127.0.0.1 dns.fancyorg.at
+127.0.0.1 fastfoxvpn.com
 127.0.0.1 fastfreeproxy.info
 127.0.0.1 fastieproxy.com
 127.0.0.1 fastp.org
@@ -1915,6 +1922,7 @@
 127.0.0.1 getflix.com
 127.0.0.1 getiantem.org
 127.0.0.1 getproton.me
+127.0.0.1 getproxylist.com
 127.0.0.1 getvpnx.com
 127.0.0.1 getxhelp.com
 127.0.0.1 getxvpn.com
@@ -1996,12 +2004,17 @@
 127.0.0.1 hidingit.com
 127.0.0.1 hiload.org
 127.0.0.1 hiproxy.net
+127.0.0.1 hitproxy.com
 127.0.0.1 store.hkordermedicine.hk
 127.0.0.1 hmavpn.com
 127.0.0.1 pihole1.hoerli.net
 127.0.0.1 pihole2.hoerli.net
 127.0.0.1 pihole3.hoerli.net
 127.0.0.1 pihole4.hoerli.net
+127.0.0.1 holavpn.com
+127.0.0.1 holafreevpn.com
+127.0.0.1 holavpnextension.com
+127.0.0.1 holavpnrussia.com
 127.0.0.1 holax.io
 127.0.0.1 holyubvpn.com
 127.0.0.1 homemail.info
@@ -2128,6 +2141,7 @@
 127.0.0.1 dns1.klcd.eu
 127.0.0.1 dns2.klcd.eu
 127.0.0.1 klcknerrip.com
+127.0.0.1 knvpn.net
 127.0.0.1 adguard.konikoni428.com
 127.0.0.1 korzhov.dev
 127.0.0.1 dns.kosan.moe
@@ -2332,6 +2346,7 @@
 127.0.0.1 corevpn.norton.com
 127.0.0.1 dns.norvig.dk
 127.0.0.1 dns.notjakob.com
+127.0.0.1 notvpn.io
 127.0.0.1 dns.novali.date
 127.0.0.1 novatech.fun
 127.0.0.1 dns.novg.net
@@ -2351,6 +2366,7 @@
 127.0.0.1 octohide.com
 127.0.0.1 dns.ofdoom.net
 127.0.0.1 okayfreedom.com
+127.0.0.1 okofreevpn.com
 127.0.0.1 gravity.omniscien.cl
 127.0.0.1 adguard.omsctr.ru
 127.0.0.1 onconnect.info
@@ -2406,6 +2422,7 @@
 127.0.0.1 pandapow.co
 127.0.0.1 pandapow.io
 127.0.0.1 pandasecurity.com
+127.0.0.1 pandavpn.pro
 127.0.0.1 pangopaas.co
 127.0.0.1 dns.panszelescik.pl
 127.0.0.1 papervpn.info
@@ -2471,6 +2488,7 @@
 127.0.0.1 privateinternet.info
 127.0.0.1 privatefb.info
 127.0.0.1 privateproxy.me
+127.0.0.1 privatesurfforme.net
 127.0.0.1 privatewifi.com
 127.0.0.1 privoxy.org
 127.0.0.1 prohome.info
@@ -2546,6 +2564,7 @@
 127.0.0.1 dnsprivacy.puregeni.us
 127.0.0.1 purevpntools.com
 127.0.0.1 pushokey.com
+127.0.0.1 pyproxy.com
 127.0.0.1 doh.pyry.me
 127.0.0.1 at.pzhg.me
 127.0.0.1 vpsus3.pzhg.me
@@ -2554,6 +2573,7 @@
 127.0.0.1 quic.lol
 127.0.0.1 quickproxy.com
 127.0.0.1 quickproxies.com
+127.0.0.1 quicksilvervpn.com
 127.0.0.1 ant.dns.qwer.pw
 127.0.0.1 dog.dns.qwer.pw
 127.0.0.1 frog.dns.qwer.pw
@@ -2740,6 +2760,7 @@
 127.0.0.1 surfsneaker.com
 127.0.0.1 surfwithease.com
 127.0.0.1 swapip.com
+127.0.0.1 swiftshieldvpn.com
 127.0.0.1 dns.swin.pro
 127.0.0.1 switchvpn.net
 127.0.0.1 dns.syaifullah.com
@@ -2774,6 +2795,7 @@
 127.0.0.1 dns.thebuckners.org
 127.0.0.1 login.thegalleryofart.info
 127.0.0.1 theproxyguide.com
+127.0.0.1 therabbitvpn.com
 127.0.0.1 dns.theres.one
 127.0.0.1 thesafety.us
 127.0.0.1 blocker.thethorsens.org
@@ -2826,6 +2848,8 @@
 127.0.0.1 trustedproxies.com
 127.0.0.1 dns.tryk.app
 127.0.0.1 doh.ibr.cs.tubs.de
+127.0.0.1 turbotrackvpn.com
+127.0.0.1 turbovpn.co
 127.0.0.1 turmericrecipes.com
 127.0.0.1 tuvpn.com
 127.0.0.1 nat64.tuxis.nl
@@ -2920,8 +2944,10 @@
 127.0.0.1 vpn.lat
 127.0.0.1 vpn.org
 127.0.0.1 vpn.sh
+127.0.0.1 vpnfastest.com
 127.0.0.1 vpnfortest.ru
 127.0.0.1 vpnfree.download
+127.0.0.1 vpnquick.com
 127.0.0.1 vpn4all.com
 127.0.0.1 vpnarea.com
 127.0.0.1 vpnbaron.com
@@ -2929,6 +2955,7 @@
 127.0.0.1 vpndaily.com
 127.0.0.1 vpnhellings.nl
 127.0.0.1 vpnintouch.com
+127.0.0.1 vpnliebao.com
 127.0.0.1 vpnmasterx.com
 127.0.0.1 vpnmonster.ru
 127.0.0.1 vpnneo.com
@@ -2980,6 +3007,8 @@
 127.0.0.1 wiksa.com
 127.0.0.1 windscribe.net
 127.0.0.1 wireguard.com
+127.0.0.1 wirevpn.app
+127.0.0.1 wirevpn.cc
 127.0.0.1 adguard.wirimij.nl
 127.0.0.1 witopia.net
 127.0.0.1 clearweb.woodbridge.club
@@ -3020,6 +3049,7 @@
 127.0.0.1 yourinternetproxy.info
 127.0.0.1 youtubeunblocker.com
 127.0.0.1 yovbak.com
+127.0.0.1 yoyovpn.org
 127.0.0.1 adg.yybyy.wiki
 127.0.0.1 adguard.zachitect.com
 127.0.0.1 zagbit.com
@@ -3029,6 +3059,7 @@
 127.0.0.1 adguardkartoffel.zernico.de
 127.0.0.1 zerotier.com
 127.0.0.1 zerotunnel.com
+127.0.0.1 zerovpnapp.com
 127.0.0.1 dns.zfsystem.tech
 127.0.0.1 zippyproxy.com
 127.0.0.1 zougloub.eu
