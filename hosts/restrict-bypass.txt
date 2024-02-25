@@ -1622,6 +1622,7 @@
 127.0.0.1 ca.doh.cloudveil.org
 127.0.0.1 us.doh.cloudveil.org
 127.0.0.1 pope.cnblw.me
+127.0.0.1 adguard.aa4.co.uk
 127.0.0.1 clearvpn.co.uk
 127.0.0.1 pihole.datamatter.co.za
 127.0.0.1 www.dnsadguard.co.uk
@@ -2548,6 +2549,7 @@
 127.0.0.1 proxyprivate.info
 127.0.0.1 proxysan.info
 127.0.0.1 proxyscope.com
+127.0.0.1 proxysheep.com
 127.0.0.1 proxysite.page
 127.0.0.1 proxysite.pro
 127.0.0.1 proxysite.site
@@ -3041,6 +3043,8 @@
 127.0.0.1 common.dot.dns.yandex.net
 127.0.0.1 family.dot.dns.yandex.net
 127.0.0.1 safe.dot.dns.yandex.net
+127.0.0.1 ychen.cf
+127.0.0.1 ychen.gq
 127.0.0.1 yd6n63ptky.com
 127.0.0.1 ylink.info
 127.0.0.1 youfreeproxytube.com
