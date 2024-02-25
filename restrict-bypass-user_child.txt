@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-23T01:06:19.819Z
+! Last modified: 2024-02-25T01:12:07.050Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1629,6 +1629,7 @@
 ||ca.doh.cloudveil.org^$ctag=user_child
 ||us.doh.cloudveil.org^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
+||adguard.aa4.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
 ||pihole.datamatter.co.za^$ctag=user_child
 ||www.dnsadguard.co.uk^$ctag=user_child
@@ -2555,6 +2556,7 @@
 ||proxyprivate.info^$ctag=user_child
 ||proxysan.info^$ctag=user_child
 ||proxyscope.com^$ctag=user_child
+||proxysheep.com^$ctag=user_child
 ||proxysite.page^$ctag=user_child
 ||proxysite.pro^$ctag=user_child
 ||proxysite.site^$ctag=user_child
@@ -3048,6 +3050,8 @@
 ||common.dot.dns.yandex.net^$ctag=user_child
 ||family.dot.dns.yandex.net^$ctag=user_child
 ||safe.dot.dns.yandex.net^$ctag=user_child
+||ychen.cf^$ctag=user_child
+||ychen.gq^$ctag=user_child
 ||yd6n63ptky.com^$ctag=user_child
 ||ylink.info^$ctag=user_child
 ||youfreeproxytube.com^$ctag=user_child
