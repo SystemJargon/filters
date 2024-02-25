@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-23T01:06:19.819Z
+! Last modified: 2024-02-25T01:12:07.050Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1629,6 +1629,7 @@
 ||ca.doh.cloudveil.org^
 ||us.doh.cloudveil.org^
 ||pope.cnblw.me^
+||adguard.aa4.co.uk^
 ||clearvpn.co.uk^
 ||pihole.datamatter.co.za^
 ||www.dnsadguard.co.uk^
@@ -2555,6 +2556,7 @@
 ||proxyprivate.info^
 ||proxysan.info^
 ||proxyscope.com^
+||proxysheep.com^
 ||proxysite.page^
 ||proxysite.pro^
 ||proxysite.site^
@@ -3048,6 +3050,8 @@
 ||common.dot.dns.yandex.net^
 ||family.dot.dns.yandex.net^
 ||safe.dot.dns.yandex.net^
+||ychen.cf^
+||ychen.gq^
 ||yd6n63ptky.com^
 ||ylink.info^
 ||youfreeproxytube.com^
