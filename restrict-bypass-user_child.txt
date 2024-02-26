@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-02-25T01:12:07.050Z
+! Last modified: 2024-02-26T01:09:51.442Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1505,7 +1505,6 @@
 ||bestvpn.org^$ctag=user_child
 ||bestyoutubeproxy.info^$ctag=user_child
 ||bettervpn.com^$ctag=user_child
-||vpn.bezainf.tk^$ctag=user_child
 ||bgvpn.com^$ctag=user_child
 ||bi-tree.ru^$ctag=user_child
 ||biip.info^$ctag=user_child
@@ -1537,7 +1536,6 @@
 ||brightvpn.com^$ctag=user_child
 ||britishproxy.com^$ctag=user_child
 ||browsebridge.com^$ctag=user_child
-||browserproxy.net^$ctag=user_child
 ||doh.bt.com^$ctag=user_child
 ||stratus.bugz.fr^$ctag=user_child
 ||bulletvpn.com^$ctag=user_child
@@ -1560,8 +1558,6 @@
 ||dns.carter.me^$ctag=user_child
 ||casinovpn.com^$ctag=user_child
 ||catdns.org^$ctag=user_child
-||alidns.cb1999.top^$ctag=user_child
-||alidns2.cb1999.top^$ctag=user_child
 ||dns2.cbio.top^$ctag=user_child
 ||doh.ccb-net.it^$ctag=user_child
 ||vpn.ccnt.fr^$ctag=user_child
@@ -1857,7 +1853,6 @@
 ||fastfreeproxy.info^$ctag=user_child
 ||fastieproxy.com^$ctag=user_child
 ||fastp.org^$ctag=user_child
-||fastpro.info^$ctag=user_child
 ||fastproxy.nl^$ctag=user_child
 ||fastproxynetwork.com^$ctag=user_child
 ||fastvpn.me^$ctag=user_child
@@ -1968,7 +1963,6 @@
 ||doh-primary-pool.goodbyegambling.com^$ctag=user_child
 ||vpn.gosami.xyz^$ctag=user_child
 ||gotrusted.com^$ctag=user_child
-||gowork.info^$ctag=user_child
 ||gpreport.us^$ctag=user_child
 ||gracarno.com^$ctag=user_child
 ||c.gracemp.org^$ctag=user_child
@@ -2309,7 +2303,6 @@
 ||www.chungocoai.name.vn^$ctag=user_child
 ||nanoproxy.com^$ctag=user_child
 ||dns.narl.app^$ctag=user_child
-||dns.nas-server.ru^$ctag=user_child
 ||natfrp.cloud^$ctag=user_child
 ||nationalgeographic.wiki^$ctag=user_child
 ||vpn.nbvalente.fr^$ctag=user_child
@@ -2631,7 +2624,6 @@
 ||adg.rokh.biz^$ctag=user_child
 ||dns.ronc.ru^$ctag=user_child
 ||roodel.com^$ctag=user_child
-||roogen.com^$ctag=user_child
 ||roonyx.com^$ctag=user_child
 ||dns.rotunneling.net^$ctag=user_child
 ||adguard-dns.rouga.ch^$ctag=user_child
@@ -2811,7 +2803,6 @@
 ||blocker.thethorsens.org^$ctag=user_child
 ||thevpncompany.net^$ctag=user_child
 ||thundervpnwin.com^$ctag=user_child
-||environmental.laws.tibetjustice.org^$ctag=user_child
 ||tiiner.com^$ctag=user_child
 ||timetohide.me^$ctag=user_child
 ||timmes.nl^$ctag=user_child
@@ -2876,7 +2867,6 @@
 ||ugdsoft.com^$ctag=user_child
 ||uinlive-time.com^$ctag=user_child
 ||webproxy.uk.com^$ctag=user_child
-||ukwebproxy.eu^$ctag=user_child
 ||adguard-ironhide.ultima-thule.ru^$ctag=user_child
 ||ultimatepro.us^$ctag=user_child
 ||ultrabestproxy.com^$ctag=user_child
@@ -2888,7 +2878,6 @@
 ||unblock-us.com^$ctag=user_child
 ||unblocked.biz^$ctag=user_child
 ||unblocked2.info^$ctag=user_child
-||unblockedbrowser.com^$ctag=user_child
 ||unblockedme.com^$ctag=user_child
 ||unblockedproxy.us^$ctag=user_child
 ||unblockedsites.org^$ctag=user_child
@@ -3023,7 +3012,6 @@
 ||witopia.net^$ctag=user_child
 ||clearweb.woodbridge.club^$ctag=user_child
 ||workarena.info^$ctag=user_child
-||workdigi.com^$ctag=user_child
 ||workingvpn.com^$ctag=user_child
 ||my.worksheetsforteachers.org^$ctag=user_child
 ||parrotballs.worksheetsforteachers.xyz^$ctag=user_child
@@ -3062,7 +3050,6 @@
 ||youtube-unblocker.com^$ctag=user_child
 ||yovbak.com^$ctag=user_child
 ||yoyovpn.org^$ctag=user_child
-||adg.yybyy.wiki^$ctag=user_child
 ||adguard.zachitect.com^$ctag=user_child
 ||zagbit.com^$ctag=user_child
 ||zcoup.com^$ctag=user_child
