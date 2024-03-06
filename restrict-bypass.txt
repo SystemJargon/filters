@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-05T01:07:46.798Z
+! Last modified: 2024-03-06T01:07:59.135Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1848,7 +1848,6 @@
 ||dns.fancyorg.at^
 ||fastfoxvpn.com^
 ||fastfreeproxy.info^
-||fastieproxy.com^
 ||fastp.org^
 ||fastproxy.nl^
 ||fastproxynetwork.com^
@@ -2720,7 +2719,6 @@
 ||clientdns3.softcom.net^
 ||solidproxy.net^
 ||sourceproxy.com^
-||doh.southam.family^
 ||spacedns.org^
 ||adguard.sparshbajaj.me^
 ||speedshare.app^
