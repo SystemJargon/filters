@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-06T01:07:59.135Z
+! Last modified: 2024-03-07T00:57:40.083Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2042,7 +2042,6 @@
 ||vpn.i81.ru^
 ||dns.iamninja.ru^
 ||dns-public.ibakerserver.pt^
-||iblocker.info^
 ||webproxy.ich-war-hier.de^
 ||mask-api.icloud.com^
 ||icpsuawn1zy5amys.com^
@@ -2290,7 +2289,6 @@
 ||myvpn.com^
 ||mywebproxy.in^
 ||mywebproxy.net^
-||mywebtunnel.com^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
 ||mzhlhrfr8z.info^
@@ -2311,7 +2309,6 @@
 ||netgeek.info^
 ||netnut.io^
 ||netscop.net^
-||netsneak.com^
 ||cube.neubsi.at^
 ||dns.neubsi.at^
 ||newads-cdn.com^
