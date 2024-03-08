@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-07T00:57:40.083Z
+! Last modified: 2024-03-08T01:07:43.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2254,6 +2254,7 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
+||doh.morizt.id^
 ||dns.moulticast.net^
 ||sundown.sun.mountofoliveschurch.com^
 ||sunflower.sun.mountofoliveschurch.com^
@@ -2628,7 +2629,6 @@
 ||s4m.tech^
 ||s4m.xyz^
 ||safe-inet.com^
-||safenetbrowser.com^
 ||dns2.saferbfc.org^
 ||safeservedns.com^
 ||w.q.sagesinst.org^
