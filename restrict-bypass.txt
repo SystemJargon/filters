@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-09T01:05:40.737Z
+! Last modified: 2024-03-10T01:12:14.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1642,7 +1642,6 @@
 ||vpncompare.co.uk^
 ||webproxy.co.at^
 ||cocoombr.com^
-||cocoproxy.com^
 ||coinsite.info^
 ||coinweb.info^
 ||jpdns.cola16.app^
@@ -1821,7 +1820,6 @@
 ||elephantvpn.com^
 ||elshad-adgh-dns.ru^
 ||dns.emiliyan.com^
-||emuby.com^
 ||adguard.ender.fr^
 ||my.englishpapers.online^
 ||study.englishpapers.online^
@@ -1836,7 +1834,6 @@
 ||eurproxy.com^
 ||evantbyrne.info^
 ||everovpn.co^
-||everyproxies.info^
 ||expatshield.com^
 ||expressapisv2.net^
 ||dns.extrawdw.net^
@@ -1902,7 +1899,6 @@
 ||frysprinters.com^
 ||awan.ftp.sh^
 ||doh.funil.de^
-||funknetwork.com^
 ||doh.funtopia.tv^
 ||dns.furrydns.de^
 ||cluster-0.gac.edu^
@@ -1963,7 +1959,6 @@
 ||gracarno.com^
 ||c.gracemp.org^
 ||granules.us^
-||gratisproxy.nl^
 ||dns.grqu.de^
 ||vps.grussenmeyer.com^
 ||dns.guard.io^
@@ -1977,7 +1972,6 @@
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||dns.haoxuan.xyz^
-||happydata.info^
 ||resolver-eu.haringstad.com^
 ||hauxcore.de^
 ||us-ny-alula.heliumcloud.cc^
@@ -2154,7 +2148,6 @@
 ||lagometer.de^
 ||h2o.lakeballs.fi^
 ||ocean.lakeballs.fi^
-||lalal.info^
 ||vpninuk.lant.info^
 ||lantern.io^
 ||largero.com^
@@ -2190,12 +2183,10 @@
 ||ns.lov.host^
 ||n5.lsasss.com^
 ||ltlxvxjjmvhn.me^
-||lurk.info^
 ||dns.lvolland.fr^
 ||orau.lz0724.com^
 ||addns1.m-it.ro^
 ||mailkyb.co^
-||mailproxy.info^
 ||mainprox.com^
 ||mallocapp.com^
 ||mallocprivacy.com^
@@ -2287,7 +2278,6 @@
 ||myproxy.ca^
 ||myspaceunlock.com^
 ||vm.mytm.cc^
-||myvpn.com^
 ||mywebproxy.in^
 ||mywebproxy.net^
 ||area51.mywire.org^
@@ -2299,7 +2289,6 @@
 ||nanoproxy.com^
 ||dns.narl.app^
 ||natfrp.cloud^
-||nationalgeographic.wiki^
 ||vpn.nbvalente.fr^
 ||dns.ndo.dev^
 ||ne1.ca^
@@ -2512,7 +2501,6 @@
 ||proxy.red^
 ||proxy.rocks^
 ||proxy.sx^
-||proxy.yt^
 ||proxy-123.com^
 ||proxy-german.de^
 ||proxy-n-vpn.com^
@@ -2521,7 +2509,6 @@
 ||proxy4free.me^
 ||proxyanonymizer.net^
 ||proxyarab.com^
-||proxybits.com^
 ||proxybros.com^
 ||proxybrowser.org^
 ||proxybuss.com^
@@ -2539,7 +2526,6 @@
 ||proxyist.com^
 ||proxyium.com^
 ||proxyness.com^
-||proxyoutlet.com^
 ||proxyprivate.info^
 ||proxysan.info^
 ||proxyscope.com^
@@ -2675,7 +2661,6 @@
 ||privatnas.servebeer.com^
 ||assets-prod-a230.s3.serverwild.com^
 ||dns.sev.monster^
-||pates.services.sfr.fr.casepp.sfr.fr^
 ||d2.shabi.icu^
 ||shadeyouvpn.com^
 ||shalenkov.dev^
@@ -2702,7 +2687,6 @@
 ||sitdns.com^
 ||siteget.net^
 ||sitesunblocked.com^
-||sitework.info^
 ||iproyal.sjv.io^
 ||dns.skrep.eu^
 ||dns.skrep.in^
@@ -2935,7 +2919,6 @@
 ||vpn.org^
 ||vpn.sh^
 ||vpn-fastest.com^
-||vpn-for-test.ru^
 ||vpn-free.download^
 ||vpn-quick.com^
 ||vpn4all.com^
@@ -3032,7 +3015,6 @@
 ||ychen.cf^
 ||ychen.gq^
 ||yd6n63ptky.com^
-||ylink.info^
 ||youfreeproxytube.com^
 ||dns.youni.win^
 ||youproxytube.com^
