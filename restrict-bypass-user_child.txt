@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-09T01:05:40.737Z
+! Last modified: 2024-03-10T01:12:14.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1642,7 +1642,6 @@
 ||vpncompare.co.uk^$ctag=user_child
 ||webproxy.co.at^$ctag=user_child
 ||cocoombr.com^$ctag=user_child
-||cocoproxy.com^$ctag=user_child
 ||coinsite.info^$ctag=user_child
 ||coinweb.info^$ctag=user_child
 ||jpdns.cola16.app^$ctag=user_child
@@ -1821,7 +1820,6 @@
 ||elephantvpn.com^$ctag=user_child
 ||elshad-adgh-dns.ru^$ctag=user_child
 ||dns.emiliyan.com^$ctag=user_child
-||emuby.com^$ctag=user_child
 ||adguard.ender.fr^$ctag=user_child
 ||my.englishpapers.online^$ctag=user_child
 ||study.englishpapers.online^$ctag=user_child
@@ -1836,7 +1834,6 @@
 ||eurproxy.com^$ctag=user_child
 ||evantbyrne.info^$ctag=user_child
 ||everovpn.co^$ctag=user_child
-||everyproxies.info^$ctag=user_child
 ||expatshield.com^$ctag=user_child
 ||expressapisv2.net^$ctag=user_child
 ||dns.extrawdw.net^$ctag=user_child
@@ -1902,7 +1899,6 @@
 ||frysprinters.com^$ctag=user_child
 ||awan.ftp.sh^$ctag=user_child
 ||doh.funil.de^$ctag=user_child
-||funknetwork.com^$ctag=user_child
 ||doh.funtopia.tv^$ctag=user_child
 ||dns.furrydns.de^$ctag=user_child
 ||cluster-0.gac.edu^$ctag=user_child
@@ -1963,7 +1959,6 @@
 ||gracarno.com^$ctag=user_child
 ||c.gracemp.org^$ctag=user_child
 ||granules.us^$ctag=user_child
-||gratisproxy.nl^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
 ||vps.grussenmeyer.com^$ctag=user_child
 ||dns.guard.io^$ctag=user_child
@@ -1977,7 +1972,6 @@
 ||adguard.haneulo.com^$ctag=user_child
 ||dns.hanmey.de^$ctag=user_child
 ||dns.haoxuan.xyz^$ctag=user_child
-||happydata.info^$ctag=user_child
 ||resolver-eu.haringstad.com^$ctag=user_child
 ||hauxcore.de^$ctag=user_child
 ||us-ny-alula.heliumcloud.cc^$ctag=user_child
@@ -2154,7 +2148,6 @@
 ||lagometer.de^$ctag=user_child
 ||h2o.lakeballs.fi^$ctag=user_child
 ||ocean.lakeballs.fi^$ctag=user_child
-||lalal.info^$ctag=user_child
 ||vpninuk.lant.info^$ctag=user_child
 ||lantern.io^$ctag=user_child
 ||largero.com^$ctag=user_child
@@ -2190,12 +2183,10 @@
 ||ns.lov.host^$ctag=user_child
 ||n5.lsasss.com^$ctag=user_child
 ||ltlxvxjjmvhn.me^$ctag=user_child
-||lurk.info^$ctag=user_child
 ||dns.lvolland.fr^$ctag=user_child
 ||orau.lz0724.com^$ctag=user_child
 ||addns1.m-it.ro^$ctag=user_child
 ||mailkyb.co^$ctag=user_child
-||mailproxy.info^$ctag=user_child
 ||mainprox.com^$ctag=user_child
 ||mallocapp.com^$ctag=user_child
 ||mallocprivacy.com^$ctag=user_child
@@ -2287,7 +2278,6 @@
 ||myproxy.ca^$ctag=user_child
 ||myspaceunlock.com^$ctag=user_child
 ||vm.mytm.cc^$ctag=user_child
-||myvpn.com^$ctag=user_child
 ||mywebproxy.in^$ctag=user_child
 ||mywebproxy.net^$ctag=user_child
 ||area51.mywire.org^$ctag=user_child
@@ -2299,7 +2289,6 @@
 ||nanoproxy.com^$ctag=user_child
 ||dns.narl.app^$ctag=user_child
 ||natfrp.cloud^$ctag=user_child
-||nationalgeographic.wiki^$ctag=user_child
 ||vpn.nbvalente.fr^$ctag=user_child
 ||dns.ndo.dev^$ctag=user_child
 ||ne1.ca^$ctag=user_child
@@ -2512,7 +2501,6 @@
 ||proxy.red^$ctag=user_child
 ||proxy.rocks^$ctag=user_child
 ||proxy.sx^$ctag=user_child
-||proxy.yt^$ctag=user_child
 ||proxy-123.com^$ctag=user_child
 ||proxy-german.de^$ctag=user_child
 ||proxy-n-vpn.com^$ctag=user_child
@@ -2521,7 +2509,6 @@
 ||proxy4free.me^$ctag=user_child
 ||proxyanonymizer.net^$ctag=user_child
 ||proxyarab.com^$ctag=user_child
-||proxybits.com^$ctag=user_child
 ||proxybros.com^$ctag=user_child
 ||proxybrowser.org^$ctag=user_child
 ||proxybuss.com^$ctag=user_child
@@ -2539,7 +2526,6 @@
 ||proxyist.com^$ctag=user_child
 ||proxyium.com^$ctag=user_child
 ||proxyness.com^$ctag=user_child
-||proxyoutlet.com^$ctag=user_child
 ||proxyprivate.info^$ctag=user_child
 ||proxysan.info^$ctag=user_child
 ||proxyscope.com^$ctag=user_child
@@ -2675,7 +2661,6 @@
 ||privatnas.servebeer.com^$ctag=user_child
 ||assets-prod-a230.s3.serverwild.com^$ctag=user_child
 ||dns.sev.monster^$ctag=user_child
-||pates.services.sfr.fr.casepp.sfr.fr^$ctag=user_child
 ||d2.shabi.icu^$ctag=user_child
 ||shadeyouvpn.com^$ctag=user_child
 ||shalenkov.dev^$ctag=user_child
@@ -2702,7 +2687,6 @@
 ||sitdns.com^$ctag=user_child
 ||siteget.net^$ctag=user_child
 ||sitesunblocked.com^$ctag=user_child
-||sitework.info^$ctag=user_child
 ||iproyal.sjv.io^$ctag=user_child
 ||dns.skrep.eu^$ctag=user_child
 ||dns.skrep.in^$ctag=user_child
@@ -2935,7 +2919,6 @@
 ||vpn.org^$ctag=user_child
 ||vpn.sh^$ctag=user_child
 ||vpn-fastest.com^$ctag=user_child
-||vpn-for-test.ru^$ctag=user_child
 ||vpn-free.download^$ctag=user_child
 ||vpn-quick.com^$ctag=user_child
 ||vpn4all.com^$ctag=user_child
@@ -3032,7 +3015,6 @@
 ||ychen.cf^$ctag=user_child
 ||ychen.gq^$ctag=user_child
 ||yd6n63ptky.com^$ctag=user_child
-||ylink.info^$ctag=user_child
 ||youfreeproxytube.com^$ctag=user_child
 ||dns.youni.win^$ctag=user_child
 ||youproxytube.com^$ctag=user_child
