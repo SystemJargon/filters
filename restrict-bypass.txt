@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-10T01:12:14.740Z
+! Last modified: 2024-03-12T01:07:32.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2661,6 +2661,7 @@
 ||privatnas.servebeer.com^
 ||assets-prod-a230.s3.serverwild.com^
 ||dns.sev.monster^
+||pates.services.sfr.fr.casepp.sfr.fr^
 ||d2.shabi.icu^
 ||shadeyouvpn.com^
 ||shalenkov.dev^
@@ -2744,7 +2745,6 @@
 ||dns.syaifullah.com^
 ||ihctw.synology.me^
 ||doh.syshero.org^
-||vanced.sytes.net^
 ||t-application.website^
 ||t-dz.com^
 ||tailscale.com^
@@ -2782,7 +2782,6 @@
 ||tiiner.com^
 ||timetohide.me^
 ||timmes.nl^
-||tk31z.com^
 ||dns.tls-data.de^
 ||tnvpn.com^
 ||d.toairs.com^
