@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-10T01:12:14.740Z
+! Last modified: 2024-03-12T01:07:32.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2661,6 +2661,7 @@
 ||privatnas.servebeer.com^$ctag=user_child
 ||assets-prod-a230.s3.serverwild.com^$ctag=user_child
 ||dns.sev.monster^$ctag=user_child
+||pates.services.sfr.fr.casepp.sfr.fr^$ctag=user_child
 ||d2.shabi.icu^$ctag=user_child
 ||shadeyouvpn.com^$ctag=user_child
 ||shalenkov.dev^$ctag=user_child
@@ -2744,7 +2745,6 @@
 ||dns.syaifullah.com^$ctag=user_child
 ||ihctw.synology.me^$ctag=user_child
 ||doh.syshero.org^$ctag=user_child
-||vanced.sytes.net^$ctag=user_child
 ||t-application.website^$ctag=user_child
 ||t-dz.com^$ctag=user_child
 ||tailscale.com^$ctag=user_child
@@ -2782,7 +2782,6 @@
 ||tiiner.com^$ctag=user_child
 ||timetohide.me^$ctag=user_child
 ||timmes.nl^$ctag=user_child
-||tk31z.com^$ctag=user_child
 ||dns.tls-data.de^$ctag=user_child
 ||tnvpn.com^$ctag=user_child
 ||d.toairs.com^$ctag=user_child
