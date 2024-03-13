@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-12T01:07:32.506Z
+! Last modified: 2024-03-13T01:09:48.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1373,7 +1373,6 @@
 ||ios.4webhelp.ca^
 ||alidns.51top.info^
 ||dns.52306.org^
-||57824.com^
 ||dns.5ososea.com^
 ||family.5ososea.com^
 ||kids.5ososea.com^
@@ -1443,7 +1442,6 @@
 ||anonproxy.eu^
 ||anonproxy.org^
 ||anonymitynetwork.com^
-||dns.anonymous.pw^
 ||anonymous-proxy-servers.net^
 ||anonymousblog.info^
 ||anonymousengine.com^
@@ -1533,7 +1531,6 @@
 ||ag.brianlee.fun^
 ||bright4good.eco^
 ||brightvpn.com^
-||britishproxy.com^
 ||browsebridge.com^
 ||doh.bt.com^
 ||stratus.bugz.fr^
@@ -1624,7 +1621,6 @@
 ||ca.doh.cloudveil.org^
 ||us.doh.cloudveil.org^
 ||pope.cnblw.me^
-||adguard.aa4.co.uk^
 ||clearvpn.co.uk^
 ||pihole.datamatter.co.za^
 ||www.dnsadguard.co.uk^
@@ -2198,7 +2194,9 @@
 ||adsadkjsadjksakldjxx.math-solver.online^
 ||dns.mathewakhil.online^
 ||mathhelpnow.site^
-||mathlearning.tech^
+||123.mathlearning.tech^
+||ihavekidsinmybasement.mathlearning.tech^
+||wildcardsareepic.mathlearning.tech^
 ||mathnotes.help^
 ||mathnotes.icu^
 ||adguard.mattiafenzi.uk^
@@ -2288,9 +2286,9 @@
 ||www.chungocoai.name.vn^
 ||nanoproxy.com^
 ||dns.narl.app^
+||dns.nas-server.ru^
 ||natfrp.cloud^
 ||vpn.nbvalente.fr^
-||dns.ndo.dev^
 ||ne1.ca^
 ||needunblock.com^
 ||doh.neowutran.ovh^
@@ -2788,7 +2786,6 @@
 ||tonvpn.com^
 ||dot.tooli.ca^
 ||toppal.tech^
-||topsecure.info^
 ||toptip.cc^
 ||topvpn.cc^
 ||tor-gateways.de^
