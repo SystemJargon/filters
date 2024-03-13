@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-12T01:07:32.506Z
+! Last modified: 2024-03-13T01:09:48.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1373,7 +1373,6 @@
 ||ios.4webhelp.ca^$ctag=user_child
 ||alidns.51top.info^$ctag=user_child
 ||dns.52306.org^$ctag=user_child
-||57824.com^$ctag=user_child
 ||dns.5ososea.com^$ctag=user_child
 ||family.5ososea.com^$ctag=user_child
 ||kids.5ososea.com^$ctag=user_child
@@ -1443,7 +1442,6 @@
 ||anonproxy.eu^$ctag=user_child
 ||anonproxy.org^$ctag=user_child
 ||anonymitynetwork.com^$ctag=user_child
-||dns.anonymous.pw^$ctag=user_child
 ||anonymous-proxy-servers.net^$ctag=user_child
 ||anonymousblog.info^$ctag=user_child
 ||anonymousengine.com^$ctag=user_child
@@ -1533,7 +1531,6 @@
 ||ag.brianlee.fun^$ctag=user_child
 ||bright4good.eco^$ctag=user_child
 ||brightvpn.com^$ctag=user_child
-||britishproxy.com^$ctag=user_child
 ||browsebridge.com^$ctag=user_child
 ||doh.bt.com^$ctag=user_child
 ||stratus.bugz.fr^$ctag=user_child
@@ -1624,7 +1621,6 @@
 ||ca.doh.cloudveil.org^$ctag=user_child
 ||us.doh.cloudveil.org^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
-||adguard.aa4.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
 ||pihole.datamatter.co.za^$ctag=user_child
 ||www.dnsadguard.co.uk^$ctag=user_child
@@ -2198,7 +2194,9 @@
 ||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||dns.mathewakhil.online^$ctag=user_child
 ||mathhelpnow.site^$ctag=user_child
-||mathlearning.tech^$ctag=user_child
+||123.mathlearning.tech^$ctag=user_child
+||ihavekidsinmybasement.mathlearning.tech^$ctag=user_child
+||wildcardsareepic.mathlearning.tech^$ctag=user_child
 ||mathnotes.help^$ctag=user_child
 ||mathnotes.icu^$ctag=user_child
 ||adguard.mattiafenzi.uk^$ctag=user_child
@@ -2288,9 +2286,9 @@
 ||www.chungocoai.name.vn^$ctag=user_child
 ||nanoproxy.com^$ctag=user_child
 ||dns.narl.app^$ctag=user_child
+||dns.nas-server.ru^$ctag=user_child
 ||natfrp.cloud^$ctag=user_child
 ||vpn.nbvalente.fr^$ctag=user_child
-||dns.ndo.dev^$ctag=user_child
 ||ne1.ca^$ctag=user_child
 ||needunblock.com^$ctag=user_child
 ||doh.neowutran.ovh^$ctag=user_child
@@ -2788,7 +2786,6 @@
 ||tonvpn.com^$ctag=user_child
 ||dot.tooli.ca^$ctag=user_child
 ||toppal.tech^$ctag=user_child
-||topsecure.info^$ctag=user_child
 ||toptip.cc^$ctag=user_child
 ||topvpn.cc^$ctag=user_child
 ||tor-gateways.de^$ctag=user_child
