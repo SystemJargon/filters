@@ -1,6 +1,6 @@
 !
 ! Title: Security Lists - Aggregated by github.com/systemjargon. Removed overlap from firebog-ticklist.txt and phishing.txt
-! Last modified: 2024-03-13T01:04:06.896Z
+! Last modified: 2024-03-14T01:02:51.578Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -42403,7 +42403,6 @@ fore-focus-.mystrikingly.co
 ||acquatee.com^
 ||adidasko.com^
 ||adupihi.com^
-||adzfree-watch.net^
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||ahundredphotos.com^
@@ -42450,19 +42449,17 @@ fore-focus-.mystrikingly.co
 ||avito.avito.pay.avito.avito.booking.com-id809702.com^
 ||avito.avito.sber.avito.www.booking.com-id809702.com^
 ||avito.avito.sber.booking.com-id809702.com^
-||www.avito.avito.sber.booking.com-id809712.com^
 ||avito.avito.www.avito.booking.com-id90123.info^
 ||avito.avito.www.avito.www.booking.com-id90123.info^
 ||avito.avito.www.booking.com-id1800853.com^
 ||avito.avito.www.booking.com-id20341.info^
-||www.avito.avito.www.booking.com-id809712.com^
 ||store.avito.avito.www.booking.com-id809712.com^
 ||avito.booking.com-id809712.com^
 ||avito.com-id15421.info^
+||www.avito.com-id809712.com^
 ||avito.pay.avito.avito.avito.avito.avito.com-id90123.info^
 ||avito.pay.avito.avito.avito.avito.sber.com-id02349.info^
 ||avito.pay.booking.com-id809702.com^
-||avito.pay.booking.com-id809712.com^
 ||avito.pay.com-id02349.info^
 ||avito.pay.www.booking.com-id809702.com^
 ||avito.pay.www.booking.com-id809712.com^
@@ -42537,7 +42534,6 @@ fore-focus-.mystrikingly.co
 ||buzzazone.com^
 ||by-emmamuller.de^
 ||byeuys.shop^
-||c3scores.com^
 ||campingsurfshop.com^
 ||can-postsmsnotice.com^
 ||canadapost.mydelivery1.com^
@@ -42615,7 +42611,6 @@ fore-focus-.mystrikingly.co
 ||dataid-subsidies.click^
 ||dautee.com^
 ||dbhmnp.shop^
-||dbmobile-phototan.de^
 ||dcsnowboard.com^
 ||ddoe.shop^
 ||debridlink.com^
@@ -42659,7 +42654,6 @@ fore-focus-.mystrikingly.co
 ||ellezz.com^
 ||elonspace.org^
 ||emberio.com^
-||en407etr.com^
 ||enchantestore.myshopify.com^
 ||envisiongear.com^
 ||equiwarmpro.co^
@@ -42728,7 +42722,7 @@ fore-focus-.mystrikingly.co
 ||flattee.com^
 ||foryourdears.com^
 ||fotballsko-salg.com^
-||www.freedom-5g.com^
+||freedom-5g.com^
 ||frest.info^
 ||friday89.com^
 ||frostgoddess.com^
@@ -42761,7 +42755,6 @@ fore-focus-.mystrikingly.co
 ||godeskonettbutikk.com^
 ||goglle.com^
 ||goldtimeinvest.com^
-||www.google.com.id51051062.date^
 ||gossvibe.com^
 ||gotoperfection.com^
 ||gowarehouse.net^
@@ -42788,7 +42781,6 @@ fore-focus-.mystrikingly.co
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
 ||i.fundatingquest.fun^
-||iaqorwr.com^
 ||icelandclothing.myshopify.com^
 ||ihuers.com^
 ||ikiha.com^
@@ -42802,7 +42794,7 @@ fore-focus-.mystrikingly.co
 ||internationalcybersafedating.com^
 ||investama92.com^
 ||iphone.quiztionnaire.biz^
-||www.iqcreditcheck.com^
+||iqcreditcheck.com^
 ||italyworldbaseballclassic.com^
 ||iteeus.com^
 ||jackyeby.com^
@@ -42945,9 +42937,7 @@ fore-focus-.mystrikingly.co
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||www.navi4.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
@@ -42978,7 +42968,6 @@ fore-focus-.mystrikingly.co
 ||navi87.com^
 ||navi88.com^
 ||navi9.com^
-||navi9.ru^
 ||navi90.com^
 ||navi91.com^
 ||navi94.com^
@@ -42993,6 +42982,7 @@ fore-focus-.mystrikingly.co
 ||newfootwearshop.com^
 ||newgstore.com^
 ||newlawngarden.com^
+||newoutdoorsale.com^
 ||www.ngreditinaja.top^
 ||nicelegant.com^
 ||niche3d.us^
@@ -43088,12 +43078,15 @@ fore-focus-.mystrikingly.co
 ||pay.avito.avito.avito.sber.avito.com-id02349.info^
 ||pay.avito.avito.avito.sber.booking.com-id90123.info^
 ||pay.avito.avito.avito.sber.com-id20341.info^
+||www.pay.avito.avito.avito.www.booking.com-id809712.com^
 ||pay.avito.avito.avito.www.booking.com-id90123.info^
 ||pay.avito.avito.bo0king.com-id16313.info^
 ||pay.avito.avito.bo0klng.com-id16313.info^
 ||pay.avito.avito.com-id02349.info^
 ||pay.avito.avito.com-id1800853.com^
 ||pay.avito.avito.com-id809702.com^
+||www.pay.avito.avito.com-id809712.com^
+||store.pay.avito.avito.com-id809712.com^
 ||pay.avito.avito.pay.avito.avito.booking.com-id90123.info^
 ||pay.avito.avito.sber.booking.com-id90123.info^
 ||pay.avito.avito.sber.com-id02349.info^
@@ -43107,13 +43100,16 @@ fore-focus-.mystrikingly.co
 ||pay.avito.booklng.com-id16313.info^
 ||pay.avito.com-id1800853.com^
 ||pay.avito.com-id809702.com^
+||pay.avito.com-id809712.com^
 ||pay.avito.com-id90123.info^
+||store.pay.avito.pay.avito.avito.com-id809712.com^
 ||pay.avito.sber.avito.com-id02349.info^
 ||pay.avito.sber.avito.www.booking.com-id809702.com^
 ||pay.avito.sber.booking.com-id809702.com^
 ||pay.avito.sber.com-id02349.info^
 ||pay.avito.sber.com-id20341.info^
 ||pay.avito.sber.com-id809702.com^
+||store.pay.avito.sber.com-id809712.com^
 ||pay.avito.sber.sber.booking.com-id90123.info^
 ||pay.avito.www.avito.www.booking.com-id90123.info^
 ||pay.avito.www.booking.com-id1800853.com^
@@ -43124,12 +43120,14 @@ fore-focus-.mystrikingly.co
 ||pay.bo0king.com-id16313.info^
 ||pay.booking.com-id1800853.com^
 ||pay.booking.com-id20341.info^
+||pay.booking.com-id809712.com^
 ||pay.com-id15421.info^
 ||pay.com-id16313.info^
 ||pay.com-id1800853.com^
 ||pay.com-id20341.info^
 ||pay.com-id409712.com^
 ||pay.com-id809702.com^
+||store.pay.com-id809712.com^
 ||pay.com-id90123.info^
 ||pay.pay.avito.avito.avito.avito.avito.com-id90123.info^
 ||pay.pay.avito.avito.avito.sber.com-id02349.info^
@@ -43137,11 +43135,14 @@ fore-focus-.mystrikingly.co
 ||pay.pay.avito.avito.booking.com-id90123.info^
 ||pay.pay.booking.com-id809702.com^
 ||pay.pay.com-id02349.info^
+||pay.pay.www.booking.com-id809712.com^
 ||pay.sber.avito.avito.avito.avito.avito.com-id20341.info^
 ||pay.sber.avito.avito.avito.com-id1800853.com^
 ||pay.sber.booking.com-id20341.info^
+||pay.sber.booking.com-id809712.com^
 ||pay.sber.booking.com-id90123.info^
 ||pay.sber.com-id20341.info^
+||pay.sber.com-id809712.com^
 ||pay.sber.sber.booking.com-id90123.info^
 ||pay.sber.www.booking.com-id1800853.com^
 ||pay.sberbank.avito.avito.avito.avito.booking.com-id1800853.com^
@@ -43251,7 +43252,6 @@ fore-focus-.mystrikingly.co
 ||sberbank.avito.avito.avito.avito.avito.sber.com-id02349.info^
 ||sberbank.avito.avito.avito.avito.com-id02349.info^
 ||sberbank.avito.avito.avito.avito.com-id20341.info^
-||sberbank.avito.avito.avito.avito.com-id879712.com^
 ||sberbank.avito.avito.avito.avito.com-id90123.info^
 ||sberbank.avito.avito.avito.avito.www.booking.com-id90123.info^
 ||sberbank.avito.avito.avito.booking.com-id1800853.com^
@@ -43265,7 +43265,6 @@ fore-focus-.mystrikingly.co
 ||sberbank.avito.avito.bo0king.com-id16313.info^
 ||sberbank.avito.avito.booking.com-id20341.info^
 ||sberbank.avito.avito.booking.com-id90123.info^
-||sberbank.avito.avito.pay.com-id809712.com^
 ||sberbank.avito.avito.sber.avito.com-id02349.info^
 ||sberbank.avito.avito.sber.com-id02349.info^
 ||sberbank.avito.avito.sber.com-id20341.info^
@@ -43289,6 +43288,7 @@ fore-focus-.mystrikingly.co
 ||sberbank.avito.sber.booking.com-id90123.info^
 ||sberbank.avito.sber.com-id02349.info^
 ||sberbank.avito.sber.com-id809702.com^
+||sberbank.avito.sber.com-id809712.com^
 ||sberbank.avito.sber.sber.booking.com-id90123.info^
 ||sberbank.avito.www.avito.www.booking.com-id90123.info^
 ||sberbank.avito.www.booking.com-id1800853.com^
@@ -43312,6 +43312,7 @@ fore-focus-.mystrikingly.co
 ||sberbank.pay.avito.avito.booking.com-id90123.info^
 ||sberbank.pay.avito.avito.com-id90123.info^
 ||sberbank.pay.booking.com-id809702.com^
+||sberbank.pay.com-id809712.com^
 ||sberbank.pay.sberbank.avito.avito.avito.com-id1800853.com^
 ||sberbank.pay.www.booking.com-id809702.com^
 ||sberbank.sber.booking.com-id20341.info^
@@ -43425,7 +43426,6 @@ fore-focus-.mystrikingly.co
 ||teevpower.com^
 ||teezill.com^
 ||telemarktalk.com^
-||tesla-openai.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslagive.live^
@@ -43515,6 +43515,7 @@ fore-focus-.mystrikingly.co
 ||wezpod.com^
 ||whbinder.com^
 ||wideranging-protector.com^
+||wikeb.com^
 ||wind88.shop^
 ||wintexfashions.com^
 ||wisdomganga.com^
@@ -43544,6 +43545,7 @@ fore-focus-.mystrikingly.co
 ||yandex.avito.avito.booking.com-id20341.info^
 ||yandex.avito.avito.booking.com-id809702.com^
 ||yandex.avito.avito.com-id90123.info^
+||yandex.avito.avito.sber.avito.com-id809712.com^
 ||yandex.avito.avito.www.booking.com-id809702.com^
 ||yandex.avito.b0oking.com-id16313.info^
 ||yandex.avito.bo0king.com-id16313.info^
@@ -43554,6 +43556,7 @@ fore-focus-.mystrikingly.co
 ||yandex.avito.com-id20341.info^
 ||yandex.avito.pay.avito.avito.booking.com-id809702.com^
 ||yandex.avito.pay.avito.avito.booking.com-id90123.info^
+||store.yandex.avito.pay.avito.avito.com-id809712.com^
 ||yandex.avito.sber.avito.www.booking.com-id809702.com^
 ||yandex.avito.sber.booking.com-id809702.com^
 ||yandex.avito.sber.booking.com-id90123.info^
@@ -43561,7 +43564,7 @@ fore-focus-.mystrikingly.co
 ||yandex.avito.www.booking.com-id1800853.com^
 ||yandex.avito.www.booking.com-id20341.info^
 ||yandex.avito.www.booking.com-id809702.com^
-||yandex.avito.www.booking.com-id809712.com^
+||store.yandex.avito.www.booking.com-id809712.com^
 ||yandex.com-id20341.info^
 ||yandex.pay.avito.avito.avito.avito.avito.com-id20341.info^
 ||yandex.pay.avito.avito.avito.avito.sber.com-id02349.info^
@@ -43569,13 +43572,11 @@ fore-focus-.mystrikingly.co
 ||yandex.pay.avito.avito.avito.com-id90123.info^
 ||yandex.pay.avito.avito.booking.com-id809702.com^
 ||yandex.pay.booking.com-id809702.com^
-||www.yandex.pay.booking.com-id809712.com^
 ||yandex.pay.sberbank.avito.avito.avito.avito.com-id1800853.com^
 ||yandex.pay.www.booking.com-id809702.com^
 ||yandex.sber.avito.avito.avito.avito.avito.com-id20341.info^
 ||yandex.sber.booking.com-id20341.info^
 ||yandex.sber.booking.com-id809702.com^
-||store.yandex.sber.booking.com-id809712.com^
 ||yandex.sber.com-id02349.info^
 ||yandex.sber.com-id20341.info^
 ||yandex.sberbank.avito.avito.avito.avito.com-id1800853.com^
@@ -48852,8 +48853,6 @@ fore-focus-.mystrikingly.co
 ||294fashionably.sbs^
 ||3070.store^
 ||314.hongdrama.xyz^
-||33rdderryscouts.com^
-||360down7.miiyun.cn^
 ||360vr-amyade.com^
 ||3inkadvertising.com^
 ||3psil0n.fr^
@@ -48906,6 +48905,7 @@ fore-focus-.mystrikingly.co
 ||abdullahholdingsltd.com^
 ||abelinis.com^
 ||abholidaylighting.com^
+||abissnet.net^
 ||accessfinafrica.com^
 ||accessservicesonline.com^
 ||accioncomunalcolombia.org^
@@ -48930,6 +48930,7 @@ fore-focus-.mystrikingly.co
 ||addressusa.ca^
 ||addtactical.com^
 ||adhiusahakencanalestari.com^
+||adminigobnal.store^
 ||admissionletters.khu.ac.ke^
 ||adornsalonstudio.com^
 ||adsnapshot.co.uk^
@@ -49011,7 +49012,6 @@ fore-focus-.mystrikingly.co
 ||ams.cci.edu.pk^
 ||analisissostenible.com.co^
 ||anando.xyz^
-||anapa-zarya.ru^
 ||anargya.id^
 ||anatex.md^
 ||anawalls13.autodesk360.com^
@@ -49085,13 +49085,12 @@ fore-focus-.mystrikingly.co
 ||assime.ca^
 ||assistante-maternelle-reims.com^
 ||assyafaah.sg^
+||asterglobal.com^
 ||astervell.fun^
 ||astroseyyah.com.tr^
 ||asx.sunaviat.com^
 ||atbaik.com^
 ||atechairsystems.ca^
-||athadnw.com^
-||atomm.com.br^
 ||atrqp.caching.oysterfloats.com^
 ||atto.com.au^
 ||audia.cl^
@@ -49110,12 +49109,12 @@ fore-focus-.mystrikingly.co
 ||avirep.co^
 ||avitechsolutionsltd.com^
 ||awefulthoughts.com^
-||axe.settings.oysterfloats.org^
 ||axxagrup.ro^
 ||ayazsehk.beget.tech^
 ||aydintelorgutelcit.com^
 ||ayrintiyapi.com^
 ||azharconstruction.com^
+||azmeasurement.com^
 ||azoospermia.sbs^
 ||azurasuperheroes.co.id^
 ||b-xtremebikes.com^
@@ -49123,6 +49122,7 @@ fore-focus-.mystrikingly.co
 ||b.clu-e.eu^
 ||baatarvantrans.mn^
 ||babzenata.ma^
+||bachlong-sro.com^
 ||bagelsonthemain.com^
 ||bagouae.com^
 ||bagro.ir^
@@ -49284,6 +49284,7 @@ fore-focus-.mystrikingly.co
 ||cartage.fr^
 ||carthagefire.net^
 ||carusasolutions.com^
+||casamuseoayerbe.co^
 ||cascade-wow.eu^
 ||casemobilejapeto.ro^
 ||casoluciones.cl^
@@ -49329,7 +49330,6 @@ fore-focus-.mystrikingly.co
 ||chattanpvc.com^
 ||chaucatotoursperu.com^
 ||checkpoint.up4download.xyz^
-||chemsky.tn^
 ||chernobyl.fun^
 ||chezetu.com^
 ||chidoqr.site^
@@ -49341,7 +49341,6 @@ fore-focus-.mystrikingly.co
 ||chrisbernardproperties.com^
 ||chrisco-upperroom.org^
 ||chubb-institute.com^
-||chuckozeas.com^
 ||cicol.pt^
 ||ciderfoods.com.pk^
 ||cigarette-electronique-luxe.com^
@@ -49367,7 +49366,6 @@ fore-focus-.mystrikingly.co
 ||cleanmymac.pro^
 ||cleanstyling.com.br^
 ||clearwooddesigner.com^
-||clexowinsurance.com^
 ||clickfilmess.com.br^
 ||cliffg.me^
 ||clinicaferrazsp.com.br^
@@ -49389,6 +49387,7 @@ fore-focus-.mystrikingly.co
 ||cnc.neko.ltd^
 ||cnc.wq.gy^
 ||cntsecuritate.ro^
+||coadymarine.com^
 ||cocolight.co.tz^
 ||codemark.co^
 ||codepostalpro.com^
@@ -49398,7 +49397,6 @@ fore-focus-.mystrikingly.co
 ||coldnhottek.com^
 ||coldroomservice.hu^
 ||colegioignacioallende.edu.mx^
-||colegiojuanbernardone.com^
 ||colegioparroquialaconsolata.edu.co^
 ||columbine.ir^
 ||colweb.publicvm.com^
@@ -49437,7 +49435,6 @@ fore-focus-.mystrikingly.co
 ||cplcpus.blogspot.com^
 ||cprismenergia.pt^
 ||cqya.places.creeksidehuntingpreserve.com^
-||crackload.net^
 ||craft.bestsup.su^
 ||crafteon.xyz^
 ||crafthaliyikama.com^
@@ -49495,6 +49492,7 @@ fore-focus-.mystrikingly.co
 ||dbest.ro^
 ||dbsbanklimitedsingapore.blogspot.com^
 ||dcfsdfds2fdhfgj.sbs^
+||dcs.round.fishingreelinvestment.com^
 ||ddos.sdxpay.cn^
 ||ddtecdedetizacao.com.br^
 ||de-luxclothing.com^
@@ -49531,7 +49529,6 @@ fore-focus-.mystrikingly.co
 ||dham2fjg7wsuiqovkuaqkfc42rhfbctvzf4filsx5kq7iqvvd5n2tuad.onion.ly^
 ||dhotharinternational.com^
 ||diamond-dent.net^
-||diclegrup.org^
 ||digitalfscience.com^
 ||digitalpinki.com^
 ||digitalpoles.com^
@@ -49584,6 +49581,7 @@ fore-focus-.mystrikingly.co
 ||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.oxy.st^
+||download.pdf00.cn^
 ||download.skycn.com^
 ||dr-tamar.pro^
 ||dreamkarts.com^
@@ -49593,7 +49591,6 @@ fore-focus-.mystrikingly.co
 ||drl.com.mx^
 ||drmikeexposervices.com^
 ||drogueriagd.org^
-||droomsoft.com^
 ||drumvalesecondary.com^
 ||ds-creatis.fr^
 ||dsa.com.co^
@@ -49650,7 +49647,6 @@ fore-focus-.mystrikingly.co
 ||eetiongmotorsports.com^
 ||eezc.members.openarmscv.com^
 ||eforhalisaha.com^
-||egnersi.com^
 ||eguru.my.id^
 ||egymelm.com^
 ||egyptfurniture.org^
@@ -49678,7 +49674,6 @@ fore-focus-.mystrikingly.co
 ||elmagic.org^
 ||eloxeweb.ro^
 ||elshoppingdelalimpieza.com.ar^
-||elvalledetarrazu.com^
 ||emandi.com.pk^
 ||emceehansa.com^
 ||emdservicios.cl^
@@ -49731,7 +49726,6 @@ fore-focus-.mystrikingly.co
 ||ethiotechaddis.com^
 ||eurologistic.am^
 ||europe-post.eu^
-||eusketxe.com^
 ||evaisiteknik.com.tr^
 ||eventosllacolen.cl^
 ||eventservice.rs^
@@ -49745,7 +49739,6 @@ fore-focus-.mystrikingly.co
 ||exipedia.blogspot.com^
 ||exitlags.pro^
 ||exks.members.openarmscv.com^
-||expeditionbuilders.com^
 ||exposefree.com^
 ||expressionsofwood.ca^
 ||expressslichidator.ro^
@@ -49763,6 +49756,7 @@ fore-focus-.mystrikingly.co
 ||faif.in^
 ||falconseat.com^
 ||falexhome.cl^
+||famesa.com.ar^
 ||familyfontsview.mooo.com^
 ||fantadialo.top^
 ||fantasticmall.net^
@@ -49822,7 +49816,6 @@ fore-focus-.mystrikingly.co
 ||fmls.oiu.edu.sd^
 ||fms.oiu.edu.sd^
 ||foa.oiu.edu.sd^
-||focussci.com.br^
 ||fonkokof.com^
 ||fornudkaza.ao^
 ||fortalconnect.com.br^
@@ -49879,6 +49872,7 @@ fore-focus-.mystrikingly.co
 ||gaszz.members.openarmscv.com^
 ||gben.scheme.corycabana.net^
 ||gblue.eu^
+||gbud.webd.pl^
 ||gcreation.co^
 ||gcrih.oiu.edu.sd^
 ||gdcobros.com^
@@ -49934,7 +49928,6 @@ fore-focus-.mystrikingly.co
 ||goldensports.tn^
 ||goldorart.com^
 ||goodhealth.fitness^
-||google-document.org^
 ||gostudents.fr^
 ||goupbuy.com^
 ||gpdiregion1usa.com^
@@ -50002,6 +49995,7 @@ fore-focus-.mystrikingly.co
 ||her.scheme.corycabana.net^
 ||herbalhills.pk^
 ||hflll.places.creeksidehuntingpreserve.com^
+||hgfcg.round.fishingreelinvestment.com^
 ||hgxb.members.openarmscv.com^
 ||hhft.co.in^
 ||hi.vani.ovh^
@@ -50016,6 +50010,7 @@ fore-focus-.mystrikingly.co
 ||himalayanape.in^
 ||hiperajans.com^
 ||hitman-pro.ru^
+||hitstation.nl^
 ||hitsturbo.com^
 ||hive.swarmnetwork.online^
 ||hlgx.colors.usajicgu.com^
@@ -50038,7 +50033,6 @@ fore-focus-.mystrikingly.co
 ||hrd.jkb.co.id^
 ||hrms.dif.co.id^
 ||hsdiagnostico.com^
-||hseda.com^
 ||htlfeb24.blogspot.com^
 ||htloctmain25.blogspot.com^
 ||huattiong.com^
@@ -50111,13 +50105,11 @@ fore-focus-.mystrikingly.co
 ||interviewfrankg.com^
 ||inverex.net^
 ||inverex.org^
-||investeudro.info^
 ||ioc.places.creeksidehuntingpreserve.com^
 ||ip239.ip-176.97.210.upserv.fr^
 ||ipc.com.pk^
 ||iptvstre.com^
 ||iradio.co.in^
-||ircftp.net^
 ||irmakpanelcittelorgu.com.tr^
 ||ishahcouture.com^
 ||isl-supply.com^
@@ -50191,6 +50183,7 @@ fore-focus-.mystrikingly.co
 ||joxy.ayazprak.com^
 ||jpmusiccompany.com^
 ||jroconstrucciones.com.mx^
+||js-hurling.com^
 ||jsrb.scheme.corycabana.net^
 ||jstphotography.co.uk^
 ||jtaviation.co^
@@ -50212,7 +50205,6 @@ fore-focus-.mystrikingly.co
 ||kalkandigital.com^
 ||kalnet.top^
 ||kaloriferbacasi.com^
-||kalp-s.com^
 ||kameleonprinting.com^
 ||kamlangstrey.org^
 ||kamproduction.us^
@@ -50223,7 +50215,6 @@ fore-focus-.mystrikingly.co
 ||karateacademy.gr^
 ||kareemovic22.webredirect.org^
 ||karelotocam.com.tr^
-||karer.by^
 ||kartamus.org^
 ||kartvizitfiyatlari.com^
 ||karyasolusi.com^
@@ -50239,7 +50230,6 @@ fore-focus-.mystrikingly.co
 ||kemalak.com.my^
 ||kenal.link^
 ||keskollc.top^
-||kest.com.pe^
 ||kevius.se^
 ||keystargems.ca^
 ||kfx.sync.oystergardens.club^
@@ -50347,6 +50337,7 @@ fore-focus-.mystrikingly.co
 ||libgr.distributors.commdistinc.com^
 ||library.arihantmbainstitute.ac.in^
 ||liclifeplus.com^
+||lifeartfertility.co.za^
 ||lifemedicinaintegral.com^
 ||ligadoaraguaia.com.br^
 ||lightdigital-consult.cd^
@@ -50403,7 +50394,6 @@ fore-focus-.mystrikingly.co
 ||lunarchemplast.com^
 ||luwer.by^
 ||luxjay-group.com^
-||luxurypropertiesfl.com^
 ||lvdhg.scheme.corycabana.net^
 ||lws.round.fishingreelinvestment.com^
 ||lxa.colors.usajicgu.com^
@@ -50477,7 +50467,6 @@ fore-focus-.mystrikingly.co
 ||medya54.com^
 ||meemosha.com^
 ||meetneathalal.com^
-||meeweb.com^
 ||megacell.pe^
 ||meiko.my^
 ||meinkleinesseminarhaus.it^
@@ -50502,7 +50491,6 @@ fore-focus-.mystrikingly.co
 ||mg-navigation.eu^
 ||mgyt.xyz^
 ||mhrmpcoop.com.ph^
-||micapublicitatesatumare.ro^
 ||microsecurityupdate.com^
 ||microtrimsltd.com.bd^
 ||microturners.co.in^
@@ -50545,6 +50533,7 @@ fore-focus-.mystrikingly.co
 ||mohyudinwebdesigns.com^
 ||mokolino.ro^
 ||molinoloizzoaltamura.it^
+||mollabhaban.com^
 ||moninediy.com^
 ||monitorperkaraktp.id^
 ||monoblocked.com^
@@ -50672,7 +50661,6 @@ fore-focus-.mystrikingly.co
 ||novoscanais.com^
 ||nowmkt.com.br^
 ||nrh.members.openarmscv.com^
-||ns1.koleso.tc^
 ||ns2.timecheck.ug^
 ||nsb.org.uk^
 ||nsicon2022.com^
@@ -50700,7 +50688,6 @@ fore-focus-.mystrikingly.co
 ||oflazevdenevenakliyat.com.tr^
 ||ogtg2ipz818cou5t.blob.core.windows.net^
 ||ohkwari.com^
-||ohlxc.settings.oysterfloats.org^
 ||ohppd.oiu.edu.sd^
 ||ohyesvirtualevent.com^
 ||oisrec.com^
@@ -50718,10 +50705,10 @@ fore-focus-.mystrikingly.co
 ||online.stib.com.ua^
 ||onursondaj.com^
 ||oolmu.members.openarmscv.com^
-||opencart.notebookparcalari.com^
 ||openct.co.kr^
 ||opesjk.ug^
 ||oplk.colors.usajicgu.com^
+||opolis.io^
 ||opsdjs.ug^
 ||opticienregard.com^
 ||optimacosmetics.rs^
@@ -50733,7 +50720,6 @@ fore-focus-.mystrikingly.co
 ||organ78.com^
 ||orianix.com^
 ||orlandiarq.com^
-||orlcasablanca.com^
 ||ortoneves.pt^
 ||otelderya.net^
 ||otilonaija.com^
@@ -50769,6 +50755,7 @@ fore-focus-.mystrikingly.co
 ||panchsheelbioagritech.com^
 ||panfactory.com.co^
 ||panindiab2bdatabase.in^
+||parallel.rockvideos.at^
 ||parallelsdesktop.pro^
 ||pardoselprado.com^
 ||parmaradvisory.in^
@@ -50790,6 +50777,7 @@ fore-focus-.mystrikingly.co
 ||pcchampion.com.co^
 ||pcmgkb.my.id^
 ||pdiboss.in^
+||pdooq.round.fishingreelinvestment.com^
 ||pedrogarcialloret.com^
 ||pehe.space^
 ||pekotomotiv.com^
@@ -50826,7 +50814,6 @@ fore-focus-.mystrikingly.co
 ||pns.org.pk^
 ||pogosearch.com^
 ||polkcountydumpsterrentals.com^
-||ponizinny.nl^
 ||ponnerhut.com^
 ||portal-secured.com^
 ||portaldeuniao.com.br^
@@ -50864,7 +50851,6 @@ fore-focus-.mystrikingly.co
 ||propertydealz.pk^
 ||pros.cm^
 ||prosima.com.tr^
-||protechasia.com^
 ||psiquevivir.com^
 ||pssdcertifyed.ygto.com^
 ||psychotests.fr^
@@ -50903,12 +50889,10 @@ fore-focus-.mystrikingly.co
 ||quiz.cci.edu.pk^
 ||quraninsoul.com^
 ||qzg.honors.howamerica.com^
-||rackoon.net^
 ||radiiacm.com^
 ||radio.oiu.edu.sd^
 ||radteknoloji.com^
 ||raeecolombianet.com.co^
-||raekessler.com^
 ||rainbowconfort.com^
 ||raizstore.com.br^
 ||rajapangansejahtera.com^
@@ -50939,13 +50923,13 @@ fore-focus-.mystrikingly.co
 ||regplast.pl^
 ||regulatoryguide.ca^
 ||reifenquick.de^
+||reiwo-service.de^
 ||remasterprodelherskjs.com^
 ||remcoss2023.duckdns.org^
 ||remdiswap.com^
 ||remisat.com.uy^
 ||rener.com.uy^
 ||researchwritingexperts.com^
-||resourceedge.org^
 ||rhco.org^
 ||rhfkw.com^
 ||riage.fr^
@@ -50957,13 +50941,13 @@ fore-focus-.mystrikingly.co
 ||rind.optusnet.top^
 ||ritafreshfood.com^
 ||rizdziner.com^
+||rjtw.round.fishingreelinvestment.com^
 ||rmdqo.our.openarmscv.org^
 ||robipower.com^
 ||robotkar.ir^
 ||robottaeducation.com^
 ||rocheholding.top^
 ||rollsbeer.com^
-||romvalstudios.com^
 ||roofing.galacticleads.com^
 ||root.newbond.su^
 ||roseserver.ir^
@@ -51000,13 +50984,11 @@ fore-focus-.mystrikingly.co
 ||safety.co.tz^
 ||safetygear.pk^
 ||sag.distributors.commdistinc.com^
-||sagheur.top^
 ||sagksa.com^
 ||saglikdokum.net^
 ||saham.iownyour.biz^
 ||sahidserpong.com^
 ||saibabacartransport.com^
-||sainzim.co.za^
 ||saisiddhipls.com^
 ||sakaleralo.com^
 ||salamandra.ravencraft.ro^
@@ -51081,6 +51063,7 @@ fore-focus-.mystrikingly.co
 ||shahab.pk^
 ||shahabians.com^
 ||shahadotonline.net^
+||shahu66.com^
 ||shardastationery.com^
 ||sharifiandigital.com^
 ||shariiph.com^
@@ -51160,6 +51143,7 @@ fore-focus-.mystrikingly.co
 ||smokvap.fr^
 ||smpn12dumai.sch.id^
 ||smpn3petarukan.sch.id^
+||smpn41.semarangkota.go.id^
 ||smprintingca.com^
 ||smtp.qwertzx.ru^
 ||snapify.space^
@@ -51171,7 +51155,6 @@ fore-focus-.mystrikingly.co
 ||snnclermontprojects.com^
 ||socialwiki.com.br^
 ||sofirefiesta.com^
-||soft.110route.com^
 ||softdl.360tpcdn.com^
 ||sogesta.cl^
 ||solattoy.com^
@@ -51214,7 +51197,6 @@ fore-focus-.mystrikingly.co
 ||staging.qyh.co.ua^
 ||stairrunners.ca^
 ||staqssecurity.com^
-||starcountry.net^
 ||starozitnictvi-znojmo.cz^
 ||starphonefix.com^
 ||startrekconstrutora.com.br^
@@ -51223,7 +51205,6 @@ fore-focus-.mystrikingly.co
 ||static062038222098.dsl.hol.gr^
 ||statistics.compatibledata.eu^
 ||stdnumber.oiu.edu.sd^
-||stdown.dinju.com^
 ||stefanostore.com.br^
 ||steininsurancegroup.com^
 ||stellamobilya.com^
@@ -51289,6 +51270,7 @@ fore-focus-.mystrikingly.co
 ||taijimenusa.org^
 ||taldartechconsultancy.com^
 ||talkbali.com^
+||tap1337.cfd^
 ||taqwaprinters.com^
 ||tarficsafety.com^
 ||tatouagefemme.eu^
@@ -51304,6 +51286,7 @@ fore-focus-.mystrikingly.co
 ||tech-arcanist.com^
 ||techcaresolutions.org^
 ||techcloudes.com^
+||techniguitare.com^
 ||techonist.com^
 ||techrootsweb.in^
 ||tecni-soft.com^
@@ -51328,6 +51311,7 @@ fore-focus-.mystrikingly.co
 ||tercihvana.com^
 ||tesanopalacehostel.com^
 ||test.drm.com.bd^
+||test.typoten.com^
 ||tgagua.mx^
 ||tght1.oss-cn-hongkong.aliyuncs.com^
 ||thaiboxchile.cl^
@@ -51468,7 +51452,6 @@ fore-focus-.mystrikingly.co
 ||vatra-satului.ro^
 ||vauxhall.top^
 ||vbbl.our.openarmscv.org^
-||vbdm.settings.oysterfloats.org^
 ||vby.places.creeksidehuntingpreserve.com^
 ||vclw.day.50adayplan.com^
 ||veal.scheme.corycabana.net^
@@ -51562,7 +51545,6 @@ fore-focus-.mystrikingly.co
 ||wxnxm.scheme.corycabana.net^
 ||wybig.day.50adayplan.com^
 ||wycieczkihurghadaimarsaalam.com^
-||wynecare.com^
 ||xbfwn.collection.aixpirts.com^
 ||xbo.members.openarmscv.com^
 ||xcpl.our.openarmscv.org^
@@ -51571,7 +51553,6 @@ fore-focus-.mystrikingly.co
 ||xiangshunjy.com^
 ||xiao.5678.lol^
 ||xkcwb.distributors.commdistinc.com^
-||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xn--mgbtf4g.com^
 ||xpl.altervista.org^
 ||xqz.scheme.corycabana.net^
@@ -51599,6 +51580,7 @@ fore-focus-.mystrikingly.co
 ||ygjxh.colors.usajicgu.com^
 ||ygmtex.com^
 ||ygt.scheme.corycabana.net^
+||yip.round.fishingreelinvestment.com^
 ||yiqianche.com^
 ||ykqmh.places.creeksidehuntingpreserve.com^
 ||ylr.places.creeksidehuntingpreserve.com^
@@ -51607,16 +51589,16 @@ fore-focus-.mystrikingly.co
 ||yoshiproxy.ltd^
 ||youronestophalalshop.com^
 ||yourspiritualhaven.ca^
+||yp.hnggzyjy.cn^
 ||ypcriau.org^
 ||ysoal.com^
-||ytgz5.sa.com^
 ||ytjc.collection.aixpirts.com^
 ||yui.day.50adayplan.com^
 ||yyzh.sync.oystergardens.club^
+||yzkzixun.com^
 ||yzs.places.creeksidehuntingpreserve.com^
 ||yzux.honors.howamerica.com^
 ||z.botnet.rocks^
-||z.shavsl.com^
 ||zackscrm.com^
 ||zafaraliphotography.com^
 ||zainabalieyehospital.com^
