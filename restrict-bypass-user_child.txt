@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-13T01:09:48.228Z
+! Last modified: 2024-03-14T01:08:23.374Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1621,6 +1621,7 @@
 ||ca.doh.cloudveil.org^$ctag=user_child
 ||us.doh.cloudveil.org^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
+||adguard.aa4.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
 ||pihole.datamatter.co.za^$ctag=user_child
 ||www.dnsadguard.co.uk^$ctag=user_child
