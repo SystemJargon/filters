@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-17T01:12:35.037Z
+! Last modified: 2024-03-19T01:09:08.272Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1342,7 +1342,6 @@
 ||zpn.im^
 ||zscalertwo.net^
 ||zwyr157wwiu6eior.com^
-
 ||ns.00dani.me^
 ||cdn.0ms.dev^
 ||dns.0ooo.icu^
@@ -1518,6 +1517,7 @@
 ||blufvpn.com^
 ||bmetrics.org^
 ||dns.bobstrecansky.com^
+||bodvpn.com^
 ||dns.bofh.in^
 ||boi9osyg1uwtyafn.com^
 ||doh.boje8.me^
@@ -1898,6 +1898,7 @@
 ||doh.funil.de^
 ||doh.funtopia.tv^
 ||dns.furrydns.de^
+||gabstorm.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.beta.gandi.net^
@@ -1935,6 +1936,8 @@
 ||kappa.y.glenwaverleychurches.org^
 ||lambda.y.glenwaverleychurches.org^
 ||globalchatinc.com^
+||globaltrx.com^
+||globalvpn.info^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
 ||dns.api.integration.globuscs.info^
@@ -1952,10 +1955,12 @@
 ||doh-primary-pool.goodbyegambling.com^
 ||vpn.gosami.xyz^
 ||gotrusted.com^
+||gowork.info^
 ||gpreport.us^
 ||gracarno.com^
 ||c.gracemp.org^
 ||granules.us^
+||greenpass.info^
 ||dns.grqu.de^
 ||vps.grussenmeyer.com^
 ||dns.guard.io^
@@ -2187,6 +2192,7 @@
 ||mainprox.com^
 ||mallocapp.com^
 ||mallocprivacy.com^
+||dns.maolaohei.xyz^
 ||market-id-auto.com^
 ||adguard.marto.si^
 ||maskedip.com^
@@ -2778,6 +2784,7 @@
 ||blocker.thethorsens.org^
 ||thevpncompany.net^
 ||thundervpnwin.com^
+||environmental.laws.tibetjustice.org^
 ||tiiner.com^
 ||timetohide.me^
 ||timmes.nl^
