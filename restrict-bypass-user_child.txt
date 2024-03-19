@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-17T01:12:35.037Z
+! Last modified: 2024-03-19T01:09:08.272Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1342,7 +1342,6 @@
 ||zpn.im^$ctag=user_child
 ||zscalertwo.net^$ctag=user_child
 ||zwyr157wwiu6eior.com^$ctag=user_child
-
 ||ns.00dani.me^$ctag=user_child
 ||cdn.0ms.dev^$ctag=user_child
 ||dns.0ooo.icu^$ctag=user_child
@@ -1518,6 +1517,7 @@
 ||blufvpn.com^$ctag=user_child
 ||bmetrics.org^$ctag=user_child
 ||dns.bobstrecansky.com^$ctag=user_child
+||bodvpn.com^$ctag=user_child
 ||dns.bofh.in^$ctag=user_child
 ||boi9osyg1uwtyafn.com^$ctag=user_child
 ||doh.boje8.me^$ctag=user_child
@@ -1898,6 +1898,7 @@
 ||doh.funil.de^$ctag=user_child
 ||doh.funtopia.tv^$ctag=user_child
 ||dns.furrydns.de^$ctag=user_child
+||gabstorm.com^$ctag=user_child
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
@@ -1935,6 +1936,8 @@
 ||kappa.y.glenwaverleychurches.org^$ctag=user_child
 ||lambda.y.glenwaverleychurches.org^$ctag=user_child
 ||globalchatinc.com^$ctag=user_child
+||globaltrx.com^$ctag=user_child
+||globalvpn.info^$ctag=user_child
 ||dns.api.globus.org^$ctag=user_child
 ||dns.api.preview.globus.org^$ctag=user_child
 ||dns.api.integration.globuscs.info^$ctag=user_child
@@ -1952,10 +1955,12 @@
 ||doh-primary-pool.goodbyegambling.com^$ctag=user_child
 ||vpn.gosami.xyz^$ctag=user_child
 ||gotrusted.com^$ctag=user_child
+||gowork.info^$ctag=user_child
 ||gpreport.us^$ctag=user_child
 ||gracarno.com^$ctag=user_child
 ||c.gracemp.org^$ctag=user_child
 ||granules.us^$ctag=user_child
+||greenpass.info^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
 ||vps.grussenmeyer.com^$ctag=user_child
 ||dns.guard.io^$ctag=user_child
@@ -2187,6 +2192,7 @@
 ||mainprox.com^$ctag=user_child
 ||mallocapp.com^$ctag=user_child
 ||mallocprivacy.com^$ctag=user_child
+||dns.maolaohei.xyz^$ctag=user_child
 ||market-id-auto.com^$ctag=user_child
 ||adguard.marto.si^$ctag=user_child
 ||maskedip.com^$ctag=user_child
@@ -2778,6 +2784,7 @@
 ||blocker.thethorsens.org^$ctag=user_child
 ||thevpncompany.net^$ctag=user_child
 ||thundervpnwin.com^$ctag=user_child
+||environmental.laws.tibetjustice.org^$ctag=user_child
 ||tiiner.com^$ctag=user_child
 ||timetohide.me^$ctag=user_child
 ||timmes.nl^$ctag=user_child
