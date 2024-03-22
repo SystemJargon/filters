@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-21T01:10:01.340Z
+! Last modified: 2024-03-22T01:08:46.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1580,6 +1580,7 @@
 ||bypassip.com^
 ||bypasskey.com^
 ||bypasstunnel.com^
+||api.bytelixir.com^
 ||c-dns.com^
 ||callies-online.site^
 ||us1.cambrianscientific.com^
@@ -2474,6 +2475,7 @@
 ||pbproxy.red^
 ||pbproxy2.co^
 ||pc-streaming.com^
+||check.peer2profit.site^
 ||fuchur.pentament.de^
 ||peoplesproxy.com^
 ||perfectvpn.net^
@@ -2953,6 +2955,7 @@
 ||webproxy.uk.com^
 ||adguard-ironhide.ultima-thule.ru^
 ||ultimatepro.us^
+||ultrabestproxy.com^
 ||ultrafastproxy.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
@@ -3011,6 +3014,7 @@
 ||unblocked4u.net^
 ||unblocked4u.org^
 ||unblocked5.com^
+||unblocked9.info^
 ||unblockedarabic.com^
 ||unblockedbay.com^
 ||unblockedbook.net^
@@ -3186,6 +3190,7 @@
 ||worldvpn.net^
 ||home.wriedts.de^
 ||wtools.eu^
+||proxy.wynd.network^
 ||wyx.cloud^
 ||xp.x14n.org^
 ||x9fnzrtl4x8pynsf.com^
