@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-21T01:10:01.340Z
+! Last modified: 2024-03-22T01:08:46.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1580,6 +1580,7 @@
 ||bypassip.com^$ctag=user_child
 ||bypasskey.com^$ctag=user_child
 ||bypasstunnel.com^$ctag=user_child
+||api.bytelixir.com^$ctag=user_child
 ||c-dns.com^$ctag=user_child
 ||callies-online.site^$ctag=user_child
 ||us1.cambrianscientific.com^$ctag=user_child
@@ -2474,6 +2475,7 @@
 ||pbproxy.red^$ctag=user_child
 ||pbproxy2.co^$ctag=user_child
 ||pc-streaming.com^$ctag=user_child
+||check.peer2profit.site^$ctag=user_child
 ||fuchur.pentament.de^$ctag=user_child
 ||peoplesproxy.com^$ctag=user_child
 ||perfectvpn.net^$ctag=user_child
@@ -2953,6 +2955,7 @@
 ||webproxy.uk.com^$ctag=user_child
 ||adguard-ironhide.ultima-thule.ru^$ctag=user_child
 ||ultimatepro.us^$ctag=user_child
+||ultrabestproxy.com^$ctag=user_child
 ||ultrafastproxy.com^$ctag=user_child
 ||dns.umbrella.com^$ctag=user_child
 ||doh.umbrella.com^$ctag=user_child
@@ -3011,6 +3014,7 @@
 ||unblocked4u.net^$ctag=user_child
 ||unblocked4u.org^$ctag=user_child
 ||unblocked5.com^$ctag=user_child
+||unblocked9.info^$ctag=user_child
 ||unblockedarabic.com^$ctag=user_child
 ||unblockedbay.com^$ctag=user_child
 ||unblockedbook.net^$ctag=user_child
@@ -3186,6 +3190,7 @@
 ||worldvpn.net^$ctag=user_child
 ||home.wriedts.de^$ctag=user_child
 ||wtools.eu^$ctag=user_child
+||proxy.wynd.network^$ctag=user_child
 ||wyx.cloud^$ctag=user_child
 ||xp.x14n.org^$ctag=user_child
 ||x9fnzrtl4x8pynsf.com^$ctag=user_child
