@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-23T01:07:10.587Z
+! Last modified: 2024-03-29T01:09:28.982Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1381,7 +1381,6 @@
 ||dns.240527.xyz^
 ||doh003.280blocker.net^
 ||2999.info^
-||2anonymousproxy.com^
 ||2fastsurfer.eu^
 ||2fastsurfer.us^
 ||z.d.2of1.org^
@@ -1451,10 +1450,6 @@
 ||dns.albony.xyz^
 ||dnsnl-noads.alekberg.net^
 ||dnsse-noads.alekberg.net^
-||odoh-target.alekberg.net^
-||odoh-target-noads.alekberg.net^
-||odoh-target-noads-se.alekberg.net^
-||odoh-target-se.alekberg.net^
 ||alhapi.com^
 ||alhvp.com^
 ||alidns.com^
@@ -1671,7 +1666,6 @@
 ||onlineproxy.co.uk^
 ||sbdns.co.in^
 ||dns.spil.co.id^
-||uk-proxy.co.uk^
 ||unblocksites.co.uk^
 ||vpncompare.co.uk^
 ||webproxy.co.at^
@@ -1986,6 +1980,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||gobestvpn.com^
@@ -2243,12 +2238,8 @@
 ||adsadkjsadjksakldjxx.math-solver.online^
 ||dns.mathewakhil.online^
 ||mathhelpnow.site^
-||123.mathlearning.tech^
-||ihavekidsinmybasement.mathlearning.tech^
-||wildcardsareepic.mathlearning.tech^
 ||mathnotes.help^
 ||mathnotes.icu^
-||adguard.mattiafenzi.uk^
 ||maxfong.cc^
 ||maxvpn.info^
 ||dns.maybe.icu^
@@ -2309,9 +2300,7 @@
 ||muxyuji.ru^
 ||d.apemlegit.my.id^
 ||vpnto.bhadrikais.my.id^
-||adguard.lista.my.id^
 ||dns.lista.my.id^
-||uf-dns.lista.my.id^
 ||dns.mikrotikrumahan.my.id^
 ||id.terra.my.id^
 ||dns.vmath.my.id^
@@ -2344,7 +2333,6 @@
 ||natfrp.cloud^
 ||vpn.nbvalente.fr^
 ||ne1.ca^
-||needunblock.com^
 ||doh.neowutran.ovh^
 ||doh.max.net.id^
 ||netaltr.com^
@@ -2485,8 +2473,6 @@
 ||personaly.click^
 ||photonsecure.com^
 ||phpbido.com^
-||phproxysite.com^
-||phproxysite.org^
 ||piaproxy.net^
 ||adguard.piekacz.pl^
 ||dns1.pietjacobs.be^
@@ -2540,7 +2526,6 @@
 ||prontoproxy.info^
 ||propage.info^
 ||youth.prosports.cl^
-||prounlock.org^
 ||prox.pw^
 ||prox.rocks^
 ||proxery.com^
@@ -2554,11 +2539,9 @@
 ||proxify.tv^
 ||proxify.us^
 ||proxify.ws^
-||proxii.net^
 ||proxite.in^
 ||proxite.ws^
 ||proxy.nu^
-||proxy.red^
 ||proxy.rocks^
 ||proxy.sx^
 ||proxy-123.com^
@@ -2950,11 +2933,9 @@
 ||x.a.ubiq.org^
 ||ublocker.info^
 ||ugdsoft.com^
-||uinlive-time.com^
 ||webproxy.uk.com^
 ||adguard-ironhide.ultima-thule.ru^
 ||ultimatepro.us^
-||ultrabestproxy.com^
 ||ultrafastproxy.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
@@ -3159,7 +3140,6 @@
 ||webrunnerproxy.com^
 ||webshare.io^
 ||janvet.website.pl^
-||websitebypass.com^
 ||websiteproxy.net^
 ||websynchrony.com^
 ||webxify.com^
@@ -3180,7 +3160,7 @@
 ||adguard.wirimij.nl^
 ||witopia.net^
 ||clearweb.woodbridge.club^
-||workarena.info^
+||workdigi.com^
 ||workingvpn.com^
 ||my.worksheetsforteachers.org^
 ||parrotballs.worksheetsforteachers.xyz^
