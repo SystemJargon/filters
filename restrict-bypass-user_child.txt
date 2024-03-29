@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-23T01:07:10.587Z
+! Last modified: 2024-03-29T01:09:28.982Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1381,7 +1381,6 @@
 ||dns.240527.xyz^$ctag=user_child
 ||doh003.280blocker.net^$ctag=user_child
 ||2999.info^$ctag=user_child
-||2anonymousproxy.com^$ctag=user_child
 ||2fastsurfer.eu^$ctag=user_child
 ||2fastsurfer.us^$ctag=user_child
 ||z.d.2of1.org^$ctag=user_child
@@ -1451,10 +1450,6 @@
 ||dns.albony.xyz^$ctag=user_child
 ||dnsnl-noads.alekberg.net^$ctag=user_child
 ||dnsse-noads.alekberg.net^$ctag=user_child
-||odoh-target.alekberg.net^$ctag=user_child
-||odoh-target-noads.alekberg.net^$ctag=user_child
-||odoh-target-noads-se.alekberg.net^$ctag=user_child
-||odoh-target-se.alekberg.net^$ctag=user_child
 ||alhapi.com^$ctag=user_child
 ||alhvp.com^$ctag=user_child
 ||alidns.com^$ctag=user_child
@@ -1671,7 +1666,6 @@
 ||onlineproxy.co.uk^$ctag=user_child
 ||sbdns.co.in^$ctag=user_child
 ||dns.spil.co.id^$ctag=user_child
-||uk-proxy.co.uk^$ctag=user_child
 ||unblocksites.co.uk^$ctag=user_child
 ||vpncompare.co.uk^$ctag=user_child
 ||webproxy.co.at^$ctag=user_child
@@ -1986,6 +1980,7 @@
 ||dns.api.sandbox.globuscs.info^$ctag=user_child
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
+||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||gobestvpn.com^$ctag=user_child
@@ -2243,12 +2238,8 @@
 ||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||dns.mathewakhil.online^$ctag=user_child
 ||mathhelpnow.site^$ctag=user_child
-||123.mathlearning.tech^$ctag=user_child
-||ihavekidsinmybasement.mathlearning.tech^$ctag=user_child
-||wildcardsareepic.mathlearning.tech^$ctag=user_child
 ||mathnotes.help^$ctag=user_child
 ||mathnotes.icu^$ctag=user_child
-||adguard.mattiafenzi.uk^$ctag=user_child
 ||maxfong.cc^$ctag=user_child
 ||maxvpn.info^$ctag=user_child
 ||dns.maybe.icu^$ctag=user_child
@@ -2309,9 +2300,7 @@
 ||muxyuji.ru^$ctag=user_child
 ||d.apemlegit.my.id^$ctag=user_child
 ||vpnto.bhadrikais.my.id^$ctag=user_child
-||adguard.lista.my.id^$ctag=user_child
 ||dns.lista.my.id^$ctag=user_child
-||uf-dns.lista.my.id^$ctag=user_child
 ||dns.mikrotikrumahan.my.id^$ctag=user_child
 ||id.terra.my.id^$ctag=user_child
 ||dns.vmath.my.id^$ctag=user_child
@@ -2344,7 +2333,6 @@
 ||natfrp.cloud^$ctag=user_child
 ||vpn.nbvalente.fr^$ctag=user_child
 ||ne1.ca^$ctag=user_child
-||needunblock.com^$ctag=user_child
 ||doh.neowutran.ovh^$ctag=user_child
 ||doh.max.net.id^$ctag=user_child
 ||netaltr.com^$ctag=user_child
@@ -2485,8 +2473,6 @@
 ||personaly.click^$ctag=user_child
 ||photonsecure.com^$ctag=user_child
 ||phpbido.com^$ctag=user_child
-||phproxysite.com^$ctag=user_child
-||phproxysite.org^$ctag=user_child
 ||piaproxy.net^$ctag=user_child
 ||adguard.piekacz.pl^$ctag=user_child
 ||dns1.pietjacobs.be^$ctag=user_child
@@ -2540,7 +2526,6 @@
 ||prontoproxy.info^$ctag=user_child
 ||propage.info^$ctag=user_child
 ||youth.prosports.cl^$ctag=user_child
-||prounlock.org^$ctag=user_child
 ||prox.pw^$ctag=user_child
 ||prox.rocks^$ctag=user_child
 ||proxery.com^$ctag=user_child
@@ -2554,11 +2539,9 @@
 ||proxify.tv^$ctag=user_child
 ||proxify.us^$ctag=user_child
 ||proxify.ws^$ctag=user_child
-||proxii.net^$ctag=user_child
 ||proxite.in^$ctag=user_child
 ||proxite.ws^$ctag=user_child
 ||proxy.nu^$ctag=user_child
-||proxy.red^$ctag=user_child
 ||proxy.rocks^$ctag=user_child
 ||proxy.sx^$ctag=user_child
 ||proxy-123.com^$ctag=user_child
@@ -2950,11 +2933,9 @@
 ||x.a.ubiq.org^$ctag=user_child
 ||ublocker.info^$ctag=user_child
 ||ugdsoft.com^$ctag=user_child
-||uinlive-time.com^$ctag=user_child
 ||webproxy.uk.com^$ctag=user_child
 ||adguard-ironhide.ultima-thule.ru^$ctag=user_child
 ||ultimatepro.us^$ctag=user_child
-||ultrabestproxy.com^$ctag=user_child
 ||ultrafastproxy.com^$ctag=user_child
 ||dns.umbrella.com^$ctag=user_child
 ||doh.umbrella.com^$ctag=user_child
@@ -3159,7 +3140,6 @@
 ||webrunnerproxy.com^$ctag=user_child
 ||webshare.io^$ctag=user_child
 ||janvet.website.pl^$ctag=user_child
-||websitebypass.com^$ctag=user_child
 ||websiteproxy.net^$ctag=user_child
 ||websynchrony.com^$ctag=user_child
 ||webxify.com^$ctag=user_child
@@ -3180,7 +3160,7 @@
 ||adguard.wirimij.nl^$ctag=user_child
 ||witopia.net^$ctag=user_child
 ||clearweb.woodbridge.club^$ctag=user_child
-||workarena.info^$ctag=user_child
+||workdigi.com^$ctag=user_child
 ||workingvpn.com^$ctag=user_child
 ||my.worksheetsforteachers.org^$ctag=user_child
 ||parrotballs.worksheetsforteachers.xyz^$ctag=user_child
