@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-03-30T01:07:01.409Z
+! Last modified: 2024-03-31T01:15:25.593Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1457,7 +1457,6 @@
 ||dns.alloxr.info^$ctag=user_child
 ||vps.alloxr.info^$ctag=user_child
 ||dns.almir1904.eu^$ctag=user_child
-||chaos.altendorfme.com^$ctag=user_child
 ||dns.alvosec.com^$ctag=user_child
 ||alwaysvpn.com^$ctag=user_child
 ||ec2-34-194-122-51.compute-1.amazonaws.com^$ctag=user_child
@@ -2939,6 +2938,7 @@
 ||ultrafastproxy.com^$ctag=user_child
 ||dns.umbrella.com^$ctag=user_child
 ||doh.umbrella.com^$ctag=user_child
+||unasw.eu^$ctag=user_child
 ||unb.how^$ctag=user_child
 ||unbl0ck3d.com^$ctag=user_child
 ||unbl4you.lol^$ctag=user_child
@@ -3204,7 +3204,6 @@
 ||zagbit.com^$ctag=user_child
 ||zcoup.com^$ctag=user_child
 ||zenrows.com^$ctag=user_child
-||doh.zephyrus.id^$ctag=user_child
 ||adguard-kartoffel.zernico.de^$ctag=user_child
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child
