@@ -1,6 +1,6 @@
 !
 ! Title: Compromised Domain List - Convert to AGH format by github.com/systemjargon
-! Last modified: 2024-04-01T01:15:27.675Z
+! Last modified: 2024-04-02T01:12:29.951Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -130441,3 +130441,6 @@ qdiwudnqiwndqcom
 ||mileminer.000webhostapp.com^
 ||gammaproject.dev^
 ||spencerstuartllc.top^
+||softkey.app^
+||plano-safra.online^
+||bnd-servers.komakhazine.com^
