@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-02T01:12:26.580Z
+! Last modified: 2024-04-03T01:09:18.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1439,7 +1439,6 @@
 ||adfreeproxy.com^$ctag=user_child
 ||adguard-vpn.online^$ctag=user_child
 ||dns.adrianlam.com^$ctag=user_child
-||ads-help-link2.com^$ctag=user_child
 ||adsocialmediamarketing.com^$ctag=user_child
 ||advancedvpn.com^$ctag=user_child
 ||dns.aerro.in^$ctag=user_child
@@ -1467,7 +1466,6 @@
 ||dns.andrewnw.xyz^$ctag=user_child
 ||animeproxy.net^$ctag=user_child
 ||anonproxy.eu^$ctag=user_child
-||anonproxy.org^$ctag=user_child
 ||anonymitynetwork.com^$ctag=user_child
 ||anonymous-proxy-servers.net^$ctag=user_child
 ||anonymousblog.info^$ctag=user_child
@@ -2867,7 +2865,6 @@
 ||thevpncompany.net^$ctag=user_child
 ||threeproxy.net^$ctag=user_child
 ||thundervpnwin.com^$ctag=user_child
-||environmental.laws.tibetjustice.org^$ctag=user_child
 ||tiiner.com^$ctag=user_child
 ||timetohide.me^$ctag=user_child
 ||timmes.nl^$ctag=user_child
