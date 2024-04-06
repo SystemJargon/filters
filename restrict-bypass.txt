@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-05T01:09:33.074Z
+! Last modified: 2024-04-06T01:07:34.730Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1525,6 +1525,7 @@
 ||openvpnpptp.bese.info^
 ||openvpnpptpserver.bese.info^
 ||bestvpn.org^
+||bestyouproxytube.com^
 ||bestyoutubeproxy.info^
 ||betterproxy.net^
 ||bettervpn.com^
@@ -1650,8 +1651,10 @@
 ||us.doh.cloudveil.org^
 ||pope.cnblw.me^
 ||adguard.aa4.co.uk^
+||binhexsolutions.co.uk^
 ||clearvpn.co.uk^
 ||pihole.datamatter.co.za^
+||ddelay.co.uk^
 ||www.dnsadguard.co.uk^
 ||dns.gi.co.id^
 ||ag.hostme.co.il^
@@ -1674,6 +1677,7 @@
 ||anonymous-proxy.com.de^
 ||dns.ceai.com.tw^
 ||dns.cloud88.com.au^
+||croxyproxy.com.in^
 ||fast-proxy.com.de^
 ||fastest-proxy.com.de^
 ||free-proxy.com.de^
@@ -1700,10 +1704,13 @@
 ||contentabc.com^
 ||coverproxy.com^
 ||covertproxy.com^
+||www.c.cpfrx.info^
 ||crawlbase.com^
 ||crazysurfer.info^
 ||crownproxy.com^
+||croxy.org^
 ||croxy.red^
+||croxyproxy.net^
 ||crushus.com^
 ||dns.cryptomize.com^
 ||cryptovpn.com^
@@ -1815,10 +1822,7 @@
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
-||osefcorp.duckdns.org^
-||punono.duckdns.org^
 ||tuandns.duckdns.org^
-||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
@@ -1832,6 +1836,7 @@
 ||easyhandshake.com^
 ||easynetwork.info^
 ||easyvpn.com^
+||ebookdz.com^
 ||ebumna.net^
 ||ecoweb-network.com^
 ||dns.eddi.net^
@@ -1874,7 +1879,6 @@
 ||fastproxynetwork.com^
 ||fastvpn.me^
 ||favoriteshoes.us^
-||dns.faze.dev^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||fezgate.ovh^
@@ -1912,6 +1916,7 @@
 ||freedomproxy.com^
 ||freehollandproxy.nl^
 ||freemicvpn.com^
+||freeplace.info^
 ||freeproxyaccess.com^
 ||freeproxysites.co^
 ||freeproxyupdate.com^
@@ -1929,6 +1934,7 @@
 ||gabstorm.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||proxy.gamecove.net^
 ||dns.beta.gandi.net^
 ||gang4.info^
 ||gclouddns.com^
@@ -2283,7 +2289,6 @@
 ||sundown.sun.mountofoliveschurch.com^
 ||sunflower.sun.mountofoliveschurch.com^
 ||sunrays.sun.mountofoliveschurch.com^
-||sail.msg.boats^
 ||msr177.com^
 ||dns.msxnet.ru^
 ||ns.mtsoln.com^
@@ -2551,6 +2556,7 @@
 ||proxyarab.com^
 ||proxybros.com^
 ||proxybrowser.org^
+||proxybrowser.xyz^
 ||proxybuss.com^
 ||proxydrop.com^
 ||proxydude.faith^
@@ -2616,6 +2622,7 @@
 ||rapidvpn.com^
 ||thiscopyofartclassisnotgenuine.rare1k.space^
 ||emby.rasp.tv^
+||rateavon.je^
 ||ratecuts.us^
 ||jp.ray0512.win^
 ||la.ray0512.win^
@@ -2687,6 +2694,7 @@
 ||gravity.sciencevictory.org^
 ||dns.scuola.org^
 ||se3v5tjfff3aet.me^
+||proxy.searchfiles.de^
 ||secure-vpn.com^
 ||secure-vpn.info^
 ||vpncenter.avg.securebrowser.com^
@@ -3022,6 +3030,7 @@
 ||unblockprox.com^
 ||unblockproxy.us^
 ||unblockproxy.win^
+||unblocks.net^
 ||unblocksite.ch^
 ||unblocksite.fun^
 ||unblocksite.id^
@@ -3056,6 +3065,7 @@
 ||usaip.eu^
 ||userproxy.com^
 ||uskt.info^
+||uswebproxy.com^
 ||utopianpal.com^
 ||tor.vasi.li^
 ||vblocker.info^
@@ -3070,6 +3080,7 @@
 ||vercel-is-cool.vercel.app^
 ||viatun.com^
 ||videocollage.us^
+||videoproxy.site^
 ||edpuzzle.videospeed.cl^
 ||videounblocked.com^
 ||vikingvpn.com^
