@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-06T01:07:34.730Z
+! Last modified: 2024-04-07T01:14:39.276Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1822,7 +1822,10 @@
 ||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
+||osefcorp.duckdns.org^$ctag=user_child
+||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
+||tungdnsne.duckdns.org^$ctag=user_child
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child
@@ -2483,7 +2486,6 @@
 ||pkw-aufladen.de^$ctag=user_child
 ||placenetworks.com^$ctag=user_child
 ||plainproxies.com^$ctag=user_child
-||play5r.com^$ctag=user_child
 ||playproxy.com^$ctag=user_child
 ||secure-dns.pleumkungz.com^$ctag=user_child
 ||privacy.plumedns.com^$ctag=user_child
@@ -2632,7 +2634,6 @@
 ||login.readinghelper.online^$ctag=user_child
 ||dns.reckoningslug.name^$ctag=user_child
 ||redproxy.info^$ctag=user_child
-||redschool.info^$ctag=user_child
 ||redus.info^$ctag=user_child
 ||reflect4.me^$ctag=user_child
 ||remotevpn.net^$ctag=user_child
@@ -2827,7 +2828,6 @@
 ||tx.teradns.org^$ctag=user_child
 ||uk.teradns.org^$ctag=user_child
 ||dns.tesem.dog^$ctag=user_child
-||tethers.wiki^$ctag=user_child
 ||e.t.texasmath.org^$ctag=user_child
 ||w.t.texasmath.org^$ctag=user_child
 ||cloud.tezoi.com^$ctag=user_child
@@ -2902,7 +2902,6 @@
 ||towervpn.com^$ctag=user_child
 ||dns.tracker.ink^$ctag=user_child
 ||tradeadspace.info^$ctag=user_child
-||vpn-discovery.trafficmanager.net^$ctag=user_child
 ||traffmonetizer.com^$ctag=user_child
 ||consumervpn.trendmicro.com^$ctag=user_child
 ||geovpn.trendmicro.com^$ctag=user_child
