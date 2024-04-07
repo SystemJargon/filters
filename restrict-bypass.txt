@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-06T01:07:34.730Z
+! Last modified: 2024-04-07T01:14:39.276Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1822,7 +1822,10 @@
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
+||osefcorp.duckdns.org^
+||punono.duckdns.org^
 ||tuandns.duckdns.org^
+||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
@@ -2483,7 +2486,6 @@
 ||pkw-aufladen.de^
 ||placenetworks.com^
 ||plainproxies.com^
-||play5r.com^
 ||playproxy.com^
 ||secure-dns.pleumkungz.com^
 ||privacy.plumedns.com^
@@ -2632,7 +2634,6 @@
 ||login.readinghelper.online^
 ||dns.reckoningslug.name^
 ||redproxy.info^
-||redschool.info^
 ||redus.info^
 ||reflect4.me^
 ||remotevpn.net^
@@ -2827,7 +2828,6 @@
 ||tx.teradns.org^
 ||uk.teradns.org^
 ||dns.tesem.dog^
-||tethers.wiki^
 ||e.t.texasmath.org^
 ||w.t.texasmath.org^
 ||cloud.tezoi.com^
@@ -2902,7 +2902,6 @@
 ||towervpn.com^
 ||dns.tracker.ink^
 ||tradeadspace.info^
-||vpn-discovery.trafficmanager.net^
 ||traffmonetizer.com^
 ||consumervpn.trendmicro.com^
 ||geovpn.trendmicro.com^
