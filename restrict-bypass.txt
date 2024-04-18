@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-17T01:10:22.775Z
+! Last modified: 2024-04-18T01:09:18.108Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1570,6 +1570,7 @@
 ||brightvpn.com^
 ||browsebridge.com^
 ||doh.bt.com^
+||bubbleset.com^
 ||stratus.bugz.fr^
 ||bulletvpn.com^
 ||bvpn.com^
@@ -2151,7 +2152,6 @@
 ||ipunblocker.com^
 ||dns.ipv6dns.com^
 ||ipvpn.info^
-||irre.li^
 ||dns1.irumatech.com^
 ||dns.islandnet.com^
 ||math.isreally.pro^
