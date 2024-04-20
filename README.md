@@ -42,7 +42,7 @@ Notes:
 | List Type | File | Raw Link | Description |
 |--------|------|----------|-------------|
 | ✅ | [Allowlist](allowlist.txt) | [Raw Link](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites |
-| 🚫 | [Core list](core.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | Blocklist core aggregated lists of StevenBlackHosts, Adguard DNS Filter, OISD, Firebog ticklists |
+| 🚫 | [Core list](core.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | Blocklist core aggregated lists of StevenBlack Hosts, Adguard DNS Filter, Hagezi Multi list, Firebog tick list |
 | 🚫 | [Porn list](porn.txt) | [Raw Link](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) | Blocklist well beyond 1 million entries across several lists for porn |
 | 🚫 | [Security list](security.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) | Blocklist aggregated from other well-curated lists which do not appear in phishing.txt nor firebog-ticklist.txt as of the time of commit |
 | 🚫 | [Phishing list](phishing.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/phishing.txt) | Blocklist aggregated from other well-curated lists exclusively for phishing |
