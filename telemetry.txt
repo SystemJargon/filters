@@ -1,8 +1,8 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-01T01:13:00.088Z
+! Last modified: 2024-04-20T01:07:45.546Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
+! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 !
 !
@@ -2356,19 +2356,35 @@ contents.beop.io
 ||presentationtracking.netflix.com^
 ||preapp.prod.partner.netflix.net^
 ||nrdp-ipv6.prod.ftl.netflix.com^
-
-
-!
-!
-||firefox.settings.services.mozilla.com^
+# mozilla firefox browser
 ||autopush.prod.mozaws.net^
-||incoming.telemetry.mozilla.org^
-||prod.detectportal.prod.cloudops.mozgcp.net^
-||detectportal.prod.mozaws.net^
-||push.services.mozilla.com^
+||contile.services.mozilla.com^
 ||detectportal.firefox.com^
+||detectportal.prod.mozaws.net^
+||firefox.settings.services.mozilla.com^
+||incoming.telemetry.mozilla.org^
 ||location.services.mozilla.com^
+||prod.detectportal.prod.cloudops.mozgcp.net^
+||push.services.mozilla.com^
+# brave browser
 ||rewards.brave.com^
+||variations.brave.com^
+# edge browser
+||edge.microsoft.com^
+||srtb.msn.com^
+||assets.msn.com^
+||browser.events.data.msn.com^
+||r.msftstatic.com^
+||c.bing.com^
+||r.bing.com^
+||th.bing.com^
+||business.bing.com^
+||edgeservices.bing.com^
+# bing maps API and lookup found in Edge browser (commented)
+# bing search (commented)
+# bing.com
+# www.bing.com
+# duckduckgo search engine
 ||improving.duckduckgo.com^
 ||switch.tv^
 ||api.eu.hismarttv.com^
