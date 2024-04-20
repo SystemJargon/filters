@@ -11,6 +11,11 @@
             "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
             "type": "adblock"
         },
+		{
+            "name": "Hagezi - Multi Normal",
+            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
+            "type": "adblock"
+        },
 	{
             "name": "firebog-ticklist-hosts",
             "source": "https://github.com/SystemJargon/filters/raw/main/firebog-ticklist.txt",
