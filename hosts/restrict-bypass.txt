@@ -71,7 +71,6 @@
 127.0.0.1 antispam.vpnvps.com
 127.0.0.1 antispam.vpsvpn.com
 127.0.0.1 anycast.censurfridns.dk
-127.0.0.1 anycast.uncensoreddns.org
 127.0.0.1 asia.dnscepat.id
 127.0.0.1 astrill.com
 127.0.0.1 astrill.org
@@ -1156,7 +1155,6 @@
 127.0.0.1 unblockytproxy.com
 127.0.0.1 undofilters.com
 127.0.0.1 unicast.censurfridns.dk
-127.0.0.1 unicast.uncensoreddns.org
 127.0.0.1 unifiedvpn.com
 127.0.0.1 unknownproxy.com
 127.0.0.1 unlimitedvpnapp.com
@@ -1712,6 +1710,7 @@
 127.0.0.1 dns1.conne.net
 127.0.0.1 dns.connect.fail
 127.0.0.1 contentabc.com
+127.0.0.1 coolproxy.net
 127.0.0.1 coverproxy.com
 127.0.0.1 covertproxy.com
 127.0.0.1 a.cpfrx.info
@@ -1722,6 +1721,7 @@
 127.0.0.1 croxy.network
 127.0.0.1 croxy.org
 127.0.0.1 croxy.red
+127.0.0.1 croxyproxy.best
 127.0.0.1 croxyproxy.net
 127.0.0.1 crushus.com
 127.0.0.1 dns.cryptomize.com
@@ -2639,6 +2639,7 @@
 127.0.0.1 proxysan.info
 127.0.0.1 proxyscope.com
 127.0.0.1 proxysheep.com
+127.0.0.1 proxysite.cc
 127.0.0.1 proxysite.page
 127.0.0.1 proxysite.pro
 127.0.0.1 proxysite.site
@@ -2651,6 +2652,8 @@
 127.0.0.1 proxyway.com
 127.0.0.1 psiphon.ca
 127.0.0.1 psiphon3.com
+127.0.0.1 publicdns.info
+127.0.0.1 publicdnsserver.com
 127.0.0.1 pukanuragan.ru
 127.0.0.1 dns.pumpkinvrar.com
 127.0.0.1 pupilproxy.com
@@ -2878,6 +2881,7 @@
 127.0.0.1 supervpn.net
 127.0.0.1 supervpn.top
 127.0.0.1 surfbytes.info
+127.0.0.1 surfcovertly.com
 127.0.0.1 surfmo.com
 127.0.0.1 surfonym.com
 127.0.0.1 surfsneaker.com
@@ -3020,6 +3024,7 @@
 127.0.0.1 ublocker.info
 127.0.0.1 ugdsoft.com
 127.0.0.1 webproxy.uk.com
+127.0.0.1 ukwebproxy.eu
 127.0.0.1 adguardironhide.ultimathule.ru
 127.0.0.1 ultimatepro.us
 127.0.0.1 ultrafastproxy.com
@@ -3085,6 +3090,7 @@
 127.0.0.1 unblockedarabic.com
 127.0.0.1 unblockedbay.com
 127.0.0.1 unblockedbook.net
+127.0.0.1 unblockedbrowser.com
 127.0.0.1 unblockedme.com
 127.0.0.1 unblockedmusic.net
 127.0.0.1 unblockedonline.net
@@ -3130,6 +3136,7 @@
 127.0.0.1 unblockweb.org
 127.0.0.1 unblockwebsites.com
 127.0.0.1 unblockyoutube.co
+127.0.0.1 uncensoreddns.org
 127.0.0.1 jambi.undo.it
 127.0.0.1 dns.unerror.network
 127.0.0.1 ines.zfn.unibremen.de
@@ -3252,6 +3259,7 @@
 127.0.0.1 wirevpn.cc
 127.0.0.1 adguard.wirimij.nl
 127.0.0.1 witopia.net
+127.0.0.1 wobti.com
 127.0.0.1 clearweb.woodbridge.club
 127.0.0.1 workdigi.com
 127.0.0.1 workingvpn.com
