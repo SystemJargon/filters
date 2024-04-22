@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-21T01:14:50.697Z
+! Last modified: 2024-04-22T01:12:10.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -77,7 +77,6 @@
 ||antispam.vpnvps.com^
 ||antispam.vpsvpn.com^
 ||anycast.censurfridns.dk^
-||anycast.uncensoreddns.org^
 ||asia.dnscepat.id^
 ||astrill.com^
 ||astrill.org^
@@ -1162,7 +1161,6 @@
 ||unblockytproxy.com^
 ||undofilters.com^
 ||unicast.censurfridns.dk^
-||unicast.uncensoreddns.org^
 ||unifiedvpn.com^
 ||unknownproxy.com^
 ||unlimitedvpnapp.com^
@@ -1718,6 +1716,7 @@
 ||dns1.conne.net^
 ||dns.connect.fail^
 ||contentabc.com^
+||cool-proxy.net^
 ||coverproxy.com^
 ||covertproxy.com^
 ||a.cpfrx.info^
@@ -1728,6 +1727,7 @@
 ||croxy.network^
 ||croxy.org^
 ||croxy.red^
+||croxyproxy.best^
 ||croxyproxy.net^
 ||crushus.com^
 ||dns.cryptomize.com^
@@ -2645,6 +2645,7 @@
 ||proxysan.info^
 ||proxyscope.com^
 ||proxysheep.com^
+||proxysite.cc^
 ||proxysite.page^
 ||proxysite.pro^
 ||proxysite.site^
@@ -2657,6 +2658,8 @@
 ||proxyway.com^
 ||psiphon.ca^
 ||psiphon3.com^
+||public-dns.info^
+||publicdnsserver.com^
 ||pukanuragan.ru^
 ||dns.pumpkinvrar.com^
 ||pupilproxy.com^
@@ -2884,6 +2887,7 @@
 ||supervpn.net^
 ||supervpn.top^
 ||surfbytes.info^
+||surfcovertly.com^
 ||surfmo.com^
 ||surfonym.com^
 ||surfsneaker.com^
@@ -3026,6 +3030,7 @@
 ||ublocker.info^
 ||ugdsoft.com^
 ||webproxy.uk.com^
+||ukwebproxy.eu^
 ||adguard-ironhide.ultima-thule.ru^
 ||ultimatepro.us^
 ||ultrafastproxy.com^
@@ -3091,6 +3096,7 @@
 ||unblockedarabic.com^
 ||unblockedbay.com^
 ||unblockedbook.net^
+||unblockedbrowser.com^
 ||unblockedme.com^
 ||unblockedmusic.net^
 ||unblockedonline.net^
@@ -3136,6 +3142,7 @@
 ||unblockweb.org^
 ||unblockwebsites.com^
 ||unblockyoutube.co^
+||uncensoreddns.org^
 ||jambi.undo.it^
 ||dns.unerror.network^
 ||ines.zfn.uni-bremen.de^
@@ -3258,6 +3265,7 @@
 ||wirevpn.cc^
 ||adguard.wirimij.nl^
 ||witopia.net^
+||wobti.com^
 ||clearweb.woodbridge.club^
 ||workdigi.com^
 ||workingvpn.com^
