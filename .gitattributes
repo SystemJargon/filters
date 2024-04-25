@@ -12,6 +12,7 @@
 /compromised-domains.txt linguist-language=adblock linguist-detectable
 /core.txt linguist-language=adblock linguist-detectable
 /firebog-ticklist.txt linguist-language=adblock linguist-detectable
+/hostsvn.txt linguist-language=adblock linguist-detectable
 /phishing.txt linguist-language=adblock linguist-detectable
 /porn.txt linguist-language=adblock linguist-detectable
 /restrict-bypass.txt linguist-language=adblock linguist-detectable

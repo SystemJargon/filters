@@ -25,6 +25,7 @@
    "transformations":[
       "Compress",
       "Validate",
-      "Deduplicate"
+      "Deduplicate",
+      "RemoveComments"
    ]
 }
