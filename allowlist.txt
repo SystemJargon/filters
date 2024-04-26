@@ -1,10 +1,9 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-24T01:12:02.947Z
+! Last modified: 2024-04-26T01:10:36.382Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
-# add the rest of re-compiled list below
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -193,12 +192,6 @@ connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
 
-!
-! Source name: List sites
-! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-domains.txt
-!
-# for lists we use and development purposes.
-# domains would host lists for blocklist allowlist or likewise.
 github.com
 github.dev
 githubusercontent.com
@@ -209,5 +202,4 @@ firebog.net
 v.firebog.net
 hostfiles.frogeye.fr
 adaway.org
-# add akamai.net for CDN. Some subdomains could be blocked if related to advertising. But blocking just akamai.net breaks quite alot of websites
 akamai.net

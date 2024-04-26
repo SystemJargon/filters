@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-24T01:12:04.915Z
+! Last modified: 2024-04-26T01:10:37.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1874,7 +1874,6 @@
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||elephantvpn.com^
-||elshad-adgh-dns.ru^
 ||dns.emiliyan.com^
 ||adguard.ender.fr^
 ||my.englishpapers.online^
@@ -2091,6 +2090,7 @@
 ||keithchung.hopto.org^
 ||dns.internal.hosmatic.com^
 ||hostless.club^
+||hotac.ir^
 ||hotbotvpn.com^
 ||purchase-some.hotglue.click^
 ||hothide.com^
@@ -2110,7 +2110,6 @@
 ||dns.bw.i81.ru^
 ||vd.i81.ru^
 ||vpn.i81.ru^
-||dns.iamninja.ru^
 ||dns-public.ibakerserver.pt^
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
@@ -2688,7 +2687,6 @@
 ||r1bnc.com^
 ||dns.api.rackspacecloud.com^
 ||dns.rafn.is^
-||inde.ragnvindr.org^
 ||ns.ral9005.org^
 ||rapidprivacy.com^
 ||rapidproxy.org^
@@ -2697,7 +2695,6 @@
 ||emby.rasp.tv^
 ||rateavon.je^
 ||ratecuts.us^
-||jp.ray0512.win^
 ||la.ray0512.win^
 ||dns.rayanbab.com^
 ||rayneau.fr^
@@ -2806,6 +2803,7 @@
 ||shadeyouvpn.com^
 ||shalenkov.dev^
 ||sharejav.com^
+||shaw2426.org^
 ||dns.shecan.ir^
 ||free.shecan.ir^
 ||pro.shecan.ir^
@@ -3251,6 +3249,7 @@
 ||janvet.website.pl^
 ||websiteproxy.net^
 ||websynchrony.com^
+||webtunnelx.com^
 ||webxify.com^
 ||webypass.info^
 ||doh.wewitro.net^
