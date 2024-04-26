@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-24T01:12:04.915Z
+! Last modified: 2024-04-26T01:10:37.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1874,7 +1874,6 @@
 ||hole.elbschloss.xyz^$ctag=user_child
 ||dns.elemental.software^$ctag=user_child
 ||elephantvpn.com^$ctag=user_child
-||elshad-adgh-dns.ru^$ctag=user_child
 ||dns.emiliyan.com^$ctag=user_child
 ||adguard.ender.fr^$ctag=user_child
 ||my.englishpapers.online^$ctag=user_child
@@ -2091,6 +2090,7 @@
 ||keithchung.hopto.org^$ctag=user_child
 ||dns.internal.hosmatic.com^$ctag=user_child
 ||hostless.club^$ctag=user_child
+||hotac.ir^$ctag=user_child
 ||hotbotvpn.com^$ctag=user_child
 ||purchase-some.hotglue.click^$ctag=user_child
 ||hothide.com^$ctag=user_child
@@ -2110,7 +2110,6 @@
 ||dns.bw.i81.ru^$ctag=user_child
 ||vd.i81.ru^$ctag=user_child
 ||vpn.i81.ru^$ctag=user_child
-||dns.iamninja.ru^$ctag=user_child
 ||dns-public.ibakerserver.pt^$ctag=user_child
 ||webproxy.ich-war-hier.de^$ctag=user_child
 ||icitek.com^$ctag=user_child
@@ -2688,7 +2687,6 @@
 ||r1bnc.com^$ctag=user_child
 ||dns.api.rackspacecloud.com^$ctag=user_child
 ||dns.rafn.is^$ctag=user_child
-||inde.ragnvindr.org^$ctag=user_child
 ||ns.ral9005.org^$ctag=user_child
 ||rapidprivacy.com^$ctag=user_child
 ||rapidproxy.org^$ctag=user_child
@@ -2697,7 +2695,6 @@
 ||emby.rasp.tv^$ctag=user_child
 ||rateavon.je^$ctag=user_child
 ||ratecuts.us^$ctag=user_child
-||jp.ray0512.win^$ctag=user_child
 ||la.ray0512.win^$ctag=user_child
 ||dns.rayanbab.com^$ctag=user_child
 ||rayneau.fr^$ctag=user_child
@@ -2806,6 +2803,7 @@
 ||shadeyouvpn.com^$ctag=user_child
 ||shalenkov.dev^$ctag=user_child
 ||sharejav.com^$ctag=user_child
+||shaw2426.org^$ctag=user_child
 ||dns.shecan.ir^$ctag=user_child
 ||free.shecan.ir^$ctag=user_child
 ||pro.shecan.ir^$ctag=user_child
@@ -3251,6 +3249,7 @@
 ||janvet.website.pl^$ctag=user_child
 ||websiteproxy.net^$ctag=user_child
 ||websynchrony.com^$ctag=user_child
+||webtunnelx.com^$ctag=user_child
 ||webxify.com^$ctag=user_child
 ||webypass.info^$ctag=user_child
 ||doh.wewitro.net^$ctag=user_child
