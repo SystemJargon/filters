@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-26T01:10:37.417Z
+! Last modified: 2024-04-27T01:09:47.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1707,7 +1707,6 @@
 ||proxy-site.com.de^$ctag=user_child
 ||proxyweb.com.es^$ctag=user_child
 ||dns.weixin.qq.com.cn^$ctag=user_child
-||farms.stentwood.com.au^$ctag=user_child
 ||unblock-proxy.com.de^$ctag=user_child
 ||doh.viatech.com.tw^$ctag=user_child
 ||webproxy.com.de^$ctag=user_child
@@ -1767,7 +1766,6 @@
 ||mainframe.dewed.de^$ctag=user_child
 ||dns.dgea.fr^$ctag=user_child
 ||dialertoserver.com^$ctag=user_child
-||die-pkw-maut.de^$ctag=user_child
 ||digibitdesign.com^$ctag=user_child
 ||disconnect.me^$ctag=user_child
 ||districtnewyork.com^$ctag=user_child
@@ -1908,7 +1906,6 @@
 ||fastproxy.nl^$ctag=user_child
 ||fastproxy.org^$ctag=user_child
 ||fastproxynetwork.com^$ctag=user_child
-||fastvpn.me^$ctag=user_child
 ||favoriteshoes.us^$ctag=user_child
 ||ns0.fdn.fr^$ctag=user_child
 ||ns1.fdn.fr^$ctag=user_child
@@ -2064,7 +2061,6 @@
 ||hidemy.io^$ctag=user_child
 ||hidemyna.me^$ctag=user_child
 ||hidemyurl.info^$ctag=user_child
-||hidesurf.us^$ctag=user_child
 ||hideway.eu^$ctag=user_child
 ||hidexy.com^$ctag=user_child
 ||hidingit.com^$ctag=user_child
@@ -2092,7 +2088,6 @@
 ||hostless.club^$ctag=user_child
 ||hotac.ir^$ctag=user_child
 ||hotbotvpn.com^$ctag=user_child
-||purchase-some.hotglue.click^$ctag=user_child
 ||hothide.com^$ctag=user_child
 ||hotspotvpn.com^$ctag=user_child
 ||dns.hotta.page^$ctag=user_child
@@ -2110,6 +2105,7 @@
 ||dns.bw.i81.ru^$ctag=user_child
 ||vd.i81.ru^$ctag=user_child
 ||vpn.i81.ru^$ctag=user_child
+||dns.iamninja.ru^$ctag=user_child
 ||dns-public.ibakerserver.pt^$ctag=user_child
 ||webproxy.ich-war-hier.de^$ctag=user_child
 ||icitek.com^$ctag=user_child
@@ -2161,10 +2157,8 @@
 ||smellyal.isreally.pro^$ctag=user_child
 ||smellypay.isreally.pro^$ctag=user_child
 ||stuffyschicken.isreallycool.lol^$ctag=user_child
-||diy.itsa.top^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
-||ivpn.info^$ctag=user_child
 ||iwantproxy.com^$ctag=user_child
 ||iweb365.net^$ctag=user_child
 ||ixl.plus^$ctag=user_child
@@ -2290,7 +2284,6 @@
 ||maskedip.com^$ctag=user_child
 ||master-clock.us^$ctag=user_child
 ||masters-of-cloud.de^$ctag=user_child
-||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||dns.mathewakhil.online^$ctag=user_child
 ||mathhelpnow.site^$ctag=user_child
 ||mathnotes.help^$ctag=user_child
@@ -2438,7 +2431,6 @@
 ||dns.novali.date^$ctag=user_child
 ||novatech.fun^$ctag=user_child
 ||dns.novg.net^$ctag=user_child
-||nowcache.com^$ctag=user_child
 ||dns.npe.bz^$ctag=user_child
 ||dns.npsolution.it^$ctag=user_child
 ||ns3.com^$ctag=user_child
@@ -2538,7 +2530,6 @@
 ||personalvpn.com^$ctag=user_child
 ||personaly.click^$ctag=user_child
 ||dns.pesaventofilippo.com^$ctag=user_child
-||photonsecure.com^$ctag=user_child
 ||phpbido.com^$ctag=user_child
 ||piaproxy.net^$ctag=user_child
 ||adguard.piekacz.pl^$ctag=user_child
@@ -2699,7 +2690,6 @@
 ||dns.rayanbab.com^$ctag=user_child
 ||rayneau.fr^$ctag=user_child
 ||rayobyte.com^$ctag=user_child
-||login.readinghelper.online^$ctag=user_child
 ||dns.reckoningslug.name^$ctag=user_child
 ||redproxy.info^$ctag=user_child
 ||redus.info^$ctag=user_child
@@ -3018,7 +3008,6 @@
 ||tuvpn.com^$ctag=user_child
 ||nat64.tuxis.nl^$ctag=user_child
 ||tvone.info^$ctag=user_child
-||shop.twinslist.org^$ctag=user_child
 ||twoproxy.net^$ctag=user_child
 ||dns.txq.life^$ctag=user_child
 ||typaza.com^$ctag=user_child
@@ -3026,8 +3015,6 @@
 ||u8sj3.com^$ctag=user_child
 ||uas2.com^$ctag=user_child
 ||ubint.net^$ctag=user_child
-||i.a.ubiq.org^$ctag=user_child
-||x.a.ubiq.org^$ctag=user_child
 ||ublocker.info^$ctag=user_child
 ||ugdsoft.com^$ctag=user_child
 ||webproxy.uk.com^$ctag=user_child
@@ -3280,7 +3267,6 @@
 ||wtools.eu^$ctag=user_child
 ||proxy.wynd.network^$ctag=user_child
 ||wyx.cloud^$ctag=user_child
-||xp.x14n.org^$ctag=user_child
 ||x9fnzrtl4x8pynsf.com^$ctag=user_child
 ||adb-home.xaoimoon.fr^$ctag=user_child
 ||doh.xcom.pro^$ctag=user_child
@@ -3314,7 +3300,6 @@
 ||adguard.zachitect.com^$ctag=user_child
 ||zagbit.com^$ctag=user_child
 ||zburger.top^$ctag=user_child
-||zcoup.com^$ctag=user_child
 ||zenrows.com^$ctag=user_child
 ||adguard-kartoffel.zernico.de^$ctag=user_child
 ||zerotier.com^$ctag=user_child
