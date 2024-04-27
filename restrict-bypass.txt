@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-26T01:10:37.417Z
+! Last modified: 2024-04-27T01:09:47.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1707,7 +1707,6 @@
 ||proxy-site.com.de^
 ||proxyweb.com.es^
 ||dns.weixin.qq.com.cn^
-||farms.stentwood.com.au^
 ||unblock-proxy.com.de^
 ||doh.viatech.com.tw^
 ||webproxy.com.de^
@@ -1767,7 +1766,6 @@
 ||mainframe.dewed.de^
 ||dns.dgea.fr^
 ||dialertoserver.com^
-||die-pkw-maut.de^
 ||digibitdesign.com^
 ||disconnect.me^
 ||districtnewyork.com^
@@ -1908,7 +1906,6 @@
 ||fastproxy.nl^
 ||fastproxy.org^
 ||fastproxynetwork.com^
-||fastvpn.me^
 ||favoriteshoes.us^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
@@ -2064,7 +2061,6 @@
 ||hidemy.io^
 ||hidemyna.me^
 ||hidemyurl.info^
-||hidesurf.us^
 ||hideway.eu^
 ||hidexy.com^
 ||hidingit.com^
@@ -2092,7 +2088,6 @@
 ||hostless.club^
 ||hotac.ir^
 ||hotbotvpn.com^
-||purchase-some.hotglue.click^
 ||hothide.com^
 ||hotspotvpn.com^
 ||dns.hotta.page^
@@ -2110,6 +2105,7 @@
 ||dns.bw.i81.ru^
 ||vd.i81.ru^
 ||vpn.i81.ru^
+||dns.iamninja.ru^
 ||dns-public.ibakerserver.pt^
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
@@ -2161,10 +2157,8 @@
 ||smellyal.isreally.pro^
 ||smellypay.isreally.pro^
 ||stuffyschicken.isreallycool.lol^
-||diy.itsa.top^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
-||ivpn.info^
 ||iwantproxy.com^
 ||iweb365.net^
 ||ixl.plus^
@@ -2290,7 +2284,6 @@
 ||maskedip.com^
 ||master-clock.us^
 ||masters-of-cloud.de^
-||adsadkjsadjksakldjxx.math-solver.online^
 ||dns.mathewakhil.online^
 ||mathhelpnow.site^
 ||mathnotes.help^
@@ -2438,7 +2431,6 @@
 ||dns.novali.date^
 ||novatech.fun^
 ||dns.novg.net^
-||nowcache.com^
 ||dns.npe.bz^
 ||dns.npsolution.it^
 ||ns3.com^
@@ -2538,7 +2530,6 @@
 ||personalvpn.com^
 ||personaly.click^
 ||dns.pesaventofilippo.com^
-||photonsecure.com^
 ||phpbido.com^
 ||piaproxy.net^
 ||adguard.piekacz.pl^
@@ -2699,7 +2690,6 @@
 ||dns.rayanbab.com^
 ||rayneau.fr^
 ||rayobyte.com^
-||login.readinghelper.online^
 ||dns.reckoningslug.name^
 ||redproxy.info^
 ||redus.info^
@@ -3018,7 +3008,6 @@
 ||tuvpn.com^
 ||nat64.tuxis.nl^
 ||tvone.info^
-||shop.twinslist.org^
 ||twoproxy.net^
 ||dns.txq.life^
 ||typaza.com^
@@ -3026,8 +3015,6 @@
 ||u8sj3.com^
 ||uas2.com^
 ||ubint.net^
-||i.a.ubiq.org^
-||x.a.ubiq.org^
 ||ublocker.info^
 ||ugdsoft.com^
 ||webproxy.uk.com^
@@ -3280,7 +3267,6 @@
 ||wtools.eu^
 ||proxy.wynd.network^
 ||wyx.cloud^
-||xp.x14n.org^
 ||x9fnzrtl4x8pynsf.com^
 ||adb-home.xaoimoon.fr^
 ||doh.xcom.pro^
@@ -3314,7 +3300,6 @@
 ||adguard.zachitect.com^
 ||zagbit.com^
 ||zburger.top^
-||zcoup.com^
 ||zenrows.com^
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
