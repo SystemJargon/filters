@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-28T01:15:47.893Z
+! Last modified: 2024-04-29T01:11:53.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1472,7 +1472,6 @@
 ||anonymitynetwork.com^
 ||anonymous-proxy-servers.net^
 ||anonymousblog.info^
-||anonymousengine.com^
 ||anonymurl.biz^
 ||anonypost.com^
 ||anonyproxy.biz^
@@ -1718,7 +1717,6 @@
 ||contentabc.com^
 ||cool-proxy.net^
 ||coverproxy.com^
-||covertproxy.com^
 ||a.cpfrx.info^
 ||www.c.cpfrx.info^
 ||crawlbase.com^
@@ -2010,6 +2008,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||gobestvpn.com^
@@ -2666,7 +2665,6 @@
 ||ns1.qquack.org^
 ||quic.lol^
 ||quick-proxy.com^
-||quickproxies.com^
 ||quicksilvervpn.com^
 ||ant.dns.qwer.pw^
 ||dog.dns.qwer.pw^
@@ -3191,7 +3189,6 @@
 ||vpncentral.com^
 ||vpndaily.com^
 ||vpnhellings.nl^
-||vpnintouch.com^
 ||vpnliebao.com^
 ||vpnmasterx.com^
 ||vpnmonster.ru^
@@ -3305,7 +3302,6 @@
 ||zerotunnel.com^
 ||zerovpn-app.com^
 ||dns.zfsystem.tech^
-||zippyproxy.com^
 ||zougloub.eu^
 ||zpath.net^
 ||zproxy.de^
