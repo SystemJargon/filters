@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-28T01:15:47.893Z
+! Last modified: 2024-04-29T01:11:53.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1472,7 +1472,6 @@
 ||anonymitynetwork.com^$ctag=user_child
 ||anonymous-proxy-servers.net^$ctag=user_child
 ||anonymousblog.info^$ctag=user_child
-||anonymousengine.com^$ctag=user_child
 ||anonymurl.biz^$ctag=user_child
 ||anonypost.com^$ctag=user_child
 ||anonyproxy.biz^$ctag=user_child
@@ -1718,7 +1717,6 @@
 ||contentabc.com^$ctag=user_child
 ||cool-proxy.net^$ctag=user_child
 ||coverproxy.com^$ctag=user_child
-||covertproxy.com^$ctag=user_child
 ||a.cpfrx.info^$ctag=user_child
 ||www.c.cpfrx.info^$ctag=user_child
 ||crawlbase.com^$ctag=user_child
@@ -2010,6 +2008,7 @@
 ||dns.api.sandbox.globuscs.info^$ctag=user_child
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
+||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||gobestvpn.com^$ctag=user_child
@@ -2666,7 +2665,6 @@
 ||ns1.qquack.org^$ctag=user_child
 ||quic.lol^$ctag=user_child
 ||quick-proxy.com^$ctag=user_child
-||quickproxies.com^$ctag=user_child
 ||quicksilvervpn.com^$ctag=user_child
 ||ant.dns.qwer.pw^$ctag=user_child
 ||dog.dns.qwer.pw^$ctag=user_child
@@ -3191,7 +3189,6 @@
 ||vpncentral.com^$ctag=user_child
 ||vpndaily.com^$ctag=user_child
 ||vpnhellings.nl^$ctag=user_child
-||vpnintouch.com^$ctag=user_child
 ||vpnliebao.com^$ctag=user_child
 ||vpnmasterx.com^$ctag=user_child
 ||vpnmonster.ru^$ctag=user_child
@@ -3305,7 +3302,6 @@
 ||zerotunnel.com^$ctag=user_child
 ||zerovpn-app.com^$ctag=user_child
 ||dns.zfsystem.tech^$ctag=user_child
-||zippyproxy.com^$ctag=user_child
 ||zougloub.eu^$ctag=user_child
 ||zpath.net^$ctag=user_child
 ||zproxy.de^$ctag=user_child
