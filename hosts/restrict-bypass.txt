@@ -1408,7 +1408,9 @@
 127.0.0.1 8proxy.com
 127.0.0.1 8v9m.com
 127.0.0.1 922proxy.com
+127.0.0.1 dns.9999.sg
 127.0.0.1 9w9.org
+127.0.0.1 dns.a47.me
 127.0.0.1 doh.aaaab3n.moe
 127.0.0.1 adb.aadityakushwaha.com
 127.0.0.1 abcproxy.com
@@ -1427,9 +1429,11 @@
 127.0.0.1 acdtop.com
 127.0.0.1 actmobile.com
 127.0.0.1 e.adamandandrea.org
+127.0.0.1 adblockersite.com
 127.0.0.1 adl.adfilter.net
 127.0.0.1 per.adfilter.net
 127.0.0.1 syd.adfilter.net
+127.0.0.1 adfreedns.top
 127.0.0.1 adfreeproxy.com
 127.0.0.1 adguardvpn.online
 127.0.0.1 dns.adrianlam.com
@@ -1500,6 +1504,7 @@
 127.0.0.1 doh.azoris.ovh
 127.0.0.1 dns.azsopro.net
 127.0.0.1 bdns.se
+127.0.0.1 bii.com
 127.0.0.1 dns.b33.space
 127.0.0.1 dns.b612.me
 127.0.0.1 photography.backriverphotography.com
@@ -1655,6 +1660,7 @@
 127.0.0.1 ca.doh.cloudveil.org
 127.0.0.1 us.doh.cloudveil.org
 127.0.0.1 pope.cnblw.me
+127.0.0.1 doh.cnetwork.cloud
 127.0.0.1 adguard.aa4.co.uk
 127.0.0.1 binhexsolutions.co.uk
 127.0.0.1 clearvpn.co.uk
@@ -1831,6 +1837,7 @@
 127.0.0.1 takhtakh.domyah.net
 127.0.0.1 ns1.dotls.org
 127.0.0.1 dns.dotnet.win
+127.0.0.1 family.dns.doubleangels.com
 127.0.0.1 doh.dscloud.me
 127.0.0.1 duapps.com
 127.0.0.1 aattwwss.duckdns.org
@@ -1871,6 +1878,8 @@
 127.0.0.1 stufy.englishpapers.online
 127.0.0.1 sutausfjsajfas.englishpapers.online
 127.0.0.1 home.enjoymylife.net
+127.0.0.1 dns.enzonix.com
+127.0.0.1 bl.eq.md
 127.0.0.1 shield1.eranext.net
 127.0.0.1 dns.esnube.es
 127.0.0.1 ettego.com
@@ -1924,7 +1933,6 @@
 127.0.0.1 cranking90s.fortnitebuilder.pro
 127.0.0.1 fortniters.info
 127.0.0.1 forwardproxie.com
-127.0.0.1 dns.foximao.cn
 127.0.0.1 frandcomfort.us
 127.0.0.1 freeproxy.xyz
 127.0.0.1 freesignal.com
@@ -2076,6 +2084,7 @@
 127.0.0.1 honeygain.me
 127.0.0.1 schoolmath.hop.sh
 127.0.0.1 keithchung.hopto.org
+127.0.0.1 dns.horcrux.vip
 127.0.0.1 dns.internal.hosmatic.com
 127.0.0.1 hostless.club
 127.0.0.1 hotac.ir
@@ -2098,6 +2107,7 @@
 127.0.0.1 vd.i81.ru
 127.0.0.1 vpn.i81.ru
 127.0.0.1 dns.iamninja.ru
+127.0.0.1 dns.ian.rocks
 127.0.0.1 dnspublic.ibakerserver.pt
 127.0.0.1 webproxy.ichwarhier.de
 127.0.0.1 icitek.com
@@ -2190,6 +2200,7 @@
 127.0.0.1 keenow.com
 127.0.0.1 keepanonymous.com
 127.0.0.1 dns.keke125.com
+127.0.0.1 doh.kekew.info
 127.0.0.1 kepard.com
 127.0.0.1 dns.kerekes.xyz
 127.0.0.1 dns.kernelerror.de
@@ -2216,8 +2227,11 @@
 127.0.0.1 xray.krnl.eu
 127.0.0.1 kryptovpn.kryptotel.net
 127.0.0.1 adguard.kss.ovh
+127.0.0.1 dns.kugoapps.com
 127.0.0.1 dns.kukal.cz
+127.0.0.1 dns.kusoneko.moe
 127.0.0.1 dns.l337.site
+127.0.0.1 dns.labnekotest.site
 127.0.0.1 lagometer.de
 127.0.0.1 h2o.lakeballs.fi
 127.0.0.1 ocean.lakeballs.fi
@@ -2344,6 +2358,7 @@
 127.0.0.1 dns.iki.my.id
 127.0.0.1 dns.lista.my.id
 127.0.0.1 dns.mikrotikrumahan.my.id
+127.0.0.1 dns.pnh.my.id
 127.0.0.1 dns.repinger.my.id
 127.0.0.1 id.terra.my.id
 127.0.0.1 dns.vmath.my.id
@@ -2368,6 +2383,7 @@
 127.0.0.1 mzhlhrfr8z.info
 127.0.0.1 dns.mzrme.cn
 127.0.0.1 n0.eu
+127.0.0.1 dohca.naftalie.net
 127.0.0.1 www.chungocoai.name.vn
 127.0.0.1 adguard.quydang.name.vn
 127.0.0.1 nanoproxy.com
@@ -2386,6 +2402,11 @@
 127.0.0.1 cube.neubsi.at
 127.0.0.1 dns.neubsi.at
 127.0.0.1 newadscdn.com
+127.0.0.1 dns1.au.newpangea.de
+127.0.0.1 dns1.cl.newpangea.de
+127.0.0.1 dns1.in.newpangea.de
+127.0.0.1 dns1.sg.newpangea.de
+127.0.0.1 dns1.us.newpangea.de
 127.0.0.1 newshosting.com
 127.0.0.1 meteor.newsofmaricopa.com
 127.0.0.1 doh.luigi.nexific.it
@@ -2522,6 +2543,7 @@
 127.0.0.1 personalvpn.com
 127.0.0.1 personaly.click
 127.0.0.1 dns.pesaventofilippo.com
+127.0.0.1 dns.phillipjberry.net
 127.0.0.1 phpbido.com
 127.0.0.1 piaproxy.net
 127.0.0.1 adguard.piekacz.pl
@@ -2657,6 +2679,7 @@
 127.0.0.1 vpsus3.pzhg.me
 127.0.0.1 doh.qis.io
 127.0.0.1 ns1.qquack.org
+127.0.0.1 hostdare.qtxd.net
 127.0.0.1 quic.lol
 127.0.0.1 quickproxy.com
 127.0.0.1 quicksilvervpn.com
@@ -2681,6 +2704,7 @@
 127.0.0.1 dns.rayanbab.com
 127.0.0.1 rayneau.fr
 127.0.0.1 rayobyte.com
+127.0.0.1 dns.rbn.gr
 127.0.0.1 dns.reckoningslug.name
 127.0.0.1 redproxy.info
 127.0.0.1 redus.info
@@ -2688,6 +2712,7 @@
 127.0.0.1 remotevpn.net
 127.0.0.1 repocket.co
 127.0.0.1 restaurantgift.us
+127.0.0.1 dnspub.restena.lu
 127.0.0.1 dns.retakecs.com
 127.0.0.1 revko.info
 127.0.0.1 resolver.rferee.dev
@@ -2717,6 +2742,8 @@
 127.0.0.1 nl.rslvr.eu
 127.0.0.1 sg.rslvr.eu
 127.0.0.1 us.rslvr.eu
+127.0.0.1 adguard.ruby.ci
+127.0.0.1 adg.rueiliu.space
 127.0.0.1 doh.runsel.id
 127.0.0.1 rushproxy.com
 127.0.0.1 aghyz.russel053.com
@@ -2773,6 +2800,7 @@
 127.0.0.1 seed.st
 127.0.0.1 seed4.me
 127.0.0.1 seedboxes.cc
+127.0.0.1 dns.seiffert.me
 127.0.0.1 selfadserver.com
 127.0.0.1 dns.sellan.fr
 127.0.0.1 dns.serdcebolit.ru
@@ -2820,6 +2848,7 @@
 127.0.0.1 dns.skrep.in
 127.0.0.1 skynetwork.info
 127.0.0.1 dns.slinkyman.net
+127.0.0.1 dns.smartguard.io
 127.0.0.1 snapxs.com
 127.0.0.1 guard.sntrk.ru
 127.0.0.1 dove.soapagent.com
@@ -2893,6 +2922,7 @@
 127.0.0.1 dns1.techeasy.org
 127.0.0.1 vpn.technicule.info
 127.0.0.1 doh.technochat.in
+127.0.0.1 dns.technostriker.com
 127.0.0.1 dns.telekom.de
 127.0.0.1 telleport.me
 127.0.0.1 vpntw.teng.sh
@@ -3000,6 +3030,7 @@
 127.0.0.1 nat64.tuxis.nl
 127.0.0.1 tvone.info
 127.0.0.1 twoproxy.net
+127.0.0.1 adguard.twotigers.xyz
 127.0.0.1 dns.txq.life
 127.0.0.1 typaza.com
 127.0.0.1 ad.tzockt.beer
@@ -3145,6 +3176,7 @@
 127.0.0.1 uskt.info
 127.0.0.1 uswebproxy.com
 127.0.0.1 utopianpal.com
+127.0.0.1 doh.valscosmos.com
 127.0.0.1 tor.vasi.li
 127.0.0.1 vblocker.info
 127.0.0.1 artclassomg.vercel.app
@@ -3267,6 +3299,7 @@
 127.0.0.1 xite.cc
 127.0.0.1 xite.mobi
 127.0.0.1 xite.ws
+127.0.0.1 dns.xwdmw.xyz
 127.0.0.1 v2.xx3210766.live
 127.0.0.1 dns.yameenassotally.com
 127.0.0.1 dns.yandex.ru
@@ -3298,5 +3331,6 @@
 127.0.0.1 dns.zfsystem.tech
 127.0.0.1 zougloub.eu
 127.0.0.1 zpath.net
+127.0.0.1 a.zpn.me
 127.0.0.1 zproxy.de
 127.0.0.1 dns.zzuhacker.cn
