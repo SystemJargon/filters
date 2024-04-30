@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-29T01:11:53.749Z
+! Last modified: 2024-04-30T01:10:36.413Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1414,7 +1414,9 @@
 ||8proxy.com^
 ||8v9m.com^
 ||922proxy.com^
+||dns.9999.sg^
 ||9w9.org^
+||dns.a47.me^
 ||doh.aaaab3n.moe^
 ||adb.aadityakushwaha.com^
 ||abcproxy.com^
@@ -1433,9 +1435,11 @@
 ||acdtop.com^
 ||actmobile.com^
 ||e.adamandandrea.org^
+||adblockersite.com^
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
+||adfreedns.top^
 ||adfreeproxy.com^
 ||adguard-vpn.online^
 ||dns.adrianlam.com^
@@ -1506,6 +1510,7 @@
 ||doh.azoris.ovh^
 ||dns.azsopro.net^
 ||b-dns.se^
+||b-ii.com^
 ||dns.b33.space^
 ||dns.b612.me^
 ||photography.backriverphotography.com^
@@ -1661,6 +1666,7 @@
 ||ca.doh.cloudveil.org^
 ||us.doh.cloudveil.org^
 ||pope.cnblw.me^
+||doh.cnetwork.cloud^
 ||adguard.aa4.co.uk^
 ||binhexsolutions.co.uk^
 ||clearvpn.co.uk^
@@ -1837,6 +1843,7 @@
 ||takhtakh.domyah.net^
 ||ns1.dotls.org^
 ||dns.dotnet.win^
+||family.dns.doubleangels.com^
 ||doh.dscloud.me^
 ||duapps.com^
 ||aattwwss.duckdns.org^
@@ -1877,6 +1884,8 @@
 ||stufy.englishpapers.online^
 ||sutausfjsajfas.englishpapers.online^
 ||home.enjoymylife.net^
+||dns.enzonix.com^
+||bl.eq.md^
 ||shield1.eranext.net^
 ||dns.esnube.es^
 ||ettego.com^
@@ -1930,7 +1939,6 @@
 ||cranking90s.fortnitebuilder.pro^
 ||fortniters.info^
 ||forwardproxie.com^
-||dns.foximao.cn^
 ||frandcomfort.us^
 ||free-proxy.xyz^
 ||free-signal.com^
@@ -2082,6 +2090,7 @@
 ||honeygain.me^
 ||schoolmath.hop.sh^
 ||keithchung.hopto.org^
+||dns.horcrux.vip^
 ||dns.internal.hosmatic.com^
 ||hostless.club^
 ||hotac.ir^
@@ -2104,6 +2113,7 @@
 ||vd.i81.ru^
 ||vpn.i81.ru^
 ||dns.iamninja.ru^
+||dns.ian.rocks^
 ||dns-public.ibakerserver.pt^
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
@@ -2196,6 +2206,7 @@
 ||keenow.com^
 ||keepanonymous.com^
 ||dns.keke125.com^
+||doh.kekew.info^
 ||kepard.com^
 ||dns.kerekes.xyz^
 ||dns.kernel-error.de^
@@ -2222,8 +2233,11 @@
 ||xray.krnl.eu^
 ||kryptovpn.kryptotel.net^
 ||adguard.kss.ovh^
+||dns.kugoapps.com^
 ||dns.kukal.cz^
+||dns.kusoneko.moe^
 ||dns.l337.site^
+||dns.labnekotest.site^
 ||lagometer.de^
 ||h2o.lakeballs.fi^
 ||ocean.lakeballs.fi^
@@ -2350,6 +2364,7 @@
 ||dns.iki.my.id^
 ||dns.lista.my.id^
 ||dns.mikrotikrumahan.my.id^
+||dns.pnh.my.id^
 ||dns.repinger.my.id^
 ||id.terra.my.id^
 ||dns.vmath.my.id^
@@ -2374,6 +2389,7 @@
 ||mzhlhrfr8z.info^
 ||dns.mzrme.cn^
 ||n0.eu^
+||doh-ca.naftalie.net^
 ||www.chungocoai.name.vn^
 ||adguard.quydang.name.vn^
 ||nanoproxy.com^
@@ -2392,6 +2408,11 @@
 ||cube.neubsi.at^
 ||dns.neubsi.at^
 ||newads-cdn.com^
+||dns1.au.newpangea.de^
+||dns1.cl.newpangea.de^
+||dns1.in.newpangea.de^
+||dns1.sg.newpangea.de^
+||dns1.us.newpangea.de^
 ||newshosting.com^
 ||meteor.newsofmaricopa.com^
 ||doh.luigi.nexific.it^
@@ -2528,6 +2549,7 @@
 ||personalvpn.com^
 ||personaly.click^
 ||dns.pesaventofilippo.com^
+||dns.phillipjberry.net^
 ||phpbido.com^
 ||piaproxy.net^
 ||adguard.piekacz.pl^
@@ -2663,6 +2685,7 @@
 ||vpsus3.pzhg.me^
 ||doh.qis.io^
 ||ns1.qquack.org^
+||hostdare.qtxd.net^
 ||quic.lol^
 ||quick-proxy.com^
 ||quicksilvervpn.com^
@@ -2687,6 +2710,7 @@
 ||dns.rayanbab.com^
 ||rayneau.fr^
 ||rayobyte.com^
+||dns.rbn.gr^
 ||dns.reckoningslug.name^
 ||redproxy.info^
 ||redus.info^
@@ -2694,6 +2718,7 @@
 ||remotevpn.net^
 ||repocket.co^
 ||restaurantgift.us^
+||dnspub.restena.lu^
 ||dns.retakecs.com^
 ||revko.info^
 ||resolver.rferee.dev^
@@ -2723,6 +2748,8 @@
 ||nl.rslvr.eu^
 ||sg.rslvr.eu^
 ||us.rslvr.eu^
+||adguard.ruby.ci^
+||adg.rueiliu.space^
 ||doh.runsel.id^
 ||rushproxy.com^
 ||agh-yz.russel053.com^
@@ -2779,6 +2806,7 @@
 ||seed.st^
 ||seed4.me^
 ||seedboxes.cc^
+||dns.seiffert.me^
 ||selfadserver.com^
 ||dns.sellan.fr^
 ||dns.serdcebolit.ru^
@@ -2826,6 +2854,7 @@
 ||dns.skrep.in^
 ||skynetwork.info^
 ||dns.slinkyman.net^
+||dns.smartguard.io^
 ||snapxs.com^
 ||guard.sntrk.ru^
 ||dove.soapagent.com^
@@ -2899,6 +2928,7 @@
 ||dns1.techeasy.org^
 ||vpn.technicule.info^
 ||doh.technochat.in^
+||dns.technostriker.com^
 ||dns.telekom.de^
 ||telleport.me^
 ||vpn-tw.teng.sh^
@@ -3006,6 +3036,7 @@
 ||nat64.tuxis.nl^
 ||tvone.info^
 ||twoproxy.net^
+||adguard.twotigers.xyz^
 ||dns.txq.life^
 ||typaza.com^
 ||ad.tzockt.beer^
@@ -3151,6 +3182,7 @@
 ||uskt.info^
 ||uswebproxy.com^
 ||utopianpal.com^
+||doh.valscosmos.com^
 ||tor.vasi.li^
 ||vblocker.info^
 ||art-class-omg.vercel.app^
@@ -3273,6 +3305,7 @@
 ||xite.cc^
 ||xite.mobi^
 ||xite.ws^
+||dns.xwdmw.xyz^
 ||v2.xx3210766.live^
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
@@ -3304,5 +3337,6 @@
 ||dns.zfsystem.tech^
 ||zougloub.eu^
 ||zpath.net^
+||a.zpn.me^
 ||zproxy.de^
 ||dns.zzuhacker.cn^
