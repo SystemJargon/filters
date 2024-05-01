@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-04-30T01:10:36.413Z
+! Last modified: 2024-05-01T01:15:41.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2671,7 +2671,6 @@
 ||proxyway.com^$ctag=user_child
 ||psiphon.ca^$ctag=user_child
 ||psiphon3.com^$ctag=user_child
-||public-dns.info^$ctag=user_child
 ||publicdnsserver.com^$ctag=user_child
 ||pukanuragan.ru^$ctag=user_child
 ||dns.pumpkinvrar.com^$ctag=user_child
