@@ -1,9 +1,11 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-01T01:15:39.867Z
+! Last modified: 2024-05-02T01:10:22.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
+chatgpt.com
+chat.openai.com
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
