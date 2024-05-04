@@ -22,6 +22,10 @@ jobs:
 
 
 # Lists input and output
+    - name: Update Restrict ByPass and No-Social-Media User_Child Lists
+      run: |
+        cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
+        cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
 
     - name: Compile Security list
       run: hostlist-compiler -c ./source/security.json -o security.txt
@@ -64,6 +68,20 @@ jobs:
       
     - name: Compile No Social Media list
       run: hostlist-compiler -c ./source/no-social-media.json -o no-social-media.txt
+
+    - name: "Process lists from adblock format to HOSTS format"
+      run: |
+        FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "hostsvn" "restrict-bypass" "security" "telemetry" "threats" "hostsvn" "nrds-30days" "no-social-media")
+
+        for FILTER in "${FILTERS[@]}"; do
+            wget -O "./temp/$FILTER.txt" "https://raw.githubusercontent.com/SystemJargon/filters/main/$FILTER.txt"
+            sed -i '/^[ \t]*#/d' "./temp/$FILTER.txt"
+            sed -i '/^[ \t]*!/d' "./temp/$FILTER.txt"
+            sed -i 's/[^.a-zA-Z0-9]//g' "./temp/$FILTER.txt"
+            sed -i '/^$/d' "./temp/$FILTER.txt"
+            sed "s/^/127.0.0.1 /" "./temp/$FILTER.txt" > "./hosts/$FILTER.txt"
+            rm "./temp/$FILTER.txt"
+        done
 
     # Commit Actions
 
