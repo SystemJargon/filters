@@ -77,20 +77,21 @@ jobs:
         cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
         cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
 
+# Disable hosts format conversions
 # Keep the adblock to hosts format syntax below in this order for the refresh of main        
-    - name: "Process lists from adblock format to HOSTS format"
-      run: |
-        FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "hostsvn" "restrict-bypass" "security" "telemetry" "threats" "hostsvn" "nrds-30days" "no-social-media")
-
-        for FILTER in "${FILTERS[@]}"; do
-            wget -O "./temp/$FILTER.txt" "https://raw.githubusercontent.com/SystemJargon/filters/main/$FILTER.txt"
-            sed -i '/^[ \t]*#/d' "./temp/$FILTER.txt"
-            sed -i '/^[ \t]*!/d' "./temp/$FILTER.txt"
-            sed -i 's/[^.a-zA-Z0-9]//g' "./temp/$FILTER.txt"
-            sed -i '/^$/d' "./temp/$FILTER.txt"
-            sed "s/^/127.0.0.1 /" "./temp/$FILTER.txt" > "./hosts/$FILTER.txt"
-            rm "./temp/$FILTER.txt"
-        done
+#    - name: "Process lists from adblock format to HOSTS format"
+#      run: |
+#        FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "hostsvn" "restrict-bypass" "security" "telemetry" "threats" "hostsvn" "nrds-30days" "no-social-media")
+#
+#        for FILTER in "${FILTERS[@]}"; do
+#            wget -O "./temp/$FILTER.txt" "https://raw.githubusercontent.com/SystemJargon/filters/main/$FILTER.txt"
+#            sed -i '/^[ \t]*#/d' "./temp/$FILTER.txt"
+#            sed -i '/^[ \t]*!/d' "./temp/$FILTER.txt"
+#            sed -i 's/[^.a-zA-Z0-9]//g' "./temp/$FILTER.txt"
+#            sed -i '/^$/d' "./temp/$FILTER.txt"
+#            sed "s/^/127.0.0.1 /" "./temp/$FILTER.txt" > "./hosts/$FILTER.txt"
+#            rm "./temp/$FILTER.txt"
+#        done
 
     # Commit Actions
 
