@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-04T03:11:10.543Z
+! Last modified: 2024-05-04T06:22:26.408Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1789,7 +1789,6 @@
 ||bom01.dnscry.pt^$ctag=user_child
 ||coe01.dnscry.pt^$ctag=user_child
 ||cvt01.dnscry.pt^$ctag=user_child
-||dfw01.dnscry.pt^$ctag=user_child
 ||dtw01.dnscry.pt^$ctag=user_child
 ||dus01.dnscry.pt^$ctag=user_child
 ||fjr01.dnscry.pt^$ctag=user_child
@@ -1940,7 +1939,6 @@
 ||fortniters.info^$ctag=user_child
 ||forwardproxie.com^$ctag=user_child
 ||frandcomfort.us^$ctag=user_child
-||free-proxy.xyz^$ctag=user_child
 ||free-signal.com^$ctag=user_child
 ||free2surfvpn.com^$ctag=user_child
 ||freeanimesonline.com^$ctag=user_child
@@ -2001,12 +1999,6 @@
 ||gizlen.net^$ctag=user_child
 ||h.gjrick.tw^$ctag=user_child
 ||sdns22.gkonuralp.com^$ctag=user_child
-||alpha.y.glenwaverleychurches.org^$ctag=user_child
-||beta.y.glenwaverleychurches.org^$ctag=user_child
-||delta.y.glenwaverleychurches.org^$ctag=user_child
-||epsilon.y.glenwaverleychurches.org^$ctag=user_child
-||kappa.y.glenwaverleychurches.org^$ctag=user_child
-||lambda.y.glenwaverleychurches.org^$ctag=user_child
 ||globalchatinc.com^$ctag=user_child
 ||globaltrx.com^$ctag=user_child
 ||globalvpn.info^$ctag=user_child
