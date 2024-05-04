@@ -11,6 +11,11 @@
          "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrds.30.txt",
          "type": "adblock"
        },
+       {
+         "name": "systemjargon-nrds",
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/NewlyRegisteredDomains/nrds.txt",
+         "type":"adblock"
+      },
 	  	  {
 		"name": "cenk-1m-adblock",
 		"source":"https://raw.githubusercontent.com/cenk/nrd/main/nrd-last-30-days.txt",
