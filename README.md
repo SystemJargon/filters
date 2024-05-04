@@ -1,19 +1,18 @@
-## About
+[![Workflow](https://github.com/SystemJargon/filters/actions/workflows/main.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/main.yml) [![GitHub last commit](https://img.shields.io/github/last-commit/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master) [![GitHub Issues](https://img.shields.io/github/issues/systemjargon/filters)](https://github.com/SystemJargon/filters/issues) [!GitHub Closed Issues](https://img.shields.io/github/issues-closed/systemjargon/filters) ![GitHub repo size](https://img.shields.io/github/repo-size/systemjargon/filters) [![HitCount](https://hits.dwyl.com/systemjargon/filters.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/filters) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers)
 
-This Repo is scheduled to automatically update (and it's lists) at least every 24 hours.
+## DNS Blocklists & Allowlist/s
 
-Lists are to be used with an adblocker solution which supports the appropriate format. This may be such as but not limited to the formats of, adblock (AdGuard), hosts, domains.
+Because Ads, Telemetry and some content and/or domains are just out right **** that should be blocked.
 
-Info about formats using [Pi-Hole](https://pi-hole.net/blog/2023/03/22/pi-hole-ftl-v5-22-web-v5-19-and-core-v5-16-1-released#page-content) and [AdGuard](https://adguard.com/kb/general/ad-filtering/create-own-filters/)
+Lists are to be used with something alike Pi-Hole, AdGuard, AdGuardHome or similar. These lists may also work in browser based adblockers, but would need to interpret adblock/hosts formats.
 
+I provide adblock and hosts formats currently. I can make lists in other formats on request if you create an issue (request).
 
-### Repo Status
+Info about formats using [Pi-Hole](https://pi-hole.net/blog/2023/03/22/pi-hole-ftl-v5-22-web-v5-19-and-core-v5-16-1-released#page-content) [Adblock](https://easylist.to/) and [AdGuard](https://adguard.com/kb/general/ad-filtering/create-own-filters/)
 
-<!-- [![Workflow](https://github.com/SystemJargon/filters/actions/workflows/main.yml/badge.svg)](https://github.com/SystemJargon/filters/actions/workflows/main.yml) -->
+This Repo is scheduled to automatically update (and it's lists) on a schedule regularly.
 
-[![HitCount](https://hits.dwyl.com/systemjargon/filters.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/filters) 
-[![GitHub stars](https://img.shields.io/github/stars/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers) [![GitHub forks](https://img.shields.io/github/forks/systemjargon/filters)](https://github.com/systemjargon/filters/network/members) [![Issues](https://img.shields.io/github/issues/systemjargon/filters)](https://github.com/SystemJargon/filters/issues) 
-[![last commit](https://img.shields.io/github/last-commit/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master) [![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/filters.svg)](https://github.com/SystemJargon/filters/commits/master) ![GitHub repo size](https://img.shields.io/github/repo-size/systemjargon/filters)
+Leaving a :star: is much appreciated
 
 ----
 
@@ -22,17 +21,15 @@ Use the RAW files [linked](#the-lists) below this [README](https://github.com/Sy
 
 Notes:
 
-* Some lists are defined as a blocklist or some an allowlist. Each list has a description or purpose for what it does, i.e allow, block telemetry.
+* Some lists are defined as a 🚫 blocklist or some an ✅ allowlist. Each list has a description or purpose for what it does, i.e allow, block telemetry.
 
-* All lists (so the lines within) will have syntax validated and be de-duplicated. Some may have comments stripped. This is mostly to ensure file sizes (plus download/update times) are managable and future scalable. I may create releases to make this point mentioned, easier.
+* All lists will have syntax validated and be de-duplicated. Some may have comments stripped. This is mostly to ensure file sizes and length are usable and scalable.
 
-* You can check my aggregation of sources used in this repo [here](https://github.com/SystemJargon/filters/tree/main/source). Each txt list has a corresponding named JSON file.
+* The aggregation of lists are either my own lists, repositories and other well curated lists.
 
-* The aggregation of some lists are from my [blocklists](https://github.com/systemjargon/blocklists) or [allowlists](https://github.com/systemjargon/allowlists) repositories. 
+<!--* If you want my big Social Media Blocklist, see [here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media/SystemJargon_Block_SocialMedia_AG.txt) or look in my blocklists repo under the Category of Social Media [here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media) Add the no-social-media list -->
 
-* If you want my big Social Media Blocklist, see [here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media/SystemJargon_Block_SocialMedia_AG.txt) or look in my blocklists repo under the Category of Social Media [here](https://github.com/SystemJargon/blocklists/blob/main/lists/categories/social-media)
-
-* Feel free to 🌟/star the repo.
+* Again feel free to 🌟/star the repo.
 
 * Raise any issues or requests [here](https://github.com/SystemJargon/filters/issues/new/choose) 
 
@@ -54,6 +51,8 @@ Notes:
 | 🚫 | [Restrict-ByPass list](restrict-bypass.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass.txt) | My own curated list with supplement lists aggregated. The Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
 | 🚫 | [Restrict-ByPass User_Child list](restrict-bypass-user_child.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass-user_child.txt) | My own curated list with supplement lists aggregated. This differs from restrict-bypass.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as restrict-bypass.txt. Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
 | 🚫 | [NRDs list](nrds-30days.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/nrds-30days.txt) | Blocklist aggregated from Newly Registered Domains lists. These are NRDs registered in the last 30 days. |
+| 🚫 | [No Social Media list](no-social-media.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/no-social-media.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. |
+
 ----
 
 
