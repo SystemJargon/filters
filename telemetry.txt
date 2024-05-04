@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-04T07:24:16.757Z
+! Last modified: 2024-05-04T08:13:13.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -558,7 +558,6 @@
 ||modern.watson.data.microsoft.com.akadns.net^
 ||msedge.net^
 ||msntest.serving-sys.com^
-oca.telemetry.microsoft.com 
 ||onecollector.cloudapp.aria.akadns.net^
 ||par02p.wns.windows.com^
 ||pipe.dev.trafficmanager.net^
@@ -597,8 +596,6 @@ oca.telemetry.microsoft.com
 ||win1710.ipv6.microsoft.com^
 ||win8.ipv6.microsoft.com^
 ||ztd.dds.microsoft.com^
-sportdata-dre.things.hicloud.com 
-update-dre.platform.hicloud.com 
 ||dbankcdn.com^
 ||dbankcloud.asia^
 ||dbankcloud.cn^
@@ -612,7 +609,6 @@ update-dre.platform.hicloud.com
 ||ntp.sjtu.edu.cn^
 ||r-beta.huaweistatic.com^
 ||sdkserver-dre.op.hicloud.com.edgekey.net^
-
 ||near.by^
 ||sentry.io^
 ||fir-auth-gms.firebaseapp.com^
@@ -2169,9 +2165,6 @@ update-dre.platform.hicloud.com
 ||armmf.adobe.com^
 ||secure-dcr.imrworldwide.com^
 ||fota-cloud-dn.ospserver.net^
-app-measurement.com 
-outcome-ssp.supersonicads.com 
-pm-gateway.supersonicads.com 
 ||servicesupport.hicloud.co^
 ||telemetry.api.swiftkey.com^
 ||mvconf.cloud.360safe.com^
@@ -2180,8 +2173,7 @@ pm-gateway.supersonicads.com
 ||nzme-ads.co.nz^
 ||advertising.nzme.co.nz^
 ||insights.nzherald.co.nz^
-lefrontend.nzmelistings.co.nz	
-targeting.nzme.arcpublishing.com	
+||lefrontend.nzmelistings.co.nz^
 ||arcpublishing.com^
 ||images-home.com^
 ||adservice.google.co.nz^
@@ -2194,13 +2186,12 @@ targeting.nzme.arcpublishing.com
 ||trafficjunky.net^
 ||as.2020mustang.com^
 ||c2shb.ssp.yahoo.com^
-contents.beop.io 
+||contents.beop.io^
 ||contents-tracking.beop.io^
 ||t.beop.io^
 ||ads.beop.io^
 ||ads-tracking.beop.io^
 ||s.beop.io^
-
 ||ichnaea.netflix.com^
 ||beacon.netflix.com^
 ||dockhand.netflix.com^
@@ -2243,17 +2234,10 @@ contents.beop.io
 ||usage-us-fy2022.myhomescreen.tv^
 ||thetake.com^
 ||thetake.ai^
-
-
-
-
-
 ||0077777700140002.myhomescreen.tv^
 ||cert-test.sandbox.google.com^
-
 ||collect.myhomescreen.tv^
 ||usage.myhomescreen.tv^
-
 ||collect-us-fy2014.myhomescreen.tv^
 ||collect-us-fy2015.myhomescreen.tv^
 ||collect-us-fy2016.myhomescreen.tv^
@@ -2261,7 +2245,6 @@ contents.beop.io
 ||collect-us-fy2018.myhomescreen.tv^
 ||collect-us-fy2019.myhomescreen.tv^
 ||collect-us-fy2020.myhomescreen.tv^
-
 ||collect-eu-fy2014.myhomescreen.tv^
 ||collect-eu-fy2015.myhomescreen.tv^
 ||collect-eu-fy2017.myhomescreen.tv^
@@ -2269,7 +2252,6 @@ contents.beop.io
 ||collect-eu-fy2018.myhomescreen.tv^
 ||collect-eu-fy2019.myhomescreen.tv^
 ||collect-eu-fy2020.myhomescreen.tv^
-
 ||usage-eu-fy2014.myhomescreen.tv^
 ||usage-eu-fy2015.myhomescreen.tv^
 ||usage-eu-fy2016.myhomescreen.tv^
@@ -2277,7 +2259,6 @@ contents.beop.io
 ||usage-eu-fy2018.myhomescreen.tv^
 ||usage-eu-fy2019.myhomescreen.tv^
 ||usage-eu-fy2020.myhomescreen.tv^
-
 ||usage-us-fy2014.myhomescreen.tv^
 ||usage-us-fy2015.myhomescreen.tv^
 ||usage-us-fy2016.myhomescreen.tv^
@@ -2296,7 +2277,6 @@ contents.beop.io
 ||facemap.foldlife.net^
 ||api.cid.samba.tv^
 ||preferences.cid.samba.tv^
-
 ||ad.lgappstv.com^
 ||ibis.lgappstv.com^
 ||jp.rdx2.lgtvsdp.com^
@@ -2347,9 +2327,7 @@ contents.beop.io
 ||cloud.arqiva.tv^
 ||ads.aimitv.com^
 ||samsungads.com^
-
 ||ravm.tv^
-
 ||hbbtv-1.eurosport.com^
 ||hbbtv-extern-fe01.sim-technik.de^
 ||hbbtv-track.redbutton.de^
@@ -2363,7 +2341,6 @@ contents.beop.io
 ||hbbtv.superrtl.de^
 ||p-hbbtv.superrtl.de^
 ||hbbtv.3sat.de^
-
 ||2mdn.net^
 ||ad.71i.de^
 ||adv.ettoday.net^
@@ -2380,10 +2357,7 @@ contents.beop.io
 ||trvdp.com^
 ||tv-static.scdn.co^
 ||xml.opera.com^
-
 ||api.distribution.hulu.com^
-
-
 ||api-gps-em.hismarttv.com^
 ||auth-em.hismarttv.com^
 ||msg-em.hismarttv.com^
@@ -2401,12 +2375,10 @@ contents.beop.io
 ||foxtel-prod-events.digitalsmiths.net^
 ||e2.resources.foxtel.com.au^
 ||a1.resources.foxtel.com.au^
-
 ||events.cid.samba.tv^
 ||platform.cid.samba.tv^
 ||7345023508.fxmconnect.com^
 ||7345023508.fxm9485766783.com^
-
 ||sdkconfig.ad.intl.xiaomi.com^
 ||us.cdpbeacon.lgtvcommon.com^
 ||us.cdpsvc.lgtvcommon.com^
@@ -2424,24 +2396,18 @@ contents.beop.io
 ||tvmeta-dynamic.tvinteractive.tv^
 ||alphonso.tv^
 ||tv.ads.spotx.tv^
-
-
-
 ||device-messaging-na.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
 ||fls-eu.amazon.com^
 ||fls-na.amazon.com^
 ||mads-eu.amazon.com^
 ||mas-sdk.amazon.com^
-
 ||aax-eu.amazon-adsystem.com^
 ||d3p8zr0ffa9t17.cloudfront.net^
-
 ||secure-eu.imrworldwide.com^
 ||logs1409.xiti.com^
 ||tracksrv.zdf.de^
 ||notify.firetv.bugsnag.appstore.a2z.com^
-
 ||data.alexa.com^
 ||device-metrics-us-2.amazon.com^
 ||acfeedbackws.icloud.com^

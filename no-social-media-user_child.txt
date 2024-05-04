@@ -1,10 +1,9 @@
 !
 ! Title: No-Social-Media List - Created by systemjargon
-! Last modified: 2024-05-04T07:26:47.567Z
+! Last modified: 2024-05-04T08:15:55.262Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
-# domains and url patterns
 ||10tune.com^$ctag=user_child
 ||2threads.com^$ctag=user_child
 ||360.yahoo.com^$ctag=user_child
@@ -16,7 +15,6 @@
 ||addthis.com^$ctag=user_child
 ||advogato.org^$ctag=user_child
 ||agentb.com^$ctag=user_child
-||akamai.net^$ctag=user_child
 ||albicla.com^$ctag=user_child
 ||allmyfavorites.net^$ctag=user_child
 ||allrecipes.com^$ctag=user_child
@@ -770,14 +768,6 @@
 ||zooomr.com^$ctag=user_child
 ||zooppa.com^$ctag=user_child
 ||zurpy.com^$ctag=user_child
-!
-! Source: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
-!
-# Title: Social media hosts
-# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
-# Updated: March 24, 2024
-
-# Facebook
 ||facebook-studio.com^$ctag=user_child
 ||facebook.at^$ctag=user_child
 ||facebook.be^$ctag=user_child
@@ -843,22 +833,14 @@
 ||messenger.com^$ctag=user_child
 ||thefacebook.com^$ctag=user_child
 ||wwwfacebook.com^$ctag=user_child
-
-# Instagram
 ||instagr.am^$ctag=user_child
 ||instagram.co^$ctag=user_child
 ||instagram.com.br^$ctag=user_child
 ||instagram.de^$ctag=user_child
 ||instagram.fr^$ctag=user_child
 ||instagram.net^$ctag=user_child
-
-# Whatsapp
 ||whatsapp.net^$ctag=user_child
-
-# Threads
 ||threads.net^$ctag=user_child
-
-# Twitter
 ||abs.twimg.com^$ctag=user_child
 ||ads-twitter.com^$ctag=user_child
 ||amp.twimg.com^$ctag=user_child
@@ -893,8 +875,6 @@
 ||twitter.map.fastly.net^$ctag=user_child
 ||widgets.twimg.com^$ctag=user_child
 ||x.com^$ctag=user_child
-
-# LinkedIn
 ||dms-akam.licdn.com^$ctag=user_child
 ||dms.licdn.com^$ctag=user_child
 ||media-akam.licdn.com^$ctag=user_child
@@ -909,11 +889,7 @@
 ||static-od.licdn.com^$ctag=user_child
 ||static.licdn.com^$ctag=user_child
 ||www.licdn.com^$ctag=user_child
-
-# MySpace
 ||myspacecdn.com^$ctag=user_child
-
-# Pinterest
 ||dualstack.pinterest.map.fastly.net^$ctag=user_child
 ||i.pinimg.com.edgekey.net^$ctag=user_child
 ||pin.it^$ctag=user_child
@@ -925,12 +901,8 @@
 ||www.pinterest.com.au^$ctag=user_child
 ||www.pinterest.com.edgekey.net^$ctag=user_child
 ||www.pinterest.fr^$ctag=user_child
-
-# Tumblr
 ||cookiex.ngd.yahoo.com^$ctag=user_child
 ||tumblr.com^$ctag=user_child
-
-# Reddit
 ||amp-reddit-com.cdn.ampproject.org^$ctag=user_child
 ||i.reddituploads.com^$ctag=user_child
 ||redd.it^$ctag=user_child
@@ -945,8 +917,6 @@
 ||redditmedia.com^$ctag=user_child
 ||www.redditinc.com^$ctag=user_child
 ||www.redditstatic.com^$ctag=user_child
-
-# TikTok
 ||abtest-sg-tiktok.byteoversea.com^$ctag=user_child
 ||byteglb.com^$ctag=user_child
 ||gecko-va.tiktokv.com.edgesuite.net^$ctag=user_child
@@ -1028,15 +998,8 @@
 ||ttoverseaus.net^$ctag=user_child
 ||verification-va.byteoversea.com^$ctag=user_child
 ||xlog.tiktokv.com.edgesuite.net^$ctag=user_child
-
-# DateMeme
 ||datememe.com^$ctag=user_child
-
-# clubhouse
 ||joinclubhouse.com^$ctag=user_child
-
-# Dating sites
-# from https://github.com/StevenBlack/hosts/issues/2023
 ||tinder.com^$ctag=user_child
 ||bumble.com^$ctag=user_child
 ||hinge.co^$ctag=user_child
@@ -1046,10 +1009,6 @@
 ||clover.co^$ctag=user_child
 ||pof.com^$ctag=user_child
 ||match.com^$ctag=user_child
-
-# TikTok clone
 ||likee.video^$ctag=user_child
-
-# Other
 ||pinpages.alwaysdata.net^$ctag=user_child
 ||allotalk.com^$ctag=user_child

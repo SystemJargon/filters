@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-04T07:26:16.486Z
+! Last modified: 2024-05-04T08:15:07.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -706,9 +706,9 @@
 ||nntime.com^$ctag=user_child
 ||nocensor.work^$ctag=user_child
 ||nordaccount.com^$ctag=user_child
-||nordcdn.com^  
-||nordpass.com^ 
-||nordsite.*^ 
+||nordcdn.com^$ctag=user_child
+||nordpass.com^$ctag=user_child
+||nordsite.*^$ctag=user_child
 ||nordvpn.com^$ctag=user_child
 ||nordvpnteams.com^$ctag=user_child
 ||northghost.com^$ctag=user_child
