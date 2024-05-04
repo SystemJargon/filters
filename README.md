@@ -54,7 +54,7 @@ Notes:
 | 🚫 | [Restrict-ByPass User_Child list](restrict-bypass-user_child.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass-user_child.txt) | My own curated list with supplement lists aggregated. This differs from restrict-bypass.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as restrict-bypass.txt. Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
 | 🚫 | [NRDs list](nrds-30days.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/nrds-30days.txt) | Blocklist aggregated from Newly Registered Domains lists. These are NRDs registered in the last 30 days. |
 | 🚫 | [No Social Media list](no-social-media.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/no-social-media.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. |
-
+| 🚫 | [No Social Media list User_Child list](no-social-media-user_child.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/no-social-media-user_child.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. This differs from no-social-media.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as no-social-media.txt |
 ----
 
 
