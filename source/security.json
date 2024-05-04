@@ -19,7 +19,7 @@
       },
       {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/scam/scam-domains.txt",
-		          "type":"adblock"
+		          "type":"hosts"
       },
       {
 	     "source":"https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt",
