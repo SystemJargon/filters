@@ -2,7 +2,7 @@ name: SystemJargon Filters - Lists Compiler and Updater
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 0 * * 1'
 
 #  workflow_dispatch:
 #  push:
@@ -70,9 +70,7 @@ jobs:
       
     - name: Compile No Social Media list
       run: hostlist-compiler -c ./source/no-social-media.json -o no-social-media.txt
-
-# Remove user_child updates as we can or others can just regex this      
-# Keep the user_child lists here in this order until after for refresh of main      
+ 
     - name: Update Restrict ByPass and No-Social-Media User_Child Lists
       run: |
         cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
