@@ -7,10 +7,6 @@ Because Ads, Telemetry and some content and/or domains are just out right **** t
 
 Lists are to be used with something alike Pi-Hole, AdGuard, AdGuardHome or similar. These lists may also work in browser based adblockers, but would need to interpret adblock/hosts formats.
 
-I provide adblock and hosts formats currently. I can make lists in other formats on request if you create an issue (request).
-
-Info about formats using [Pi-Hole](https://pi-hole.net/blog/2023/03/22/pi-hole-ftl-v5-22-web-v5-19-and-core-v5-16-1-released#page-content) [Adblock](https://easylist.to/) and [AdGuard](https://adguard.com/kb/general/ad-filtering/create-own-filters/)
-
 This Repo is scheduled to automatically update (and it's lists) on a schedule regularly.
 
 Leaving a :star: is much appreciated
@@ -44,7 +40,7 @@ Notes:
 | ✅ | [Allowlist](allowlist.txt) | [Raw Link](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites |
 | 🚫 | [Core list](core.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | A Normal blocklist, but without much risk of False positives or things being blocked |
 | 🚫 | [Core Light list](core_light.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core_light.txt) | Lighter than the normal blocklist. Much less risk of False positives or things being blocked |
-| 🚫 | [Core Heavy list](core_heavy.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core_heavy.txt) | Heavy list. More sources aggregated from Ads, Phishing, Telemetry, Threats, Scams, Malware and more. More risk of False positives or things being blocked and needing an allowlist. |
+| 🚫 | [Core Heavy list](core_heavy.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core_heavy.txt) | Heavy list. More sources aggregated from Ads, Phishing, Telemetry, Threats, Scams, Malware and more. More risk of False positives or things being blocked and needing an allowlist. This also uses my Ads, Security, Threats, Phishing lists. |
 | 🚫 | [Porn list](porn.txt) | [Raw Link](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) | Blocklist well beyond 1 million entries across several lists for porn |
 | 🚫 | [Security list](security.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) | Blocklist aggregated from other well-curated lists which do not appear in phishing.txt nor firebog-ticklist.txt as of the time of commit. Covers such as malware/malicious, scam and mining domains |
 | 🚫 | [Phishing list](phishing.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/phishing.txt) | Blocklist aggregated from other well-curated lists exclusively for phishing |
