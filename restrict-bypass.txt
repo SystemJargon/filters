@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-04T03:11:10.543Z
+! Last modified: 2024-05-04T03:37:34.050Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1789,7 +1789,6 @@
 ||bom01.dnscry.pt^
 ||coe01.dnscry.pt^
 ||cvt01.dnscry.pt^
-||dfw01.dnscry.pt^
 ||dtw01.dnscry.pt^
 ||dus01.dnscry.pt^
 ||fjr01.dnscry.pt^
@@ -1940,7 +1939,6 @@
 ||fortniters.info^
 ||forwardproxie.com^
 ||frandcomfort.us^
-||free-proxy.xyz^
 ||free-signal.com^
 ||free2surfvpn.com^
 ||freeanimesonline.com^
@@ -2001,12 +1999,6 @@
 ||gizlen.net^
 ||h.gjrick.tw^
 ||sdns22.gkonuralp.com^
-||alpha.y.glenwaverleychurches.org^
-||beta.y.glenwaverleychurches.org^
-||delta.y.glenwaverleychurches.org^
-||epsilon.y.glenwaverleychurches.org^
-||kappa.y.glenwaverleychurches.org^
-||lambda.y.glenwaverleychurches.org^
 ||globalchatinc.com^
 ||globaltrx.com^
 ||globalvpn.info^
