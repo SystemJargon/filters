@@ -17,6 +17,7 @@ Leaving a :star: is much appreciated
 
 ----
 
+Help and other info about this repo beyond this README maybe available in the [wiki](https://github.com/SystemJargon/filters/wiki)
 
 Use the RAW files [linked](#the-lists) below this [README](https://github.com/SystemJargon/filters/blob/main/README.md) file in your AdGuard/Adblock solution. 
 
