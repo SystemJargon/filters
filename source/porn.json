@@ -21,6 +21,11 @@
             "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts",
             "type": "hosts"
         },
+        {
+            "name": "OISD NSFW",
+            "source": "https://nsfw.oisd.nl",
+            "type": "adblock"
+        },
 		{
             "name": "SystemJargon-PornAll",
             "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adult/porn-multi-lists-combo.txt",

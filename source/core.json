@@ -16,6 +16,11 @@
             "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
             "type": "adblock"
         },
+        {
+            "name": "OISD - Big",
+            "source": "https://big.oisd.nl",
+            "type": "adblock"
+        },
 	{
             "name": "firebog-ticklist-hosts",
             "source": "https://github.com/SystemJargon/filters/raw/main/firebog-ticklist.txt",
