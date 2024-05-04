@@ -1,6 +1,6 @@
 !
 ! Title: Security Lists - Aggregated by github.com/systemjargon. Removed overlap from firebog-ticklist.txt and phishing.txt
-! Last modified: 2024-05-04T06:17:18.767Z
+! Last modified: 2024-05-04T07:07:40.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -52219,8 +52219,7 @@ fore-focus-.mystrikingly.co
 ||axonexchange.vip^
 ||axonholdingsltd.com^
 ||bedbathclose.com^
-bedbathclose.com 
-bhspcial.com 
+||bhspcial.com^
 ||blockfusionventures.com^
 ||boa.melbourne^
 ||boc-capital.com^
@@ -52271,7 +52270,7 @@ bhspcial.com
 ||investing-nz.com^
 ||ipo-alerts.com^
 ||kiwibank-savings.com^
-ladewlegalservices.com 
+||ladewlegalservices.com^
 ||laxco-group.com^
 ||libertycommercialfinanceltd.com^
 ||livetradeinvestment.com^
