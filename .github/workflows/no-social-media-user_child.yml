@@ -1,0 +1,37 @@
+name: Update restrict-bypass user_child
+
+# run 2 hours after main.yml
+on:
+  schedule:
+    - cron: '0 3 * * *'
+
+#  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@main
+      - name: Update List
+        run: |
+          cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
+
+# Commit Actions
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@main
+        with:
+          default_author: github_actions
+          message: ${{ env.MSG }}
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 1
+          keep_minimum_runs: 1

@@ -18,7 +18,7 @@ jobs:
 
       - name: "Process Filter Files"
         run: |
-          FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "restrict-bypass" "security" "telemetry" "threats" "hostsvn" "restrict-bypass-user_child" "nrds-30days")
+          FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "restrict-bypass" "security" "telemetry" "threats" "hostsvn" "restrict-bypass-user_child" "nrds-30days" "no-social-media")
 
           for FILTER in "${FILTERS[@]}"; do
               wget -O "./temp/$FILTER.txt" "https://raw.githubusercontent.com/SystemJargon/filters/main/$FILTER.txt"

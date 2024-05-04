@@ -1,0 +1,18 @@
+{
+   "name":"No-Social-Media List - Created by systemjargon",
+   "sources":[
+          {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/social-media/SystemJargon_Block_SocialMedia_AG.txt",
+         "type":"adblock"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts",
+         "type":"hosts"
+      }
+   ],
+   "transformations":[
+      "Compress",
+      "Validate",
+      "Deduplicate",
+   ]
+}
