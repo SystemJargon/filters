@@ -1,10 +1,9 @@
 !
 ! Title: No-Social-Media List - Created by systemjargon
-! Last modified: 2024-05-04T07:26:47.567Z
+! Last modified: 2024-05-04T08:15:55.262Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
-# domains and url patterns
 ||10tune.com^
 ||2threads.com^
 ||360.yahoo.com^
@@ -16,7 +15,6 @@
 ||addthis.com^
 ||advogato.org^
 ||agentb.com^
-||akamai.net^
 ||albicla.com^
 ||allmyfavorites.net^
 ||allrecipes.com^
@@ -770,14 +768,6 @@
 ||zooomr.com^
 ||zooppa.com^
 ||zurpy.com^
-!
-! Source: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
-!
-# Title: Social media hosts
-# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
-# Updated: March 24, 2024
-
-# Facebook
 ||facebook-studio.com^
 ||facebook.at^
 ||facebook.be^
@@ -843,22 +833,14 @@
 ||messenger.com^
 ||thefacebook.com^
 ||wwwfacebook.com^
-
-# Instagram
 ||instagr.am^
 ||instagram.co^
 ||instagram.com.br^
 ||instagram.de^
 ||instagram.fr^
 ||instagram.net^
-
-# Whatsapp
 ||whatsapp.net^
-
-# Threads
 ||threads.net^
-
-# Twitter
 ||abs.twimg.com^
 ||ads-twitter.com^
 ||amp.twimg.com^
@@ -893,8 +875,6 @@
 ||twitter.map.fastly.net^
 ||widgets.twimg.com^
 ||x.com^
-
-# LinkedIn
 ||dms-akam.licdn.com^
 ||dms.licdn.com^
 ||media-akam.licdn.com^
@@ -909,11 +889,7 @@
 ||static-od.licdn.com^
 ||static.licdn.com^
 ||www.licdn.com^
-
-# MySpace
 ||myspacecdn.com^
-
-# Pinterest
 ||dualstack.pinterest.map.fastly.net^
 ||i.pinimg.com.edgekey.net^
 ||pin.it^
@@ -925,12 +901,8 @@
 ||www.pinterest.com.au^
 ||www.pinterest.com.edgekey.net^
 ||www.pinterest.fr^
-
-# Tumblr
 ||cookiex.ngd.yahoo.com^
 ||tumblr.com^
-
-# Reddit
 ||amp-reddit-com.cdn.ampproject.org^
 ||i.reddituploads.com^
 ||redd.it^
@@ -945,8 +917,6 @@
 ||redditmedia.com^
 ||www.redditinc.com^
 ||www.redditstatic.com^
-
-# TikTok
 ||abtest-sg-tiktok.byteoversea.com^
 ||byteglb.com^
 ||gecko-va.tiktokv.com.edgesuite.net^
@@ -1028,15 +998,8 @@
 ||ttoverseaus.net^
 ||verification-va.byteoversea.com^
 ||xlog.tiktokv.com.edgesuite.net^
-
-# DateMeme
 ||datememe.com^
-
-# clubhouse
 ||joinclubhouse.com^
-
-# Dating sites
-# from https://github.com/StevenBlack/hosts/issues/2023
 ||tinder.com^
 ||bumble.com^
 ||hinge.co^
@@ -1046,10 +1009,6 @@
 ||clover.co^
 ||pof.com^
 ||match.com^
-
-# TikTok clone
 ||likee.video^
-
-# Other
 ||pinpages.alwaysdata.net^
 ||allotalk.com^

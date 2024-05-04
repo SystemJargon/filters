@@ -1,6 +1,6 @@
 !
 ! Title: Threats Lists - Created by systemjargon
-! Last modified: 2024-05-04T07:26:14.267Z
+! Last modified: 2024-05-04T08:15:06.376Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -74,8 +74,8 @@
 ||vamosparaonde.com^
 ||mantersaols.com^
 ||premiercombate.eastus.cloudapp.azure.com^
-kmsauto.us 
-ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion 
+||kmsauto.us^
+||ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion^
 ||tibet-gov.web.app^
 ||tibetyouthcongress.com^
 ||t1bet.net^
@@ -83,7 +83,6 @@ ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion
 ||sputnikradio.net^
 ||airjaldi.online^
 ||tibet.bet^
-||ec2-18-118-156-145.us-east-2.compute.amazonaws.com^
 ||gomuzigak.com^
 ||zupeyico.com^
 ||lentgenn.com^
@@ -152,7 +151,7 @@ ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion
 ||golden-cheats.com^
 ||news-spot.live^
 ||api.onedriev.tk^
-storage.ondriev.tk 
+||storage.ondriev.tk^
 ||order.cargobussiness.site^
 ||documents.kankuedu.org^
 ||live.musicweb.xyz^
@@ -161,7 +160,6 @@ storage.ondriev.tk
 ||houwags.defineyourid.site^
 ||noub.crabdance.com^
 ||grandfoodtony.com^
-
 ||code-examples.net^
 ||kotaeta.com^
 ||answer-id.com^
@@ -273,7 +271,7 @@ storage.ondriev.tk
 ||stackqna.com^
 ||www.xsprogram.com^
 ||stackoom.com^
-it-swarm-fr.com 
+||it-swarm-fr.com^
 ||12png.com^
 ||citypng.com^
 ||cleanpng.com^
@@ -421,7 +419,6 @@ it-swarm-fr.com
 ||brown-formam.com^
 ||bublegum.xyz^
 ||bypassociation.com^
-||c2-3-143-67-171.us-east-2.compute.amazonaws.com^
 ||canar.com.sa^
 ||canarytokens.com^
 ||cannstattraction.com^
@@ -696,7 +693,6 @@ onion
 ||sense4baby.fr^
 ||sentech.cyou^
 ||seobundlekit.com^
-||serevalutinoffice.com^
 ||server-linode.in^
 ||server-linode.nl^
 ||server-linode.org^
