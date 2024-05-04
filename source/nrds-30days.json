@@ -22,11 +22,6 @@
 		"type":"adblock"
       }
    ],
-   "transformations":[	
-      "Validate",
-      "Compress",
-      "RemoveComments",
-      "RemoveEmptyLines",
-      "Deduplicate"
-   ]
-}
+   "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+   "exclusions_sources": ["allowlist.txt"]
+ }

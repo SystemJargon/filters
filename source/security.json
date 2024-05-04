@@ -26,6 +26,6 @@
 		          "type":"hosts"
       }
    ],
-	"transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
-    "exclusions_sources": ["allowlist.txt"]
-}
+   "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+   "exclusions_sources": ["allowlist.txt"]
+ }

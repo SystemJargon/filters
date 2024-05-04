@@ -32,9 +32,15 @@ jobs:
     - name: Compile Ads list
       run: hostlist-compiler -c ./source/ads.json -o ads.txt
       
-    - name: Compile Core list
+    - name: Compile Core Normal list
       run: hostlist-compiler -c ./source/core.json -o core.txt
-    
+
+    - name: Compile Core Light list
+      run: hostlist-compiler -c ./source/core_light.json -o core_light.txt
+
+    - name: Compile Core Heavy list
+      run: hostlist-compiler -c ./source/core_heavy.json -o core_heavy.txt
+
     - name: Compile Porn list
       run: hostlist-compiler -c ./source/porn.json -o porn.txt
       

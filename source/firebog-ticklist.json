@@ -157,9 +157,9 @@
         "type": "hosts"
       }
     ],
-    "transformations": ["RemoveComments","Compress","Validate","Deduplicate"],
+    "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
     "exclusions_sources": ["allowlist.txt"]
-}
+  }
 
 
 

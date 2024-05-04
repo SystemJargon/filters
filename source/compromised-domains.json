@@ -7,6 +7,6 @@
         "type": "hosts"
       }
     ],
-    "transformations": ["Compress","Validate","Deduplicate","RemoveComments"],
+    "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
     "exclusions_sources": ["allowlist.txt"]
   }

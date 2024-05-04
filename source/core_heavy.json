@@ -1,0 +1,57 @@
+{
+    "name": "Core Heavy List - Aggregated by github.com/systemjargon",
+    "sources": [
+        {
+            "name": "StevenBlack",
+            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+            "type": "hosts"
+        },
+        {
+            "name": "Adguard DNS Filter",
+            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "type": "adblock"
+        },
+		{
+            "name": "Hagezi - Multi Pro",
+            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "OISD - Big",
+            "source": "https://big.oisd.nl",
+            "type": "adblock"
+        },
+        {
+            "name": "SystemJargon - Filters Ads",
+            "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/ads.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "SystemJargon - Filters Telemetry",
+            "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/telemetry.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "SystemJargon - Filters Security",
+            "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/security.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "SystemJargon - Filters Threats",
+            "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/threats.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "SystemJargon - Filters Phishing",
+            "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/phishing.txt",
+            "type": "adblock"
+        },
+	{
+            "name": "firebog-ticklist-hosts",
+            "source": "https://github.com/SystemJargon/filters/raw/main/firebog-ticklist.txt",
+            "type": "hosts"
+      }
+    ],
+    "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+    "exclusions_sources": ["allowlist.txt"]
+  }

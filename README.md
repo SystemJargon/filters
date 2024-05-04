@@ -42,7 +42,9 @@ Notes:
 | List Type | File | Raw Link | Description |
 |--------|------|----------|-------------|
 | ✅ | [Allowlist](allowlist.txt) | [Raw Link](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites |
-| 🚫 | [Core list](core.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | Blocklist core aggregated lists of StevenBlack Hosts, Adguard DNS Filter, Hagezi Multi Normal list, Firebog tick list |
+| 🚫 | [Core list](core.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | A Normal blocklist, but without much risk of False positives or things being blocked |
+| 🚫 | [Core Light list](core_light.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core_light.txt) | Lighter than the normal blocklist. Much less risk of False positives or things being blocked |
+| 🚫 | [Core Heavy list](core_heavy.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core_heavy.txt) | Heavy list. More sources aggregated from Ads, Phishing, Telemetry, Threats, Scams, Malware and more. More risk of False positives or things being blocked and needing an allowlist. |
 | 🚫 | [Porn list](porn.txt) | [Raw Link](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) | Blocklist well beyond 1 million entries across several lists for porn |
 | 🚫 | [Security list](security.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/security.txt) | Blocklist aggregated from other well-curated lists which do not appear in phishing.txt nor firebog-ticklist.txt as of the time of commit. Covers such as malware/malicious, scam and mining domains |
 | 🚫 | [Phishing list](phishing.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/phishing.txt) | Blocklist aggregated from other well-curated lists exclusively for phishing |

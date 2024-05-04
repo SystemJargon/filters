@@ -45,7 +45,7 @@
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/basic-telemetry-devices.txt",
          "type":"hosts"
       }
-	],
-    "transformations": ["Compress","Validate","Deduplicate","RemoveComments"],
-    "exclusions_sources": ["allowlist.txt"]
-}
+   ],
+   "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+   "exclusions_sources": ["allowlist.txt"]
+ }

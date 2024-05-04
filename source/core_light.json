@@ -1,19 +1,14 @@
 {
-    "name": "Core Standard List - Aggregated by github.com/systemjargon",
+    "name": "Core Light list - Aggregated by github.com/systemjargon",
     "sources": [
-        {
-            "name": "StevenBlack",
-            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-            "type": "hosts"
-        },
         {
             "name": "Adguard DNS Filter",
             "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
             "type": "adblock"
         },
 		{
-            "name": "Hagezi - Multi Normal",
-            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
+            "name": "Hagezi - Multi Light",
+            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
             "type": "adblock"
         },
         {
