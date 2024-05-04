@@ -4,10 +4,10 @@ on:
   schedule:
     - cron: '0 1 * * *'
 
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+#  workflow_dispatch:
+#  push:
+#    branches:
+#      - main
 
 jobs:
   build:
@@ -71,6 +71,7 @@ jobs:
     - name: Compile No Social Media list
       run: hostlist-compiler -c ./source/no-social-media.json -o no-social-media.txt
 
+# Remove user_child updates as we can or others can just regex this      
 # Keep the user_child lists here in this order until after for refresh of main      
     - name: Update Restrict ByPass and No-Social-Media User_Child Lists
       run: |
