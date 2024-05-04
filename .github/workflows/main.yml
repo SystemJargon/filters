@@ -2,7 +2,7 @@ name: SystemJargon Filters Repo Compiler
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
 
 #  workflow_dispatch:
 #  push:
@@ -20,10 +20,6 @@ jobs:
         node-version: '16'  
     - run: npm i -g @adguard/hostlist-compiler
 
-# No longer aggregate bigdargon. Most sites over lap or are designed for Vietnam which are not relevant to me or most.
-# Leave as comment incase this changes in the future.
-#    - name: Compile bigdargon_HostsVN list
-#      run: hostlist-compiler -c ./source/hostsvn.json -o hostsvn.txt
 
 # Lists input and output
 
@@ -62,6 +58,9 @@ jobs:
 
     - name: Compile Compromised Domains list
       run: hostlist-compiler -c ./source/compromised-domains.json -o compromised-domains.txt
+      
+    - name: Compile Newly Registered Domains 30 Day list
+      run: hostlist-compiler -c ./source/nrds-30days.json -o nrds-30days.txt
 
 # Commit Actions
 

@@ -1,9 +1,9 @@
 name: "Create HOSTS format files FROM the adblock format files in the Filters repo"
 
-# run 2 hours after main.yml
+# run 3 hours after main.yml
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 4 * * *'
 
 #  workflow_dispatch:
 #  push:
@@ -18,7 +18,7 @@ jobs:
 
       - name: "Process Filter Files"
         run: |
-          FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "restrict-bypass" "security" "telemetry" "threats")
+          FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "restrict-bypass" "security" "telemetry" "threats" "hostsvn" "restrict-bypass-user_child" "nrds-30days")
 
           for FILTER in "${FILTERS[@]}"; do
               wget -O "./temp/$FILTER.txt" "https://raw.githubusercontent.com/SystemJargon/filters/main/$FILTER.txt"
@@ -30,7 +30,7 @@ jobs:
               rm "./temp/$FILTER.txt"
           done
 
-## commit the changes          
+# Commit Actions          
 
       - name: Start commit change
         run: echo "MSG=Update filter list at $(date +"%Y%m%d")" >> $GITHUB_ENV

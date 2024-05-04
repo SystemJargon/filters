@@ -1,8 +1,9 @@
 name: Update restrict-bypass user_child
 
+# run 2 hours after main.yml
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 3 * * *'
 
 #  workflow_dispatch:
 #  push:
@@ -18,6 +19,8 @@ jobs:
       - name: Update List
         run: |
           cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
+
+# Commit Actions
 
       - name: Commit changes
         uses: EndBug/add-and-commit@main
