@@ -1,13 +1,13 @@
-name: SystemJargon Filters Repo Compiler
+name: SystemJargon Filters - Lists Compiler and Updater
 
 on:
   schedule:
     - cron: '0 1 * * *'
 
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  #workflow_dispatch:
+  #push:
+  #  branches:
+  #    - main
 
 jobs:
   build:
@@ -22,11 +22,7 @@ jobs:
 
 
 # Lists input and output
-    - name: Update Restrict ByPass and No-Social-Media User_Child Lists
-      run: |
-        cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
-        cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
-
+ 
     - name: Compile Security list
       run: hostlist-compiler -c ./source/security.json -o security.txt
       
@@ -69,6 +65,13 @@ jobs:
     - name: Compile No Social Media list
       run: hostlist-compiler -c ./source/no-social-media.json -o no-social-media.txt
 
+# Keep the user_child lists here in this order until after for refresh of main      
+    - name: Update Restrict ByPass and No-Social-Media User_Child Lists
+      run: |
+        cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
+        cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
+
+# Keep the adblock to hosts format syntax below in this order for the refresh of main        
     - name: "Process lists from adblock format to HOSTS format"
       run: |
         FILTERS=("ads" "compromised-domains" "core" "firebog-ticklist" "phishing" "porn" "hostsvn" "restrict-bypass" "security" "telemetry" "threats" "hostsvn" "nrds-30days" "no-social-media")
