@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-04T08:42:10.035Z
+! Last modified: 2024-05-06T01:17:23.902Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2156,12 +2156,10 @@
 ||math.isreally.pro^$ctag=user_child
 ||smellyal.isreally.pro^$ctag=user_child
 ||smellypay.isreally.pro^$ctag=user_child
-||stuffyschicken.isreallycool.lol^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
 ||iwantproxy.com^$ctag=user_child
 ||iweb365.net^$ctag=user_child
-||ixl.plus^$ctag=user_child
 ||jabber-germany.de^$ctag=user_child
 ||jackyes.ovh^$ctag=user_child
 ||tj.jamesxue.xyz^$ctag=user_child
@@ -2276,7 +2274,6 @@
 ||orau.lz0724.com^$ctag=user_child
 ||addns1.m-it.ro^$ctag=user_child
 ||mailkyb.co^$ctag=user_child
-||mainprox.com^$ctag=user_child
 ||mallocapp.com^$ctag=user_child
 ||mallocprivacy.com^$ctag=user_child
 ||dns.mandre.dev^$ctag=user_child
@@ -2458,7 +2455,6 @@
 ||octohide.com^$ctag=user_child
 ||dns.ofdoom.net^$ctag=user_child
 ||okayfreedom.com^$ctag=user_child
-||okofreevpn.com^$ctag=user_child
 ||gravity.omniscien.cl^$ctag=user_child
 ||adguard.oms-ctr.ru^$ctag=user_child
 ||onconnect.info^$ctag=user_child
@@ -2499,7 +2495,6 @@
 ||dns.uk-london-1.oraclecloud.com^$ctag=user_child
 ||dns.us-ashburn-1.oraclecloud.com^$ctag=user_child
 ||dns.us-phoenix-1.oraclecloud.com^$ctag=user_child
-||b.j0.icom.org.np^$ctag=user_child
 ||r.j0.icom.org.np^$ctag=user_child
 ||s.j0.icom.org.np^$ctag=user_child
 ||x.j0.icom.org.np^$ctag=user_child

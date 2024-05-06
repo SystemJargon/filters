@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-04T08:42:10.035Z
+! Last modified: 2024-05-06T01:17:23.902Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2156,12 +2156,10 @@
 ||math.isreally.pro^
 ||smellyal.isreally.pro^
 ||smellypay.isreally.pro^
-||stuffyschicken.isreallycool.lol^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
 ||iwantproxy.com^
 ||iweb365.net^
-||ixl.plus^
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||tj.jamesxue.xyz^
@@ -2276,7 +2274,6 @@
 ||orau.lz0724.com^
 ||addns1.m-it.ro^
 ||mailkyb.co^
-||mainprox.com^
 ||mallocapp.com^
 ||mallocprivacy.com^
 ||dns.mandre.dev^
@@ -2458,7 +2455,6 @@
 ||octohide.com^
 ||dns.ofdoom.net^
 ||okayfreedom.com^
-||okofreevpn.com^
 ||gravity.omniscien.cl^
 ||adguard.oms-ctr.ru^
 ||onconnect.info^
@@ -2499,7 +2495,6 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
-||b.j0.icom.org.np^
 ||r.j0.icom.org.np^
 ||s.j0.icom.org.np^
 ||x.j0.icom.org.np^
