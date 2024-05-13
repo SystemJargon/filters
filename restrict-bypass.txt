@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-06T01:17:23.902Z
+! Last modified: 2024-05-13T01:19:03.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1607,7 +1607,6 @@
 ||chaos-system.de^
 ||dns.charraud.eu^
 ||dns.chenu.ch^
-||dns.chocolatezz.xyz^
 ||dns.chromeina.top^
 ||oraclejp2.chungyu.com^
 ||c.cicitt.ch^
@@ -2008,7 +2007,6 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
-||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||gobestvpn.com^
@@ -2017,6 +2015,7 @@
 ||goldenfrog.com^
 ||dns.goldplate.org^
 ||doh-primary-pool.goodbyegambling.com^
+||dns-tunnel-check.googlezip.net^
 ||vpn.gosami.xyz^
 ||gotrusted.com^
 ||gowork.info^
@@ -2620,9 +2619,7 @@
 ||proxy4down.com^
 ||proxy4free.me^
 ||proxyanonymizer.net^
-||proxyarab.com^
 ||proxybros.com^
-||proxybrowser.org^
 ||proxybrowser.xyz^
 ||proxybuss.com^
 ||proxydrop.com^
@@ -2969,7 +2966,6 @@
 ||threeproxy.net^
 ||thundervpnwin.com^
 ||tigrons.ru^
-||tiiner.com^
 ||timetohide.me^
 ||timmes.nl^
 ||dns.tls-data.de^
@@ -3191,7 +3187,6 @@
 ||virtual-browser.com^
 ||dns.vishalk.com^
 ||vitaproxy.com^
-||stats.volkszaehler.org^
 ||vpn0109.voodonline.fr^
 ||vornz.com^
 ||vpn.ht^
@@ -3258,7 +3253,6 @@
 ||whatsonthebox.net^
 ||whitehatvpn.com^
 ||whyproxy.com^
-||dns.wibenson.cloud^
 ||widevpn.com^
 ||wikimedia-dns.org^
 ||wiksa.com^
@@ -3320,7 +3314,6 @@
 ||zerotier.com^
 ||zerotunnel.com^
 ||zerovpn-app.com^
-||dns.zfsystem.tech^
 ||zougloub.eu^
 ||zpath.net^
 ||a.zpn.me^

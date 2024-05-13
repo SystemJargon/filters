@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-06T01:17:23.902Z
+! Last modified: 2024-05-13T01:19:03.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1607,7 +1607,6 @@
 ||chaos-system.de^$ctag=user_child
 ||dns.charraud.eu^$ctag=user_child
 ||dns.chenu.ch^$ctag=user_child
-||dns.chocolatezz.xyz^$ctag=user_child
 ||dns.chromeina.top^$ctag=user_child
 ||oraclejp2.chungyu.com^$ctag=user_child
 ||c.cicitt.ch^$ctag=user_child
@@ -2008,7 +2007,6 @@
 ||dns.api.sandbox.globuscs.info^$ctag=user_child
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
-||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||gobestvpn.com^$ctag=user_child
@@ -2017,6 +2015,7 @@
 ||goldenfrog.com^$ctag=user_child
 ||dns.goldplate.org^$ctag=user_child
 ||doh-primary-pool.goodbyegambling.com^$ctag=user_child
+||dns-tunnel-check.googlezip.net^$ctag=user_child
 ||vpn.gosami.xyz^$ctag=user_child
 ||gotrusted.com^$ctag=user_child
 ||gowork.info^$ctag=user_child
@@ -2620,9 +2619,7 @@
 ||proxy4down.com^$ctag=user_child
 ||proxy4free.me^$ctag=user_child
 ||proxyanonymizer.net^$ctag=user_child
-||proxyarab.com^$ctag=user_child
 ||proxybros.com^$ctag=user_child
-||proxybrowser.org^$ctag=user_child
 ||proxybrowser.xyz^$ctag=user_child
 ||proxybuss.com^$ctag=user_child
 ||proxydrop.com^$ctag=user_child
@@ -2969,7 +2966,6 @@
 ||threeproxy.net^$ctag=user_child
 ||thundervpnwin.com^$ctag=user_child
 ||tigrons.ru^$ctag=user_child
-||tiiner.com^$ctag=user_child
 ||timetohide.me^$ctag=user_child
 ||timmes.nl^$ctag=user_child
 ||dns.tls-data.de^$ctag=user_child
@@ -3191,7 +3187,6 @@
 ||virtual-browser.com^$ctag=user_child
 ||dns.vishalk.com^$ctag=user_child
 ||vitaproxy.com^$ctag=user_child
-||stats.volkszaehler.org^$ctag=user_child
 ||vpn0109.voodonline.fr^$ctag=user_child
 ||vornz.com^$ctag=user_child
 ||vpn.ht^$ctag=user_child
@@ -3258,7 +3253,6 @@
 ||whatsonthebox.net^$ctag=user_child
 ||whitehatvpn.com^$ctag=user_child
 ||whyproxy.com^$ctag=user_child
-||dns.wibenson.cloud^$ctag=user_child
 ||widevpn.com^$ctag=user_child
 ||wikimedia-dns.org^$ctag=user_child
 ||wiksa.com^$ctag=user_child
@@ -3320,7 +3314,6 @@
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child
 ||zerovpn-app.com^$ctag=user_child
-||dns.zfsystem.tech^$ctag=user_child
 ||zougloub.eu^$ctag=user_child
 ||zpath.net^$ctag=user_child
 ||a.zpn.me^$ctag=user_child
