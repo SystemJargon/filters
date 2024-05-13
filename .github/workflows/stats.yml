@@ -25,13 +25,24 @@ jobs:
 
       - name: Create Stats Report
         run: |
-          echo "Entries:" > list-entries-stats.txt
+          echo "Line Counts:" > list-entries-stats.txt
           echo "Ads: $(cat ads_count.txt)" >> list-entries-stats.txt
           echo "Core Light: $(cat core_light_count.txt)" >> list-entries-stats.txt
           echo "Total: $(($(cat ads_count.txt) + $(cat core_light_count.txt)))" >> list-entries-stats.txt
 
-      - name: Upload Stats Report
-        uses: actions/upload-artifact@v2
+      - name: Start commit change
+        run: echo "MSG=updated stats at $(date +"%Y%m%d")" >> $GITHUB_ENV
+      
+      - name: Commit changes
+        uses: EndBug/add-and-commit@main
         with:
-          name: line-count-stats
-          path: list-entries-stats.txt
+          default_author: github_actions
+          message: ${{ env.MSG }}
+    
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 1
+          keep_minimum_runs: 1
