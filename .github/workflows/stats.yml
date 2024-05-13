@@ -13,22 +13,22 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Clean Previous Stats
-        run: rm -f list-entries-stats.txt ads_count.txt core_light_count.txt
+        run: rm -f ./stats/list-entries-stats.txt ./stats/ads_count.txt ./stats/core_light_count.txt
 
       - name: Count lines in ads.txt
         run: |
-          grep -vE '^[#!]' filters/ads.txt | wc -l > ads_count.txt
+          grep -vE '^[#!]' ads.txt | wc -l > ./stats/ads_count.txt
 
       - name: Count lines in core_light.txt
         run: |
-          grep -vE '^[#!]' filters/core_light.txt | wc -l > core_light_count.txt
+          grep -vE '^[#!]' core_light.txt | wc -l > ./stats/core_light_count.txt
 
       - name: Create Stats Report
         run: |
-          echo "Line Counts:" > list-entries-stats.txt
-          echo "Ads: $(cat ads_count.txt)" >> list-entries-stats.txt
-          echo "Core Light: $(cat core_light_count.txt)" >> list-entries-stats.txt
-          echo "Total: $(($(cat ads_count.txt) + $(cat core_light_count.txt)))" >> list-entries-stats.txt
+          echo "Line Counts:" > ./stats/list-entries-stats.txt
+          echo "Ads: $(cat ./stats/ads_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Core Light: $(cat ./stats/core_light_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Total: $(($(cat ./stats/ads_count.txt) + $(cat ./stats/core_light_count.txt)))" >> ./stats/list-entries-stats.txt
 
       - name: Start commit change
         run: echo "MSG=updated stats at $(date +"%Y%m%d")" >> $GITHUB_ENV
