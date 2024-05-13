@@ -1,0 +1,37 @@
+name: List Entries Stats
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  line-count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Clean Previous Stats
+        run: rm -f list-entries-stats.txt ads_count.txt core_light_count.txt
+
+      - name: Count lines in ads.txt
+        run: |
+          grep -vE '^[#!]' filters/ads.txt | wc -l > ads_count.txt
+
+      - name: Count lines in core_light.txt
+        run: |
+          grep -vE '^[#!]' filters/core_light.txt | wc -l > core_light_count.txt
+
+      - name: Create Stats Report
+        run: |
+          echo "Entries:" > list-entries-stats.txt
+          echo "Ads: $(cat ads_count.txt)" >> list-entries-stats.txt
+          echo "Core Light: $(cat core_light_count.txt)" >> list-entries-stats.txt
+          echo "Total: $(($(cat ads_count.txt) + $(cat core_light_count.txt)))" >> list-entries-stats.txt
+
+      - name: Upload Stats Report
+        uses: actions/upload-artifact@v2
+        with:
+          name: line-count-stats
+          path: list-entries-stats.txt
