@@ -62,10 +62,8 @@ jobs:
       - name: Update README
         run: |
           CONTENT=$(<list-entries-stats.tmp)
-          sed -i 's|{{list_entries_stats}}|'"$CONTENT"'|g' stats/README.md
-
-      - name: Start commit change
-        run: echo "MSG=updated stats at $(date +"%Y%m%d")" >> $GITHUB_ENV
+          sed -i "s|{{list_entries_stats}}|${CONTENT}|g" stats/readme.md
+          rm list-entries-stats.tmp
       
       - name: Commit changes to stats directory
         uses: EndBug/add-and-commit@main
