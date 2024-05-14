@@ -55,6 +55,17 @@ jobs:
           echo "Telemetry: $(cat ./stats/telemetry_count.txt)" >> ./stats/list-entries-stats.txt
           rm ./stats/*_count.txt
 
+      - name: Fetch example content
+        run: |
+          echo "<!-- Start of list-entries-stats.txt -->" > list-content.tmp
+          curl -sSL https://raw.githubusercontent.com/SystemJargon/filters/dev/stats/list-entries-stats.txt >> list-content.tmp
+          echo "<!-- End of list-entries-stats.txt -->" >> list-content.tmp
+      
+      - name: Update readme.md
+        run: |
+          sed -i '/<!-- Start of list-entries-stats.txt -->/,/<!-- End of list-entries-stats.txt -->/d' ./stats/README.md
+          sed -i '/<!-- End of list-entries-stats.txt -->/r list-content.tmp' ./stats/README.md
+
       - name: Start commit change
         run: echo "MSG=updated stats at $(date +"%Y%m%d")" >> $GITHUB_ENV
       
