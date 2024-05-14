@@ -57,7 +57,7 @@ jobs:
 
       - name: Fetch list entries stats
         run: |
-          curl -sSL https://raw.githubusercontent.com/<username>/<repository>/main/stats/list-entries-stats.txt > list-entries-stats.tmp
+          curl -sSL https://raw.githubusercontent.com/SystemJargon/filters/dev/stats/list-entries-stats.txt > list-entries-stats.tmp
       
       - name: Update README
         run: |
