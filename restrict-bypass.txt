@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-13T01:19:03.627Z
+! Last modified: 2024-05-14T02:21:23.813Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1546,6 +1546,12 @@
 ||ns3.bit-trail.nl^
 ||bit123.biz^
 ||dns.bitdefender.net^
+||fra-dns.bitdefender.net^
+||iow-dns.bitdefender.net^
+||lon-dns.bitdefender.net^
+||nvi-dns.bitdefender.net^
+||ore-dns.bitdefender.net^
+||tky-dns.bitdefender.net^
 ||bitping.com^
 ||dns.bitservices.io^
 ||blacklogic.com^
@@ -2007,6 +2013,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||gobestvpn.com^

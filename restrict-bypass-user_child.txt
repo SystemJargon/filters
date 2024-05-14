@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-13T01:19:03.627Z
+! Last modified: 2024-05-14T02:21:23.813Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1546,6 +1546,12 @@
 ||ns3.bit-trail.nl^$ctag=user_child
 ||bit123.biz^$ctag=user_child
 ||dns.bitdefender.net^$ctag=user_child
+||fra-dns.bitdefender.net^$ctag=user_child
+||iow-dns.bitdefender.net^$ctag=user_child
+||lon-dns.bitdefender.net^$ctag=user_child
+||nvi-dns.bitdefender.net^$ctag=user_child
+||ore-dns.bitdefender.net^$ctag=user_child
+||tky-dns.bitdefender.net^$ctag=user_child
 ||bitping.com^$ctag=user_child
 ||dns.bitservices.io^$ctag=user_child
 ||blacklogic.com^$ctag=user_child
@@ -2007,6 +2013,7 @@
 ||dns.api.sandbox.globuscs.info^$ctag=user_child
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
+||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||gobestvpn.com^$ctag=user_child
