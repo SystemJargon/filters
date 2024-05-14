@@ -1,6 +1,10 @@
 name: List Entries Stats
 
 on:
+  schedule:
+    - cron: '20 1 * * *'
+
+  workflow_dispatch:
   push:
     branches:
       - main
