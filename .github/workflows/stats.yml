@@ -3,7 +3,7 @@ name: List Entries Stats
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   line-count:
