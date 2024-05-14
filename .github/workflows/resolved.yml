@@ -1,0 +1,17 @@
+name: resolved
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'resolved'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Close Issue or Request
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: This has been resolved.
