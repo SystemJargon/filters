@@ -54,16 +54,6 @@ jobs:
           echo "Threats: $(cat ./stats/threats_count.txt)" >> ./stats/list-entries-stats.txt
           echo "Telemetry: $(cat ./stats/telemetry_count.txt)" >> ./stats/list-entries-stats.txt
           rm ./stats/*_count.txt
-
-      - name: Fetch list entries stats
-        run: |
-          curl -sSL https://raw.githubusercontent.com/SystemJargon/filters/dev/stats/list-entries-stats.txt > list-entries-stats.tmp
-      
-      - name: Update README
-        run: |
-          CONTENT=$(<list-entries-stats.tmp)
-          sed -i "s|{{list_entries_stats}}|${CONTENT}|g" stats/readme.md
-          rm list-entries-stats.tmp
       
       - name: Commit changes to stats directory
         uses: EndBug/add-and-commit@main
@@ -72,16 +62,6 @@ jobs:
           message: ${{ env.MSG }}
           add: 'stats/*'
 
-#      - name: Commit changes
-#        run: |
-#          git config user.email "actions@users.noreply.github.com"
-#          git config user.name "GitHub Actions"
-#          git add ./stats/*
-#          git commit -m "Updated stats at $(date +"%Y%m%d")"
-#          git push origin HEAD:refs/heads/dev
-#          env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
         with:
