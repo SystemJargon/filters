@@ -6,11 +6,6 @@
             "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
             "type": "adblock"
         },
-	{
-            "name": "StevenBlack - hosts",
-            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
-            "type": "hosts"
-        },
         {
             "name": "OISD - Small",
             "source": "https://small.oisd.nl",
