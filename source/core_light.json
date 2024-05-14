@@ -1,12 +1,7 @@
 {
     "name": "Core Light list - Aggregated by github.com/systemjargon",
     "sources": [
-        {
-            "name": "Adguard DNS Filter",
-            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-            "type": "adblock"
-        },
-		{
+	{
             "name": "Hagezi - Multi Light",
             "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
             "type": "adblock"
@@ -15,12 +10,7 @@
             "name": "OISD - Small",
             "source": "https://small.oisd.nl",
             "type": "adblock"
-        },
-	{
-            "name": "firebog-ticklist-hosts",
-            "source": "https://github.com/SystemJargon/filters/raw/main/firebog-ticklist.txt",
-            "type": "hosts"
-      }
+        }
     ],
     "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
     "exclusions_sources": ["allowlist.txt"]
