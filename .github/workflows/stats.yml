@@ -13,22 +13,47 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Clean Previous Stats
-        run: rm -f ./stats/list-entries-stats.txt ./stats/ads_count.txt ./stats/core_light_count.txt
+        run: rm -f ./stats/list-entries-stats.txt
 
-      - name: Count lines in ads.txt
+      - name: Count lines in lists
         run: |
           grep -vE '^[#!]' ads.txt | wc -l > ./stats/ads_count.txt
-
-      - name: Count lines in core_light.txt
-        run: |
+          grep -vE '^[#!]' allowlist.txt | wc -l > ./stats/allowlist_count.txt
+          grep -vE '^[#!]' compromised-domains.txt | wc -l > ./stats/compromised-domains_count.txt
+          grep -vE '^[#!]' core.txt | wc -l > ./stats/core_count.txt
+          grep -vE '^[#!]' core_heavy.txt | wc -l > ./stats/core_heavy_count.txt
           grep -vE '^[#!]' core_light.txt | wc -l > ./stats/core_light_count.txt
+          grep -vE '^[#!]' firebog-ticklist.txt | wc -l > ./stats/firebog-ticklist_count.txt
+          grep -vE '^[#!]' hostsvn.txt | wc -l > ./stats/hostsvn_count.txt
+          grep -vE '^[#!]' no-social-media.txt | wc -l > ./stats/no-social-media_count.txt
+          grep -vE '^[#!]' nrds-30days.txt | wc -l > ./stats/nrds-30days_count.txt
+          grep -vE '^[#!]' phishing.txt | wc -l > ./stats/phishing_count.txt
+          grep -vE '^[#!]' porn.txt | wc -l > ./stats/porn_count.txt
+          grep -vE '^[#!]' restrict-bypass.txt | wc -l > ./stats/restrict-bypass_count.txt
+          grep -vE '^[#!]' security.txt | wc -l > ./stats/security_count.txt
+          grep -vE '^[#!]' threats.txt | wc -l > ./stats/threats_count.txt
+          grep -vE '^[#!]' telemetry.txt | wc -l > ./stats/telemetry_count.txt
 
       - name: Create Stats Report
         run: |
           echo "Line Counts:" > ./stats/list-entries-stats.txt
           echo "Ads: $(cat ./stats/ads_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Allowlist: $(cat ./stats/allowlist_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Compromised Domains: $(cat ./stats/compromised-domains_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Core: $(cat ./stats/core_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Core Heavy: $(cat ./stats/core_heavy_count.txt)" >> ./stats/list-entries-stats.txt
           echo "Core Light: $(cat ./stats/core_light_count.txt)" >> ./stats/list-entries-stats.txt
-          echo "Total: $(($(cat ./stats/ads_count.txt) + $(cat ./stats/core_light_count.txt)))" >> ./stats/list-entries-stats.txt
+          echo "Firebog Ticklist: $(cat ./stats/firebog-ticklist_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Host SVN: $(cat ./stats/hostsvn_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "No Social Media: $(cat ./stats/no-social-media_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "NRDS 30 Days: $(cat ./stats/nrds-30days_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Phishing: $(cat ./stats/phishing_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Porn: $(cat ./stats/porn_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Restrict Bypass: $(cat ./stats/restrict-bypass_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Security: $(cat ./stats/security_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Threats: $(cat ./stats/threats_count.txt)" >> ./stats/list-entries-stats.txt
+          echo "Telemetry: $(cat ./stats/telemetry_count.txt)" >> ./stats/list-entries-stats.txt
+          rm ./stats/*_count.txt
 
       - name: Start commit change
         run: echo "MSG=updated stats at $(date +"%Y%m%d")" >> $GITHUB_ENV
