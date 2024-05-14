@@ -11,6 +11,8 @@ This Repo is scheduled to automatically update (and it's lists) on a schedule re
 
 Leaving a :star: is much appreciated
 
+Stats click [here](https://github.com/SystemJargon/filters/blob/main/stats/list-entries-stats.txt)
+
 ----
 
 Help and other info about this repo beyond this README maybe available in the [wiki](https://github.com/SystemJargon/filters/wiki)
@@ -29,7 +31,8 @@ Notes:
 
 * Again feel free to 🌟/star the repo.
 
-* Raise any issues or requests [here](https://github.com/SystemJargon/filters/issues/new/choose) 
+* Raise any issues or requests [here](https://github.com/SystemJargon/filters/issues/new/choose)
+  
 
 ----
 
