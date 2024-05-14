@@ -58,11 +58,12 @@ jobs:
       - name: Start commit change
         run: echo "MSG=updated stats at $(date +"%Y%m%d")" >> $GITHUB_ENV
       
-      - name: Commit changes
+      - name: Commit changes to stats directory
         uses: EndBug/add-and-commit@main
         with:
           default_author: github_actions
           message: ${{ env.MSG }}
+          add: 'stats/*'
     
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
