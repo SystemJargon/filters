@@ -11,7 +11,6 @@ on:
 
 jobs:
   build:
-#    runs-on: ubuntu-22.04
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@main
@@ -22,12 +21,8 @@ jobs:
 
 
 # Lists input and output
- 
-    - name: Compile Security list
-      run: hostlist-compiler -c ./source/security.json -o security.txt
-      
-    - name: Compile Phishing list
-      run: hostlist-compiler -c ./source/phishing.json -o phishing.txt
+    - name: Compile Threats list
+      run: hostlist-compiler -c ./source/threats.json -o threats.txt
       
     - name: Compile Ads list
       run: hostlist-compiler -c ./source/ads.json -o ads.txt
@@ -52,18 +47,12 @@ jobs:
       
     - name: Compile Firebog Ticklist
       run: hostlist-compiler -c ./source/firebog-ticklist.json -o firebog-ticklist.txt
- 
-    - name: Compile Threats list
-      run: hostlist-compiler -c ./source/threats.json -o threats.txt
-      
+       
     - name: Compile Allow list
       run: hostlist-compiler -c ./source/allowlist.json -o allowlist.txt
       
     - name: Compile Restrict-ByPass list
       run: hostlist-compiler -c ./source/restrict-bypass.json -o restrict-bypass.txt
-
-    - name: Compile Compromised Domains list
-      run: hostlist-compiler -c ./source/compromised-domains.json -o compromised-domains.txt
       
     - name: Compile Newly Registered Domains 30 Day list
       run: hostlist-compiler -c ./source/nrds-30days.json -o nrds-30days.txt

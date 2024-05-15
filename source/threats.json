@@ -1,11 +1,69 @@
 {
-   "name":"Threats Lists - Created by systemjargon",
+   "name":"Threats Lists - SystemJargon/filters",
    "sources":[
           {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/aggregated-threats-1.txt",
          "type":"adblock"
+      },
+      {
+         "name": "zonefiles-compromised-full",
+         "source": "https://zonefiles.io/f/compromised/domains/full/",
+         "type": "hosts"
+       },
+       {
+         "source":"https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
+         "type":"hosts"
+      },
+      {
+         "source":"https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/invisiblethreat/openphish-pihole/main/openphish.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://phishing.army/download/phishing_army_blocklist_extended.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt",
+		          "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/scam/scam-domains.txt",
+		          "type":"hosts"
+      },
+      {
+	     "source":"https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt",
+		          "type":"hosts"
       }
+
    ],
-   "transformations": ["Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines"],
+   "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
    "exclusions_sources": ["allowlist.txt"]
  }
