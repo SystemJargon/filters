@@ -4,13 +4,8 @@ on:
   schedule:
     - cron: '20 1 * * *'
 
-#  workflow_dispatch:
-#  push:
-#    branches:
-#      - main
-
 jobs:
-  line-count:
+  build-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
