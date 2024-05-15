@@ -2,26 +2,10 @@
    "name":"Threats Lists - Created by systemjargon",
    "sources":[
           {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats.txt",
-         "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/threats-june-2022.txt",
-         "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/bad-image-icon-domains.txt",
-         "type":"hosts"
-      },
-	  {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/IDN_homograph_attack_agh.txt",
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/aggregated-threats-1.txt",
          "type":"adblock"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
-         "type":"hosts"
       }
    ],
-   "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+   "transformations": ["Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines"],
    "exclusions_sources": ["allowlist.txt"]
  }
