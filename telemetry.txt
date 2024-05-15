@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-14T02:19:22.946Z
+! Last modified: 2024-05-15T02:05:06.885Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2422,6 +2422,10 @@
 ||nrdp-ipv6.prod.ftl.netflix.com^
 ||autopush.prod.mozaws.net^
 ||contile.services.mozilla.com^
+||contile-images.services.mozilla.com^
+||coverage.mozilla.org^
+||crash-stats.mozilla.com^
+||crash-stats.mozilla.org^
 ||detectportal.firefox.com^
 ||detectportal.prod.mozaws.net^
 ||firefox.settings.services.mozilla.com^
@@ -2429,6 +2433,9 @@
 ||location.services.mozilla.com^
 ||prod.detectportal.prod.cloudops.mozgcp.net^
 ||push.services.mozilla.com^
+||firefox-android-home-recommendations.getpocket.com^
+||spocs.getpocket.com^
+||topsites.services.mozilla.com^
 ||rewards.brave.com^
 ||variations.brave.com^
 ||edge.microsoft.com^
@@ -2655,6 +2662,11 @@
 ||datacollector-drru.dt.dbankcloud.ru^
 ||grs.platform.dbankcloud.ru^
 ||metrics5.dt.dbankcloud.ru^
+||stats.lineageos.org^
+||account.cyngn.com^
+||api.cyngn.com^
+||shopvac.cyngn.com^
+||stats.cyanogenmod.org^
 ||logs.roku.com^
 ||nmetrics.samsung.com^
 ||insights.samsung.com^
