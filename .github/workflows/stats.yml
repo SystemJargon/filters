@@ -4,13 +4,8 @@ on:
   schedule:
     - cron: '20 1 * * *'
 
-#  workflow_dispatch:
-#  push:
-#    branches:
-#      - main
-
 jobs:
-  line-count:
+  build-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -66,10 +61,6 @@ jobs:
           message: ${{ env.MSG }}
           add: 'stats/*'
 
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@main
-        with:
-          token: ${{ github.token }}
           repository: ${{ github.repository }}
           retain_days: 1
           keep_minimum_runs: 1
