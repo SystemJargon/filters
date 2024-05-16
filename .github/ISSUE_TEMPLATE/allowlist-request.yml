@@ -1,5 +1,5 @@
 name: Allowlist Request
-description: Submit a request for blocked domain or sub-domain/s.
+description: Submit a request to allow a blocked domain/s or sub-domain/s
 labels: ["allowlist-request"]
 assignees: 
   - systemjargon
@@ -7,14 +7,19 @@ body:
   - type: dropdown
     id: blocklists
     attributes:
-      label: Which blocklist are you using?
+      label: Which blocklist are you using from this repo?
       multiple: true
       options:
+        - Ads
         - Core
-        - Phishing
+        - Core Light
+        - Core Heavy
+        - Firebog Ticklist
+        - HostsVN
+        - No Social Media
+        - NRD 30 days
         - Porn
         - Restrict-ByPass
-        - Security
         - Telemetry
         - Threats
     validations:
@@ -23,15 +28,15 @@ body:
   - type: textarea
     id: domains
     attributes:
-      label: Which domain/s or sub-domain/s should be un-blocked?
+      label: Specify the domain/s or sub-domain/s to allow
     validations:
       required: true
   
   - type: textarea
     id: reason
     attributes:
-      label: Why should the domain/s or sub-domain/s be unblocked?
+      label: Why should the domain/s or sub-domain/s be allowed?
       description: |
-        What happens if this is not blocked? What functions do not work for a domain or site? Feel free to add a screenshot.
+        What happens if this is not allowed? What functions do not work for a domain or site? 
     validations:
       required: true
