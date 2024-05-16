@@ -32,18 +32,8 @@
             "type": "adblock"
         },
         {
-            "name": "SystemJargon - Filters Security",
-            "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/security.txt",
-            "type": "adblock"
-        },
-        {
             "name": "SystemJargon - Filters Threats",
             "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/threats.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "SystemJargon - Filters Phishing",
-            "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/phishing.txt",
             "type": "adblock"
         },
 	{
