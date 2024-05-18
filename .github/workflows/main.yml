@@ -48,8 +48,8 @@ jobs:
     - name: Compile Firebog Ticklist
       run: hostlist-compiler -c ./source/firebog-ticklist.json -o firebog-ticklist.txt
        
-    - name: Compile Allow list
-      run: hostlist-compiler -c ./source/allowlist.json -o allowlist.txt
+#    - name: Compile Allow list
+#      run: hostlist-compiler -c ./source/allowlist.json -o allowlist.txt
       
     - name: Compile Restrict-ByPass list
       run: hostlist-compiler -c ./source/restrict-bypass.json -o restrict-bypass.txt
