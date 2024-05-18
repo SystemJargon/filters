@@ -1,12 +1,8 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-18T23:08:28.359Z
+! Last modified: 2024-05-18T23:10:52.635Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
-!
-!
-! Source name: Allowlist
-! Source: https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist.txt
 !
 @@||0.client-channel.google.com^
 @@||1drv.com^
@@ -176,8 +172,3 @@
 @@||youtu.be^
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
-!
-! Source name: Allowlist Requests
-! Source: https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist-request.txt
-!
-# allowlist requests from issues will be added here in this file
