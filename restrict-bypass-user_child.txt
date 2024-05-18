@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-18T02:34:56.601Z
+! Last modified: 2024-05-18T22:53:02.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1577,6 +1577,7 @@
 ||ag.brianlee.fun^$ctag=user_child
 ||bright4good.eco^$ctag=user_child
 ||brightvpn.com^$ctag=user_child
+||britishproxy.com^$ctag=user_child
 ||browsebridge.com^$ctag=user_child
 ||doh.bt.com^$ctag=user_child
 ||bubbleset.com^$ctag=user_child
@@ -1779,6 +1780,7 @@
 ||mainframe.dewed.de^$ctag=user_child
 ||dns.dgea.fr^$ctag=user_child
 ||dialertoserver.com^$ctag=user_child
+||die-pkw-maut.de^$ctag=user_child
 ||digibitdesign.com^$ctag=user_child
 ||disconnect.me^$ctag=user_child
 ||districtnewyork.com^$ctag=user_child
@@ -1947,6 +1949,7 @@
 ||fortniters.info^$ctag=user_child
 ||forwardproxie.com^$ctag=user_child
 ||frandcomfort.us^$ctag=user_child
+||free-proxy.xyz^$ctag=user_child
 ||free-signal.com^$ctag=user_child
 ||free2surfvpn.com^$ctag=user_child
 ||freeanimesonline.com^$ctag=user_child
@@ -2016,7 +2019,6 @@
 ||dns.api.sandbox.globuscs.info^$ctag=user_child
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
-||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||gobestvpn.com^$ctag=user_child
@@ -2033,6 +2035,7 @@
 ||gracarno.com^$ctag=user_child
 ||c.gracemp.org^$ctag=user_child
 ||granules.us^$ctag=user_child
+||gratisproxy.nl^$ctag=user_child
 ||greenpass.info^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
 ||vps.grussenmeyer.com^$ctag=user_child
@@ -2159,7 +2162,6 @@
 ||ipunblocker.com^$ctag=user_child
 ||dns.ipv6dns.com^$ctag=user_child
 ||ipvpn.info^$ctag=user_child
-||irre.li^$ctag=user_child
 ||dns1.irumatech.com^$ctag=user_child
 ||dns.islandnet.com^$ctag=user_child
 ||math.isreally.pro^$ctag=user_child
@@ -2169,6 +2171,7 @@
 ||ivnkn.xyz^$ctag=user_child
 ||iwantproxy.com^$ctag=user_child
 ||iweb365.net^$ctag=user_child
+||ixl.plus^$ctag=user_child
 ||jabber-germany.de^$ctag=user_child
 ||jackyes.ovh^$ctag=user_child
 ||tj.jamesxue.xyz^$ctag=user_child
@@ -2178,7 +2181,6 @@
 ||jetbean.com^$ctag=user_child
 ||jetproxy.com^$ctag=user_child
 ||jfalling.com^$ctag=user_child
-||adguard.jfchenier.ca^$ctag=user_child
 ||dns.jinwoo.dev^$ctag=user_child
 ||vps.jmarkin.ru^$ctag=user_child
 ||adg.jnorton.us^$ctag=user_child
@@ -2279,6 +2281,7 @@
 ||ns.lov.host^$ctag=user_child
 ||n5.lsasss.com^$ctag=user_child
 ||ltlxvxjjmvhn.me^$ctag=user_child
+||lurk.info^$ctag=user_child
 ||dns.lvolland.fr^$ctag=user_child
 ||orau.lz0724.com^$ctag=user_child
 ||addns1.m-it.ro^$ctag=user_child
@@ -2294,8 +2297,10 @@
 ||maskedip.com^$ctag=user_child
 ||master-clock.us^$ctag=user_child
 ||masters-of-cloud.de^$ctag=user_child
+||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||dns.mathewakhil.online^$ctag=user_child
 ||mathhelpnow.site^$ctag=user_child
+||mathlearning.tech^$ctag=user_child
 ||mathnotes.help^$ctag=user_child
 ||mathnotes.icu^$ctag=user_child
 ||maxfong.cc^$ctag=user_child
@@ -2548,6 +2553,7 @@
 ||dns.pesaventofilippo.com^$ctag=user_child
 ||dns.phillipjberry.net^$ctag=user_child
 ||phpbido.com^$ctag=user_child
+||phproxysite.com^$ctag=user_child
 ||piaproxy.net^$ctag=user_child
 ||adguard.piekacz.pl^$ctag=user_child
 ||dns1.pietjacobs.be^$ctag=user_child
@@ -2602,6 +2608,7 @@
 ||prontoproxy.info^$ctag=user_child
 ||propage.info^$ctag=user_child
 ||youth.prosports.cl^$ctag=user_child
+||prounlock.org^$ctag=user_child
 ||prox.pw^$ctag=user_child
 ||prox.rocks^$ctag=user_child
 ||proxery.com^$ctag=user_child
@@ -2618,6 +2625,7 @@
 ||proxite.in^$ctag=user_child
 ||proxite.ws^$ctag=user_child
 ||proxy.nu^$ctag=user_child
+||proxy.red^$ctag=user_child
 ||proxy.rocks^$ctag=user_child
 ||proxy.sx^$ctag=user_child
 ||proxy-123.com^$ctag=user_child
@@ -3038,6 +3046,7 @@
 ||ubint.net^$ctag=user_child
 ||ublocker.info^$ctag=user_child
 ||ugdsoft.com^$ctag=user_child
+||uinlive-time.com^$ctag=user_child
 ||webproxy.uk.com^$ctag=user_child
 ||ukwebproxy.eu^$ctag=user_child
 ||adguard-ironhide.ultima-thule.ru^$ctag=user_child
@@ -3213,6 +3222,7 @@
 ||vpncentral.com^$ctag=user_child
 ||vpndaily.com^$ctag=user_child
 ||vpnhellings.nl^$ctag=user_child
+||vpnintouch.com^$ctag=user_child
 ||vpnliebao.com^$ctag=user_child
 ||vpnmasterx.com^$ctag=user_child
 ||vpnmonster.ru^$ctag=user_child
@@ -3254,6 +3264,7 @@
 ||webrunnerproxy.com^$ctag=user_child
 ||webshare.io^$ctag=user_child
 ||janvet.website.pl^$ctag=user_child
+||websitebypass.com^$ctag=user_child
 ||websiteproxy.net^$ctag=user_child
 ||websynchrony.com^$ctag=user_child
 ||webtunnelx.com^$ctag=user_child
@@ -3321,6 +3332,7 @@
 ||zagbit.com^$ctag=user_child
 ||zburger.top^$ctag=user_child
 ||zenrows.com^$ctag=user_child
+||doh.zephyrus.id^$ctag=user_child
 ||adguard-kartoffel.zernico.de^$ctag=user_child
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child

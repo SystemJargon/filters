@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-18T02:34:56.601Z
+! Last modified: 2024-05-18T22:53:02.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1577,6 +1577,7 @@
 ||ag.brianlee.fun^
 ||bright4good.eco^
 ||brightvpn.com^
+||britishproxy.com^
 ||browsebridge.com^
 ||doh.bt.com^
 ||bubbleset.com^
@@ -1779,6 +1780,7 @@
 ||mainframe.dewed.de^
 ||dns.dgea.fr^
 ||dialertoserver.com^
+||die-pkw-maut.de^
 ||digibitdesign.com^
 ||disconnect.me^
 ||districtnewyork.com^
@@ -1947,6 +1949,7 @@
 ||fortniters.info^
 ||forwardproxie.com^
 ||frandcomfort.us^
+||free-proxy.xyz^
 ||free-signal.com^
 ||free2surfvpn.com^
 ||freeanimesonline.com^
@@ -2016,7 +2019,6 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
-||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||gobestvpn.com^
@@ -2033,6 +2035,7 @@
 ||gracarno.com^
 ||c.gracemp.org^
 ||granules.us^
+||gratisproxy.nl^
 ||greenpass.info^
 ||dns.grqu.de^
 ||vps.grussenmeyer.com^
@@ -2159,7 +2162,6 @@
 ||ipunblocker.com^
 ||dns.ipv6dns.com^
 ||ipvpn.info^
-||irre.li^
 ||dns1.irumatech.com^
 ||dns.islandnet.com^
 ||math.isreally.pro^
@@ -2169,6 +2171,7 @@
 ||ivnkn.xyz^
 ||iwantproxy.com^
 ||iweb365.net^
+||ixl.plus^
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||tj.jamesxue.xyz^
@@ -2178,7 +2181,6 @@
 ||jetbean.com^
 ||jetproxy.com^
 ||jfalling.com^
-||adguard.jfchenier.ca^
 ||dns.jinwoo.dev^
 ||vps.jmarkin.ru^
 ||adg.jnorton.us^
@@ -2279,6 +2281,7 @@
 ||ns.lov.host^
 ||n5.lsasss.com^
 ||ltlxvxjjmvhn.me^
+||lurk.info^
 ||dns.lvolland.fr^
 ||orau.lz0724.com^
 ||addns1.m-it.ro^
@@ -2294,8 +2297,10 @@
 ||maskedip.com^
 ||master-clock.us^
 ||masters-of-cloud.de^
+||adsadkjsadjksakldjxx.math-solver.online^
 ||dns.mathewakhil.online^
 ||mathhelpnow.site^
+||mathlearning.tech^
 ||mathnotes.help^
 ||mathnotes.icu^
 ||maxfong.cc^
@@ -2548,6 +2553,7 @@
 ||dns.pesaventofilippo.com^
 ||dns.phillipjberry.net^
 ||phpbido.com^
+||phproxysite.com^
 ||piaproxy.net^
 ||adguard.piekacz.pl^
 ||dns1.pietjacobs.be^
@@ -2602,6 +2608,7 @@
 ||prontoproxy.info^
 ||propage.info^
 ||youth.prosports.cl^
+||prounlock.org^
 ||prox.pw^
 ||prox.rocks^
 ||proxery.com^
@@ -2618,6 +2625,7 @@
 ||proxite.in^
 ||proxite.ws^
 ||proxy.nu^
+||proxy.red^
 ||proxy.rocks^
 ||proxy.sx^
 ||proxy-123.com^
@@ -3038,6 +3046,7 @@
 ||ubint.net^
 ||ublocker.info^
 ||ugdsoft.com^
+||uinlive-time.com^
 ||webproxy.uk.com^
 ||ukwebproxy.eu^
 ||adguard-ironhide.ultima-thule.ru^
@@ -3213,6 +3222,7 @@
 ||vpncentral.com^
 ||vpndaily.com^
 ||vpnhellings.nl^
+||vpnintouch.com^
 ||vpnliebao.com^
 ||vpnmasterx.com^
 ||vpnmonster.ru^
@@ -3254,6 +3264,7 @@
 ||webrunnerproxy.com^
 ||webshare.io^
 ||janvet.website.pl^
+||websitebypass.com^
 ||websiteproxy.net^
 ||websynchrony.com^
 ||webtunnelx.com^
@@ -3321,6 +3332,7 @@
 ||zagbit.com^
 ||zburger.top^
 ||zenrows.com^
+||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
 ||zerotunnel.com^

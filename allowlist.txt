@@ -1,14 +1,20 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-18T02:34:55.822Z
+! Last modified: 2024-05-18T22:53:00.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
-||chatgpt.com^
-||chat.openai.com^
+!
+! Source name: Allowlist
+! Source: https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist.txt
+!
+# Title: Allowlist of domains compiled by SystemJargon - Filters Repo
+# Link: https://www.github.com/systemjargon/filters
 ||0.client-channel.google.com^
 ||1drv.com^
 ||2.android.pool.ntp.org^
+||adaway.org^
+||akamai.net^
 ||akamaihd.net^
 ||akamaitechnologies.com^
 ||akamaized.net^
@@ -19,6 +25,7 @@
 ||app-api.ted.com^
 ||appleid.apple.com^
 ||apps.skype.com^
+||appspot-preview.l.google.com^
 ||apt.sonarr.tv^
 ||aspnetcdn.com^
 ||attestation.xboxlive.com^
@@ -38,10 +45,13 @@
 ||clients4.google.com^
 ||clients5.google.com^
 ||clients6.google.com^
+||connectivitycheck.android.com^
+||continuum.dds.microsoft.com^
 ||cpms.spop10.ams.plex.bz^
 ||cpms35.spop10.ams.plex.bz^
 ||cse.google.com^
 ||ctldl.windowsupdate.com^
+||cws.conviva.com^
 ||d2c8v52ll5s99u.cloudfront.net^
 ||d2gatte9o95jao.cloudfront.net^
 ||dashboard.plex.tv^
@@ -60,17 +70,23 @@
 ||driftt.com^
 ||edge.api.brightcove.com^
 ||eds.xboxlive.com^
+||firebog.net^
 ||forums.sonarr.tv^
 ||geo-prod.do.dsp.mp.microsoft.com^
 ||geo3.ggpht.com^
+||gfwsl.geforce.com^
 ||giphy.com^
 ||github.com^
+||github.dev^
 ||github.io^
+||githubusercontent.com^
+||gitlab.com^
 ||googleapis.com^
 ||gravatar.com^
 ||gstatic.com^
 ||help.ui.xboxlive.com^
 ||hls.ted.com^
+||hostfiles.frogeye.fr^
 ||i.ytimg.com^
 ||i1.ytimg.com^
 ||imagesak.secureserver.net^
@@ -83,6 +99,7 @@
 ||keystone.mwbsys.com^
 ||licensing.xboxlive.com^
 ||live.com^
+||livepassdl.conviva.com^
 ||manifest.googlevideo.com^
 ||meta-db-worker02.pop.ric.plex.bz^
 ||meta.plex.bz^
@@ -91,11 +108,11 @@
 ||mobile.pipe.aria.microsoft.com^
 ||msftncsi.com^
 ||my.plexapp.com^
-||npr-news.streaming.adswizz.com^
 ||nine.plugins.plexapp.com^
 ||no-ip.com^
 ||node.plexapp.com^
 ||notify.xboxlive.com^
+||npr-news.streaming.adswizz.com^
 ||ns1.dropbox.com^
 ||ns2.dropbox.com^
 ||o1.email.plex.tv^
@@ -106,6 +123,7 @@
 ||office365.com^
 ||officeclient.microsoft.com^
 ||om.cbsi.com^
+||pings.conviva.com^
 ||placehold.it^
 ||pricelist.skype.com^
 ||proxy.plex.bz^
@@ -146,10 +164,12 @@
 ||ui.skype.com^
 ||video-stats.l.google.com^
 ||videos.vidible.tv^
+||vidtech.cbsinteractive.com^
 ||widget-cdn.rpxnow.com^
 ||win10.ipv6.microsoft.com^
 ||wp.com^
 ||ws.audioscrobbler.com^
+||www.msftconnecttest.com^
 ||xbox.ipv6.microsoft.com^
 ||xboxexperiencesprod.experimentation.xboxlive.com^
 ||xflight.xboxlive.com^
@@ -158,19 +178,8 @@
 ||youtu.be^
 ||youtube-nocookie.com^
 ||yt3.ggpht.com^
-||pings.conviva.com^
-||cws.conviva.com^
-||livepassdl.conviva.com^
-||gfwsl.geforce.com^
-||appspot-preview.l.google.com^
-||vidtech.cbsinteractive.com^
-||continuum.dds.microsoft.com^
-||connectivitycheck.android.com^
-||www.msftconnecttest.com^
-||github.dev^
-||githubusercontent.com^
-||gitlab.com^
-||firebog.net^
-||hostfiles.frogeye.fr^
-||adaway.org^
-||akamai.net^
+!
+! Source name: Allowlist Requests
+! Source: https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist-request.txt
+!
+# allowlist requests from issues will be added here in this file
