@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-16T19:45:33.680Z
+! Last modified: 2024-05-18T02:34:56.601Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1615,6 +1615,7 @@
 ||chaos-system.de^
 ||dns.charraud.eu^
 ||dns.chenu.ch^
+||chinagrows.com^
 ||dns.chromeina.top^
 ||oraclejp2.chungyu.com^
 ||c.cicitt.ch^
@@ -1625,6 +1626,7 @@
 ||mus.cisco.com^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
+||clickapp.info^
 ||clickwork7secure.com^
 ||cloaker.ca^
 ||cloaker.us^
@@ -1849,7 +1851,6 @@
 ||takhtakh.domyah.net^
 ||ns1.dotls.org^
 ||dns.dotnet.win^
-||family.dns.doubleangels.com^
 ||doh.dscloud.me^
 ||duapps.com^
 ||aattwwss.duckdns.org^
@@ -2503,6 +2504,7 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
+||b.j0.icom.org.np^
 ||r.j0.icom.org.np^
 ||s.j0.icom.org.np^
 ||x.j0.icom.org.np^
@@ -3323,6 +3325,7 @@
 ||zerotier.com^
 ||zerotunnel.com^
 ||zerovpn-app.com^
+||dns.zfsystem.tech^
 ||zougloub.eu^
 ||zpath.net^
 ||a.zpn.me^
