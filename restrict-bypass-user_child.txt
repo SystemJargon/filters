@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-16T19:45:33.680Z
+! Last modified: 2024-05-18T02:34:56.601Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1615,6 +1615,7 @@
 ||chaos-system.de^$ctag=user_child
 ||dns.charraud.eu^$ctag=user_child
 ||dns.chenu.ch^$ctag=user_child
+||chinagrows.com^$ctag=user_child
 ||dns.chromeina.top^$ctag=user_child
 ||oraclejp2.chungyu.com^$ctag=user_child
 ||c.cicitt.ch^$ctag=user_child
@@ -1625,6 +1626,7 @@
 ||mus.cisco.com^$ctag=user_child
 ||dns.clanless.ovh^$ctag=user_child
 ||dns.clanto.cloud^$ctag=user_child
+||clickapp.info^$ctag=user_child
 ||clickwork7secure.com^$ctag=user_child
 ||cloaker.ca^$ctag=user_child
 ||cloaker.us^$ctag=user_child
@@ -1849,7 +1851,6 @@
 ||takhtakh.domyah.net^$ctag=user_child
 ||ns1.dotls.org^$ctag=user_child
 ||dns.dotnet.win^$ctag=user_child
-||family.dns.doubleangels.com^$ctag=user_child
 ||doh.dscloud.me^$ctag=user_child
 ||duapps.com^$ctag=user_child
 ||aattwwss.duckdns.org^$ctag=user_child
@@ -2503,6 +2504,7 @@
 ||dns.uk-london-1.oraclecloud.com^$ctag=user_child
 ||dns.us-ashburn-1.oraclecloud.com^$ctag=user_child
 ||dns.us-phoenix-1.oraclecloud.com^$ctag=user_child
+||b.j0.icom.org.np^$ctag=user_child
 ||r.j0.icom.org.np^$ctag=user_child
 ||s.j0.icom.org.np^$ctag=user_child
 ||x.j0.icom.org.np^$ctag=user_child
@@ -3323,6 +3325,7 @@
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child
 ||zerovpn-app.com^$ctag=user_child
+||dns.zfsystem.tech^$ctag=user_child
 ||zougloub.eu^$ctag=user_child
 ||zpath.net^$ctag=user_child
 ||a.zpn.me^$ctag=user_child

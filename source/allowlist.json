@@ -2,15 +2,15 @@
     "name": "Allowlist for Filters Repo - Aggregated by github.com/systemjargon",
     "sources": [
       {
-        "name": "SystemJargon Core-Allowlist",
-        "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist.txt",
+        "name": "Allowlist",
+        "source": "https://raw.githubusercontent.com/SystemJargon/filters/dev/allowlist/allowlist.txt",
         "type": "hosts"
       },
 	  	  {
-		"name": "List sites",
-		"source":"https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/list-domains.txt",
+		"name": "Allowlist Requests",
+		"source":"https://raw.githubusercontent.com/SystemJargon/filters/dev/allowlist/allowlist-request.txt",
 		"type":"hosts"
       }
    ],
-   "transformations": ["Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines","RemoveComments"]
+   "transformations": ["Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
  }

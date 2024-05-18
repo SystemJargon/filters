@@ -4,10 +4,10 @@ on:
   schedule:
     - cron: '0 1 * * *'
 
- # workflow_dispatch:
- # push:
- #   branches:
- #     - main
+#  workflow_dispatch:
+#  push:
+#    branches:
+#     - dev
 
 jobs:
   build:
@@ -65,8 +65,8 @@ jobs:
         cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
         cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
 
-        - name: Clean Previous Stats
-        run: rm -f ./stats/list-entries-stats.txt
+    - name: Clean Previous Stats
+      run: rm -f ./stats/list-entries-stats.txt
 
     - name: Count lines in lists
       run: |
