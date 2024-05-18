@@ -3,12 +3,12 @@
     "sources": [
       {
         "name": "Allowlist",
-        "source": "https://raw.githubusercontent.com/SystemJargon/filters/dev/allowlist/allowlist.txt",
+        "source": "https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist.txt",
         "type": "hosts"
       },
 	  	  {
 		"name": "Allowlist Requests",
-		"source":"https://raw.githubusercontent.com/SystemJargon/filters/dev/allowlist/allowlist-request.txt",
+		"source":"https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist/allowlist-request.txt",
 		"type":"hosts"
       }
    ],
