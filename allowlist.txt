@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-19T06:09:45.200Z
+! Last modified: 2024-05-19T07:28:17.178Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -39,6 +39,7 @@
 @@||clients4.google.com^
 @@||clients5.google.com^
 @@||clients6.google.com^
+@@||configuration.apple.com^
 @@||connectivitycheck.android.com^
 @@||continuum.dds.microsoft.com^
 @@||cpms.spop10.ams.plex.bz^
@@ -78,6 +79,7 @@
 @@||googleapis.com^
 @@||gravatar.com^
 @@||gstatic.com^
+@@||gs-loc.apple.com^
 @@||help.ui.xboxlive.com^
 @@||hls.ted.com^
 @@||hostfiles.frogeye.fr^
@@ -94,6 +96,7 @@
 @@||licensing.xboxlive.com^
 @@||live.com^
 @@||livepassdl.conviva.com^
+@@||ls.apple.com^
 @@||manifest.googlevideo.com^
 @@||meta-db-worker02.pop.ric.plex.bz^
 @@||meta.plex.bz^
