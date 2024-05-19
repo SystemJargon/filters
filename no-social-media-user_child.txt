@@ -1,6 +1,6 @@
 !
 ! Title: No-Social-Media List - Created by systemjargon
-! Last modified: 2024-05-18T22:54:03.118Z
+! Last modified: 2024-05-19T02:09:16.478Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -15,6 +15,7 @@
 ||addthis.com^$ctag=user_child
 ||advogato.org^$ctag=user_child
 ||agentb.com^$ctag=user_child
+||akamai.net^$ctag=user_child
 ||albicla.com^$ctag=user_child
 ||allmyfavorites.net^$ctag=user_child
 ||allrecipes.com^$ctag=user_child
