@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-19T02:12:28.117Z
+! Last modified: 2024-05-20T02:11:35.292Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -17,7 +17,7 @@
 @@||api.ipify.org^
 @@||api.rlje.net^
 @@||app-api.ted.com^
-@@||appleid.apple.com^
+@@||apple.com^
 @@||apps.skype.com^
 @@||appspot-preview.l.google.com^
 @@||apt.sonarr.tv^
@@ -111,7 +111,6 @@
 @@||ns2.dropbox.com^
 @@||o1.email.plex.tv^
 @@||o2.sg0.plex.tv^
-@@||ocsp.apple.com^
 @@||office.com^
 @@||office.net^
 @@||office365.com^
