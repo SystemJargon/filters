@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-20T02:07:09.722Z
+! Last modified: 2024-05-21T02:04:33.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2019,6 +2019,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||gobestvpn.com^
@@ -2054,7 +2055,6 @@
 ||dns.haoxuan.xyz^
 ||resolver-eu.haringstad.com^
 ||hauxcore.de^
-||us-ny-alula.heliumcloud.cc^
 ||dns.henek.ovh^
 ||betternet-backend.herokuapp.com^
 ||ad1.heronet.nl^
@@ -2167,6 +2167,7 @@
 ||math.isreally.pro^
 ||smellyal.isreally.pro^
 ||smellypay.isreally.pro^
+||stuffyschicken.isreallycool.lol^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
 ||iwantproxy.com^
@@ -2565,6 +2566,7 @@
 ||pkw-aufladen.de^
 ||placenetworks.com^
 ||plainproxies.com^
+||play5r.com^
 ||playproxy.com^
 ||secure-dns.pleumkungz.com^
 ||privacy.plumedns.com^
@@ -2638,6 +2640,7 @@
 ||proxy4down.com^
 ||proxy4free.me^
 ||proxyanonymizer.net^
+||proxyarab.com^
 ||proxybros.com^
 ||proxybrowser.xyz^
 ||proxybuss.com^
@@ -2715,6 +2718,7 @@
 ||dns.rbn.gr^
 ||dns.reckoningslug.name^
 ||redproxy.info^
+||redschool.info^
 ||redus.info^
 ||reflect4.me^
 ||remotevpn.net^

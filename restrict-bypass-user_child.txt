@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-20T02:07:09.722Z
+! Last modified: 2024-05-21T02:04:33.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2019,6 +2019,7 @@
 ||dns.api.sandbox.globuscs.info^$ctag=user_child
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
+||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||gobestvpn.com^$ctag=user_child
@@ -2054,7 +2055,6 @@
 ||dns.haoxuan.xyz^$ctag=user_child
 ||resolver-eu.haringstad.com^$ctag=user_child
 ||hauxcore.de^$ctag=user_child
-||us-ny-alula.heliumcloud.cc^$ctag=user_child
 ||dns.henek.ovh^$ctag=user_child
 ||betternet-backend.herokuapp.com^$ctag=user_child
 ||ad1.heronet.nl^$ctag=user_child
@@ -2167,6 +2167,7 @@
 ||math.isreally.pro^$ctag=user_child
 ||smellyal.isreally.pro^$ctag=user_child
 ||smellypay.isreally.pro^$ctag=user_child
+||stuffyschicken.isreallycool.lol^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
 ||iwantproxy.com^$ctag=user_child
@@ -2565,6 +2566,7 @@
 ||pkw-aufladen.de^$ctag=user_child
 ||placenetworks.com^$ctag=user_child
 ||plainproxies.com^$ctag=user_child
+||play5r.com^$ctag=user_child
 ||playproxy.com^$ctag=user_child
 ||secure-dns.pleumkungz.com^$ctag=user_child
 ||privacy.plumedns.com^$ctag=user_child
@@ -2638,6 +2640,7 @@
 ||proxy4down.com^$ctag=user_child
 ||proxy4free.me^$ctag=user_child
 ||proxyanonymizer.net^$ctag=user_child
+||proxyarab.com^$ctag=user_child
 ||proxybros.com^$ctag=user_child
 ||proxybrowser.xyz^$ctag=user_child
 ||proxybuss.com^$ctag=user_child
@@ -2715,6 +2718,7 @@
 ||dns.rbn.gr^$ctag=user_child
 ||dns.reckoningslug.name^$ctag=user_child
 ||redproxy.info^$ctag=user_child
+||redschool.info^$ctag=user_child
 ||redus.info^$ctag=user_child
 ||reflect4.me^$ctag=user_child
 ||remotevpn.net^$ctag=user_child
