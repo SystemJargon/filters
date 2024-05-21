@@ -36,24 +36,22 @@ Notes:
 
 ----
 
+
 ## The Lists
 
-| List Type | File | Raw Link | Description |
-|--------|------|----------|-------------|
-| ✅ | [Allowlist](allowlist.txt) | [Raw Link](https://raw.githubusercontent.com/SystemJargon/filters/main/allowlist.txt) | Allow list for common services and sites |
-| 🚫 | [Core list](core.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core.txt) | A Normal blocklist, but without much risk of False positives or things being blocked |
-| 🚫 | [Core Light list](core_light.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core_light.txt) | Lighter than the normal blocklist. Much less risk of False positives or things being blocked |
-| 🚫 | [Core Heavy list](core_heavy.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/core_heavy.txt) | Heavy list. More sources aggregated from Ads, Phishing, Telemetry, Threats, Scams, Malware and more. More risk of False positives or things being blocked and needing an allowlist. This also uses my Ads, Security, Threats, Phishing lists. |
-| 🚫 | [Porn list](porn.txt) | [Raw Link](https://raw.githubusercontent.com//systemjargon/filters/main/porn.txt) | Blocklist well beyond 1 million entries across several lists for porn |
-| 🚫 | [Threats list](threats.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/threats.txt) | Blocklist aggregated from multiple blocklists. Covers phishing, spam, scam, coinminer, malware, bad reputation categories and general security. This list also combines lists known as compromised domains, phishing and security. |
-| 🚫 | [Telemetry list](telemetry.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt) | Big custom blocklist for Telemetry via SmartTV, Amazon, Windows, Android, iOS, and additional Firebog telemetry lists |
-| 🚫 | [Advertising list](ads.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt) | Blocklist which is some of my own and aggregated popular adlists across Github and other places |
-| 🚫 | [FireBog Ticklist](firebog-ticklist.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt) | The blocklists which feature on the [Firebog ticklist here](https://v.firebog.net/hosts/lists.php?type=tick) |
-| 🚫 | [Restrict-ByPass list](restrict-bypass.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass.txt) | My own curated list with supplement lists aggregated. The Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
-| 🚫 | [Restrict-ByPass User_Child list](restrict-bypass-user_child.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass-user_child.txt) | My own curated list with supplement lists aggregated. This differs from restrict-bypass.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as restrict-bypass.txt. Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
-| 🚫 | [NRDs list](nrds-30days.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/nrds-30days.txt) | Blocklist aggregated from Newly Registered Domains lists. These are NRDs registered in the last 30 days. |
-| 🚫 | [No Social Media list](no-social-media.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/no-social-media.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. |
-| 🚫 | [No Social Media list User_Child list](no-social-media-user_child.txt) | [Raw Link](https://raw.githubusercontent.com/systemjargon/filters/main/no-social-media-user_child.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. This differs from no-social-media.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as no-social-media.txt |
-----
-
-
+| List Type | File | Description |
+|--------|------|-------------|
+| ✅ | [Allowlist](allowlist.txt) | Allow list for common services and sites |
+| 🚫 | [Core list](core.txt) | A Normal blocklist, but without much risk of False positives or things being blocked |
+| 🚫 | [Core Light list](core_light.txt) | Lighter than the normal blocklist. Much less risk of False positives or things being blocked |
+| 🚫 | [Core Heavy list](core_heavy.txt) | Heavy list. More sources aggregated from Ads, Phishing, Telemetry, Threats, Scams, Malware and more. More risk of False positives or things being blocked and needing an allowlist. This also uses my Ads, Security, Threats, Phishing lists. |
+| 🚫 | [Porn list](porn.txt) | Blocklist well beyond 1 million entries across several lists for porn |
+| 🚫 | [Threats list](threats.txt) | Blocklist aggregated from multiple blocklists. Covers phishing, spam, scam, coinminer, malware, bad reputation categories and general security. This list also combines lists known as compromised domains, phishing and security. |
+| 🚫 | [Telemetry list](telemetry.txt) | Big custom blocklist for Telemetry via SmartTV, Amazon, Windows, Android, iOS, and additional Firebog telemetry lists |
+| 🚫 | [Advertising list](ads.txt) | Blocklist which is some of my own and aggregated popular adlists across Github and other places |
+| 🚫 | [FireBog Ticklist](firebog-ticklist.txt) | The blocklists which feature on the [Firebog ticklist here](https://v.firebog.net/hosts/lists.php?type=tick) |
+| 🚫 | [Restrict-ByPass list](restrict-bypass.txt) | My own curated list with supplement lists aggregated. The Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
+| 🚫 | [Restrict-ByPass User_Child list](restrict-bypass-user_child.txt) | My own curated list with supplement lists aggregated. This differs from restrict-bypass.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as restrict-bypass.txt. Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
+| 🚫 | [NRDs list](nrds-30days.txt) | Blocklist aggregated from Newly Registered Domains lists. These are NRDs registered in the last 30 days. |
+| 🚫 | [No Social Media list](no-social-media.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. |
+| 🚫 | [No Social Media list User_Child list](no-social-media-user_child.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. This differs from no-social-media.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as no-social-media.txt |
