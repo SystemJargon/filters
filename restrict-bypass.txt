@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-21T02:04:33.446Z
+! Last modified: 2024-05-22T02:05:22.832Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1670,7 +1670,6 @@
 ||adguard.cloudmini.net^
 ||dns-secondary.cloudnx.cloud^
 ||cloudnymous.com^
-||dns.cloudseriousshit.com^
 ||dns-fr-psv1.cloudsides.com^
 ||dns.cloudtrust.solutions^
 ||ca.doh.cloudveil.org^
@@ -3028,7 +3027,6 @@
 ||trlone.com^
 ||nebula.tru.io^
 ||trueproxy.com^
-||dns.truong.fi^
 ||dns.trust404.win^
 ||trustedproxies.com^
 ||truta.org^
