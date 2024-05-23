@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-22T02:05:22.832Z
+! Last modified: 2024-05-23T02:04:36.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1676,7 +1676,6 @@
 ||us.doh.cloudveil.org^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
 ||doh.cnetwork.cloud^$ctag=user_child
-||adguard.aa4.co.uk^$ctag=user_child
 ||binhexsolutions.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
 ||pihole.datamatter.co.za^$ctag=user_child
@@ -1838,7 +1837,6 @@
 ||yul01.dnscry.pt^$ctag=user_child
 ||zal01.dnscry.pt^$ctag=user_child
 ||do.dnscrypt.uk^$ctag=user_child
-||dnsenc.com^$ctag=user_child
 ||n.dnsmirror.org^$ctag=user_child
 ||dns.dnssilo.top^$ctag=user_child
 ||dnswebvsn.com^$ctag=user_child
@@ -2181,6 +2179,7 @@
 ||jetbean.com^$ctag=user_child
 ||jetproxy.com^$ctag=user_child
 ||jfalling.com^$ctag=user_child
+||adguard.jfchenier.ca^$ctag=user_child
 ||dns.jinwoo.dev^$ctag=user_child
 ||vps.jmarkin.ru^$ctag=user_child
 ||adg.jnorton.us^$ctag=user_child
