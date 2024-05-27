@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-05-26T02:08:41.576Z
+! Last modified: 2024-05-27T02:06:27.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1396,8 +1396,6 @@
 ||3dns.eu^
 ||3proxy.de^
 ||dns.4-the.win^
-||42kjb11.net^
-||46sdzf3zdg1dxg2.us^
 ||4proxy.de^
 ||ios.4webhelp.ca^
 ||4youproxyweb.com^
@@ -1479,14 +1477,12 @@
 ||anonymurl.biz^
 ||anonypost.com^
 ||anonyproxy.biz^
-||anonyproz.com^
 ||anonysurf.com^
 ||antycenzor.pl^
 ||secure.anudeep.me^
 ||anyip.io^
 ||doh.apad.pro^
 ||dns.apigw.online^
-||aplusvpn.com^
 ||appleproxy.com^
 ||appshost.us^
 ||dns.aquilenet.fr^
@@ -1560,7 +1556,6 @@
 ||blockaway.net^
 ||bloquer.fr^
 ||bluemood.me^
-||blufvpn.com^
 ||bmetrics.org^
 ||dns.bobstrecansky.com^
 ||bodvpn.com^
@@ -1627,7 +1622,6 @@
 ||mus.cisco.com^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
-||clickapp.info^
 ||clickwork7secure.com^
 ||cloaker.ca^
 ||cloaker.us^
@@ -1660,7 +1654,6 @@
 ||d3vo8ia181ei2.cloudfront.net^
 ||d560g3bzhkqrf.cloudfront.net^
 ||d8ou8y123d5vy.cloudfront.net^
-||dac0miaxap05t.cloudfront.net^
 ||dbneime5ub7kb.cloudfront.net^
 ||djx5taukzt3mb.cloudfront.net^
 ||dmh2vhxzf0tuf.cloudfront.net^
@@ -1722,7 +1715,6 @@
 ||dns.weixin.qq.com.cn^
 ||unblock-proxy.com.de^
 ||doh.viatech.com.tw^
-||webproxy.com.de^
 ||dns.comeonjames.club^
 ||edit.commanders.design^
 ||confirmedvpn.com^
@@ -1741,7 +1733,6 @@
 ||croxy.red^
 ||croxyproxy.best^
 ||croxyproxy.net^
-||crushus.com^
 ||dns.cryptomize.com^
 ||cryptovpn.com^
 ||dotdns.cryptroute.com^
@@ -1863,7 +1854,6 @@
 ||dukun.de^
 ||dutchproxy.nl^
 ||dns.dyn1.de^
-||dynanyx.com^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
 ||vpn.dzarlax.dev^
@@ -1994,7 +1984,6 @@
 ||getproxylist.com^
 ||getsiteunblocked.com^
 ||getvpnx.com^
-||getxhelp.com^
 ||getxvpn.com^
 ||getxweb.com^
 ||ghostpath.com^
@@ -2032,7 +2021,6 @@
 ||gracarno.com^
 ||c.gracemp.org^
 ||granules.us^
-||gratisproxy.nl^
 ||greenpass.info^
 ||dns.grqu.de^
 ||vps.grussenmeyer.com^
@@ -2219,7 +2207,6 @@
 ||kingsurfproxy.com^
 ||dns1.klcd.eu^
 ||dns2.klcd.eu^
-||klcknerrip.com^
 ||knvpn.net^
 ||adguard.konikoni428.com^
 ||doh.kooman.org^
@@ -2269,7 +2256,6 @@
 ||litebrowser.net^
 ||literally.info^
 ||dns.lobbygod.com^
-||adguard.londonwebnerd.cloud^
 ||doh.dns1.lonet.org^
 ||doh.phdns1.lonet.org^
 ||doh.phdns2.lonet.org^
@@ -2295,7 +2281,6 @@
 ||maskedip.com^
 ||master-clock.us^
 ||masters-of-cloud.de^
-||adsadkjsadjksakldjxx.math-solver.online^
 ||dns.mathewakhil.online^
 ||mathhelpnow.site^
 ||mathlearning.tech^
@@ -2338,20 +2323,12 @@
 ||dns.molinero.dev^
 ||monoprivacy.io^
 ||zrh1-ns01.monzoon.net^
-||aurora.xyz.moochurch.com^
-||jubilee.xyz.moochurch.com^
-||luminous.xyz.moochurch.com^
-||mystic.xyz.moochurch.com^
-||quantum.xyz.moochurch.com^
 ||dns.moog.sh^
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
 ||doh.morizt.id^
 ||dns.moulticast.net^
-||sundown.sun.mountofoliveschurch.com^
-||sunflower.sun.mountofoliveschurch.com^
-||sunrays.sun.mountofoliveschurch.com^
 ||msr177.com^
 ||dns.msxnet.ru^
 ||ns.mtsoln.com^
@@ -2624,7 +2601,6 @@
 ||proxite.in^
 ||proxite.ws^
 ||proxy.nu^
-||proxy.red^
 ||proxy.rocks^
 ||proxy.sx^
 ||proxy-123.com^
@@ -2642,7 +2618,6 @@
 ||proxybrowser.xyz^
 ||proxybuss.com^
 ||proxydrop.com^
-||proxydude.faith^
 ||proxydude.red^
 ||proxydude.xyz^
 ||proxyelite.info^
@@ -2805,7 +2780,6 @@
 ||securevpn.co^
 ||securitales.com^
 ||securitykiss.com^
-||sedirepseh.com^
 ||seed.st^
 ||seed4.me^
 ||seedboxes.cc^
@@ -2855,7 +2829,6 @@
 ||iproyal.sjv.io^
 ||dns.skrep.eu^
 ||dns.skrep.in^
-||skynetwork.info^
 ||dns.slinkyman.net^
 ||dns.smartguard.io^
 ||snapxs.com^
@@ -2869,7 +2842,6 @@
 ||spacedns.org^
 ||adguard.sparshbajaj.me^
 ||speedshare.app^
-||speedyth.com^
 ||spicevpn.com^
 ||dns.spirio.fr^
 ||sriedmueadguard.casa^
@@ -2914,7 +2886,6 @@
 ||surfwithease.com^
 ||dns.svoi.dev^
 ||swapip.com^
-||swiftshieldvpn.com^
 ||dns.swin.pro^
 ||switchvpn.net^
 ||dns.syaifullah.com^
@@ -2941,8 +2912,6 @@
 ||tx.teradns.org^
 ||uk.teradns.org^
 ||dns.tesem.dog^
-||e.t.texasmath.org^
-||w.t.texasmath.org^
 ||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
