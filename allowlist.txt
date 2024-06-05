@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-04T02:12:24.677Z
+! Last modified: 2024-06-05T02:06:53.288Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -94,6 +94,7 @@
 @@||licensing.xboxlive.com^
 @@||live.com^
 @@||livepassdl.conviva.com^
+@@||malware.testcategory.com^
 @@||manifest.googlevideo.com^
 @@||meta-db-worker02.pop.ric.plex.bz^
 @@||meta.plex.bz^
@@ -109,6 +110,7 @@
 @@||npr-news.streaming.adswizz.com^
 @@||ns1.dropbox.com^
 @@||ns2.dropbox.com^
+@@||nudity.testcategory.com^
 @@||o1.email.plex.tv^
 @@||o2.sg0.plex.tv^
 @@||office.com^
@@ -119,6 +121,7 @@
 @@||pings.conviva.com^
 @@||placehold.it^
 @@||pricelist.skype.com^
+@@||proto.on.quad9.net^
 @@||proxy.plex.bz^
 @@||proxy.plex.tv^
 @@||proxy02.pop.ord.plex.bz^
@@ -158,6 +161,7 @@
 @@||video-stats.l.google.com^
 @@||videos.vidible.tv^
 @@||vidtech.cbsinteractive.com^
+@@||welcome.opendns.com^
 @@||widget-cdn.rpxnow.com^
 @@||win10.ipv6.microsoft.com^
 @@||wp.com^
