@@ -6,11 +6,6 @@
         "source": "https://raw.githubusercontent.com/shreshta-labs/newly-registered-domains/main/nrd-1m.csv",
         "type": "adblock"
       },
-      {
-         "name": "hagezi-30d-adblock",
-         "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrds.30.txt",
-         "type": "adblock"
-       },
        {
          "name": "systemjargon-nrds",
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/NewlyRegisteredDomains/nrds.txt",
