@@ -1,8 +1,8 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-04T02:07:21.634Z
+! Last modified: 2024-06-22T02:06:58.305Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 ||0000a-fast-proxy.de^
 ||012proxy.ga^
@@ -1379,6 +1379,7 @@
 ||dns.23-4.cn^
 ||dns.240527.xyz^
 ||doh003.280blocker.net^
+||28383829.site^
 ||2999.info^
 ||2fastsurfer.eu^
 ||2fastsurfer.us^
@@ -1478,11 +1479,11 @@
 ||anonypost.com^
 ||anonyproxy.biz^
 ||anonysurf.com^
+||antpeak.com^
 ||antycenzor.pl^
 ||secure.anudeep.me^
 ||anyip.io^
 ||doh.apad.pro^
-||dns.apigw.online^
 ||appleproxy.com^
 ||appshost.us^
 ||dns.aquilenet.fr^
@@ -1531,6 +1532,7 @@
 ||dns.benpro.fr^
 ||openvpnpptp.bese.info^
 ||openvpnpptpserver.bese.info^
+||bestproxy.xyz^
 ||bestvpn.org^
 ||bestyouproxytube.com^
 ||bestyoutubeproxy.info^
@@ -1556,6 +1558,7 @@
 ||blockaway.net^
 ||bloquer.fr^
 ||bluemood.me^
+||bluesnap.com^
 ||bmetrics.org^
 ||dns.bobstrecansky.com^
 ||bodvpn.com^
@@ -1569,11 +1572,11 @@
 ||cloudns.bosco.ovh^
 ||bramka-proxy.pl^
 ||breakwall.net^
-||ag.brianlee.fun^
 ||bright4good.eco^
 ||brightvpn.com^
 ||britishproxy.com^
 ||browsebridge.com^
+||browser.lol^
 ||doh.bt.com^
 ||bubbleset.com^
 ||stratus.bugz.fr^
@@ -1590,6 +1593,7 @@
 ||api.bytelixir.com^
 ||c-dns.com^
 ||dns.caksono.com^
+||calc-web.me^
 ||callies-online.site^
 ||us1.cambrianscientific.com^
 ||tysonsbackagain.capnorthshore.org^
@@ -1682,6 +1686,7 @@
 ||dns.neilzone.co.uk^
 ||ninjaproxy.co.uk^
 ||dns.oliviertv.co.za^
+||onlineproxy.co.uk^
 ||pooblet.co.za^
 ||sbdns.co.in^
 ||dns.spil.co.id^
@@ -1712,6 +1717,7 @@
 ||proxy-service.com.de^
 ||proxy-site.com.de^
 ||proxyweb.com.es^
+||purevpn.com.tw^
 ||dns.weixin.qq.com.cn^
 ||unblock-proxy.com.de^
 ||doh.viatech.com.tw^
@@ -1724,7 +1730,9 @@
 ||cool-proxy.net^
 ||coverproxy.com^
 ||a.cpfrx.info^
+||b.cpfrx.info^
 ||www.c.cpfrx.info^
+||e.cpfrx.info^
 ||crawlbase.com^
 ||crazysurfer.info^
 ||crownproxy.com^
@@ -1733,6 +1741,7 @@
 ||croxy.red^
 ||croxyproxy.best^
 ||croxyproxy.net^
+||crusty.motorcycles^
 ||dns.cryptomize.com^
 ||cryptovpn.com^
 ||dotdns.cryptroute.com^
@@ -1774,6 +1783,7 @@
 ||districtnewyork.com^
 ||divalane.com^
 ||divaloo.com^
+||divavu.com^
 ||dns.expert^
 ||dns-free.link^
 ||doh.dns-ga.de^
@@ -1789,6 +1799,7 @@
 ||coe01.dnscry.pt^
 ||cvt01.dnscry.pt^
 ||dtw01.dnscry.pt^
+||dub01.dnscry.pt^
 ||dus01.dnscry.pt^
 ||fjr01.dnscry.pt^
 ||fra01.dnscry.pt^
@@ -1842,7 +1853,6 @@
 ||dns.dotnet.win^
 ||doh.dscloud.me^
 ||duapps.com^
-||aattwwss.duckdns.org^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
@@ -1905,6 +1915,7 @@
 ||fastfoxvpn.com^
 ||fastfreeproxy.info^
 ||fastp.org^
+||fastpro.info^
 ||fastproxy.nl^
 ||fastproxy.org^
 ||fastproxynetwork.com^
@@ -2007,6 +2018,7 @@
 ||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
+||goaslen.com^
 ||gobestvpn.com^
 ||goingthere.org^
 ||gointerstellar.app^
@@ -2036,7 +2048,6 @@
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||hanniel.tech^
-||dns.haoxuan.xyz^
 ||resolver-eu.haringstad.com^
 ||hauxcore.de^
 ||dns.henek.ovh^
@@ -2088,6 +2099,7 @@
 ||dns.hotta.page^
 ||doh.hottis.de^
 ||hshh.org^
+||html.cafe^
 ||httpdserver.info^
 ||dns.hugo0.moe^
 ||dns.hujiayucc.cn^
@@ -2102,7 +2114,6 @@
 ||vpn.i81.ru^
 ||dns.iamninja.ru^
 ||dns.ian.rocks^
-||dns-public.ibakerserver.pt^
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
 ||mask-api.icloud.com^
@@ -2151,12 +2162,10 @@
 ||math.isreally.pro^
 ||smellyal.isreally.pro^
 ||smellypay.isreally.pro^
-||stuffyschicken.isreallycool.lol^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
 ||iwantproxy.com^
 ||iweb365.net^
-||ixl.plus^
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||tj.jamesxue.xyz^
@@ -2227,7 +2236,6 @@
 ||lagometer.de^
 ||h2o.lakeballs.fi^
 ||ocean.lakeballs.fi^
-||vpninuk.lant.info^
 ||lantern.io^
 ||largero.com^
 ||larva.app^
@@ -2238,6 +2246,7 @@
 ||leafyvpn.net^
 ||leekemx.com^
 ||adblock.leenit.kr^
+||leeway.uz^
 ||yarp.lefolgoc.net^
 ||legaladvisor.us^
 ||legalweb.info^
@@ -2540,7 +2549,6 @@
 ||pkw-aufladen.de^
 ||placenetworks.com^
 ||plainproxies.com^
-||play5r.com^
 ||playproxy.com^
 ||secure-dns.pleumkungz.com^
 ||privacy.plumedns.com^
@@ -2654,6 +2662,7 @@
 ||dns.pumpkinvrar.com^
 ||pupilproxy.com^
 ||dns-privacy.puregeni.us^
+||purevpn.de^
 ||purevpn-tools.com^
 ||pushokey.com^
 ||pyproxy.com^
@@ -2663,7 +2672,6 @@
 ||doh.qis.io^
 ||ns1.qquack.org^
 ||hostdare.qtxd.net^
-||quic.lol^
 ||quick-proxy.com^
 ||quicksilvervpn.com^
 ||ant.dns.qwer.pw^
@@ -2765,7 +2773,6 @@
 ||schoolnewsletter.us^
 ||schoolproxy.co^
 ||schooxy.com^
-||sciencesimplified.pro^
 ||gravity.sciencevictory.org^
 ||dns.scuola.org^
 ||se3v5tjfff3aet.me^
@@ -2790,6 +2797,7 @@
 ||privatnas.servebeer.com^
 ||assets-prod-a230.s3.serverwild.com^
 ||dns.sev.monster^
+||sf-helper.com^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||d2.shabi.icu^
 ||shadeyouvpn.com^
@@ -2879,7 +2887,6 @@
 ||supervpn.net^
 ||supervpn.top^
 ||surfbytes.info^
-||surfcovertly.com^
 ||surfmo.com^
 ||surfonym.com^
 ||surfsneaker.com^
@@ -2902,6 +2909,7 @@
 ||dns1.techeasy.org^
 ||vpn.technicule.info^
 ||doh.technochat.in^
+||technofix.ir^
 ||dns.technostriker.com^
 ||dns.telekom.de^
 ||telleport.me^
@@ -2958,6 +2966,7 @@
 ||timetohide.me^
 ||timmes.nl^
 ||dns.tls-data.de^
+||tlsext.com^
 ||tlz.asia^
 ||tnvpn.com^
 ||d.toairs.com^
@@ -2968,7 +2977,6 @@
 ||toptip.cc^
 ||topvpn.cc^
 ||tor-gateways.de^
-||tor2web.fi^
 ||tor2web.io^
 ||tor2web.ru^
 ||tor2web.su^
@@ -2990,7 +2998,6 @@
 ||traffmonetizer.com^
 ||consumervpn.trendmicro.com^
 ||geovpn.trendmicro.com^
-||trialproxy.com^
 ||trilightzone.org^
 ||trlone.com^
 ||nebula.tru.io^
@@ -3152,6 +3159,7 @@
 ||userproxy.com^
 ||uskt.info^
 ||uswebproxy.com^
+||uswebproxy.net^
 ||utopianpal.com^
 ||doh.valscosmos.com^
 ||tor.vasi.li^
@@ -3178,7 +3186,6 @@
 ||vitaproxy.com^
 ||vpn0109.voodonline.fr^
 ||vornz.com^
-||vpn.ht^
 ||vpn.lat^
 ||vpn.org^
 ||vpn.sh^
@@ -3203,10 +3210,10 @@
 ||vpnproxy.site^
 ||vpnranks.com^
 ||vpnreactor.com^
+||vpnrice.com^
 ||vpnsecure.me^
 ||vpnshazam.com^
 ||vpnuk.net^
-||vpnv6.com^
 ||vpnwelt.com^
 ||vtcuong.site^
 ||dns.wahr.top^
