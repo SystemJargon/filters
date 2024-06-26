@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-25T02:09:49.249Z
+! Last modified: 2024-06-26T02:09:10.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1857,6 +1857,7 @@
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
+||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
@@ -2231,7 +2232,6 @@
 ||dns.kukal.cz^
 ||dns.kusoneko.moe^
 ||dns.l337.site^
-||dns.labnekotest.site^
 ||lagometer.de^
 ||h2o.lakeballs.fi^
 ||ocean.lakeballs.fi^
