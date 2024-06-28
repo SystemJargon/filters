@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-26T02:09:10.546Z
+! Last modified: 2024-06-28T02:10:09.537Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1380,7 +1380,6 @@
 ||dns.240527.xyz^
 ||doh003.280blocker.net^
 ||28383829.site^
-||2999.info^
 ||2fastsurfer.eu^
 ||2fastsurfer.us^
 ||z.d.2of1.org^
@@ -1586,7 +1585,6 @@
 ||bypass.pw^
 ||bypassable.com^
 ||bypassed.wtf^
-||bypassfw.com^
 ||bypassip.com^
 ||bypasskey.com^
 ||bypasstunnel.com^
@@ -1695,7 +1693,6 @@
 ||webproxy.co.at^
 ||cocoombr.com^
 ||coinsite.info^
-||coinweb.info^
 ||jpdns.cola16.app^
 ||coloredwool.us^
 ||dns.colorfreedom.org^
@@ -1707,7 +1704,6 @@
 ||fast-proxy.com.de^
 ||fastest-proxy.com.de^
 ||free-proxy.com.de^
-||adguard.gbrossi.com.br^
 ||german-proxy.com.de^
 ||germany-proxy.com.de^
 ||dns.joaofidelix.com.br^
@@ -1782,7 +1778,6 @@
 ||disconnect.me^
 ||districtnewyork.com^
 ||divalane.com^
-||divaloo.com^
 ||divavu.com^
 ||dns.expert^
 ||dns-free.link^
@@ -1867,7 +1862,6 @@
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
 ||vpn.dzarlax.dev^
-||vpngermany.dzzz.info^
 ||earnapp.com^
 ||easyhandshake.com^
 ||easynetwork.info^
@@ -1986,7 +1980,6 @@
 ||vpn.geshido.ru^
 ||get-xmore-link3s.com^
 ||get-xmore-links8.com^
-||get-xweb-help-link4.com^
 ||getcloak.com^
 ||getflix.com^
 ||getiantem.org^
@@ -2050,6 +2043,7 @@
 ||hanniel.tech^
 ||resolver-eu.haringstad.com^
 ||hauxcore.de^
+||us-ny-alula.heliumcloud.cc^
 ||dns.henek.ovh^
 ||betternet-backend.herokuapp.com^
 ||ad1.heronet.nl^
@@ -2250,7 +2244,6 @@
 ||legaladvisor.us^
 ||legalweb.info^
 ||br.servers.legat.ml^
-||externalmobiel.lekdijk.online^
 ||dns.levonet.sk^
 ||dns2.lezainski.com^
 ||dns.lgprk.com^
@@ -2487,7 +2480,6 @@
 ||ns4.opennameserver.org^
 ||openproxy.space^
 ||openvpn.cc^
-||openzend.com^
 ||dns.eu-frankfurt-1.oraclecloud.com^
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
@@ -2634,7 +2626,6 @@
 ||proxygate.com^
 ||proxygizlen.com^
 ||proxyhash.net^
-||proxyinternet.info^
 ||proxyist.com^
 ||proxyium.com^
 ||proxyness.com^
@@ -2671,7 +2662,6 @@
 ||doh.qis.io^
 ||ns1.qquack.org^
 ||hostdare.qtxd.net^
-||quick-proxy.com^
 ||quicksilvervpn.com^
 ||ant.dns.qwer.pw^
 ||dog.dns.qwer.pw^
@@ -2686,7 +2676,6 @@
 ||rapidprivacy.com^
 ||rapidproxy.org^
 ||rapidvpn.com^
-||thiscopyofartclassisnotgenuine.rare1k.space^
 ||emby.rasp.tv^
 ||rateavon.je^
 ||ratecuts.us^
@@ -2820,7 +2809,6 @@
 ||doh.sidnlabs.nl^
 ||dns.silen.org^
 ||dns.silentlybren.com^
-||simplevpn.net^
 ||dns.simplylinux.ch^
 ||sinovpn.com^
 ||dns.siry.de^
@@ -2968,7 +2956,6 @@
 ||tlsext.com^
 ||tlz.asia^
 ||tnvpn.com^
-||d.toairs.com^
 ||tonvpn.com^
 ||dot.tooli.ca^
 ||toppal.tech^
@@ -2990,7 +2977,6 @@
 ||torsona.com^
 ||totallyacdn.com^
 ||doh.totoro.pub^
-||totovps.com^
 ||towervpn.com^
 ||dns.tracker.ink^
 ||tradeadspace.info^
@@ -3242,7 +3228,6 @@
 ||websitebypass.com^
 ||websiteproxy.net^
 ||websynchrony.com^
-||webtunnelx.com^
 ||webxify.com^
 ||webypass.info^
 ||doh.wewitro.net^
