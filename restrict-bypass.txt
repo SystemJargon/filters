@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-28T02:10:09.537Z
+! Last modified: 2024-06-29T02:08:03.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1900,7 +1900,6 @@
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
 ||dns.ezyss.id^
-||f-secure.com^
 ||jp1.f7b6h9.tk^
 ||dns.f97.xyz^
 ||fakeip.org^
@@ -2126,7 +2125,6 @@
 ||ilumu.com^
 ||dns.imaicool.com^
 ||noads.imbuffering.com^
-||dns4.imkvq.com^
 ||dns.immanuelschaffer.de^
 ||dns1.in-berlin.de^
 ||in-disguise.com^
