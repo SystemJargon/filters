@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-29T02:08:03.814Z
+! Last modified: 2024-06-30T02:15:29.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1663,6 +1663,7 @@
 ||europe-west3-topvpn-873d5.cloudfunctions.net^$ctag=user_child
 ||voyage-s01.cloudku.technology^$ctag=user_child
 ||adguard.cloudmini.net^$ctag=user_child
+||cloudns.net^$ctag=user_child
 ||dns-secondary.cloudnx.cloud^$ctag=user_child
 ||cloudnymous.com^$ctag=user_child
 ||dns-fr-psv1.cloudsides.com^$ctag=user_child
@@ -2130,7 +2131,6 @@
 ||in-disguise.com^$ctag=user_child
 ||indialifes.com^$ctag=user_child
 ||adblock.indianets.net^$ctag=user_child
-||dns.indust.me^$ctag=user_child
 ||dns.indybanipal.com^$ctag=user_child
 ||dns.infosec.xyz^$ctag=user_child
 ||doh.infracell.net^$ctag=user_child
@@ -2190,7 +2190,6 @@
 ||dns.karl.one^$ctag=user_child
 ||katonetwork.com^$ctag=user_child
 ||dns.kawa.tf^$ctag=user_child
-||j.kayru.org^$ctag=user_child
 ||keenow.com^$ctag=user_child
 ||keepanonymous.com^$ctag=user_child
 ||dns.keke125.com^$ctag=user_child
@@ -2326,7 +2325,6 @@
 ||dns.moonssif.com^$ctag=user_child
 ||morbitzer.de^$ctag=user_child
 ||morevpn.com^$ctag=user_child
-||doh.morizt.id^$ctag=user_child
 ||dns.moulticast.net^$ctag=user_child
 ||msr177.com^$ctag=user_child
 ||dns.msxnet.ru^$ctag=user_child
@@ -2546,7 +2544,6 @@
 ||portmap.host^$ctag=user_child
 ||potatovpn.io^$ctag=user_child
 ||spacial-awareness.potomacriversafetycommittee.org^$ctag=user_child
-||poxy.pl^$ctag=user_child
 ||dns.ha-dvin.pp.ua^$ctag=user_child
 ||dns.korzhyk.pp.ua^$ctag=user_child
 ||lindung.pp.ua^$ctag=user_child
@@ -3133,7 +3130,6 @@
 ||dns.unx.io^$ctag=user_child
 ||dns.uplenk.com^$ctag=user_child
 ||uproxy.online^$ctag=user_child
-||uradoori.org^$ctag=user_child
 ||url10.org^$ctag=user_child
 ||urology.wiki^$ctag=user_child
 ||dns.koala.us.to^$ctag=user_child
@@ -3290,7 +3286,6 @@
 ||zagbit.com^$ctag=user_child
 ||zburger.top^$ctag=user_child
 ||zenrows.com^$ctag=user_child
-||doh.zephyrus.id^$ctag=user_child
 ||adguard-kartoffel.zernico.de^$ctag=user_child
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-29T02:08:03.814Z
+! Last modified: 2024-06-30T02:15:29.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1663,6 +1663,7 @@
 ||europe-west3-topvpn-873d5.cloudfunctions.net^
 ||voyage-s01.cloudku.technology^
 ||adguard.cloudmini.net^
+||cloudns.net^
 ||dns-secondary.cloudnx.cloud^
 ||cloudnymous.com^
 ||dns-fr-psv1.cloudsides.com^
@@ -2130,7 +2131,6 @@
 ||in-disguise.com^
 ||indialifes.com^
 ||adblock.indianets.net^
-||dns.indust.me^
 ||dns.indybanipal.com^
 ||dns.infosec.xyz^
 ||doh.infracell.net^
@@ -2190,7 +2190,6 @@
 ||dns.karl.one^
 ||katonetwork.com^
 ||dns.kawa.tf^
-||j.kayru.org^
 ||keenow.com^
 ||keepanonymous.com^
 ||dns.keke125.com^
@@ -2326,7 +2325,6 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
-||doh.morizt.id^
 ||dns.moulticast.net^
 ||msr177.com^
 ||dns.msxnet.ru^
@@ -2546,7 +2544,6 @@
 ||portmap.host^
 ||potatovpn.io^
 ||spacial-awareness.potomacriversafetycommittee.org^
-||poxy.pl^
 ||dns.ha-dvin.pp.ua^
 ||dns.korzhyk.pp.ua^
 ||lindung.pp.ua^
@@ -3133,7 +3130,6 @@
 ||dns.unx.io^
 ||dns.uplenk.com^
 ||uproxy.online^
-||uradoori.org^
 ||url10.org^
 ||urology.wiki^
 ||dns.koala.us.to^
@@ -3290,7 +3286,6 @@
 ||zagbit.com^
 ||zburger.top^
 ||zenrows.com^
-||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
 ||zerotunnel.com^
