@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-06-30T02:15:29.622Z
+! Last modified: 2024-07-01T02:18:20.595Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2722,7 +2722,6 @@
 ||doh.runsel.id^
 ||rushproxy.com^
 ||agh-yz.russel053.com^
-||drs.rustsword.com^
 ||rvpn.ws^
 ||vpn.rynet.link^
 ||s4m.tech^
@@ -2887,7 +2886,6 @@
 ||tbjr6.net^
 ||tbjr6.org^
 ||tbunet.com^
-||vpn.adrielso.tec.br^
 ||dns1.techeasy.org^
 ||vpn.technicule.info^
 ||doh.technochat.in^
