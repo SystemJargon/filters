@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-03T02:11:45.503Z
+! Last modified: 2024-07-04T02:11:20.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2123,7 +2123,6 @@
 ||iksde.com^$ctag=user_child
 ||buc-m2.illmods.com^$ctag=user_child
 ||ilumu.com^$ctag=user_child
-||dns.imaicool.com^$ctag=user_child
 ||noads.imbuffering.com^$ctag=user_child
 ||dns.immanuelschaffer.de^$ctag=user_child
 ||dns1.in-berlin.de^$ctag=user_child
@@ -2543,7 +2542,6 @@
 ||portmap.host^$ctag=user_child
 ||potatovpn.io^$ctag=user_child
 ||spacial-awareness.potomacriversafetycommittee.org^$ctag=user_child
-||dns.ha-dvin.pp.ua^$ctag=user_child
 ||dns.korzhyk.pp.ua^$ctag=user_child
 ||lindung.pp.ua^$ctag=user_child
 ||sundalandia.pp.ua^$ctag=user_child
