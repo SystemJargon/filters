@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-05T02:09:23.006Z
+! Last modified: 2024-07-06T02:07:48.262Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2123,6 +2123,7 @@
 ||iksde.com^$ctag=user_child
 ||buc-m2.illmods.com^$ctag=user_child
 ||ilumu.com^$ctag=user_child
+||dns.imaicool.com^$ctag=user_child
 ||noads.imbuffering.com^$ctag=user_child
 ||dns.immanuelschaffer.de^$ctag=user_child
 ||dns1.in-berlin.de^$ctag=user_child
@@ -2264,7 +2265,6 @@
 ||lurk.info^$ctag=user_child
 ||dns.lvolland.fr^$ctag=user_child
 ||orau.lz0724.com^$ctag=user_child
-||addns1.m-it.ro^$ctag=user_child
 ||mailkyb.co^$ctag=user_child
 ||mallocapp.com^$ctag=user_child
 ||mallocprivacy.com^$ctag=user_child
@@ -3160,6 +3160,7 @@
 ||vitaproxy.com^$ctag=user_child
 ||vpn0109.voodonline.fr^$ctag=user_child
 ||vornz.com^$ctag=user_child
+||vpn.ht^$ctag=user_child
 ||vpn.lat^$ctag=user_child
 ||vpn.org^$ctag=user_child
 ||vpn.sh^$ctag=user_child
