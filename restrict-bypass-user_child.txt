@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-10T02:11:17.325Z
+! Last modified: 2024-07-11T02:12:22.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1850,6 +1850,7 @@
 ||duapps.com^$ctag=user_child
 ||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
+||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
@@ -1857,7 +1858,6 @@
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child
-||dns.dyn1.de^$ctag=user_child
 ||ueni.dyndns.org^$ctag=user_child
 ||gustamadh.dynv6.net^$ctag=user_child
 ||vpn.dzarlax.dev^$ctag=user_child
@@ -2833,7 +2833,6 @@
 ||adguard.sscw.win^$ctag=user_child
 ||sslunblocker.com^$ctag=user_child
 ||doh.ntu.ssooss.win^$ctag=user_child
-||ag.ssrahul96.xyz^$ctag=user_child
 ||dns.sstomp.nl^$ctag=user_child
 ||stable-vpn.com^$ctag=user_child
 ||stackfront.xyz^$ctag=user_child
@@ -2896,7 +2895,6 @@
 ||tx.teradns.org^$ctag=user_child
 ||uk.teradns.org^$ctag=user_child
 ||dns.tesem.dog^$ctag=user_child
-||cloud.tezoi.com^$ctag=user_child
 ||thankvpn.com^$ctag=user_child
 ||thebestproxy.info^$ctag=user_child
 ||dns.thebuckners.org^$ctag=user_child
