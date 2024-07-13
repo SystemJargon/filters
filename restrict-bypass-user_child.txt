@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-12T02:10:08.328Z
+! Last modified: 2024-07-13T02:10:13.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1663,7 +1663,6 @@
 ||europe-west3-topvpn-873d5.cloudfunctions.net^$ctag=user_child
 ||voyage-s01.cloudku.technology^$ctag=user_child
 ||adguard.cloudmini.net^$ctag=user_child
-||dns-secondary.cloudnx.cloud^$ctag=user_child
 ||cloudnymous.com^$ctag=user_child
 ||dns-fr-psv1.cloudsides.com^$ctag=user_child
 ||dns.cloudtrust.solutions^$ctag=user_child
@@ -1939,7 +1938,6 @@
 ||fortniters.info^$ctag=user_child
 ||forwardproxie.com^$ctag=user_child
 ||frandcomfort.us^$ctag=user_child
-||free-proxy.xyz^$ctag=user_child
 ||free-signal.com^$ctag=user_child
 ||free2surfvpn.com^$ctag=user_child
 ||freeanimesonline.com^$ctag=user_child
@@ -2146,7 +2144,6 @@
 ||iprovpn.com^$ctag=user_child
 ||ipunblocker.com^$ctag=user_child
 ||dns.ipv6dns.com^$ctag=user_child
-||ipvpn.info^$ctag=user_child
 ||dns1.irumatech.com^$ctag=user_child
 ||dns.islandnet.com^$ctag=user_child
 ||math.isreally.pro^$ctag=user_child
@@ -2323,7 +2320,6 @@
 ||morbitzer.de^$ctag=user_child
 ||morevpn.com^$ctag=user_child
 ||dns.moulticast.net^$ctag=user_child
-||msr177.com^$ctag=user_child
 ||dns.msxnet.ru^$ctag=user_child
 ||ns.mtsoln.com^$ctag=user_child
 ||muchproxy.com^$ctag=user_child
@@ -2477,7 +2473,6 @@
 ||dns.uk-london-1.oraclecloud.com^$ctag=user_child
 ||dns.us-ashburn-1.oraclecloud.com^$ctag=user_child
 ||dns.us-phoenix-1.oraclecloud.com^$ctag=user_child
-||b.j0.icom.org.np^$ctag=user_child
 ||r.j0.icom.org.np^$ctag=user_child
 ||s.j0.icom.org.np^$ctag=user_child
 ||x.j0.icom.org.np^$ctag=user_child
@@ -2526,7 +2521,6 @@
 ||adguard.piekacz.pl^$ctag=user_child
 ||dns1.pietjacobs.be^$ctag=user_child
 ||pingproxy.com^$ctag=user_child
-||pinweb.info^$ctag=user_child
 ||piratebayproxy.co^$ctag=user_child
 ||pixolium.com^$ctag=user_child
 ||pktriot.net^$ctag=user_child
@@ -2564,8 +2558,6 @@
 ||privado.io^$ctag=user_child
 ||dns.privado.ovh^$ctag=user_child
 ||orpi.privado.ovh^$ctag=user_child
-||private-internet.info^$ctag=user_child
-||privatefb.info^$ctag=user_child
 ||privateproxy.me^$ctag=user_child
 ||privatesurfforme.net^$ctag=user_child
 ||privatewifi.com^$ctag=user_child
@@ -2699,7 +2691,6 @@
 ||dns.rin.sh^$ctag=user_child
 ||riseup.net^$ctag=user_child
 ||adg.rokh.biz^$ctag=user_child
-||dns.ronc.ru^$ctag=user_child
 ||roodel.com^$ctag=user_child
 ||roogen.com^$ctag=user_child
 ||roonyx.com^$ctag=user_child
@@ -2758,7 +2749,6 @@
 ||adguard.sealyserver.com^$ctag=user_child
 ||proxy.searchfiles.de^$ctag=user_child
 ||secure-vpn.com^$ctag=user_child
-||secure-vpn.info^$ctag=user_child
 ||vpncenter.avg.securebrowser.com^$ctag=user_child
 ||vpncenter-tenta.securebrowser.com^$ctag=user_child
 ||securetunnel.com^$ctag=user_child
@@ -3129,7 +3119,6 @@
 ||webproxy.us.com^$ctag=user_child
 ||usaip.eu^$ctag=user_child
 ||userproxy.com^$ctag=user_child
-||uskt.info^$ctag=user_child
 ||uswebproxy.com^$ctag=user_child
 ||uswebproxy.net^$ctag=user_child
 ||utopianpal.com^$ctag=user_child

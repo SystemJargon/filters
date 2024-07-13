@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-12T02:10:08.328Z
+! Last modified: 2024-07-13T02:10:13.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1663,7 +1663,6 @@
 ||europe-west3-topvpn-873d5.cloudfunctions.net^
 ||voyage-s01.cloudku.technology^
 ||adguard.cloudmini.net^
-||dns-secondary.cloudnx.cloud^
 ||cloudnymous.com^
 ||dns-fr-psv1.cloudsides.com^
 ||dns.cloudtrust.solutions^
@@ -1939,7 +1938,6 @@
 ||fortniters.info^
 ||forwardproxie.com^
 ||frandcomfort.us^
-||free-proxy.xyz^
 ||free-signal.com^
 ||free2surfvpn.com^
 ||freeanimesonline.com^
@@ -2146,7 +2144,6 @@
 ||iprovpn.com^
 ||ipunblocker.com^
 ||dns.ipv6dns.com^
-||ipvpn.info^
 ||dns1.irumatech.com^
 ||dns.islandnet.com^
 ||math.isreally.pro^
@@ -2323,7 +2320,6 @@
 ||morbitzer.de^
 ||morevpn.com^
 ||dns.moulticast.net^
-||msr177.com^
 ||dns.msxnet.ru^
 ||ns.mtsoln.com^
 ||muchproxy.com^
@@ -2477,7 +2473,6 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
-||b.j0.icom.org.np^
 ||r.j0.icom.org.np^
 ||s.j0.icom.org.np^
 ||x.j0.icom.org.np^
@@ -2526,7 +2521,6 @@
 ||adguard.piekacz.pl^
 ||dns1.pietjacobs.be^
 ||pingproxy.com^
-||pinweb.info^
 ||piratebayproxy.co^
 ||pixolium.com^
 ||pktriot.net^
@@ -2564,8 +2558,6 @@
 ||privado.io^
 ||dns.privado.ovh^
 ||orpi.privado.ovh^
-||private-internet.info^
-||privatefb.info^
 ||privateproxy.me^
 ||privatesurfforme.net^
 ||privatewifi.com^
@@ -2699,7 +2691,6 @@
 ||dns.rin.sh^
 ||riseup.net^
 ||adg.rokh.biz^
-||dns.ronc.ru^
 ||roodel.com^
 ||roogen.com^
 ||roonyx.com^
@@ -2758,7 +2749,6 @@
 ||adguard.sealyserver.com^
 ||proxy.searchfiles.de^
 ||secure-vpn.com^
-||secure-vpn.info^
 ||vpncenter.avg.securebrowser.com^
 ||vpncenter-tenta.securebrowser.com^
 ||securetunnel.com^
@@ -3129,7 +3119,6 @@
 ||webproxy.us.com^
 ||usaip.eu^
 ||userproxy.com^
-||uskt.info^
 ||uswebproxy.com^
 ||uswebproxy.net^
 ||utopianpal.com^
