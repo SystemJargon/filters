@@ -16,6 +16,12 @@
             "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay",
             "type": "hosts"
       },
+	    
+        {
+            "name": "more-vpn-list",
+            "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/vpn-proxy-bypass/more-vpn-list.txt",
+            "type": "hosts"
+      },
 	          {
             "name": "browsers",
             "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers",
