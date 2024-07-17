@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-16T02:13:01.767Z
+! Last modified: 2024-07-17T02:12:21.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2548,6 +2548,7 @@
 ||no-block.net^$ctag=user_child
 ||resolver.noaddns.com^$ctag=user_child
 ||pi1.node15.com^$ctag=user_child
+||nodepay.ai^$ctag=user_child
 ||sink.nolo.ltd^$ctag=user_child
 ||paulo.nom.za^$ctag=user_child
 ||ttag.dns.nomu.pw^$ctag=user_child
@@ -2574,7 +2575,6 @@
 ||dns.nullgate.net^$ctag=user_child
 ||5g.o0o.re^$ctag=user_child
 ||o1.lt^$ctag=user_child
-||dot.occ.top^$ctag=user_child
 ||oceanbrowser.co^$ctag=user_child
 ||octohide.com^$ctag=user_child
 ||dns.ofdoom.net^$ctag=user_child
