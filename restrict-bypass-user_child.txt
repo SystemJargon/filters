@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-17T02:12:21.589Z
+! Last modified: 2024-07-18T02:10:59.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1659,6 +1659,7 @@
 ||atomicstudios.info^$ctag=user_child
 ||auto-aufladen.de^$ctag=user_child
 ||vanheim.ff.avast.com^$ctag=user_child
+||africa.avastdns.com^$ctag=user_child
 ||secure.avastdns.com^$ctag=user_child
 ||vps.avc.cx^$ctag=user_child
 ||adguard.avdkishore.dev^$ctag=user_child
@@ -1720,6 +1721,7 @@
 ||bloquer.fr^$ctag=user_child
 ||bluemood.me^$ctag=user_child
 ||bluesnap.com^$ctag=user_child
+||blufvpn.com^$ctag=user_child
 ||bmetrics.org^$ctag=user_child
 ||dns.bobstrecansky.com^$ctag=user_child
 ||bodvpn.com^$ctag=user_child
@@ -2061,7 +2063,6 @@
 ||fra1.eyecay.xyz^$ctag=user_child
 ||dns.ezyss.id^$ctag=user_child
 ||jp1.f7b6h9.tk^$ctag=user_child
-||dns.f97.xyz^$ctag=user_child
 ||fakeip.org^$ctag=user_child
 ||dnsvps.familiamv.net^$ctag=user_child
 ||dns.fancyorg.at^$ctag=user_child
@@ -2299,6 +2300,7 @@
 ||math.isreally.pro^$ctag=user_child
 ||smellyal.isreally.pro^$ctag=user_child
 ||smellypay.isreally.pro^$ctag=user_child
+||diy.itsa.top^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
 ||iwantproxy.com^$ctag=user_child
@@ -2462,6 +2464,7 @@
 ||dns.moonssif.com^$ctag=user_child
 ||morbitzer.de^$ctag=user_child
 ||morevpn.com^$ctag=user_child
+||doh.morizt.id^$ctag=user_child
 ||dns.moulticast.net^$ctag=user_child
 ||msr177.com^$ctag=user_child
 ||dns.msxnet.ru^$ctag=user_child

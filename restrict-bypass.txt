@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-17T02:12:21.589Z
+! Last modified: 2024-07-18T02:10:59.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1659,6 +1659,7 @@
 ||atomicstudios.info^
 ||auto-aufladen.de^
 ||vanheim.ff.avast.com^
+||africa.avastdns.com^
 ||secure.avastdns.com^
 ||vps.avc.cx^
 ||adguard.avdkishore.dev^
@@ -1720,6 +1721,7 @@
 ||bloquer.fr^
 ||bluemood.me^
 ||bluesnap.com^
+||blufvpn.com^
 ||bmetrics.org^
 ||dns.bobstrecansky.com^
 ||bodvpn.com^
@@ -2061,7 +2063,6 @@
 ||fra1.eyecay.xyz^
 ||dns.ezyss.id^
 ||jp1.f7b6h9.tk^
-||dns.f97.xyz^
 ||fakeip.org^
 ||dnsvps.familiamv.net^
 ||dns.fancyorg.at^
@@ -2299,6 +2300,7 @@
 ||math.isreally.pro^
 ||smellyal.isreally.pro^
 ||smellypay.isreally.pro^
+||diy.itsa.top^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
 ||iwantproxy.com^
@@ -2462,6 +2464,7 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
+||doh.morizt.id^
 ||dns.moulticast.net^
 ||msr177.com^
 ||dns.msxnet.ru^
