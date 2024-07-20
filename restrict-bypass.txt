@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-18T02:10:59.035Z
+! Last modified: 2024-07-20T02:08:54.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2256,6 +2256,7 @@
 ||vpn.i81.ru^
 ||dns.iamninja.ru^
 ||dns.ian.rocks^
+||iblocker.info^
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
 ||mask-api.icloud.com^
@@ -2303,8 +2304,10 @@
 ||diy.itsa.top^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
+||ivpn.info^
 ||iwantproxy.com^
 ||iweb365.net^
+||ixl.plus^
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||tj.jamesxue.xyz^
@@ -2486,6 +2489,7 @@
 ||ssl-proxy.my-addr.com^
 ||family.mydns.network^
 ||paranoia.mydns.network^
+||myhidden.info^
 ||myip-proxy.info^
 ||myiphide.com^
 ||blackhole.myon.lu^
@@ -2885,6 +2889,7 @@
 ||vps4.scho.io^
 ||schoolproxy.co^
 ||schooxy.com^
+||sciencesimplified.pro^
 ||gravity.sciencevictory.org^
 ||dns.scuola.org^
 ||se3v5tjfff3aet.me^

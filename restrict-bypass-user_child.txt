@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-18T02:10:59.035Z
+! Last modified: 2024-07-20T02:08:54.775Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2256,6 +2256,7 @@
 ||vpn.i81.ru^$ctag=user_child
 ||dns.iamninja.ru^$ctag=user_child
 ||dns.ian.rocks^$ctag=user_child
+||iblocker.info^$ctag=user_child
 ||webproxy.ich-war-hier.de^$ctag=user_child
 ||icitek.com^$ctag=user_child
 ||mask-api.icloud.com^$ctag=user_child
@@ -2303,8 +2304,10 @@
 ||diy.itsa.top^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
+||ivpn.info^$ctag=user_child
 ||iwantproxy.com^$ctag=user_child
 ||iweb365.net^$ctag=user_child
+||ixl.plus^$ctag=user_child
 ||jabber-germany.de^$ctag=user_child
 ||jackyes.ovh^$ctag=user_child
 ||tj.jamesxue.xyz^$ctag=user_child
@@ -2486,6 +2489,7 @@
 ||ssl-proxy.my-addr.com^$ctag=user_child
 ||family.mydns.network^$ctag=user_child
 ||paranoia.mydns.network^$ctag=user_child
+||myhidden.info^$ctag=user_child
 ||myip-proxy.info^$ctag=user_child
 ||myiphide.com^$ctag=user_child
 ||blackhole.myon.lu^$ctag=user_child
@@ -2885,6 +2889,7 @@
 ||vps4.scho.io^$ctag=user_child
 ||schoolproxy.co^$ctag=user_child
 ||schooxy.com^$ctag=user_child
+||sciencesimplified.pro^$ctag=user_child
 ||gravity.sciencevictory.org^$ctag=user_child
 ||dns.scuola.org^$ctag=user_child
 ||se3v5tjfff3aet.me^$ctag=user_child
