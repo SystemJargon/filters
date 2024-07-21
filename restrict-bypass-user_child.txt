@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-20T02:08:54.775Z
+! Last modified: 2024-07-21T02:16:40.870Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2656,6 +2656,7 @@
 ||pbproxy2.co^$ctag=user_child
 ||pc-streaming.com^$ctag=user_child
 ||dns.pccoach.nl^$ctag=user_child
+||peekproxy.com^$ctag=user_child
 ||check.peer2profit.site^$ctag=user_child
 ||fuchur.pentament.de^$ctag=user_child
 ||peoplesproxy.com^$ctag=user_child
@@ -2666,6 +2667,7 @@
 ||personalvpn.com^$ctag=user_child
 ||dns.pesaventofilippo.com^$ctag=user_child
 ||dns.phillipjberry.net^$ctag=user_child
+||photonsecure.com^$ctag=user_child
 ||phpbido.com^$ctag=user_child
 ||phproxysite.com^$ctag=user_child
 ||adguard.piekacz.pl^$ctag=user_child
@@ -2934,6 +2936,7 @@
 ||doh.sidnlabs.nl^$ctag=user_child
 ||dns.silen.org^$ctag=user_child
 ||dns.silentlybren.com^$ctag=user_child
+||simpleproxy.us^$ctag=user_child
 ||dns.simplylinux.ch^$ctag=user_child
 ||sinovpn.com^$ctag=user_child
 ||dns.siry.de^$ctag=user_child

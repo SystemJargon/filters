@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-20T02:08:54.775Z
+! Last modified: 2024-07-21T02:16:40.870Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2656,6 +2656,7 @@
 ||pbproxy2.co^
 ||pc-streaming.com^
 ||dns.pccoach.nl^
+||peekproxy.com^
 ||check.peer2profit.site^
 ||fuchur.pentament.de^
 ||peoplesproxy.com^
@@ -2666,6 +2667,7 @@
 ||personalvpn.com^
 ||dns.pesaventofilippo.com^
 ||dns.phillipjberry.net^
+||photonsecure.com^
 ||phpbido.com^
 ||phproxysite.com^
 ||adguard.piekacz.pl^
@@ -2934,6 +2936,7 @@
 ||doh.sidnlabs.nl^
 ||dns.silen.org^
 ||dns.silentlybren.com^
+||simpleproxy.us^
 ||dns.simplylinux.ch^
 ||sinovpn.com^
 ||dns.siry.de^
