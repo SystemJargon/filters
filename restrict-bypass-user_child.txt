@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-21T02:16:40.870Z
+! Last modified: 2024-07-22T02:15:55.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2813,6 +2813,7 @@
 ||rapidprivacy.com^$ctag=user_child
 ||rapidproxy.org^$ctag=user_child
 ||rapidvpn.com^$ctag=user_child
+||thiscopyofartclassisnotgenuine.rare1k.space^$ctag=user_child
 ||emby.rasp.tv^$ctag=user_child
 ||rateavon.je^$ctag=user_child
 ||la.ray0512.win^$ctag=user_child
@@ -3107,6 +3108,7 @@
 ||traffmonetizer.com^$ctag=user_child
 ||consumervpn.trendmicro.com^$ctag=user_child
 ||geovpn.trendmicro.com^$ctag=user_child
+||trialproxy.com^$ctag=user_child
 ||trilightzone.org^$ctag=user_child
 ||trueproxy.com^$ctag=user_child
 ||dns.trust404.win^$ctag=user_child
@@ -3317,6 +3319,7 @@
 ||vpnsecure.me^$ctag=user_child
 ||vpnshazam.com^$ctag=user_child
 ||vpnuk.net^$ctag=user_child
+||vpnv6.com^$ctag=user_child
 ||vpnwelt.com^$ctag=user_child
 ||vtcuong.site^$ctag=user_child
 ||dns.wahr.top^$ctag=user_child
@@ -3334,6 +3337,7 @@
 ||warpproxy.com^$ctag=user_child
 ||waselpro.com^$ctag=user_child
 ||watchproxy.com^$ctag=user_child
+||watchunblocked.com^$ctag=user_child
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^$ctag=user_child
 ||webpro.xyz^$ctag=user_child
 ||webproxy.online^$ctag=user_child

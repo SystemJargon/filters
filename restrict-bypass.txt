@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-21T02:16:40.870Z
+! Last modified: 2024-07-22T02:15:55.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2813,6 +2813,7 @@
 ||rapidprivacy.com^
 ||rapidproxy.org^
 ||rapidvpn.com^
+||thiscopyofartclassisnotgenuine.rare1k.space^
 ||emby.rasp.tv^
 ||rateavon.je^
 ||la.ray0512.win^
@@ -3107,6 +3108,7 @@
 ||traffmonetizer.com^
 ||consumervpn.trendmicro.com^
 ||geovpn.trendmicro.com^
+||trialproxy.com^
 ||trilightzone.org^
 ||trueproxy.com^
 ||dns.trust404.win^
@@ -3317,6 +3319,7 @@
 ||vpnsecure.me^
 ||vpnshazam.com^
 ||vpnuk.net^
+||vpnv6.com^
 ||vpnwelt.com^
 ||vtcuong.site^
 ||dns.wahr.top^
@@ -3334,6 +3337,7 @@
 ||warpproxy.com^
 ||waselpro.com^
 ||watchproxy.com^
+||watchunblocked.com^
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^
 ||webpro.xyz^
 ||webproxy.online^
