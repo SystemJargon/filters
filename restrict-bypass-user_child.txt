@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-22T02:15:55.664Z
+! Last modified: 2024-07-23T02:12:44.810Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1749,6 +1749,7 @@
 ||bypass.pw^$ctag=user_child
 ||bypassable.com^$ctag=user_child
 ||bypassed.wtf^$ctag=user_child
+||bypassfw.com^$ctag=user_child
 ||bypassip.com^$ctag=user_child
 ||bypasskey.com^$ctag=user_child
 ||bypasstunnel.com^$ctag=user_child
@@ -1881,7 +1882,6 @@
 ||unblock-proxy.com.de^$ctag=user_child
 ||doh.viatech.com.tw^$ctag=user_child
 ||webproxy.com.de^$ctag=user_child
-||dns.comeonjames.club^$ctag=user_child
 ||edit.commanders.design^$ctag=user_child
 ||confirmedvpn.com^$ctag=user_child
 ||dns1.conne.net^$ctag=user_child
@@ -2816,7 +2816,6 @@
 ||thiscopyofartclassisnotgenuine.rare1k.space^$ctag=user_child
 ||emby.rasp.tv^$ctag=user_child
 ||rateavon.je^$ctag=user_child
-||la.ray0512.win^$ctag=user_child
 ||dns.rayanbab.com^$ctag=user_child
 ||rayneau.fr^$ctag=user_child
 ||rayobyte.com^$ctag=user_child

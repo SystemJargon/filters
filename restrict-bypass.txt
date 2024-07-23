@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-22T02:15:55.664Z
+! Last modified: 2024-07-23T02:12:44.810Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1749,6 +1749,7 @@
 ||bypass.pw^
 ||bypassable.com^
 ||bypassed.wtf^
+||bypassfw.com^
 ||bypassip.com^
 ||bypasskey.com^
 ||bypasstunnel.com^
@@ -1881,7 +1882,6 @@
 ||unblock-proxy.com.de^
 ||doh.viatech.com.tw^
 ||webproxy.com.de^
-||dns.comeonjames.club^
 ||edit.commanders.design^
 ||confirmedvpn.com^
 ||dns1.conne.net^
@@ -2816,7 +2816,6 @@
 ||thiscopyofartclassisnotgenuine.rare1k.space^
 ||emby.rasp.tv^
 ||rateavon.je^
-||la.ray0512.win^
 ||dns.rayanbab.com^
 ||rayneau.fr^
 ||rayobyte.com^
