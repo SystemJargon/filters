@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-28T02:16:56.423Z
+! Last modified: 2024-07-29T02:15:18.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1661,7 +1661,6 @@
 ||b-ii.com^$ctag=user_child
 ||dns.b33.space^$ctag=user_child
 ||dns.b612.me^$ctag=user_child
-||photography.backriverphotography.com^$ctag=user_child
 ||dns.baishiyuan.cn^$ctag=user_child
 ||banana-vpn.com^$ctag=user_child
 ||fr-dns1.bancuh.com^$ctag=user_child
@@ -1744,7 +1743,6 @@
 ||dns.caksono.com^$ctag=user_child
 ||calc-web.me^$ctag=user_child
 ||callies-online.site^$ctag=user_child
-||us1.cambrianscientific.com^$ctag=user_child
 ||carebuzz.io^$ctag=user_child
 ||careproxy.com^$ctag=user_child
 ||console.carestyle.org^$ctag=user_child
@@ -1826,7 +1824,6 @@
 ||dns.gi.co.id^$ctag=user_child
 ||ag.hostme.co.il^$ctag=user_child
 ||lamnia.co.uk^$ctag=user_child
-||einstein.lawson-engineers.co.uk^$ctag=user_child
 ||my-private-network.co.uk^$ctag=user_child
 ||dns.neilzone.co.uk^$ctag=user_child
 ||ninjaproxy.co.uk^$ctag=user_child
@@ -1997,6 +1994,7 @@
 ||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
+||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
 ||tungdnsne.duckdns.org^$ctag=user_child
 ||vpschito.duckdns.org^$ctag=user_child
@@ -2020,6 +2018,7 @@
 ||hole.elbschloss.xyz^$ctag=user_child
 ||dns.elemental.software^$ctag=user_child
 ||elephantvpn.com^$ctag=user_child
+||dns.ellichua.com^$ctag=user_child
 ||dns.emiliyan.com^$ctag=user_child
 ||emuby.com^$ctag=user_child
 ||adguard.ender.fr^$ctag=user_child

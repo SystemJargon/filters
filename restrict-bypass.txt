@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-28T02:16:56.423Z
+! Last modified: 2024-07-29T02:15:18.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1661,7 +1661,6 @@
 ||b-ii.com^
 ||dns.b33.space^
 ||dns.b612.me^
-||photography.backriverphotography.com^
 ||dns.baishiyuan.cn^
 ||banana-vpn.com^
 ||fr-dns1.bancuh.com^
@@ -1744,7 +1743,6 @@
 ||dns.caksono.com^
 ||calc-web.me^
 ||callies-online.site^
-||us1.cambrianscientific.com^
 ||carebuzz.io^
 ||careproxy.com^
 ||console.carestyle.org^
@@ -1826,7 +1824,6 @@
 ||dns.gi.co.id^
 ||ag.hostme.co.il^
 ||lamnia.co.uk^
-||einstein.lawson-engineers.co.uk^
 ||my-private-network.co.uk^
 ||dns.neilzone.co.uk^
 ||ninjaproxy.co.uk^
@@ -1997,6 +1994,7 @@
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
+||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
@@ -2020,6 +2018,7 @@
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||elephantvpn.com^
+||dns.ellichua.com^
 ||dns.emiliyan.com^
 ||emuby.com^
 ||adguard.ender.fr^
