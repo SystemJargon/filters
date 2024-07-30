@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-29T02:15:18.818Z
+! Last modified: 2024-07-30T02:12:52.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1976,8 +1976,6 @@
 ||yul01.dnscry.pt^
 ||zal01.dnscry.pt^
 ||do.dnscrypt.uk^
-||w.n.dnsmirror.org^
-||x.n.dnsmirror.org^
 ||dns.dnssilo.top^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -2152,9 +2150,6 @@
 ||gotrusted.com^
 ||gowork.info^
 ||gracarno.com^
-||k.c.gracemp.org^
-||n.c.gracemp.org^
-||vp.c.gracemp.org^
 ||gratisproxy.nl^
 ||greenpass.info^
 ||dns.grqu.de^
@@ -2164,9 +2159,6 @@
 ||dns2.guidocioni.it^
 ||gumm.org^
 ||gztech.me^
-||j.o.h4xxel.org^
-||x.o.h4xxel.org^
-||x4.o.h4xxel.org^
 ||dns.hahnjo.de^
 ||dns.hanahira.dev^
 ||adguard.haneulo.com^

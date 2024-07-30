@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-29T02:15:18.818Z
+! Last modified: 2024-07-30T02:12:52.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1976,8 +1976,6 @@
 ||yul01.dnscry.pt^$ctag=user_child
 ||zal01.dnscry.pt^$ctag=user_child
 ||do.dnscrypt.uk^$ctag=user_child
-||w.n.dnsmirror.org^$ctag=user_child
-||x.n.dnsmirror.org^$ctag=user_child
 ||dns.dnssilo.top^$ctag=user_child
 ||dnswebvsn.com^$ctag=user_child
 ||doh.beauty^$ctag=user_child
@@ -2152,9 +2150,6 @@
 ||gotrusted.com^$ctag=user_child
 ||gowork.info^$ctag=user_child
 ||gracarno.com^$ctag=user_child
-||k.c.gracemp.org^$ctag=user_child
-||n.c.gracemp.org^$ctag=user_child
-||vp.c.gracemp.org^$ctag=user_child
 ||gratisproxy.nl^$ctag=user_child
 ||greenpass.info^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
@@ -2164,9 +2159,6 @@
 ||dns2.guidocioni.it^$ctag=user_child
 ||gumm.org^$ctag=user_child
 ||gztech.me^$ctag=user_child
-||j.o.h4xxel.org^$ctag=user_child
-||x.o.h4xxel.org^$ctag=user_child
-||x4.o.h4xxel.org^$ctag=user_child
 ||dns.hahnjo.de^$ctag=user_child
 ||dns.hanahira.dev^$ctag=user_child
 ||adguard.haneulo.com^$ctag=user_child
