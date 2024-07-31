@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-30T02:12:52.296Z
+! Last modified: 2024-07-31T01:51:08.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2343,7 +2343,6 @@
 ||adguard.kss.ovh^$ctag=user_child
 ||dns.kugoapps.com^$ctag=user_child
 ||dns.kukal.cz^$ctag=user_child
-||dns.kusoneko.moe^$ctag=user_child
 ||dns.l337.site^$ctag=user_child
 ||lagometer.de^$ctag=user_child
 ||lalal.info^$ctag=user_child
@@ -2364,7 +2363,6 @@
 ||dns2.lezainski.com^$ctag=user_child
 ||dns.lgprk.com^$ctag=user_child
 ||libertyvpn.net^$ctag=user_child
-||t.lifestylethailand.com^$ctag=user_child
 ||linkideo.com^$ctag=user_child
 ||dns.linkr.ninja^$ctag=user_child
 ||liquidvpn.com^$ctag=user_child
@@ -2388,7 +2386,6 @@
 ||mailproxy.info^$ctag=user_child
 ||mallocapp.com^$ctag=user_child
 ||mallocprivacy.com^$ctag=user_child
-||dns.mandre.dev^$ctag=user_child
 ||dns.maolaohei.xyz^$ctag=user_child
 ||ag.marschi.de^$ctag=user_child
 ||adguard.marto.si^$ctag=user_child
@@ -2427,7 +2424,6 @@
 ||dnstls.mobik.com^$ctag=user_child
 ||mobilejump.mobi^$ctag=user_child
 ||mockblock.com^$ctag=user_child
-||nue2.moderateinfra.net^$ctag=user_child
 ||ps1.modr.club^$ctag=user_child
 ||dns.molinero.dev^$ctag=user_child
 ||monoprivacy.io^$ctag=user_child
@@ -2476,7 +2472,6 @@
 ||mzhlhrfr8z.info^$ctag=user_child
 ||dns.mzrme.cn^$ctag=user_child
 ||n0.eu^$ctag=user_child
-||doh-ca.naftalie.net^$ctag=user_child
 ||www.chungocoai.name.vn^$ctag=user_child
 ||nanoproxy.com^$ctag=user_child
 ||dns.narl.app^$ctag=user_child
@@ -2500,7 +2495,6 @@
 ||dns1.sg.newpangea.de^$ctag=user_child
 ||dns1.us.newpangea.de^$ctag=user_child
 ||newshosting.com^$ctag=user_child
-||meteor.newsofmaricopa.com^$ctag=user_child
 ||doh.luigi.nexific.it^$ctag=user_child
 ||edge.nextdns.io^$ctag=user_child
 ||ngrok.app^$ctag=user_child
@@ -2588,9 +2582,6 @@
 ||dns.uk-london-1.oraclecloud.com^$ctag=user_child
 ||dns.us-ashburn-1.oraclecloud.com^$ctag=user_child
 ||dns.us-phoenix-1.oraclecloud.com^$ctag=user_child
-||r.j0.icom.org.np^$ctag=user_child
-||s.j0.icom.org.np^$ctag=user_child
-||x.j0.icom.org.np^$ctag=user_child
 ||dns.oryxlabs.com^$ctag=user_child
 ||os4work.com^$ctag=user_child
 ||dns.ours.luxe^$ctag=user_child
@@ -2612,7 +2603,6 @@
 ||dns.panszelescik.pl^$ctag=user_child
 ||dns-ovh.panszelescik.pl^$ctag=user_child
 ||papervpn.info^$ctag=user_child
-||doh.gcp.pathofgrace.com^$ctag=user_child
 ||pawxy.com^$ctag=user_child
 ||pbproxy.red^$ctag=user_child
 ||pbproxy2.co^$ctag=user_child
@@ -2658,7 +2648,6 @@
 ||pr0xy.com^$ctag=user_child
 ||dns.pragmasec.nl^$ctag=user_child
 ||a1free-optimal.prcdn.net^$ctag=user_child
-||workshop.precisewarehousing.com^$ctag=user_child
 ||predecessor.info^$ctag=user_child
 ||presidentalhistory.wiki^$ctag=user_child
 ||dns2.prima-solusindo.com^$ctag=user_child
@@ -2792,13 +2781,6 @@
 ||revko.info^$ctag=user_child
 ||resolver.rferee.dev^$ctag=user_child
 ||ricko.is^$ctag=user_child
-||api.cloud.rigaprecast.com^$ctag=user_child
-||app.cloud.rigaprecast.com^$ctag=user_child
-||blog.cloud.rigaprecast.com^$ctag=user_child
-||demo.cloud.rigaprecast.com^$ctag=user_child
-||docs.cloud.rigaprecast.com^$ctag=user_child
-||forum.cloud.rigaprecast.com^$ctag=user_child
-||support.cloud.rigaprecast.com^$ctag=user_child
 ||dns.rin.sh^$ctag=user_child
 ||riseup.net^$ctag=user_child
 ||adg.rokh.biz^$ctag=user_child
@@ -3167,6 +3149,8 @@
 ||unblockfacebook.eu^$ctag=user_child
 ||unblockfav.com^$ctag=user_child
 ||unblockit.app^$ctag=user_child
+||unblockit.foo^$ctag=user_child
+||unblockit.meme^$ctag=user_child
 ||unblockit.rsvp^$ctag=user_child
 ||unblockme.us^$ctag=user_child
 ||unblockmywebsite.com^$ctag=user_child

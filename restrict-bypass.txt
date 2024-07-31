@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-30T02:12:52.296Z
+! Last modified: 2024-07-31T01:51:08.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2343,7 +2343,6 @@
 ||adguard.kss.ovh^
 ||dns.kugoapps.com^
 ||dns.kukal.cz^
-||dns.kusoneko.moe^
 ||dns.l337.site^
 ||lagometer.de^
 ||lalal.info^
@@ -2364,7 +2363,6 @@
 ||dns2.lezainski.com^
 ||dns.lgprk.com^
 ||libertyvpn.net^
-||t.lifestylethailand.com^
 ||linkideo.com^
 ||dns.linkr.ninja^
 ||liquidvpn.com^
@@ -2388,7 +2386,6 @@
 ||mailproxy.info^
 ||mallocapp.com^
 ||mallocprivacy.com^
-||dns.mandre.dev^
 ||dns.maolaohei.xyz^
 ||ag.marschi.de^
 ||adguard.marto.si^
@@ -2427,7 +2424,6 @@
 ||dnstls.mobik.com^
 ||mobilejump.mobi^
 ||mockblock.com^
-||nue2.moderateinfra.net^
 ||ps1.modr.club^
 ||dns.molinero.dev^
 ||monoprivacy.io^
@@ -2476,7 +2472,6 @@
 ||mzhlhrfr8z.info^
 ||dns.mzrme.cn^
 ||n0.eu^
-||doh-ca.naftalie.net^
 ||www.chungocoai.name.vn^
 ||nanoproxy.com^
 ||dns.narl.app^
@@ -2500,7 +2495,6 @@
 ||dns1.sg.newpangea.de^
 ||dns1.us.newpangea.de^
 ||newshosting.com^
-||meteor.newsofmaricopa.com^
 ||doh.luigi.nexific.it^
 ||edge.nextdns.io^
 ||ngrok.app^
@@ -2588,9 +2582,6 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
-||r.j0.icom.org.np^
-||s.j0.icom.org.np^
-||x.j0.icom.org.np^
 ||dns.oryxlabs.com^
 ||os4work.com^
 ||dns.ours.luxe^
@@ -2612,7 +2603,6 @@
 ||dns.panszelescik.pl^
 ||dns-ovh.panszelescik.pl^
 ||papervpn.info^
-||doh.gcp.pathofgrace.com^
 ||pawxy.com^
 ||pbproxy.red^
 ||pbproxy2.co^
@@ -2658,7 +2648,6 @@
 ||pr0xy.com^
 ||dns.pragmasec.nl^
 ||a1free-optimal.prcdn.net^
-||workshop.precisewarehousing.com^
 ||predecessor.info^
 ||presidentalhistory.wiki^
 ||dns2.prima-solusindo.com^
@@ -2792,13 +2781,6 @@
 ||revko.info^
 ||resolver.rferee.dev^
 ||ricko.is^
-||api.cloud.rigaprecast.com^
-||app.cloud.rigaprecast.com^
-||blog.cloud.rigaprecast.com^
-||demo.cloud.rigaprecast.com^
-||docs.cloud.rigaprecast.com^
-||forum.cloud.rigaprecast.com^
-||support.cloud.rigaprecast.com^
 ||dns.rin.sh^
 ||riseup.net^
 ||adg.rokh.biz^
@@ -3167,6 +3149,8 @@
 ||unblockfacebook.eu^
 ||unblockfav.com^
 ||unblockit.app^
+||unblockit.foo^
+||unblockit.meme^
 ||unblockit.rsvp^
 ||unblockme.us^
 ||unblockmywebsite.com^
