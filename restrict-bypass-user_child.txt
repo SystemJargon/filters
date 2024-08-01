@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-07-31T01:51:08.461Z
+! Last modified: 2024-08-01T02:19:41.329Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2135,7 +2135,6 @@
 ||dns.api.sandbox.globuscs.info^$ctag=user_child
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
-||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||goaslen.com^$ctag=user_child
@@ -2805,7 +2804,6 @@
 ||dns1.saferbfc.org^$ctag=user_child
 ||dns2.saferbfc.org^$ctag=user_child
 ||safeservedns.com^$ctag=user_child
-||w.q.sagesinst.org^$ctag=user_child
 ||vpn.sakhwow.ru^$ctag=user_child
 ||cloud.samutz.com^$ctag=user_child
 ||lol.sanluix.org^$ctag=user_child
@@ -3054,7 +3052,6 @@
 ||typaza.com^$ctag=user_child
 ||ad.tzockt.beer^$ctag=user_child
 ||uas2.com^$ctag=user_child
-||ubint.net^$ctag=user_child
 ||ublocker.info^$ctag=user_child
 ||ugdsoft.com^$ctag=user_child
 ||webproxy.uk.com^$ctag=user_child
@@ -3208,7 +3205,6 @@
 ||vercel-is-cool.vercel.app^$ctag=user_child
 ||viatun.com^$ctag=user_child
 ||videoproxy.site^$ctag=user_child
-||edpuzzle.videospeed.cl^$ctag=user_child
 ||videounblocked.com^$ctag=user_child
 ||vikingvpn.com^$ctag=user_child
 ||dns.vinnyp.xyz^$ctag=user_child
