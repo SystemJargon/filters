@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-04T02:18:14.271Z
+! Last modified: 2024-08-05T02:15:28.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1719,6 +1719,7 @@
 ||cloudns.bosco.ovh^$ctag=user_child
 ||bramka-proxy.pl^$ctag=user_child
 ||breakwall.net^$ctag=user_child
+||ag.brianlee.fun^$ctag=user_child
 ||bright4good.eco^$ctag=user_child
 ||brightvpn.com^$ctag=user_child
 ||britishproxy.com^$ctag=user_child
@@ -1851,7 +1852,6 @@
 ||german-proxy.com.de^$ctag=user_child
 ||germany-proxy.com.de^$ctag=user_child
 ||dns.joaofidelix.com.br^$ctag=user_child
-||dns1.lothuscorp.com.br^$ctag=user_child
 ||new-proxy.com.de^$ctag=user_child
 ||proxy.com.de^$ctag=user_child
 ||proxy-service.com.de^$ctag=user_child
@@ -1975,7 +1975,6 @@
 ||yul01.dnscry.pt^$ctag=user_child
 ||zal01.dnscry.pt^$ctag=user_child
 ||do.dnscrypt.uk^$ctag=user_child
-||dns.dnssilo.top^$ctag=user_child
 ||dnswebvsn.com^$ctag=user_child
 ||doh.beauty^$ctag=user_child
 ||doh.buzz^$ctag=user_child

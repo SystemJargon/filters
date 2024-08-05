@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-04T02:18:14.271Z
+! Last modified: 2024-08-05T02:15:28.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1719,6 +1719,7 @@
 ||cloudns.bosco.ovh^
 ||bramka-proxy.pl^
 ||breakwall.net^
+||ag.brianlee.fun^
 ||bright4good.eco^
 ||brightvpn.com^
 ||britishproxy.com^
@@ -1851,7 +1852,6 @@
 ||german-proxy.com.de^
 ||germany-proxy.com.de^
 ||dns.joaofidelix.com.br^
-||dns1.lothuscorp.com.br^
 ||new-proxy.com.de^
 ||proxy.com.de^
 ||proxy-service.com.de^
@@ -1975,7 +1975,6 @@
 ||yul01.dnscry.pt^
 ||zal01.dnscry.pt^
 ||do.dnscrypt.uk^
-||dns.dnssilo.top^
 ||dnswebvsn.com^
 ||doh.beauty^
 ||doh.buzz^
