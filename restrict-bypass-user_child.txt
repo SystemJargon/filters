@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-06T02:13:38.449Z
+! Last modified: 2024-08-08T02:14:43.485Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1841,7 +1841,6 @@
 ||coinsite.info^$ctag=user_child
 ||jpdns.cola16.app^$ctag=user_child
 ||dns.colorfreedom.org^$ctag=user_child
-||dns.7sec.com.br^$ctag=user_child
 ||anonymous-proxy.com.de^$ctag=user_child
 ||dns.ceai.com.tw^$ctag=user_child
 ||dns.cloud88.com.au^$ctag=user_child
@@ -1889,7 +1888,6 @@
 ||cubedns.com^$ctag=user_child
 ||qual.cuprum.ru^$ctag=user_child
 ||dns.cwlys.com^$ctag=user_child
-||nanopi.cybergroove.net^$ctag=user_child
 ||cybersilent.com^$ctag=user_child
 ||buythe.cybertruck.design^$ctag=user_child
 ||dns.cynthialabs.net^$ctag=user_child
@@ -2478,7 +2476,6 @@
 ||ne1.ca^$ctag=user_child
 ||needunblock.com^$ctag=user_child
 ||nenam.eu^$ctag=user_child
-||doh.neowutran.ovh^$ctag=user_child
 ||doh.max.net.id^$ctag=user_child
 ||netaltr.com^$ctag=user_child
 ||netgeek.info^$ctag=user_child
@@ -2933,7 +2930,6 @@
 ||dns.syaifullah.com^$ctag=user_child
 ||ihctw.synology.me^$ctag=user_child
 ||doh.syshero.org^$ctag=user_child
-||t-application.website^$ctag=user_child
 ||t-dz.com^$ctag=user_child
 ||tailscale.com^$ctag=user_child
 ||tbjr6.com^$ctag=user_child
@@ -3172,7 +3168,6 @@
 ||ines.zfn.uni-bremen.de^$ctag=user_child
 ||galileo.math.unipd.it^$ctag=user_child
 ||unlocator.com^$ctag=user_child
-||unrestrict.me^$ctag=user_child
 ||unrestrictor.com^$ctag=user_child
 ||resolver.unstoppable.io^$ctag=user_child
 ||untraceable.us^$ctag=user_child

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-06T02:13:38.449Z
+! Last modified: 2024-08-08T02:14:43.485Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1841,7 +1841,6 @@
 ||coinsite.info^
 ||jpdns.cola16.app^
 ||dns.colorfreedom.org^
-||dns.7sec.com.br^
 ||anonymous-proxy.com.de^
 ||dns.ceai.com.tw^
 ||dns.cloud88.com.au^
@@ -1889,7 +1888,6 @@
 ||cubedns.com^
 ||qual.cuprum.ru^
 ||dns.cwlys.com^
-||nanopi.cybergroove.net^
 ||cybersilent.com^
 ||buythe.cybertruck.design^
 ||dns.cynthialabs.net^
@@ -2478,7 +2476,6 @@
 ||ne1.ca^
 ||needunblock.com^
 ||nenam.eu^
-||doh.neowutran.ovh^
 ||doh.max.net.id^
 ||netaltr.com^
 ||netgeek.info^
@@ -2933,7 +2930,6 @@
 ||dns.syaifullah.com^
 ||ihctw.synology.me^
 ||doh.syshero.org^
-||t-application.website^
 ||t-dz.com^
 ||tailscale.com^
 ||tbjr6.com^
@@ -3172,7 +3168,6 @@
 ||ines.zfn.uni-bremen.de^
 ||galileo.math.unipd.it^
 ||unlocator.com^
-||unrestrict.me^
 ||unrestrictor.com^
 ||resolver.unstoppable.io^
 ||untraceable.us^
