@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-12T02:17:35.684Z
+! Last modified: 2024-08-13T02:16:44.525Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1767,7 +1767,6 @@
 ||cienen.com^$ctag=user_child
 ||ciproxy.de^$ctag=user_child
 ||dns.circl.lu^$ctag=user_child
-||circumvent.it^$ctag=user_child
 ||mus.cisco.com^$ctag=user_child
 ||dns.clanless.ovh^$ctag=user_child
 ||dns.clanto.cloud^$ctag=user_child
@@ -1913,7 +1912,6 @@
 ||dns.dev-umbrellagov.com^$ctag=user_child
 ||mainframe.dewed.de^$ctag=user_child
 ||dns.dgea.fr^$ctag=user_child
-||die-pkw-maut.de^$ctag=user_child
 ||digibitdesign.com^$ctag=user_child
 ||disconnect.me^$ctag=user_child
 ||districtnewyork.com^$ctag=user_child
@@ -2212,7 +2210,6 @@
 ||doh.hottis.de^$ctag=user_child
 ||hshh.org^$ctag=user_child
 ||html.cafe^$ctag=user_child
-||httpdserver.info^$ctag=user_child
 ||dns.hugo0.moe^$ctag=user_child
 ||dns.hujiayucc.cn^$ctag=user_child
 ||ads.hunga1k47.com^$ctag=user_child
@@ -2758,7 +2755,6 @@
 ||rapidprivacy.com^$ctag=user_child
 ||rapidproxy.org^$ctag=user_child
 ||rapidvpn.com^$ctag=user_child
-||thiscopyofartclassisnotgenuine.rare1k.space^$ctag=user_child
 ||emby.rasp.tv^$ctag=user_child
 ||rateavon.je^$ctag=user_child
 ||dns.rayanbab.com^$ctag=user_child

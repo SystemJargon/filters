@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-12T02:17:35.684Z
+! Last modified: 2024-08-13T02:16:44.525Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1767,7 +1767,6 @@
 ||cienen.com^
 ||ciproxy.de^
 ||dns.circl.lu^
-||circumvent.it^
 ||mus.cisco.com^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
@@ -1913,7 +1912,6 @@
 ||dns.dev-umbrellagov.com^
 ||mainframe.dewed.de^
 ||dns.dgea.fr^
-||die-pkw-maut.de^
 ||digibitdesign.com^
 ||disconnect.me^
 ||districtnewyork.com^
@@ -2212,7 +2210,6 @@
 ||doh.hottis.de^
 ||hshh.org^
 ||html.cafe^
-||httpdserver.info^
 ||dns.hugo0.moe^
 ||dns.hujiayucc.cn^
 ||ads.hunga1k47.com^
@@ -2758,7 +2755,6 @@
 ||rapidprivacy.com^
 ||rapidproxy.org^
 ||rapidvpn.com^
-||thiscopyofartclassisnotgenuine.rare1k.space^
 ||emby.rasp.tv^
 ||rateavon.je^
 ||dns.rayanbab.com^
