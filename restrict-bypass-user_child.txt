@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-16T02:14:09.311Z
+! Last modified: 2024-08-17T02:11:43.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2862,6 +2862,7 @@
 ||sitdns.com^$ctag=user_child
 ||siteblockedbypass.com^$ctag=user_child
 ||siteget.net^$ctag=user_child
+||sitenable.ch^$ctag=user_child
 ||sitesunblocked.com^$ctag=user_child
 ||siteunblock.xyz^$ctag=user_child
 ||siteunblocked.icu^$ctag=user_child
