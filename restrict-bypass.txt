@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-20T02:14:51.944Z
+! Last modified: 2024-08-22T02:16:59.786Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1542,6 +1542,7 @@
 ||123ultraproxy.com^
 ||123unblocked.com^
 ||cloud.198.games^
+||1banproxy.com^
 ||dns.23-4.cn^
 ||dns.240527.xyz^
 ||doh003.280blocker.net^
@@ -1635,6 +1636,7 @@
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^
 ||mailer.amlegion.org^
 ||doh.amonsul.net^
+||ananoos.com^
 ||dns.andrewnw.xyz^
 ||doh.angry.im^
 ||animeproxy.net^
@@ -1675,6 +1677,7 @@
 ||secure.avastdns.com^
 ||vps.avc.cx^
 ||adguard.avdkishore.dev^
+||avira-vpn.net^
 ||awabo.com^
 ||award-vpn.com^
 ||doh.azoris.ovh^
@@ -1816,6 +1819,7 @@
 ||mus.cisco.com^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
+||clickapp.info^
 ||cloaker.ca^
 ||cloaker.us^
 ||dns.cloudfiction.eu^
@@ -1918,7 +1922,6 @@
 ||dns1.conne.net^
 ||dns.connect.fail^
 ||cool-proxy.net^
-||dns.cooluc.com^
 ||doh.cornes.me^
 ||coverproxy.com^
 ||a.cpfrx.info^
@@ -1949,6 +1952,7 @@
 ||dns.cwlys.com^
 ||cybersilent.com^
 ||buythe.cybertruck.design^
+||cynntex.fun^
 ||dns.cynthialabs.net^
 ||dns.d4d.moe^
 ||dns.d94.xyz^
@@ -2200,6 +2204,7 @@
 ||cranking90s.fortnitebuilder.pro^
 ||fortniters.info^
 ||forwardproxie.com^
+||free-proxy.xyz^
 ||free-signal.com^
 ||free2surfvpn.com^
 ||freeanimesonline.com^
@@ -2382,7 +2387,6 @@
 ||dns.ikataruto.com^
 ||ikhebdorst.nl^
 ||iksde.com^
-||buc-m2.illmods.com^
 ||ilumu.com^
 ||dns.imaicool.com^
 ||noads.imbuffering.com^
@@ -2559,6 +2563,7 @@
 ||dns.maitrekuc.fr^
 ||mallocapp.com^
 ||mallocprivacy.com^
+||dns.mandre.dev^
 ||dns.maolaohei.xyz^
 ||dns.marasov.id^
 ||dns.marbledfennec.net^
@@ -2585,7 +2590,6 @@
 ||meganerd.nl^
 ||megaproxylist.net^
 ||httpdns.meituan.com^
-||dns.melalandia.tk^
 ||dns.melvin2204.nl^
 ||mendozasdelivery.com^
 ||testaghome.meshkov.info^
@@ -2607,6 +2611,7 @@
 ||dnstls.mobik.com^
 ||mobilejump.mobi^
 ||mockblock.com^
+||nue2.moderateinfra.net^
 ||ps1.modr.club^
 ||dns.molinero.dev^
 ||naganohara-yoimiya.momokko.moe^
@@ -2628,6 +2633,7 @@
 ||dns.muxinghe.cn^
 ||muxyuji.ru^
 ||d.apemlegit.my.id^
+||vpnto.bhadrikais.my.id^
 ||dns.iki.my.id^
 ||dns.lista.my.id^
 ||dns.mikrotikrumahan.my.id^
@@ -2662,8 +2668,10 @@
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
+||doh-ca.naftalie.net^
 ||dns.nako.kr^
 ||www.chungocoai.name.vn^
+||adguard.quydang.name.vn^
 ||nanoproxy.com^
 ||dns.narl.app^
 ||dns.nas-server.ru^
@@ -2738,6 +2746,7 @@
 ||nice-autosurf.com^
 ||dns.nick-slowinski.de^
 ||nicsezcheckfbi.gov^
+||dns1.nielsdb.be^
 ||nimbleway.com^
 ||dns.ningkelle.id^
 ||ninjaproxy.ninja^
@@ -2821,6 +2830,7 @@
 ||dns.us-phoenix-1.oraclecloud.com^
 ||dns.oryxlabs.com^
 ||os4work.com^
+||ospylac.com^
 ||dns.ours.luxe^
 ||dns.ourvau.lt^
 ||outdoorchair.us^
@@ -2882,6 +2892,7 @@
 ||dns.porteii.com^
 ||portmap.host^
 ||potatovpn.io^
+||poxy.pl^
 ||dns.aeiou.pp.ua^
 ||dns.ha-dvin.pp.ua^
 ||dns.korzhyk.pp.ua^
@@ -2889,6 +2900,7 @@
 ||sundalandia.pp.ua^
 ||virga.pp.ua^
 ||zxcvb.pp.ua^
+||ppira.com^
 ||pq7hdf.com^
 ||pr0xy.com^
 ||dns.pragmasec.nl^
@@ -2922,6 +2934,7 @@
 ||proxery.com^
 ||proxied.org^
 ||proxies.biz^
+||proxies.center^
 ||proxify.biz^
 ||proxify.cc^
 ||proxify.eu^
@@ -2981,6 +2994,7 @@
 ||proxyunlock.com^
 ||proxyvpnserver.com^
 ||proxyway.com^
+||proxywebtunnel.com^
 ||psiphon.ca^
 ||psiphon3.com^
 ||dns.psociety.de^
@@ -3052,7 +3066,14 @@
 ||dns.rotunneling.net^
 ||roundrockisd.online^
 ||o.rsaikat.com^
+||au.rslvr.eu^
+||bg.rslvr.eu^
 ||dns.rslvr.eu^
+||hk.rslvr.eu^
+||jp.rslvr.eu^
+||nl.rslvr.eu^
+||sg.rslvr.eu^
+||us.rslvr.eu^
 ||adguard.ruby.ci^
 ||adg.rueiliu.space^
 ||doh.runsel.id^
@@ -3086,6 +3107,7 @@
 ||dns.scott-smith.us^
 ||dns.scuola.org^
 ||se3v5tjfff3aet.me^
+||adguard.sealyserver.com^
 ||proxy.searchfiles.de^
 ||dns.sec511.com^
 ||secure-vpn.com^
@@ -3151,6 +3173,7 @@
 ||dns.skrep.eu^
 ||dns.skrep.in^
 ||skydragoness.com^
+||skynetwork.info^
 ||dns.slinkyman.net^
 ||dns.smartguard.io^
 ||snapxs.com^
@@ -3242,6 +3265,7 @@
 ||theproxies.net^
 ||theproxy.bz^
 ||theproxy.cc^
+||theproxy.club^
 ||theproxy.dev^
 ||theproxy.fun^
 ||theproxy.help^
@@ -3252,9 +3276,11 @@
 ||theproxy.lol^
 ||theproxy.me^
 ||theproxy.page^
+||theproxy.red^
 ||theproxy.vip^
 ||theproxy.work^
 ||theproxy2.biz^
+||theproxy2.cc^
 ||theproxy2.com^
 ||theproxy2.info^
 ||theproxy2.org^
@@ -3263,8 +3289,10 @@
 ||theproxya.org^
 ||theproxyddl.com^
 ||theproxyer.com^
+||theproxyfull.com^
 ||theproxyguide.com^
 ||theproxysite.org^
+||theproxysports.com^
 ||theproxyultra.com^
 ||therabbitvpn.com^
 ||dns.theres.one^
@@ -3285,6 +3313,7 @@
 ||tlsext.com^
 ||tlz.asia^
 ||tnvpn.com^
+||d.toairs.com^
 ||tonvpn.com^
 ||dot.tooli.ca^
 ||toppal.tech^
@@ -3347,6 +3376,8 @@
 ||adguard-ironhide.ultima-thule.ru^
 ||ultimatepro.us^
 ||ultrafastproxy.com^
+||ultraproxy.biz^
+||ultraproxyweb.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
 ||unasw.eu^
@@ -3356,6 +3387,7 @@
 ||unblock.pink^
 ||unblock.soy^
 ||unblock.ws^
+||unblock-it.com^
 ||unblock-us.com^
 ||unblock2.club^
 ||unblock2.pw^
@@ -3401,6 +3433,7 @@
 ||unblocked2.space^
 ||unblocked2.us^
 ||unblocked2.vip^
+||unblocked4.com^
 ||unblocked4.me^
 ||unblocked4u.net^
 ||unblocked4u.org^
@@ -3443,6 +3476,7 @@
 ||unblockproxy.us^
 ||unblockproxy.win^
 ||unblocks.net^
+||unblocksite.biz^
 ||unblocksite.ch^
 ||unblocksite.fun^
 ||unblocksite.id^
@@ -3479,6 +3513,7 @@
 ||webproxy.us.com^
 ||usaip.eu^
 ||userproxy.com^
+||uskt.info^
 ||uswebproxy.com^
 ||uswebproxy.net^
 ||utopianpal.com^
@@ -3554,6 +3589,7 @@
 ||wantaquddin.com^
 ||dns.wargan.io^
 ||abel.waringer-atg.de^
+||dns.warma.me^
 ||dns.warpnine.de^
 ||warpproxy.com^
 ||waselpro.com^
@@ -3564,6 +3600,7 @@
 ||doh.webnmail.de^
 ||webpro.xyz^
 ||webproxy.online^
+||webproxyagent.com^
 ||webproxyinc.com^
 ||webrunnerproxy.com^
 ||webshare.io^
@@ -3584,6 +3621,7 @@
 ||wiksa.com^
 ||dns-1.wil.cloud^
 ||dns-2.wil.cloud^
+||wildproxy.info^
 ||windscribe.net^
 ||wireguard.com^
 ||wirevpn.app^
