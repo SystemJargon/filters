@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-22T02:16:59.786Z
+! Last modified: 2024-08-23T02:16:15.618Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1805,7 +1805,6 @@
 ||dns.chenu.ch^
 ||dns.chilimac.net^
 ||chinagrows.com^
-||dns.chmc.ml^
 ||dns.christerwaren.fi^
 ||dns.christian.moe^
 ||dns.chriswservers.com^
@@ -2415,7 +2414,6 @@
 ||iportal.me^
 ||iprovpn.com^
 ||ipunblocker.com^
-||dns.ipv6dns.com^
 ||dns1.irumatech.com^
 ||dns.ishan.pw^
 ||dns.islandnet.com^
