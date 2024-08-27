@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-26T02:17:10.409Z
+! Last modified: 2024-08-27T02:17:54.011Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1550,7 +1550,6 @@
 ||2fastsurfer.eu^$ctag=user_child
 ||2fastsurfer.us^$ctag=user_child
 ||2proxy.de^$ctag=user_child
-||2proxy.us^$ctag=user_child
 ||2proxyweb.com^$ctag=user_child
 ||doh.30x.me^$ctag=user_child
 ||351242444.xyz^$ctag=user_child
@@ -1656,7 +1655,6 @@
 ||anyip.io^$ctag=user_child
 ||doh.apad.pro^$ctag=user_child
 ||ag.apollohct.com^$ctag=user_child
-||appleproxy.com^$ctag=user_child
 ||dns.applewebkit.dev^$ctag=user_child
 ||appshost.us^$ctag=user_child
 ||dns.aquilenet.fr^$ctag=user_child
@@ -2085,7 +2083,6 @@
 ||doh.lv^$ctag=user_child
 ||doh.sb^$ctag=user_child
 ||doh.xyz^$ctag=user_child
-||dns.doh.best^$ctag=user_child
 ||doh.domreg.lt^$ctag=user_child
 ||takhtakh.domyah.net^$ctag=user_child
 ||dns.dooks.uk^$ctag=user_child
@@ -2168,7 +2165,6 @@
 ||fastfreeproxy.info^$ctag=user_child
 ||fastp.org^$ctag=user_child
 ||fastpro.info^$ctag=user_child
-||fastproxy.nl^$ctag=user_child
 ||fastproxy.org^$ctag=user_child
 ||fastproxynetwork.com^$ctag=user_child
 ||fastvpn.me^$ctag=user_child
@@ -2282,7 +2278,6 @@
 ||vpn.gosami.xyz^$ctag=user_child
 ||gotrusted.com^$ctag=user_child
 ||gowork.info^$ctag=user_child
-||gracarno.com^$ctag=user_child
 ||gratisproxy.nl^$ctag=user_child
 ||greenpass.info^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
@@ -2303,7 +2298,6 @@
 ||happydata.info^$ctag=user_child
 ||resolver-eu.haringstad.com^$ctag=user_child
 ||adguard.hartley.cloud^$ctag=user_child
-||hauxcore.de^$ctag=user_child
 ||us-ny-alula.heliumcloud.cc^$ctag=user_child
 ||dns.hellozhao.com^$ctag=user_child
 ||dns.henek.ovh^$ctag=user_child
@@ -2618,7 +2612,6 @@
 ||dns.moonssif.com^$ctag=user_child
 ||morbitzer.de^$ctag=user_child
 ||morevpn.com^$ctag=user_child
-||doh.morizt.id^$ctag=user_child
 ||dns.moulticast.net^$ctag=user_child
 ||msr177.com^$ctag=user_child
 ||dns.msxnet.ru^$ctag=user_child
@@ -2648,7 +2641,6 @@
 ||myiphide.com^$ctag=user_child
 ||blackhole.myon.lu^$ctag=user_child
 ||portmapper.myonlineportal.net^$ctag=user_child
-||myproxy.ca^$ctag=user_child
 ||myproxy.help^$ctag=user_child
 ||myproxy.link^$ctag=user_child
 ||myproxy.lol^$ctag=user_child
@@ -3466,7 +3458,6 @@
 ||unblockit.app^$ctag=user_child
 ||unblockit.foo^$ctag=user_child
 ||unblockit.meme^$ctag=user_child
-||unblockit.rsvp^$ctag=user_child
 ||unblockme.us^$ctag=user_child
 ||unblockmywebsite.com^$ctag=user_child
 ||unblockprox.com^$ctag=user_child
@@ -3548,7 +3539,6 @@
 ||vpn-fastest.com^$ctag=user_child
 ||vpn-for-test.ru^$ctag=user_child
 ||vpn-free.download^$ctag=user_child
-||vpn-quick.com^$ctag=user_child
 ||vpn4all.com^$ctag=user_child
 ||vpnarea.com^$ctag=user_child
 ||vpnbaron.com^$ctag=user_child
@@ -3562,7 +3552,6 @@
 ||vpnneo.com^$ctag=user_child
 ||vpnoneclick.com^$ctag=user_child
 ||vpnonelove.ru^$ctag=user_child
-||vpnproxy.info^$ctag=user_child
 ||vpnproxy.online^$ctag=user_child
 ||vpnproxy.site^$ctag=user_child
 ||vpnranks.com^$ctag=user_child
@@ -3630,7 +3619,6 @@
 ||workdigi.com^$ctag=user_child
 ||workingvpn.com^$ctag=user_child
 ||parrotballs.worksheetsforteachers.xyz^$ctag=user_child
-||workstudyplay.com^$ctag=user_child
 ||worldvpn.net^$ctag=user_child
 ||home.wriedts.de^$ctag=user_child
 ||wtools.eu^$ctag=user_child

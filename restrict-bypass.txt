@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-26T02:17:10.409Z
+! Last modified: 2024-08-27T02:17:54.011Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1550,7 +1550,6 @@
 ||2fastsurfer.eu^
 ||2fastsurfer.us^
 ||2proxy.de^
-||2proxy.us^
 ||2proxyweb.com^
 ||doh.30x.me^
 ||351242444.xyz^
@@ -1656,7 +1655,6 @@
 ||anyip.io^
 ||doh.apad.pro^
 ||ag.apollohct.com^
-||appleproxy.com^
 ||dns.applewebkit.dev^
 ||appshost.us^
 ||dns.aquilenet.fr^
@@ -2085,7 +2083,6 @@
 ||doh.lv^
 ||doh.sb^
 ||doh.xyz^
-||dns.doh.best^
 ||doh.domreg.lt^
 ||takhtakh.domyah.net^
 ||dns.dooks.uk^
@@ -2168,7 +2165,6 @@
 ||fastfreeproxy.info^
 ||fastp.org^
 ||fastpro.info^
-||fastproxy.nl^
 ||fastproxy.org^
 ||fastproxynetwork.com^
 ||fastvpn.me^
@@ -2282,7 +2278,6 @@
 ||vpn.gosami.xyz^
 ||gotrusted.com^
 ||gowork.info^
-||gracarno.com^
 ||gratisproxy.nl^
 ||greenpass.info^
 ||dns.grqu.de^
@@ -2303,7 +2298,6 @@
 ||happydata.info^
 ||resolver-eu.haringstad.com^
 ||adguard.hartley.cloud^
-||hauxcore.de^
 ||us-ny-alula.heliumcloud.cc^
 ||dns.hellozhao.com^
 ||dns.henek.ovh^
@@ -2618,7 +2612,6 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
-||doh.morizt.id^
 ||dns.moulticast.net^
 ||msr177.com^
 ||dns.msxnet.ru^
@@ -2648,7 +2641,6 @@
 ||myiphide.com^
 ||blackhole.myon.lu^
 ||portmapper.myonlineportal.net^
-||myproxy.ca^
 ||myproxy.help^
 ||myproxy.link^
 ||myproxy.lol^
@@ -3466,7 +3458,6 @@
 ||unblockit.app^
 ||unblockit.foo^
 ||unblockit.meme^
-||unblockit.rsvp^
 ||unblockme.us^
 ||unblockmywebsite.com^
 ||unblockprox.com^
@@ -3548,7 +3539,6 @@
 ||vpn-fastest.com^
 ||vpn-for-test.ru^
 ||vpn-free.download^
-||vpn-quick.com^
 ||vpn4all.com^
 ||vpnarea.com^
 ||vpnbaron.com^
@@ -3562,7 +3552,6 @@
 ||vpnneo.com^
 ||vpnoneclick.com^
 ||vpnonelove.ru^
-||vpnproxy.info^
 ||vpnproxy.online^
 ||vpnproxy.site^
 ||vpnranks.com^
@@ -3630,7 +3619,6 @@
 ||workdigi.com^
 ||workingvpn.com^
 ||parrotballs.worksheetsforteachers.xyz^
-||workstudyplay.com^
 ||worldvpn.net^
 ||home.wriedts.de^
 ||wtools.eu^
