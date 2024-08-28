@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-27T02:17:54.011Z
+! Last modified: 2024-08-28T02:18:53.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1779,6 +1779,7 @@
 ||dns.caksono.com^
 ||calc-web.me^
 ||callies-online.site^
+||tor.calyxinstitute.org^
 ||carebuzz.io^
 ||careproxy.com^
 ||console.carestyle.org^
@@ -1791,6 +1792,7 @@
 ||alidns2.cb1999.top^
 ||dns2.cbio.top^
 ||doh.ccb-net.it^
+||tor.ccc.de^
 ||vpn.ccnt.fr^
 ||dns.cctld.kg^
 ||dns.cert.ee^
@@ -2119,6 +2121,7 @@
 ||dns.editechstudio.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
+||tor.eff.org^
 ||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
@@ -2612,6 +2615,7 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
+||doh.morizt.id^
 ||dns.moulticast.net^
 ||msr177.com^
 ||dns.msxnet.ru^
