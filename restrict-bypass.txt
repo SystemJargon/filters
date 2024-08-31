@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-30T02:20:43.005Z
+! Last modified: 2024-08-31T02:19:39.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1776,7 +1776,6 @@
 ||bypasstunnel.com^
 ||api.bytelixir.com^
 ||c-dns.com^
-||dns.caksono.com^
 ||calc-web.me^
 ||callies-online.site^
 ||tor.calyxinstitute.org^
@@ -1792,7 +1791,6 @@
 ||alidns2.cb1999.top^
 ||dns2.cbio.top^
 ||doh.ccb-net.it^
-||tor.ccc.de^
 ||vpn.ccnt.fr^
 ||dns.cctld.kg^
 ||dns.cert.ee^
@@ -1992,7 +1990,6 @@
 ||dns.dns-53.com^
 ||dns.dns-53.uk^
 ||dns.dns-53.us^
-||dns-free.link^
 ||doh.dns-ga.de^
 ||secure-dns.dns-ga.de^
 ||doh.dns4all.eu^
@@ -2230,7 +2227,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
-||adguard.gambini.org^
 ||proxy.gamecove.net^
 ||dns.beta.gandi.net^
 ||gang4.info^
@@ -2731,6 +2727,7 @@
 ||ngrok.dev^
 ||ngrok.io^
 ||ngrok.pizza^
+||ngrok.pro^
 ||ngrok-free.app^
 ||ngrok-free.dev^
 ||dns.nguyendn.com^

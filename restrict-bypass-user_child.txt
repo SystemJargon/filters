@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-08-30T02:20:43.005Z
+! Last modified: 2024-08-31T02:19:39.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1776,7 +1776,6 @@
 ||bypasstunnel.com^$ctag=user_child
 ||api.bytelixir.com^$ctag=user_child
 ||c-dns.com^$ctag=user_child
-||dns.caksono.com^$ctag=user_child
 ||calc-web.me^$ctag=user_child
 ||callies-online.site^$ctag=user_child
 ||tor.calyxinstitute.org^$ctag=user_child
@@ -1792,7 +1791,6 @@
 ||alidns2.cb1999.top^$ctag=user_child
 ||dns2.cbio.top^$ctag=user_child
 ||doh.ccb-net.it^$ctag=user_child
-||tor.ccc.de^$ctag=user_child
 ||vpn.ccnt.fr^$ctag=user_child
 ||dns.cctld.kg^$ctag=user_child
 ||dns.cert.ee^$ctag=user_child
@@ -1992,7 +1990,6 @@
 ||dns.dns-53.com^$ctag=user_child
 ||dns.dns-53.uk^$ctag=user_child
 ||dns.dns-53.us^$ctag=user_child
-||dns-free.link^$ctag=user_child
 ||doh.dns-ga.de^$ctag=user_child
 ||secure-dns.dns-ga.de^$ctag=user_child
 ||doh.dns4all.eu^$ctag=user_child
@@ -2230,7 +2227,6 @@
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.gamban.com^$ctag=user_child
-||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
 ||gang4.info^$ctag=user_child
@@ -2731,6 +2727,7 @@
 ||ngrok.dev^$ctag=user_child
 ||ngrok.io^$ctag=user_child
 ||ngrok.pizza^$ctag=user_child
+||ngrok.pro^$ctag=user_child
 ||ngrok-free.app^$ctag=user_child
 ||ngrok-free.dev^$ctag=user_child
 ||dns.nguyendn.com^$ctag=user_child
