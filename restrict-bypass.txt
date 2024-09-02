@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-01T02:32:29.970Z
+! Last modified: 2024-09-02T02:22:36.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2540,7 +2540,6 @@
 ||doh.phdns3.lonet.org^
 ||doh.phdns4.lonet.org^
 ||doh.phdns5.lonet.org^
-||ns.lov.host^
 ||n5.lsasss.com^
 ||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
@@ -3022,7 +3021,6 @@
 ||ns.ral9005.org^
 ||rapidprivacy.com^
 ||rapidproxy.org^
-||rapidvpn.com^
 ||emby.rasp.tv^
 ||rateavon.je^
 ||dns.rayanbab.com^
@@ -3080,7 +3078,6 @@
 ||safeservedns.com^
 ||vpn.sakhwow.ru^
 ||cloud.samutz.com^
-||lol.sanluix.org^
 ||dns.sarak.as^
 ||dns.sarakas.net^
 ||dns.sarilouis.com^
@@ -3176,7 +3173,6 @@
 ||adguard.sparshbajaj.me^
 ||speedshare.app^
 ||speedyth.com^
-||spicevpn.com^
 ||dns.spirio.fr^
 ||squidmall.vip^
 ||sriedmueadguard.casa^

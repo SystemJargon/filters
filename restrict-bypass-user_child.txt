@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-01T02:32:29.970Z
+! Last modified: 2024-09-02T02:22:36.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2540,7 +2540,6 @@
 ||doh.phdns3.lonet.org^$ctag=user_child
 ||doh.phdns4.lonet.org^$ctag=user_child
 ||doh.phdns5.lonet.org^$ctag=user_child
-||ns.lov.host^$ctag=user_child
 ||n5.lsasss.com^$ctag=user_child
 ||lukscasino-479-tr.xyz^$ctag=user_child
 ||lukscasino-542-tr.xyz^$ctag=user_child
@@ -3022,7 +3021,6 @@
 ||ns.ral9005.org^$ctag=user_child
 ||rapidprivacy.com^$ctag=user_child
 ||rapidproxy.org^$ctag=user_child
-||rapidvpn.com^$ctag=user_child
 ||emby.rasp.tv^$ctag=user_child
 ||rateavon.je^$ctag=user_child
 ||dns.rayanbab.com^$ctag=user_child
@@ -3080,7 +3078,6 @@
 ||safeservedns.com^$ctag=user_child
 ||vpn.sakhwow.ru^$ctag=user_child
 ||cloud.samutz.com^$ctag=user_child
-||lol.sanluix.org^$ctag=user_child
 ||dns.sarak.as^$ctag=user_child
 ||dns.sarakas.net^$ctag=user_child
 ||dns.sarilouis.com^$ctag=user_child
@@ -3176,7 +3173,6 @@
 ||adguard.sparshbajaj.me^$ctag=user_child
 ||speedshare.app^$ctag=user_child
 ||speedyth.com^$ctag=user_child
-||spicevpn.com^$ctag=user_child
 ||dns.spirio.fr^$ctag=user_child
 ||squidmall.vip^$ctag=user_child
 ||sriedmueadguard.casa^$ctag=user_child
