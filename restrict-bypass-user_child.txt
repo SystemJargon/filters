@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-04T02:21:25.145Z
+! Last modified: 2024-09-05T02:22:01.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1618,8 +1618,6 @@
 ||aioproxy.net^$ctag=user_child
 ||airdns.org^$ctag=user_child
 ||dns.albony.xyz^$ctag=user_child
-||dnsnl-noads.alekberg.net^$ctag=user_child
-||dnsse-noads.alekberg.net^$ctag=user_child
 ||alhapi.com^$ctag=user_child
 ||alhvp.com^$ctag=user_child
 ||alidns.com^$ctag=user_child
@@ -2101,7 +2099,6 @@
 ||dutchproxy.nl^$ctag=user_child
 ||dns.dyn1.de^$ctag=user_child
 ||ueni.dyndns.org^$ctag=user_child
-||gustamadh.dynv6.net^$ctag=user_child
 ||vpn.dzarlax.dev^$ctag=user_child
 ||earnapp.com^$ctag=user_child
 ||adguard.easez.net^$ctag=user_child
