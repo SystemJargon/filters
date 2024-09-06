@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-05T02:22:01.054Z
+! Last modified: 2024-09-06T02:21:56.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1618,6 +1618,8 @@
 ||aioproxy.net^
 ||airdns.org^
 ||dns.albony.xyz^
+||dnsnl-noads.alekberg.net^
+||dnsse-noads.alekberg.net^
 ||alhapi.com^
 ||alhvp.com^
 ||alidns.com^
@@ -1744,7 +1746,6 @@
 ||adguard.bonis.de^
 ||adguard.bonsirven.eu^
 ||boomtunnel.com^
-||adblock.borjalopez.eu^
 ||cloudns.bosco.ovh^
 ||dns.braene.com^
 ||bramka-proxy.pl^
@@ -2099,6 +2100,7 @@
 ||dutchproxy.nl^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
+||gustamadh.dynv6.net^
 ||vpn.dzarlax.dev^
 ||earnapp.com^
 ||adguard.easez.net^
@@ -2560,7 +2562,6 @@
 ||maskedip.com^
 ||masters-of-cloud.de^
 ||dns.mateo.ovh^
-||dns.mathewakhil.online^
 ||mathhelpnow.site^
 ||mathlearning.tech^
 ||mathnotes.help^
@@ -3074,7 +3075,6 @@
 ||safeservedns.com^
 ||vpn.sakhwow.ru^
 ||cloud.samutz.com^
-||dns.sarak.as^
 ||dns.sarakas.net^
 ||dns.sarilouis.com^
 ||saturnvpn.com^

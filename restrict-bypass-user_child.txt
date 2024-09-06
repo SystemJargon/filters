@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-05T02:22:01.054Z
+! Last modified: 2024-09-06T02:21:56.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1618,6 +1618,8 @@
 ||aioproxy.net^$ctag=user_child
 ||airdns.org^$ctag=user_child
 ||dns.albony.xyz^$ctag=user_child
+||dnsnl-noads.alekberg.net^$ctag=user_child
+||dnsse-noads.alekberg.net^$ctag=user_child
 ||alhapi.com^$ctag=user_child
 ||alhvp.com^$ctag=user_child
 ||alidns.com^$ctag=user_child
@@ -1744,7 +1746,6 @@
 ||adguard.bonis.de^$ctag=user_child
 ||adguard.bonsirven.eu^$ctag=user_child
 ||boomtunnel.com^$ctag=user_child
-||adblock.borjalopez.eu^$ctag=user_child
 ||cloudns.bosco.ovh^$ctag=user_child
 ||dns.braene.com^$ctag=user_child
 ||bramka-proxy.pl^$ctag=user_child
@@ -2099,6 +2100,7 @@
 ||dutchproxy.nl^$ctag=user_child
 ||dns.dyn1.de^$ctag=user_child
 ||ueni.dyndns.org^$ctag=user_child
+||gustamadh.dynv6.net^$ctag=user_child
 ||vpn.dzarlax.dev^$ctag=user_child
 ||earnapp.com^$ctag=user_child
 ||adguard.easez.net^$ctag=user_child
@@ -2560,7 +2562,6 @@
 ||maskedip.com^$ctag=user_child
 ||masters-of-cloud.de^$ctag=user_child
 ||dns.mateo.ovh^$ctag=user_child
-||dns.mathewakhil.online^$ctag=user_child
 ||mathhelpnow.site^$ctag=user_child
 ||mathlearning.tech^$ctag=user_child
 ||mathnotes.help^$ctag=user_child
@@ -3074,7 +3075,6 @@
 ||safeservedns.com^$ctag=user_child
 ||vpn.sakhwow.ru^$ctag=user_child
 ||cloud.samutz.com^$ctag=user_child
-||dns.sarak.as^$ctag=user_child
 ||dns.sarakas.net^$ctag=user_child
 ||dns.sarilouis.com^$ctag=user_child
 ||saturnvpn.com^$ctag=user_child
