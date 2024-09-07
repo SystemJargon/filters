@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-06T02:21:56.649Z
+! Last modified: 2024-09-07T02:19:24.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1541,6 +1541,7 @@
 ||123torr.com^$ctag=user_child
 ||123ultraproxy.com^$ctag=user_child
 ||123unblocked.com^$ctag=user_child
+||16yd.com^$ctag=user_child
 ||cloud.198.games^$ctag=user_child
 ||1banproxy.com^$ctag=user_child
 ||dns.23-4.cn^$ctag=user_child
@@ -2100,7 +2101,6 @@
 ||dutchproxy.nl^$ctag=user_child
 ||dns.dyn1.de^$ctag=user_child
 ||ueni.dyndns.org^$ctag=user_child
-||gustamadh.dynv6.net^$ctag=user_child
 ||vpn.dzarlax.dev^$ctag=user_child
 ||earnapp.com^$ctag=user_child
 ||adguard.easez.net^$ctag=user_child
@@ -2226,7 +2226,6 @@
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.gamban.com^$ctag=user_child
-||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
 ||gang4.info^$ctag=user_child
