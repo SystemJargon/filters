@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-10T02:23:32.946Z
+! Last modified: 2024-09-11T02:22:17.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2217,7 +2217,6 @@
 ||dns.froth.zone^$ctag=user_child
 ||frysprinters.com^$ctag=user_child
 ||awan.ftp.sh^$ctag=user_child
-||doh.funil.de^$ctag=user_child
 ||doh.funtopia.tv^$ctag=user_child
 ||dns.furrydns.de^$ctag=user_child
 ||doh.futa.app^$ctag=user_child
@@ -3074,6 +3073,7 @@
 ||safeservedns.com^$ctag=user_child
 ||vpn.sakhwow.ru^$ctag=user_child
 ||cloud.samutz.com^$ctag=user_child
+||dns.sarak.as^$ctag=user_child
 ||dns.sarakas.net^$ctag=user_child
 ||dns.sarilouis.com^$ctag=user_child
 ||saturnvpn.com^$ctag=user_child
@@ -3625,7 +3625,6 @@
 ||xite.cc^$ctag=user_child
 ||xite.mobi^$ctag=user_child
 ||xite.ws^$ctag=user_child
-||dns.xiumu.org^$ctag=user_child
 ||dns.xlion.tw^$ctag=user_child
 ||xn--durhre-yxa.de^$ctag=user_child
 ||dns.xuming.studio^$ctag=user_child
