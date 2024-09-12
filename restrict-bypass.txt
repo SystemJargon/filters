@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-11T02:22:17.996Z
+! Last modified: 2024-09-12T02:22:38.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2217,6 +2217,7 @@
 ||dns.froth.zone^
 ||frysprinters.com^
 ||awan.ftp.sh^
+||doh.funil.de^
 ||doh.funtopia.tv^
 ||dns.furrydns.de^
 ||doh.futa.app^
