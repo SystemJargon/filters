@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-12T02:22:38.228Z
+! Last modified: 2024-09-13T02:23:28.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2210,7 +2210,6 @@
 ||freeproxysites.co^
 ||freeproxyupdate.com^
 ||freevpnplanet.com^
-||freewebproxy.us^
 ||freewebproxyserver.net^
 ||dns.freopc.fr^
 ||dns.freyja.pw^
@@ -2228,7 +2227,6 @@
 ||adguard.gambini.org^
 ||proxy.gamecove.net^
 ||dns.beta.gandi.net^
-||gang4.info^
 ||gclouddns.com^
 ||gecko.fun^
 ||adg.geili.me^
@@ -2262,6 +2260,7 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||agh.gloom.nexus^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||goaslen.com^
@@ -2293,7 +2292,6 @@
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||hanniel.tech^
-||happydata.info^
 ||resolver-eu.haringstad.com^
 ||adguard.hartley.cloud^
 ||us-ny-alula.heliumcloud.cc^
@@ -2704,7 +2702,6 @@
 ||dns.neowutran.ovh^
 ||doh.max.net.id^
 ||netaltr.com^
-||netgeek.info^
 ||netnut.io^
 ||netscop.net^
 ||dns.netvpn.net^
@@ -2909,7 +2906,6 @@
 ||de.dns.privex.io^
 ||nl.dns.privex.io^
 ||privoxy.org^
-||prohome.info^
 ||project-evoex.de^
 ||prontoproxy.info^
 ||propage.info^
@@ -2958,7 +2954,6 @@
 ||proxyelite.info^
 ||proxyen.com^
 ||proxyer.net^
-||proxyfort.com^
 ||proxygizlen.com^
 ||proxyhash.net^
 ||proxyist.com^
@@ -3613,7 +3608,6 @@
 ||parrotballs.worksheetsforteachers.xyz^
 ||worldvpn.net^
 ||home.wriedts.de^
-||wtools.eu^
 ||proxy.wynd.network^
 ||wyx.cloud^
 ||x9fnzrtl4x8pynsf.com^
@@ -3644,7 +3638,6 @@
 ||ylink.info^
 ||youfreeproxytube.com^
 ||younblocked.com^
-||dns.youni.win^
 ||youproxytube.com^
 ||your-dns.run^
 ||yourinternetproxy.info^

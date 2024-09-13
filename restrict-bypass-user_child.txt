@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-12T02:22:38.228Z
+! Last modified: 2024-09-13T02:23:28.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2210,7 +2210,6 @@
 ||freeproxysites.co^$ctag=user_child
 ||freeproxyupdate.com^$ctag=user_child
 ||freevpnplanet.com^$ctag=user_child
-||freewebproxy.us^$ctag=user_child
 ||freewebproxyserver.net^$ctag=user_child
 ||dns.freopc.fr^$ctag=user_child
 ||dns.freyja.pw^$ctag=user_child
@@ -2228,7 +2227,6 @@
 ||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
-||gang4.info^$ctag=user_child
 ||gclouddns.com^$ctag=user_child
 ||gecko.fun^$ctag=user_child
 ||adg.geili.me^$ctag=user_child
@@ -2262,6 +2260,7 @@
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
 ||agh.gloom.nexus^$ctag=user_child
+||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||goaslen.com^$ctag=user_child
@@ -2293,7 +2292,6 @@
 ||adguard.haneulo.com^$ctag=user_child
 ||dns.hanmey.de^$ctag=user_child
 ||hanniel.tech^$ctag=user_child
-||happydata.info^$ctag=user_child
 ||resolver-eu.haringstad.com^$ctag=user_child
 ||adguard.hartley.cloud^$ctag=user_child
 ||us-ny-alula.heliumcloud.cc^$ctag=user_child
@@ -2704,7 +2702,6 @@
 ||dns.neowutran.ovh^$ctag=user_child
 ||doh.max.net.id^$ctag=user_child
 ||netaltr.com^$ctag=user_child
-||netgeek.info^$ctag=user_child
 ||netnut.io^$ctag=user_child
 ||netscop.net^$ctag=user_child
 ||dns.netvpn.net^$ctag=user_child
@@ -2909,7 +2906,6 @@
 ||de.dns.privex.io^$ctag=user_child
 ||nl.dns.privex.io^$ctag=user_child
 ||privoxy.org^$ctag=user_child
-||prohome.info^$ctag=user_child
 ||project-evoex.de^$ctag=user_child
 ||prontoproxy.info^$ctag=user_child
 ||propage.info^$ctag=user_child
@@ -2958,7 +2954,6 @@
 ||proxyelite.info^$ctag=user_child
 ||proxyen.com^$ctag=user_child
 ||proxyer.net^$ctag=user_child
-||proxyfort.com^$ctag=user_child
 ||proxygizlen.com^$ctag=user_child
 ||proxyhash.net^$ctag=user_child
 ||proxyist.com^$ctag=user_child
@@ -3613,7 +3608,6 @@
 ||parrotballs.worksheetsforteachers.xyz^$ctag=user_child
 ||worldvpn.net^$ctag=user_child
 ||home.wriedts.de^$ctag=user_child
-||wtools.eu^$ctag=user_child
 ||proxy.wynd.network^$ctag=user_child
 ||wyx.cloud^$ctag=user_child
 ||x9fnzrtl4x8pynsf.com^$ctag=user_child
@@ -3644,7 +3638,6 @@
 ||ylink.info^$ctag=user_child
 ||youfreeproxytube.com^$ctag=user_child
 ||younblocked.com^$ctag=user_child
-||dns.youni.win^$ctag=user_child
 ||youproxytube.com^$ctag=user_child
 ||your-dns.run^$ctag=user_child
 ||yourinternetproxy.info^$ctag=user_child
