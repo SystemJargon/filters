@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-13T02:23:28.309Z
+! Last modified: 2024-09-14T02:21:29.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2090,9 +2090,7 @@
 ||agh.dshubham.xyz^$ctag=user_child
 ||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
-||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
-||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
 ||tungdnsne.duckdns.org^$ctag=user_child
 ||vpschito.duckdns.org^$ctag=user_child
@@ -2200,7 +2198,6 @@
 ||free-signal.com^$ctag=user_child
 ||free2surfvpn.com^$ctag=user_child
 ||freeanimesonline.com^$ctag=user_child
-||hkname.freecdn.one^$ctag=user_child
 ||freeconnect.link^$ctag=user_child
 ||freedome-vpn.net^$ctag=user_child
 ||freedomproxy.com^$ctag=user_child
@@ -2224,7 +2221,6 @@
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.gamban.com^$ctag=user_child
-||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
 ||gclouddns.com^$ctag=user_child
@@ -3332,7 +3328,6 @@
 ||trustedproxies.com^$ctag=user_child
 ||truta.org^$ctag=user_child
 ||dns.tryk.app^$ctag=user_child
-||adg.tshost.no^$ctag=user_child
 ||doh.ibr.cs.tu-bs.de^$ctag=user_child
 ||turbotrackvpn.com^$ctag=user_child
 ||turbovpn.co^$ctag=user_child

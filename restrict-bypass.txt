@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-13T02:23:28.309Z
+! Last modified: 2024-09-14T02:21:29.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2090,9 +2090,7 @@
 ||agh.dshubham.xyz^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
-||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
-||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
@@ -2200,7 +2198,6 @@
 ||free-signal.com^
 ||free2surfvpn.com^
 ||freeanimesonline.com^
-||hkname.freecdn.one^
 ||freeconnect.link^
 ||freedome-vpn.net^
 ||freedomproxy.com^
@@ -2224,7 +2221,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
-||adguard.gambini.org^
 ||proxy.gamecove.net^
 ||dns.beta.gandi.net^
 ||gclouddns.com^
@@ -3332,7 +3328,6 @@
 ||trustedproxies.com^
 ||truta.org^
 ||dns.tryk.app^
-||adg.tshost.no^
 ||doh.ibr.cs.tu-bs.de^
 ||turbotrackvpn.com^
 ||turbovpn.co^
