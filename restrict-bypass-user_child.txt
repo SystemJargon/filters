@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-15T02:31:31.749Z
+! Last modified: 2024-09-16T02:31:23.954Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2225,6 +2225,7 @@
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.gamban.com^$ctag=user_child
+||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
 ||gclouddns.com^$ctag=user_child
@@ -2260,7 +2261,6 @@
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
 ||agh.gloom.nexus^$ctag=user_child
-||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||goaslen.com^$ctag=user_child
@@ -3622,7 +3622,6 @@
 ||xn--durhre-yxa.de^$ctag=user_child
 ||dns.xuming.studio^$ctag=user_child
 ||dns.xusqui.com^$ctag=user_child
-||dns.xwdmw.xyz^$ctag=user_child
 ||v2.xx3210766.live^$ctag=user_child
 ||dns.yameenassotally.com^$ctag=user_child
 ||dns.yandex.ru^$ctag=user_child
