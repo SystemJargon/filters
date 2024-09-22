@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-20T02:25:03.144Z
+! Last modified: 2024-09-22T02:30:32.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1656,6 +1656,7 @@
 ||anyip.io^$ctag=user_child
 ||doh.apad.pro^$ctag=user_child
 ||ag.apollohct.com^$ctag=user_child
+||appleproxy.com^$ctag=user_child
 ||dns.applewebkit.dev^$ctag=user_child
 ||appshost.us^$ctag=user_child
 ||dns.aquilenet.fr^$ctag=user_child
@@ -1984,6 +1985,7 @@
 ||disconnect.me^$ctag=user_child
 ||districtnewyork.com^$ctag=user_child
 ||divalane.com^$ctag=user_child
+||divaloo.com^$ctag=user_child
 ||divavu.com^$ctag=user_child
 ||dns.expert^$ctag=user_child
 ||dns.dns-53.com^$ctag=user_child
@@ -2088,10 +2090,13 @@
 ||dns.dotnet.win^$ctag=user_child
 ||doh.dscloud.me^$ctag=user_child
 ||agh.dshubham.xyz^$ctag=user_child
+||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
+||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
+||tungdnsne.duckdns.org^$ctag=user_child
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child
@@ -2273,6 +2278,7 @@
 ||vpn.gosami.xyz^$ctag=user_child
 ||gotrusted.com^$ctag=user_child
 ||gowork.info^$ctag=user_child
+||gracarno.com^$ctag=user_child
 ||gratisproxy.nl^$ctag=user_child
 ||greenpass.info^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
@@ -2404,6 +2410,10 @@
 ||dns1.irumatech.com^$ctag=user_child
 ||dns.ishan.pw^$ctag=user_child
 ||dns.islandnet.com^$ctag=user_child
+||math.isreally.pro^$ctag=user_child
+||smellyal.isreally.pro^$ctag=user_child
+||smellypay.isreally.pro^$ctag=user_child
+||stuffyschicken.isreallycool.lol^$ctag=user_child
 ||diy.itsa.top^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
@@ -2632,6 +2642,7 @@
 ||myiphide.com^$ctag=user_child
 ||blackhole.myon.lu^$ctag=user_child
 ||portmapper.myonlineportal.net^$ctag=user_child
+||myproxy.ca^$ctag=user_child
 ||myproxy.help^$ctag=user_child
 ||myproxy.link^$ctag=user_child
 ||myproxy.lol^$ctag=user_child
@@ -2977,7 +2988,6 @@
 ||psiphon3.com^$ctag=user_child
 ||dns.psociety.de^$ctag=user_child
 ||publicdnsserver.com^$ctag=user_child
-||pukanuragan.ru^$ctag=user_child
 ||dns.pumpkinvrar.com^$ctag=user_child
 ||pupilproxy.com^$ctag=user_child
 ||dns-privacy.puregeni.us^$ctag=user_child
@@ -3130,6 +3140,7 @@
 ||dns.silen.org^$ctag=user_child
 ||dns.silentlybren.com^$ctag=user_child
 ||simpleproxy.us^$ctag=user_child
+||simplevpn.net^$ctag=user_child
 ||dns.simplylinux.ch^$ctag=user_child
 ||dns.sindominio.net^$ctag=user_child
 ||sinovpn.com^$ctag=user_child
@@ -3343,12 +3354,14 @@
 ||typaza.com^$ctag=user_child
 ||ad.tzockt.beer^$ctag=user_child
 ||uas2.com^$ctag=user_child
+||ubint.net^$ctag=user_child
 ||ublocker.info^$ctag=user_child
 ||ugdsoft.com^$ctag=user_child
 ||webproxy.uk.com^$ctag=user_child
 ||ukwebproxy.eu^$ctag=user_child
 ||adguard-ironhide.ultima-thule.ru^$ctag=user_child
 ||ultimatepro.us^$ctag=user_child
+||ultrabestproxy.com^$ctag=user_child
 ||ultrafastproxy.com^$ctag=user_child
 ||ultraproxy.biz^$ctag=user_child
 ||ultraproxyweb.com^$ctag=user_child
@@ -3470,6 +3483,7 @@
 ||ines.zfn.uni-bremen.de^$ctag=user_child
 ||galileo.math.unipd.it^$ctag=user_child
 ||unlocator.com^$ctag=user_child
+||unrestrict.me^$ctag=user_child
 ||unrestrictor.com^$ctag=user_child
 ||untraceable.us^$ctag=user_child
 ||untracer.com^$ctag=user_child
@@ -3570,6 +3584,7 @@
 ||doh.webnmail.de^$ctag=user_child
 ||webpro.xyz^$ctag=user_child
 ||webproxy.online^$ctag=user_child
+||webproxy.us^$ctag=user_child
 ||webproxyagent.com^$ctag=user_child
 ||webproxyinc.com^$ctag=user_child
 ||webrunnerproxy.com^$ctag=user_child
@@ -3637,6 +3652,7 @@
 ||youproxytube.com^$ctag=user_child
 ||your-dns.run^$ctag=user_child
 ||yourinternetproxy.info^$ctag=user_child
+||youtube-proxy.com^$ctag=user_child
 ||youtube-unblocker.com^$ctag=user_child
 ||yovbak.com^$ctag=user_child
 ||yoyovpn.org^$ctag=user_child

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-20T02:25:03.144Z
+! Last modified: 2024-09-22T02:30:32.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1656,6 +1656,7 @@
 ||anyip.io^
 ||doh.apad.pro^
 ||ag.apollohct.com^
+||appleproxy.com^
 ||dns.applewebkit.dev^
 ||appshost.us^
 ||dns.aquilenet.fr^
@@ -1984,6 +1985,7 @@
 ||disconnect.me^
 ||districtnewyork.com^
 ||divalane.com^
+||divaloo.com^
 ||divavu.com^
 ||dns.expert^
 ||dns.dns-53.com^
@@ -2088,10 +2090,13 @@
 ||dns.dotnet.win^
 ||doh.dscloud.me^
 ||agh.dshubham.xyz^
+||home27.duckdns.org^
 ||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
+||punono.duckdns.org^
 ||tuandns.duckdns.org^
+||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
@@ -2273,6 +2278,7 @@
 ||vpn.gosami.xyz^
 ||gotrusted.com^
 ||gowork.info^
+||gracarno.com^
 ||gratisproxy.nl^
 ||greenpass.info^
 ||dns.grqu.de^
@@ -2404,6 +2410,10 @@
 ||dns1.irumatech.com^
 ||dns.ishan.pw^
 ||dns.islandnet.com^
+||math.isreally.pro^
+||smellyal.isreally.pro^
+||smellypay.isreally.pro^
+||stuffyschicken.isreallycool.lol^
 ||diy.itsa.top^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
@@ -2632,6 +2642,7 @@
 ||myiphide.com^
 ||blackhole.myon.lu^
 ||portmapper.myonlineportal.net^
+||myproxy.ca^
 ||myproxy.help^
 ||myproxy.link^
 ||myproxy.lol^
@@ -2977,7 +2988,6 @@
 ||psiphon3.com^
 ||dns.psociety.de^
 ||publicdnsserver.com^
-||pukanuragan.ru^
 ||dns.pumpkinvrar.com^
 ||pupilproxy.com^
 ||dns-privacy.puregeni.us^
@@ -3130,6 +3140,7 @@
 ||dns.silen.org^
 ||dns.silentlybren.com^
 ||simpleproxy.us^
+||simplevpn.net^
 ||dns.simplylinux.ch^
 ||dns.sindominio.net^
 ||sinovpn.com^
@@ -3343,12 +3354,14 @@
 ||typaza.com^
 ||ad.tzockt.beer^
 ||uas2.com^
+||ubint.net^
 ||ublocker.info^
 ||ugdsoft.com^
 ||webproxy.uk.com^
 ||ukwebproxy.eu^
 ||adguard-ironhide.ultima-thule.ru^
 ||ultimatepro.us^
+||ultrabestproxy.com^
 ||ultrafastproxy.com^
 ||ultraproxy.biz^
 ||ultraproxyweb.com^
@@ -3470,6 +3483,7 @@
 ||ines.zfn.uni-bremen.de^
 ||galileo.math.unipd.it^
 ||unlocator.com^
+||unrestrict.me^
 ||unrestrictor.com^
 ||untraceable.us^
 ||untracer.com^
@@ -3570,6 +3584,7 @@
 ||doh.webnmail.de^
 ||webpro.xyz^
 ||webproxy.online^
+||webproxy.us^
 ||webproxyagent.com^
 ||webproxyinc.com^
 ||webrunnerproxy.com^
@@ -3637,6 +3652,7 @@
 ||youproxytube.com^
 ||your-dns.run^
 ||yourinternetproxy.info^
+||youtube-proxy.com^
 ||youtube-unblocker.com^
 ||yovbak.com^
 ||yoyovpn.org^
