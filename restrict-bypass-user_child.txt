@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-22T02:30:32.003Z
+! Last modified: 2024-09-23T02:26:24.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1702,7 +1702,6 @@
 ||justhost.bedro.cloud^$ctag=user_child
 ||beecomf.xyz^$ctag=user_child
 ||beetvpn.com^$ctag=user_child
-||adguard.beliefanx.cn^$ctag=user_child
 ||dns.belnet.be^$ctag=user_child
 ||dns.benpro.fr^$ctag=user_child
 ||dns.bermeitinger.eu^$ctag=user_child
@@ -2528,7 +2527,6 @@
 ||dns.lihj.me^$ctag=user_child
 ||linkideo.com^$ctag=user_child
 ||dns.linkr.ninja^$ctag=user_child
-||doh.linngde.com^$ctag=user_child
 ||africadns1.liquidtelecom.net^$ctag=user_child
 ||africadns2.liquidtelecom.net^$ctag=user_child
 ||liquidvpn.com^$ctag=user_child
@@ -2814,7 +2812,6 @@
 ||ns3.opennameserver.org^$ctag=user_child
 ||ns4.opennameserver.org^$ctag=user_child
 ||openproxy.space^$ctag=user_child
-||openvpn.cc^$ctag=user_child
 ||dns.eu-frankfurt-1.oraclecloud.com^$ctag=user_child
 ||dns.uk-london-1.oraclecloud.com^$ctag=user_child
 ||dns.us-ashburn-1.oraclecloud.com^$ctag=user_child
@@ -2988,6 +2985,7 @@
 ||psiphon3.com^$ctag=user_child
 ||dns.psociety.de^$ctag=user_child
 ||publicdnsserver.com^$ctag=user_child
+||pukanuragan.ru^$ctag=user_child
 ||dns.pumpkinvrar.com^$ctag=user_child
 ||pupilproxy.com^$ctag=user_child
 ||dns-privacy.puregeni.us^$ctag=user_child
@@ -3339,7 +3337,6 @@
 ||dns.trust404.win^$ctag=user_child
 ||trustedproxies.com^$ctag=user_child
 ||truta.org^$ctag=user_child
-||dns.tryk.app^$ctag=user_child
 ||doh.ibr.cs.tu-bs.de^$ctag=user_child
 ||turbotrackvpn.com^$ctag=user_child
 ||turbovpn.co^$ctag=user_child
@@ -3577,7 +3574,6 @@
 ||dns.warpnine.de^$ctag=user_child
 ||warpproxy.com^$ctag=user_child
 ||waselpro.com^$ctag=user_child
-||watchproxy.com^$ctag=user_child
 ||watchunblocked.com^$ctag=user_child
 ||dns.engineer.web.id^$ctag=user_child
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^$ctag=user_child

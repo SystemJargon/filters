@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-22T02:30:32.003Z
+! Last modified: 2024-09-23T02:26:24.349Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1702,7 +1702,6 @@
 ||justhost.bedro.cloud^
 ||beecomf.xyz^
 ||beetvpn.com^
-||adguard.beliefanx.cn^
 ||dns.belnet.be^
 ||dns.benpro.fr^
 ||dns.bermeitinger.eu^
@@ -2528,7 +2527,6 @@
 ||dns.lihj.me^
 ||linkideo.com^
 ||dns.linkr.ninja^
-||doh.linngde.com^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
 ||liquidvpn.com^
@@ -2814,7 +2812,6 @@
 ||ns3.opennameserver.org^
 ||ns4.opennameserver.org^
 ||openproxy.space^
-||openvpn.cc^
 ||dns.eu-frankfurt-1.oraclecloud.com^
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.us-ashburn-1.oraclecloud.com^
@@ -2988,6 +2985,7 @@
 ||psiphon3.com^
 ||dns.psociety.de^
 ||publicdnsserver.com^
+||pukanuragan.ru^
 ||dns.pumpkinvrar.com^
 ||pupilproxy.com^
 ||dns-privacy.puregeni.us^
@@ -3339,7 +3337,6 @@
 ||dns.trust404.win^
 ||trustedproxies.com^
 ||truta.org^
-||dns.tryk.app^
 ||doh.ibr.cs.tu-bs.de^
 ||turbotrackvpn.com^
 ||turbovpn.co^
@@ -3577,7 +3574,6 @@
 ||dns.warpnine.de^
 ||warpproxy.com^
 ||waselpro.com^
-||watchproxy.com^
 ||watchunblocked.com^
 ||dns.engineer.web.id^
 ||1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com^
