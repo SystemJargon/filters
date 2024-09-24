@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-23T02:26:24.349Z
+! Last modified: 2024-09-24T02:26:59.311Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2627,6 +2627,7 @@
 ||dns.iki.my.id^$ctag=user_child
 ||dns.lista.my.id^$ctag=user_child
 ||dns.mikrotikrumahan.my.id^$ctag=user_child
+||dns.pnh.my.id^$ctag=user_child
 ||dns.repinger.my.id^$ctag=user_child
 ||dns1.server.my.id^$ctag=user_child
 ||id.terra.my.id^$ctag=user_child
@@ -3565,7 +3566,6 @@
 ||darkness.is.my.waifu.cz^$ctag=user_child
 ||megumin.is.my.waifu.cz^$ctag=user_child
 ||yunyun.is.my.waifu.cz^$ctag=user_child
-||dns.wakgood.net^$ctag=user_child
 ||dns.wang.art^$ctag=user_child
 ||wantaquddin.com^$ctag=user_child
 ||dns.wargan.io^$ctag=user_child
