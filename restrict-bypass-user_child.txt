@@ -1,8 +1,8 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-24T02:26:59.311Z
+! Last modified: 2024-09-26T02:25:53.729Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.26
+! Compiled by @adguard/hostlist-compiler v1.0.28
 !
 ||0000a-fast-proxy.de^$ctag=user_child
 ||012proxy.ga^$ctag=user_child
@@ -1901,6 +1901,7 @@
 ||dns.joaofidelix.com.br^$ctag=user_child
 ||dns.netraptor.com.au^$ctag=user_child
 ||new-proxy.com.de^$ctag=user_child
+||dns.opnsource.com.au^$ctag=user_child
 ||proxy.com.de^$ctag=user_child
 ||proxy-service.com.de^$ctag=user_child
 ||proxy-site.com.de^$ctag=user_child
@@ -2300,7 +2301,6 @@
 ||us-ny-alula.heliumcloud.cc^$ctag=user_child
 ||dns.hellozhao.com^$ctag=user_child
 ||dns.henek.ovh^$ctag=user_child
-||ad1.heronet.nl^$ctag=user_child
 ||httpdns-push.heytapmobile.com^$ctag=user_child
 ||hiddenproxy.net^$ctag=user_child
 ||hideallip.com^$ctag=user_child
@@ -2624,6 +2624,7 @@
 ||muxyuji.ru^$ctag=user_child
 ||d.apemlegit.my.id^$ctag=user_child
 ||vpnto.bhadrikais.my.id^$ctag=user_child
+||please.dontsteal.my.id^$ctag=user_child
 ||dns.iki.my.id^$ctag=user_child
 ||dns.lista.my.id^$ctag=user_child
 ||dns.mikrotikrumahan.my.id^$ctag=user_child

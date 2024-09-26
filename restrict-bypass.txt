@@ -1,8 +1,8 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-24T02:26:59.311Z
+! Last modified: 2024-09-26T02:25:53.729Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.26
+! Compiled by @adguard/hostlist-compiler v1.0.28
 !
 ||0000a-fast-proxy.de^
 ||012proxy.ga^
@@ -1901,6 +1901,7 @@
 ||dns.joaofidelix.com.br^
 ||dns.netraptor.com.au^
 ||new-proxy.com.de^
+||dns.opnsource.com.au^
 ||proxy.com.de^
 ||proxy-service.com.de^
 ||proxy-site.com.de^
@@ -2300,7 +2301,6 @@
 ||us-ny-alula.heliumcloud.cc^
 ||dns.hellozhao.com^
 ||dns.henek.ovh^
-||ad1.heronet.nl^
 ||httpdns-push.heytapmobile.com^
 ||hiddenproxy.net^
 ||hideallip.com^
@@ -2624,6 +2624,7 @@
 ||muxyuji.ru^
 ||d.apemlegit.my.id^
 ||vpnto.bhadrikais.my.id^
+||please.dontsteal.my.id^
 ||dns.iki.my.id^
 ||dns.lista.my.id^
 ||dns.mikrotikrumahan.my.id^
