@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-28T02:25:11.427Z
+! Last modified: 2024-09-29T02:32:09.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2090,6 +2090,7 @@
 ||doh.dscloud.me^
 ||agh.dshubham.xyz^
 ||home27.duckdns.org^
+||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
@@ -3042,7 +3043,6 @@
 ||dns.rin.sh^
 ||riseup.net^
 ||dns.roedel.cloud^
-||adg.rokh.biz^
 ||dns.ronc.ru^
 ||roodel.com^
 ||roogen.com^
@@ -3337,6 +3337,7 @@
 ||dns.trust404.win^
 ||trustedproxies.com^
 ||truta.org^
+||adg.tshost.no^
 ||doh.ibr.cs.tu-bs.de^
 ||turbotrackvpn.com^
 ||turbovpn.co^

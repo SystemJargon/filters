@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-28T02:25:11.427Z
+! Last modified: 2024-09-29T02:32:09.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2090,6 +2090,7 @@
 ||doh.dscloud.me^$ctag=user_child
 ||agh.dshubham.xyz^$ctag=user_child
 ||home27.duckdns.org^$ctag=user_child
+||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
@@ -3042,7 +3043,6 @@
 ||dns.rin.sh^$ctag=user_child
 ||riseup.net^$ctag=user_child
 ||dns.roedel.cloud^$ctag=user_child
-||adg.rokh.biz^$ctag=user_child
 ||dns.ronc.ru^$ctag=user_child
 ||roodel.com^$ctag=user_child
 ||roogen.com^$ctag=user_child
@@ -3337,6 +3337,7 @@
 ||dns.trust404.win^$ctag=user_child
 ||trustedproxies.com^$ctag=user_child
 ||truta.org^$ctag=user_child
+||adg.tshost.no^$ctag=user_child
 ||doh.ibr.cs.tu-bs.de^$ctag=user_child
 ||turbotrackvpn.com^$ctag=user_child
 ||turbovpn.co^$ctag=user_child
