@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-29T02:32:09.967Z
+! Last modified: 2024-09-30T02:31:25.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1616,7 +1616,6 @@
 ||shield.afixer.app^
 ||blitz-setup.ahadns.com^
 ||ahoj.email^
-||aioproxy.net^
 ||airdns.org^
 ||dns.albony.xyz^
 ||dnsnl-noads.alekberg.net^
@@ -3671,5 +3670,4 @@
 ||zpath.net^
 ||a.zpn.me^
 ||zproxy.de^
-||dns.zui.lol^
 ||dns.zzuhacker.cn^
