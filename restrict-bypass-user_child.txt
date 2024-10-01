@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-30T02:31:25.791Z
+! Last modified: 2024-10-01T02:36:06.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1715,7 +1715,6 @@
 ||bi-tree.ru^$ctag=user_child
 ||biip.info^$ctag=user_child
 ||ns3.bit-trail.nl^$ctag=user_child
-||bit123.biz^$ctag=user_child
 ||dns.bitdefender.net^$ctag=user_child
 ||fra-dns.bitdefender.net^$ctag=user_child
 ||iow-dns.bitdefender.net^$ctag=user_child
@@ -1774,7 +1773,6 @@
 ||bypasstunnel.com^$ctag=user_child
 ||api.bytelixir.com^$ctag=user_child
 ||c-dns.com^$ctag=user_child
-||calc-web.me^$ctag=user_child
 ||callies-online.site^$ctag=user_child
 ||tor.calyxinstitute.org^$ctag=user_child
 ||carebuzz.io^$ctag=user_child
@@ -2089,12 +2087,10 @@
 ||doh.dscloud.me^$ctag=user_child
 ||agh.dshubham.xyz^$ctag=user_child
 ||home27.duckdns.org^$ctag=user_child
-||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
-||tungdnsne.duckdns.org^$ctag=user_child
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child

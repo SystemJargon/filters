@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-09-30T02:31:25.791Z
+! Last modified: 2024-10-01T02:36:06.347Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1715,7 +1715,6 @@
 ||bi-tree.ru^
 ||biip.info^
 ||ns3.bit-trail.nl^
-||bit123.biz^
 ||dns.bitdefender.net^
 ||fra-dns.bitdefender.net^
 ||iow-dns.bitdefender.net^
@@ -1774,7 +1773,6 @@
 ||bypasstunnel.com^
 ||api.bytelixir.com^
 ||c-dns.com^
-||calc-web.me^
 ||callies-online.site^
 ||tor.calyxinstitute.org^
 ||carebuzz.io^
@@ -2089,12 +2087,10 @@
 ||doh.dscloud.me^
 ||agh.dshubham.xyz^
 ||home27.duckdns.org^
-||jurre-home.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
-||tungdnsne.duckdns.org^
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
