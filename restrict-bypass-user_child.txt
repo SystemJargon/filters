@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-01T02:36:06.347Z
+! Last modified: 2024-10-02T02:26:09.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2087,10 +2087,12 @@
 ||doh.dscloud.me^$ctag=user_child
 ||agh.dshubham.xyz^$ctag=user_child
 ||home27.duckdns.org^$ctag=user_child
+||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
+||tungdnsne.duckdns.org^$ctag=user_child
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child
@@ -2561,8 +2563,9 @@
 ||dns.mateo.ovh^$ctag=user_child
 ||mathhelpnow.site^$ctag=user_child
 ||mathlearning.tech^$ctag=user_child
-||mathnotes.help^$ctag=user_child
 ||mathnotes.icu^$ctag=user_child
+||learn.mathnotes.help^$ctag=user_child
+||todo.mathnotes.help^$ctag=user_child
 ||maxfong.cc^$ctag=user_child
 ||maxvpn.info^$ctag=user_child
 ||dns.maybe.icu^$ctag=user_child
