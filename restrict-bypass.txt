@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-04T02:27:01.191Z
+! Last modified: 2024-10-05T02:24:54.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1655,6 +1655,10 @@
 ||anyip.io^
 ||doh.apad.pro^
 ||ag.apollohct.com^
+||mask-api.fe.apple-dns.net^
+||mask-api.fe2.apple-dns.net^
+||mask.apple-dns.net^
+||mask-t.apple-dns.net^
 ||appleproxy.com^
 ||dns.applewebkit.dev^
 ||appshost.us^
@@ -2363,6 +2367,8 @@
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
 ||mask-api.icloud.com^
+||mask-boot.icloud.com^
+||mask-canary.icloud.com^
 ||icpsuawn1zy5amys.com^
 ||tienpham.id.vn^
 ||idealvpn.com^
@@ -3287,7 +3293,6 @@
 ||thundervpnwin.com^
 ||dns.tierradeayala.com^
 ||tigrons.ru^
-||timedns.net^
 ||timetohide.me^
 ||timmes.nl^
 ||dns.tipsy.coffee^
@@ -3659,7 +3664,6 @@
 ||zdn.ro^
 ||dns.zemows.industries^
 ||zenrows.com^
-||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
 ||zerotunnel.com^

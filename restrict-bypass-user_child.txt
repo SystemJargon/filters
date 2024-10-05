@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-04T02:27:01.191Z
+! Last modified: 2024-10-05T02:24:54.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1655,6 +1655,10 @@
 ||anyip.io^$ctag=user_child
 ||doh.apad.pro^$ctag=user_child
 ||ag.apollohct.com^$ctag=user_child
+||mask-api.fe.apple-dns.net^$ctag=user_child
+||mask-api.fe2.apple-dns.net^$ctag=user_child
+||mask.apple-dns.net^$ctag=user_child
+||mask-t.apple-dns.net^$ctag=user_child
 ||appleproxy.com^$ctag=user_child
 ||dns.applewebkit.dev^$ctag=user_child
 ||appshost.us^$ctag=user_child
@@ -2363,6 +2367,8 @@
 ||webproxy.ich-war-hier.de^$ctag=user_child
 ||icitek.com^$ctag=user_child
 ||mask-api.icloud.com^$ctag=user_child
+||mask-boot.icloud.com^$ctag=user_child
+||mask-canary.icloud.com^$ctag=user_child
 ||icpsuawn1zy5amys.com^$ctag=user_child
 ||tienpham.id.vn^$ctag=user_child
 ||idealvpn.com^$ctag=user_child
@@ -3287,7 +3293,6 @@
 ||thundervpnwin.com^$ctag=user_child
 ||dns.tierradeayala.com^$ctag=user_child
 ||tigrons.ru^$ctag=user_child
-||timedns.net^$ctag=user_child
 ||timetohide.me^$ctag=user_child
 ||timmes.nl^$ctag=user_child
 ||dns.tipsy.coffee^$ctag=user_child
@@ -3659,7 +3664,6 @@
 ||zdn.ro^$ctag=user_child
 ||dns.zemows.industries^$ctag=user_child
 ||zenrows.com^$ctag=user_child
-||doh.zephyrus.id^$ctag=user_child
 ||adguard-kartoffel.zernico.de^$ctag=user_child
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child
