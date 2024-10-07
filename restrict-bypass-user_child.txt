@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-06T02:32:19.367Z
+! Last modified: 2024-10-07T02:30:11.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2157,7 +2157,6 @@
 ||dns.mayx.eu.org^$ctag=user_child
 ||sukidayo.eu.org^$ctag=user_child
 ||eurproxy.com^$ctag=user_child
-||everovpn.co^$ctag=user_child
 ||expatshield.com^$ctag=user_child
 ||expressapisv2.net^$ctag=user_child
 ||dns.extrawdw.net^$ctag=user_child
