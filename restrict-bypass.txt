@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-12T02:23:24.174Z
+! Last modified: 2024-10-13T02:31:11.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1928,7 +1928,6 @@
 ||dns.connect.fail^
 ||cool-proxy.net^
 ||doh.cornes.me^
-||coverproxy.com^
 ||a.cpfrx.info^
 ||b.cpfrx.info^
 ||www.c.cpfrx.info^
@@ -2746,7 +2745,6 @@
 ||dns.ningkelle.id^
 ||ninjaproxy.ninja^
 ||doh.niyawe.de^
-||no-block.net^
 ||pi1.node15.com^
 ||nodepay.ai^
 ||dns.nodoa.me^
