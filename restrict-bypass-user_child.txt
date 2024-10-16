@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-15T02:28:32.307Z
+! Last modified: 2024-10-16T02:29:07.576Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1799,6 +1799,7 @@
 ||dns.cabbage.zone^$ctag=user_child
 ||dns.cahlen.com^$ctag=user_child
 ||callies-online.site^$ctag=user_child
+||calumis.gay^$ctag=user_child
 ||tor.calyxinstitute.org^$ctag=user_child
 ||carebuzz.io^$ctag=user_child
 ||careproxy.com^$ctag=user_child
@@ -1953,6 +1954,7 @@
 ||croxy.red^$ctag=user_child
 ||croxyproxy.best^$ctag=user_child
 ||croxyproxy.net^$ctag=user_child
+||croxyproxy.us^$ctag=user_child
 ||crushus.com^$ctag=user_child
 ||crusty.motorcycles^$ctag=user_child
 ||dns.cryptomize.com^$ctag=user_child
@@ -2203,6 +2205,7 @@
 ||fezgate.ovh^$ctag=user_child
 ||ag.ff0x.ca^$ctag=user_child
 ||dns.ffnw.de^$ctag=user_child
+||ffsurf.net^$ctag=user_child
 ||dns.fgbk.net^$ctag=user_child
 ||fiberprox.us^$ctag=user_child
 ||fiberproxy.com^$ctag=user_child
@@ -2696,6 +2699,7 @@
 ||myproxy.lol^$ctag=user_child
 ||myspaceunlock.com^$ctag=user_child
 ||vm.mytm.cc^$ctag=user_child
+||myturtle.net^$ctag=user_child
 ||myvpn.com^$ctag=user_child
 ||mywebproxy.in^$ctag=user_child
 ||mywebproxy.net^$ctag=user_child
@@ -3020,6 +3024,7 @@
 ||proxydrop.com^$ctag=user_child
 ||proxydude.red^$ctag=user_child
 ||proxydude.xyz^$ctag=user_child
+||proxyduke.lol^$ctag=user_child
 ||proxyelite.info^$ctag=user_child
 ||proxyen.com^$ctag=user_child
 ||proxyer.net^$ctag=user_child
@@ -3227,6 +3232,7 @@
 ||dns.smartguard.io^$ctag=user_child
 ||snapxs.com^$ctag=user_child
 ||guard.sntrk.ru^$ctag=user_child
+||www-proxy.sodemc.com^$ctag=user_child
 ||clientdns3.softcom.net^$ctag=user_child
 ||solidproxy.net^$ctag=user_child
 ||sourceproxy.com^$ctag=user_child
@@ -3307,6 +3313,7 @@
 ||tx.teradns.org^$ctag=user_child
 ||uk.teradns.org^$ctag=user_child
 ||dns.soldier.terumi.club^$ctag=user_child
+||teruteruteruko.com^$ctag=user_child
 ||dns.tesem.dog^$ctag=user_child
 ||cloud.tezoi.com^$ctag=user_child
 ||thankvpn.com^$ctag=user_child
@@ -3697,6 +3704,7 @@
 ||xite.cc^$ctag=user_child
 ||xite.mobi^$ctag=user_child
 ||xite.ws^$ctag=user_child
+||xjumper.com^$ctag=user_child
 ||dns.xlion.tw^$ctag=user_child
 ||xn--durhre-yxa.de^$ctag=user_child
 ||dns.xuming.studio^$ctag=user_child
