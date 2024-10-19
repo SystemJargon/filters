@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-18T02:27:37.386Z
+! Last modified: 2024-10-19T02:25:39.830Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2129,7 +2129,6 @@
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child
-||dns.dyn1.de^$ctag=user_child
 ||ueni.dyndns.org^$ctag=user_child
 ||gustamadh.dynv6.net^$ctag=user_child
 ||vpn.dzarlax.dev^$ctag=user_child
@@ -2331,7 +2330,6 @@
 ||adguard.haneulo.com^$ctag=user_child
 ||dns.hanmey.de^$ctag=user_child
 ||hanniel.tech^$ctag=user_child
-||dns.hannielzhang.com^$ctag=user_child
 ||resolver-eu.haringstad.com^$ctag=user_child
 ||adguard.hartley.cloud^$ctag=user_child
 ||us-ny-alula.heliumcloud.cc^$ctag=user_child
@@ -2541,7 +2539,6 @@
 ||xray.krnl.eu^$ctag=user_child
 ||kryptovpn.kryptotel.net^$ctag=user_child
 ||adguard.kss.ovh^$ctag=user_child
-||dns.kugoapps.com^$ctag=user_child
 ||dns.kukal.cz^$ctag=user_child
 ||dns.kuuhaku.moe^$ctag=user_child
 ||kx-97795-tr.xyz^$ctag=user_child
@@ -2821,7 +2818,6 @@
 ||ns3.com^$ctag=user_child
 ||ns3.cx^$ctag=user_child
 ||ns3.link^$ctag=user_child
-||dnscache0.ns71.net^$ctag=user_child
 ||ns8469rfvth42.xyz^$ctag=user_child
 ||nslookup.io^$ctag=user_child
 ||dns.nullgate.net^$ctag=user_child
