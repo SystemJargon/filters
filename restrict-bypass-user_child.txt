@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-19T02:25:39.830Z
+! Last modified: 2024-10-20T02:33:33.221Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2129,6 +2129,7 @@
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child
+||dns.dyn1.de^$ctag=user_child
 ||ueni.dyndns.org^$ctag=user_child
 ||gustamadh.dynv6.net^$ctag=user_child
 ||vpn.dzarlax.dev^$ctag=user_child
@@ -2330,6 +2331,7 @@
 ||adguard.haneulo.com^$ctag=user_child
 ||dns.hanmey.de^$ctag=user_child
 ||hanniel.tech^$ctag=user_child
+||dns.hannielzhang.com^$ctag=user_child
 ||resolver-eu.haringstad.com^$ctag=user_child
 ||adguard.hartley.cloud^$ctag=user_child
 ||us-ny-alula.heliumcloud.cc^$ctag=user_child
@@ -2833,6 +2835,7 @@
 ||dns.odinpl.com^$ctag=user_child
 ||dns.ofdoom.net^$ctag=user_child
 ||okayfreedom.com^$ctag=user_child
+||dns.olpploiopkuyhiopsfrt.info^$ctag=user_child
 ||adguard.oms-ctr.ru^$ctag=user_child
 ||onconnect.info^$ctag=user_child
 ||doh.onedns.net^$ctag=user_child
