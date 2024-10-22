@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-21T02:29:57.108Z
+! Last modified: 2024-10-22T02:28:19.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1576,7 +1576,6 @@
 ||dns.7vpn.com^$ctag=user_child
 ||dns.886886886.xyz^$ctag=user_child
 ||dns.888654.xyz^$ctag=user_child
-||89433332.xyz^$ctag=user_child
 ||8proxy.com^$ctag=user_child
 ||922proxy.com^$ctag=user_child
 ||dns.9999.sg^$ctag=user_child
@@ -1643,6 +1642,8 @@
 ||anonproxy.eu^$ctag=user_child
 ||anonproxy.org^$ctag=user_child
 ||anonymitynetwork.com^$ctag=user_child
+||anonymizing.com^$ctag=user_child
+||anonymous.at^$ctag=user_child
 ||anonymous-proxy-servers.net^$ctag=user_child
 ||anonymousblog.info^$ctag=user_child
 ||anonymousengine.com^$ctag=user_child
@@ -1804,7 +1805,6 @@
 ||dns.cabbage.zone^$ctag=user_child
 ||dns.cahlen.com^$ctag=user_child
 ||callies-online.site^$ctag=user_child
-||calumis.gay^$ctag=user_child
 ||tor.calyxinstitute.org^$ctag=user_child
 ||tysonsbackagain.capnorthshore.org^$ctag=user_child
 ||carebuzz.io^$ctag=user_child
@@ -2227,6 +2227,7 @@
 ||finevpn.org^$ctag=user_child
 ||antistalkerfree-eu.europe-west1.firebasedatabase.app^$ctag=user_child
 ||xcomvpn-7000b-default-rtdb.firebaseio.com^$ctag=user_child
+||fireprox.net^$ctag=user_child
 ||fitnessdepotprices.com^$ctag=user_child
 ||dns.fizz.studio^$ctag=user_child
 ||vps.fleuryk.ovh^$ctag=user_child
@@ -2244,6 +2245,7 @@
 ||forwardproxie.com^$ctag=user_child
 ||free-proxy.xyz^$ctag=user_child
 ||free-signal.com^$ctag=user_child
+||free-webproxy.com^$ctag=user_child
 ||free2surfvpn.com^$ctag=user_child
 ||freeanimesonline.com^$ctag=user_child
 ||hkname.freecdn.one^$ctag=user_child
@@ -2414,7 +2416,6 @@
 ||vpn.i81.ru^$ctag=user_child
 ||dns.iamanuragh.in^$ctag=user_child
 ||dns.iamninja.ru^$ctag=user_child
-||dns.ian.rocks^$ctag=user_child
 ||iblocker.info^$ctag=user_child
 ||webproxy.ich-war-hier.de^$ctag=user_child
 ||icitek.com^$ctag=user_child
@@ -2562,7 +2563,6 @@
 ||dns.kxy.ink^$ctag=user_child
 ||agh.kyusang.win^$ctag=user_child
 ||dns.l337.site^$ctag=user_child
-||lagometer.de^$ctag=user_child
 ||lalal.info^$ctag=user_child
 ||lantern.io^$ctag=user_child
 ||largero.com^$ctag=user_child
@@ -2587,6 +2587,7 @@
 ||dns.liberador.net^$ctag=user_child
 ||libertyvpn.net^$ctag=user_child
 ||dns.lihj.me^$ctag=user_child
+||limitlessproxy.com^$ctag=user_child
 ||michelo.line.pm^$ctag=user_child
 ||linkideo.com^$ctag=user_child
 ||dns.linkr.ninja^$ctag=user_child
@@ -2856,6 +2857,7 @@
 ||dns.ofdoom.net^$ctag=user_child
 ||okayfreedom.com^$ctag=user_child
 ||dns.olpploiopkuyhiopsfrt.info^$ctag=user_child
+||omegaproxy.com^$ctag=user_child
 ||adguard.oms-ctr.ru^$ctag=user_child
 ||onconnect.info^$ctag=user_child
 ||doh.onedns.net^$ctag=user_child
@@ -2869,6 +2871,7 @@
 ||onion.lt^$ctag=user_child
 ||onion.lu^$ctag=user_child
 ||onion.nu^$ctag=user_child
+||onlineanonymizer.com^$ctag=user_child
 ||onlineproxy.eu^$ctag=user_child
 ||onlineproxy.io^$ctag=user_child
 ||onlineproxy.us^$ctag=user_child
@@ -3022,6 +3025,7 @@
 ||proxii.net^$ctag=user_child
 ||proxite.in^$ctag=user_child
 ||proxite.ws^$ctag=user_child
+||proxy.cc^$ctag=user_child
 ||proxy.nu^$ctag=user_child
 ||proxy.red^$ctag=user_child
 ||proxy.rocks^$ctag=user_child
@@ -3049,6 +3053,7 @@
 ||proxyelite.info^$ctag=user_child
 ||proxyen.com^$ctag=user_child
 ||proxyer.net^$ctag=user_child
+||proxyforfree.eu^$ctag=user_child
 ||proxygizlen.com^$ctag=user_child
 ||proxyhash.net^$ctag=user_child
 ||proxyist.com^$ctag=user_child
@@ -3077,7 +3082,6 @@
 ||publicdnsserver.com^$ctag=user_child
 ||pukanuragan.ru^$ctag=user_child
 ||dns.pumpkinvrar.com^$ctag=user_child
-||pupilproxy.com^$ctag=user_child
 ||dns-privacy.puregeni.us^$ctag=user_child
 ||purevpn.de^$ctag=user_child
 ||purevpn-tools.com^$ctag=user_child
@@ -3116,6 +3120,7 @@
 ||rayneau.fr^$ctag=user_child
 ||rayobyte.com^$ctag=user_child
 ||dns.rbn.gr^$ctag=user_child
+||readandmath.today^$ctag=user_child
 ||login.readinghelper.online^$ctag=user_child
 ||dns.reckoningslug.name^$ctag=user_child
 ||redproxy.info^$ctag=user_child
@@ -3141,7 +3146,6 @@
 ||roodel.com^$ctag=user_child
 ||roogen.com^$ctag=user_child
 ||roonyx.com^$ctag=user_child
-||dns.rootlab.top^$ctag=user_child
 ||dns.rotunneling.net^$ctag=user_child
 ||roundrockisd.online^$ctag=user_child
 ||o.rsaikat.com^$ctag=user_child
@@ -3308,6 +3312,7 @@
 ||surfbytes.info^$ctag=user_child
 ||surfmo.com^$ctag=user_child
 ||surfonym.com^$ctag=user_child
+||surfskip.com^$ctag=user_child
 ||surfsneaker.com^$ctag=user_child
 ||dns.sv-zauner.at^$ctag=user_child
 ||dns.svoi.dev^$ctag=user_child
@@ -3327,7 +3332,6 @@
 ||dns1.techeasy.org^$ctag=user_child
 ||vpn.technicule.info^$ctag=user_child
 ||doh.technochat.in^$ctag=user_child
-||technofix.ir^$ctag=user_child
 ||dns.technologycage.com^$ctag=user_child
 ||dns.technostriker.com^$ctag=user_child
 ||rx.techomespace.com^$ctag=user_child
@@ -3558,6 +3562,7 @@
 ||unblockit.foo^$ctag=user_child
 ||unblockit.meme^$ctag=user_child
 ||unblockit.rsvp^$ctag=user_child
+||unblockmate.com^$ctag=user_child
 ||unblockme.us^$ctag=user_child
 ||unblockmywebsite.com^$ctag=user_child
 ||unblockprox.com^$ctag=user_child
@@ -3574,6 +3579,7 @@
 ||unblocksite.space^$ctag=user_child
 ||unblocksite.website^$ctag=user_child
 ||unblocksites.online^$ctag=user_child
+||unblocksites.org^$ctag=user_child
 ||unblockweb.biz^$ctag=user_child
 ||unblockweb.one^$ctag=user_child
 ||unblockweb.org^$ctag=user_child
@@ -3585,6 +3591,8 @@
 ||galileo.math.unipd.it^$ctag=user_child
 ||unlocator.com^$ctag=user_child
 ||unrestrict.me^$ctag=user_child
+||unrestricter.com^$ctag=user_child
+||unrestricter.org^$ctag=user_child
 ||unrestrictor.com^$ctag=user_child
 ||untraceable.us^$ctag=user_child
 ||untracer.com^$ctag=user_child

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-21T02:29:57.108Z
+! Last modified: 2024-10-22T02:28:19.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1576,7 +1576,6 @@
 ||dns.7vpn.com^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
-||89433332.xyz^
 ||8proxy.com^
 ||922proxy.com^
 ||dns.9999.sg^
@@ -1643,6 +1642,8 @@
 ||anonproxy.eu^
 ||anonproxy.org^
 ||anonymitynetwork.com^
+||anonymizing.com^
+||anonymous.at^
 ||anonymous-proxy-servers.net^
 ||anonymousblog.info^
 ||anonymousengine.com^
@@ -1804,7 +1805,6 @@
 ||dns.cabbage.zone^
 ||dns.cahlen.com^
 ||callies-online.site^
-||calumis.gay^
 ||tor.calyxinstitute.org^
 ||tysonsbackagain.capnorthshore.org^
 ||carebuzz.io^
@@ -2227,6 +2227,7 @@
 ||finevpn.org^
 ||antistalkerfree-eu.europe-west1.firebasedatabase.app^
 ||xcomvpn-7000b-default-rtdb.firebaseio.com^
+||fireprox.net^
 ||fitnessdepotprices.com^
 ||dns.fizz.studio^
 ||vps.fleuryk.ovh^
@@ -2244,6 +2245,7 @@
 ||forwardproxie.com^
 ||free-proxy.xyz^
 ||free-signal.com^
+||free-webproxy.com^
 ||free2surfvpn.com^
 ||freeanimesonline.com^
 ||hkname.freecdn.one^
@@ -2414,7 +2416,6 @@
 ||vpn.i81.ru^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
-||dns.ian.rocks^
 ||iblocker.info^
 ||webproxy.ich-war-hier.de^
 ||icitek.com^
@@ -2562,7 +2563,6 @@
 ||dns.kxy.ink^
 ||agh.kyusang.win^
 ||dns.l337.site^
-||lagometer.de^
 ||lalal.info^
 ||lantern.io^
 ||largero.com^
@@ -2587,6 +2587,7 @@
 ||dns.liberador.net^
 ||libertyvpn.net^
 ||dns.lihj.me^
+||limitlessproxy.com^
 ||michelo.line.pm^
 ||linkideo.com^
 ||dns.linkr.ninja^
@@ -2856,6 +2857,7 @@
 ||dns.ofdoom.net^
 ||okayfreedom.com^
 ||dns.olpploiopkuyhiopsfrt.info^
+||omegaproxy.com^
 ||adguard.oms-ctr.ru^
 ||onconnect.info^
 ||doh.onedns.net^
@@ -2869,6 +2871,7 @@
 ||onion.lt^
 ||onion.lu^
 ||onion.nu^
+||onlineanonymizer.com^
 ||onlineproxy.eu^
 ||onlineproxy.io^
 ||onlineproxy.us^
@@ -3022,6 +3025,7 @@
 ||proxii.net^
 ||proxite.in^
 ||proxite.ws^
+||proxy.cc^
 ||proxy.nu^
 ||proxy.red^
 ||proxy.rocks^
@@ -3049,6 +3053,7 @@
 ||proxyelite.info^
 ||proxyen.com^
 ||proxyer.net^
+||proxyforfree.eu^
 ||proxygizlen.com^
 ||proxyhash.net^
 ||proxyist.com^
@@ -3077,7 +3082,6 @@
 ||publicdnsserver.com^
 ||pukanuragan.ru^
 ||dns.pumpkinvrar.com^
-||pupilproxy.com^
 ||dns-privacy.puregeni.us^
 ||purevpn.de^
 ||purevpn-tools.com^
@@ -3116,6 +3120,7 @@
 ||rayneau.fr^
 ||rayobyte.com^
 ||dns.rbn.gr^
+||readandmath.today^
 ||login.readinghelper.online^
 ||dns.reckoningslug.name^
 ||redproxy.info^
@@ -3141,7 +3146,6 @@
 ||roodel.com^
 ||roogen.com^
 ||roonyx.com^
-||dns.rootlab.top^
 ||dns.rotunneling.net^
 ||roundrockisd.online^
 ||o.rsaikat.com^
@@ -3308,6 +3312,7 @@
 ||surfbytes.info^
 ||surfmo.com^
 ||surfonym.com^
+||surfskip.com^
 ||surfsneaker.com^
 ||dns.sv-zauner.at^
 ||dns.svoi.dev^
@@ -3327,7 +3332,6 @@
 ||dns1.techeasy.org^
 ||vpn.technicule.info^
 ||doh.technochat.in^
-||technofix.ir^
 ||dns.technologycage.com^
 ||dns.technostriker.com^
 ||rx.techomespace.com^
@@ -3558,6 +3562,7 @@
 ||unblockit.foo^
 ||unblockit.meme^
 ||unblockit.rsvp^
+||unblockmate.com^
 ||unblockme.us^
 ||unblockmywebsite.com^
 ||unblockprox.com^
@@ -3574,6 +3579,7 @@
 ||unblocksite.space^
 ||unblocksite.website^
 ||unblocksites.online^
+||unblocksites.org^
 ||unblockweb.biz^
 ||unblockweb.one^
 ||unblockweb.org^
@@ -3585,6 +3591,8 @@
 ||galileo.math.unipd.it^
 ||unlocator.com^
 ||unrestrict.me^
+||unrestricter.com^
+||unrestricter.org^
 ||unrestrictor.com^
 ||untraceable.us^
 ||untracer.com^
