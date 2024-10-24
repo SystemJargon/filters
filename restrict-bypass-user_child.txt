@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-23T02:27:02.659Z
+! Last modified: 2024-10-24T02:27:16.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1629,11 +1629,13 @@
 ||vps.alloxr.info^$ctag=user_child
 ||dns.almir1904.eu^$ctag=user_child
 ||adguard.alu.dog^$ctag=user_child
+||aluu.xyz^$ctag=user_child
 ||dns.alvosec.com^$ctag=user_child
 ||alwaysvpn.com^$ctag=user_child
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^$ctag=user_child
 ||mailer.amlegion.org^$ctag=user_child
 ||doh.amonsul.net^$ctag=user_child
+||anachem.online^$ctag=user_child
 ||ananoos.com^$ctag=user_child
 ||dns.andrewnw.xyz^$ctag=user_child
 ||doh.angry.im^$ctag=user_child
@@ -1654,6 +1656,7 @@
 ||antpeak.com^$ctag=user_child
 ||antycenzor.pl^$ctag=user_child
 ||secure.anudeep.me^$ctag=user_child
+||anura.pro^$ctag=user_child
 ||anyip.io^$ctag=user_child
 ||doh.apad.pro^$ctag=user_child
 ||ag.apollohct.com^$ctag=user_child
@@ -1728,7 +1731,6 @@
 ||beecomf.xyz^$ctag=user_child
 ||beetvpn.com^$ctag=user_child
 ||dns.belnet.be^$ctag=user_child
-||dns.benpro.fr^$ctag=user_child
 ||dns.bermeitinger.eu^$ctag=user_child
 ||bestproxy.xyz^$ctag=user_child
 ||bestvpn.org^$ctag=user_child
@@ -2444,6 +2446,7 @@
 ||dns2.in-berlin.de^$ctag=user_child
 ||in-disguise.com^$ctag=user_child
 ||dns.inclusioproject.com^$ctag=user_child
+||incog.works^$ctag=user_child
 ||adblock.indianets.net^$ctag=user_child
 ||dns.indust.me^$ctag=user_child
 ||dns.indybanipal.com^$ctag=user_child
@@ -3310,6 +3313,7 @@
 ||supervpn.net^$ctag=user_child
 ||supervpn.top^$ctag=user_child
 ||surfbytes.info^$ctag=user_child
+||surfdoge.pro^$ctag=user_child
 ||surfmo.com^$ctag=user_child
 ||surfonym.com^$ctag=user_child
 ||surfskip.com^$ctag=user_child
@@ -3400,6 +3404,7 @@
 ||timmes.nl^$ctag=user_child
 ||adb.timnichollsphotography.com^$ctag=user_child
 ||dns.tipsy.coffee^$ctag=user_child
+||titaniumnetwork.org^$ctag=user_child
 ||dns.tls-data.de^$ctag=user_child
 ||tlsext.com^$ctag=user_child
 ||tlz.asia^$ctag=user_child

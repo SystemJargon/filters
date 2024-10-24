@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-23T02:27:02.659Z
+! Last modified: 2024-10-24T02:27:16.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1629,11 +1629,13 @@
 ||vps.alloxr.info^
 ||dns.almir1904.eu^
 ||adguard.alu.dog^
+||aluu.xyz^
 ||dns.alvosec.com^
 ||alwaysvpn.com^
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^
 ||mailer.amlegion.org^
 ||doh.amonsul.net^
+||anachem.online^
 ||ananoos.com^
 ||dns.andrewnw.xyz^
 ||doh.angry.im^
@@ -1654,6 +1656,7 @@
 ||antpeak.com^
 ||antycenzor.pl^
 ||secure.anudeep.me^
+||anura.pro^
 ||anyip.io^
 ||doh.apad.pro^
 ||ag.apollohct.com^
@@ -1728,7 +1731,6 @@
 ||beecomf.xyz^
 ||beetvpn.com^
 ||dns.belnet.be^
-||dns.benpro.fr^
 ||dns.bermeitinger.eu^
 ||bestproxy.xyz^
 ||bestvpn.org^
@@ -2444,6 +2446,7 @@
 ||dns2.in-berlin.de^
 ||in-disguise.com^
 ||dns.inclusioproject.com^
+||incog.works^
 ||adblock.indianets.net^
 ||dns.indust.me^
 ||dns.indybanipal.com^
@@ -3310,6 +3313,7 @@
 ||supervpn.net^
 ||supervpn.top^
 ||surfbytes.info^
+||surfdoge.pro^
 ||surfmo.com^
 ||surfonym.com^
 ||surfskip.com^
@@ -3400,6 +3404,7 @@
 ||timmes.nl^
 ||adb.timnichollsphotography.com^
 ||dns.tipsy.coffee^
+||titaniumnetwork.org^
 ||dns.tls-data.de^
 ||tlsext.com^
 ||tlz.asia^
