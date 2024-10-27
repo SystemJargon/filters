@@ -16,7 +16,7 @@ jobs:
     - uses: actions/checkout@main
     - uses: actions/setup-node@main
       with:
-        node-version: 'current'  
+        node-version: 'latest'  
     - run: npm i -g @adguard/hostlist-compiler
 
 # Lists input and output    
