@@ -5,6 +5,10 @@
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/aggregated-threats-1.txt",
          "type":"hosts"
       },
+          {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
+         "type":"hosts"
+      },
       {
          "name": "zonefiles-compromised-full",
          "source": "https://zonefiles.io/f/compromised/domains/full/",
