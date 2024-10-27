@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-25T02:28:50.556Z
+! Last modified: 2024-10-27T02:33:11.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2218,7 +2218,6 @@
 ||ag.ff0x.ca^
 ||dns.ffnw.de^
 ||ffsurf.net^
-||dns.fgbk.net^
 ||fiberprox.us^
 ||fiberproxy.com^
 ||fiberproxy.mobi^
@@ -2407,7 +2406,6 @@
 ||dns.huas.me^
 ||dns.hugo0.moe^
 ||dns.hujiayucc.cn^
-||ads.hunga1k47.com^
 ||doth.huque.com^
 ||dns.huseynov.work^
 ||ad.huyct.net^
@@ -2503,7 +2501,6 @@
 ||dns.joey01245.nl^
 ||vpn.jogjacloud.com^
 ||adguard.johanliebert.top^
-||johneldenring.lol^
 ||adguard1.jsanagustin.net^
 ||jsmapper.com^
 ||dns.jstockley.com^
@@ -3503,6 +3500,7 @@
 ||unblocked.black^
 ||unblocked.buzz^
 ||unblocked.cloud^
+||unblocked.foo^
 ||unblocked.green^
 ||unblocked.help^
 ||unblocked.how^

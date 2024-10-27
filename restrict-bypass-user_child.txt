@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-25T02:28:50.556Z
+! Last modified: 2024-10-27T02:33:11.100Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2218,7 +2218,6 @@
 ||ag.ff0x.ca^$ctag=user_child
 ||dns.ffnw.de^$ctag=user_child
 ||ffsurf.net^$ctag=user_child
-||dns.fgbk.net^$ctag=user_child
 ||fiberprox.us^$ctag=user_child
 ||fiberproxy.com^$ctag=user_child
 ||fiberproxy.mobi^$ctag=user_child
@@ -2407,7 +2406,6 @@
 ||dns.huas.me^$ctag=user_child
 ||dns.hugo0.moe^$ctag=user_child
 ||dns.hujiayucc.cn^$ctag=user_child
-||ads.hunga1k47.com^$ctag=user_child
 ||doth.huque.com^$ctag=user_child
 ||dns.huseynov.work^$ctag=user_child
 ||ad.huyct.net^$ctag=user_child
@@ -2503,7 +2501,6 @@
 ||dns.joey01245.nl^$ctag=user_child
 ||vpn.jogjacloud.com^$ctag=user_child
 ||adguard.johanliebert.top^$ctag=user_child
-||johneldenring.lol^$ctag=user_child
 ||adguard1.jsanagustin.net^$ctag=user_child
 ||jsmapper.com^$ctag=user_child
 ||dns.jstockley.com^$ctag=user_child
@@ -3503,6 +3500,7 @@
 ||unblocked.black^$ctag=user_child
 ||unblocked.buzz^$ctag=user_child
 ||unblocked.cloud^$ctag=user_child
+||unblocked.foo^$ctag=user_child
 ||unblocked.green^$ctag=user_child
 ||unblocked.help^$ctag=user_child
 ||unblocked.how^$ctag=user_child
