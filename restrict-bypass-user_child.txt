@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-28T02:30:40.657Z
+! Last modified: 2024-10-29T02:27:51.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2115,7 +2115,6 @@
 ||yyz01.dnscry.pt^$ctag=user_child
 ||zal01.dnscry.pt^$ctag=user_child
 ||do.dnscrypt.uk^$ctag=user_child
-||bahopir188.dnshome.de^$ctag=user_child
 ||dnswebvsn.com^$ctag=user_child
 ||do-39574-tr.xyz^$ctag=user_child
 ||doh.beauty^$ctag=user_child
@@ -2133,8 +2132,10 @@
 ||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
 ||krtekvpn.duckdns.org^$ctag=user_child
+||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
+||tungdnsne.duckdns.org^$ctag=user_child
 ||vpschito.duckdns.org^$ctag=user_child
 ||dukun.de^$ctag=user_child
 ||dutchproxy.nl^$ctag=user_child
