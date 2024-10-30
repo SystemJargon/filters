@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-29T02:27:51.363Z
+! Last modified: 2024-10-30T02:27:23.071Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1662,25 +1662,6 @@
 ||ag.apollohct.com^
 ||mask-api.fe2.apple-dns.net^
 ||mask.apple-dns.net^
-||ausyd2.mask-t.apple-dns.net^
-||deber3.mask-t.apple-dns.net^
-||dedus1.mask-t.apple-dns.net^
-||gbslo5.mask-t.apple-dns.net^
-||hktko1.mask-t.apple-dns.net^
-||iedub2.mask-t.apple-dns.net^
-||jptyo12.mask-t.apple-dns.net^
-||nlhfd1.mask-t.apple-dns.net^
-||sesto4.mask-t.apple-dns.net^
-||sgsin8.mask-t.apple-dns.net^
-||twntc1.mask-t.apple-dns.net^
-||usatl5.mask-t.apple-dns.net^
-||usbos2.mask-t.apple-dns.net^
-||uschi7.mask-t.apple-dns.net^
-||usdal2.mask-t.apple-dns.net^
-||usden6.mask-t.apple-dns.net^
-||uslax2.mask-t.apple-dns.net^
-||usmia1.mask-t.apple-dns.net^
-||usuyk1.mask-t.apple-dns.net^
 ||appleproxy.com^
 ||dns.applewebkit.dev^
 ||appshost.us^
@@ -2131,8 +2112,6 @@
 ||agh.dshubham.xyz^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
-||krtekvpn.duckdns.org^
-||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
@@ -2272,7 +2251,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
-||adguard.gambini.org^
 ||proxy.gamecove.net^
 ||dns.beta.gandi.net^
 ||gclouddns.com^
@@ -2694,7 +2672,6 @@
 ||dns.mikrotikrumahan.my.id^
 ||dns.pnh.my.id^
 ||dns.repinger.my.id^
-||dns1.server.my.id^
 ||id.terra.my.id^
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
@@ -3323,6 +3300,7 @@
 ||doh.syshero.org^
 ||dns.szpadel.ovh^
 ||t-dz.com^
+||dns.t-ipnet.de^
 ||tailscale.com^
 ||tbjr6.com^
 ||tbjr6.net^

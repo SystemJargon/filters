@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-29T02:27:51.363Z
+! Last modified: 2024-10-30T02:27:23.071Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1662,25 +1662,6 @@
 ||ag.apollohct.com^$ctag=user_child
 ||mask-api.fe2.apple-dns.net^$ctag=user_child
 ||mask.apple-dns.net^$ctag=user_child
-||ausyd2.mask-t.apple-dns.net^$ctag=user_child
-||deber3.mask-t.apple-dns.net^$ctag=user_child
-||dedus1.mask-t.apple-dns.net^$ctag=user_child
-||gbslo5.mask-t.apple-dns.net^$ctag=user_child
-||hktko1.mask-t.apple-dns.net^$ctag=user_child
-||iedub2.mask-t.apple-dns.net^$ctag=user_child
-||jptyo12.mask-t.apple-dns.net^$ctag=user_child
-||nlhfd1.mask-t.apple-dns.net^$ctag=user_child
-||sesto4.mask-t.apple-dns.net^$ctag=user_child
-||sgsin8.mask-t.apple-dns.net^$ctag=user_child
-||twntc1.mask-t.apple-dns.net^$ctag=user_child
-||usatl5.mask-t.apple-dns.net^$ctag=user_child
-||usbos2.mask-t.apple-dns.net^$ctag=user_child
-||uschi7.mask-t.apple-dns.net^$ctag=user_child
-||usdal2.mask-t.apple-dns.net^$ctag=user_child
-||usden6.mask-t.apple-dns.net^$ctag=user_child
-||uslax2.mask-t.apple-dns.net^$ctag=user_child
-||usmia1.mask-t.apple-dns.net^$ctag=user_child
-||usuyk1.mask-t.apple-dns.net^$ctag=user_child
 ||appleproxy.com^$ctag=user_child
 ||dns.applewebkit.dev^$ctag=user_child
 ||appshost.us^$ctag=user_child
@@ -2131,8 +2112,6 @@
 ||agh.dshubham.xyz^$ctag=user_child
 ||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
-||krtekvpn.duckdns.org^$ctag=user_child
-||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
 ||tungdnsne.duckdns.org^$ctag=user_child
@@ -2272,7 +2251,6 @@
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.gamban.com^$ctag=user_child
-||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
 ||gclouddns.com^$ctag=user_child
@@ -2694,7 +2672,6 @@
 ||dns.mikrotikrumahan.my.id^$ctag=user_child
 ||dns.pnh.my.id^$ctag=user_child
 ||dns.repinger.my.id^$ctag=user_child
-||dns1.server.my.id^$ctag=user_child
 ||id.terra.my.id^$ctag=user_child
 ||dns.velyn.my.id^$ctag=user_child
 ||dns.vmath.my.id^$ctag=user_child
@@ -3323,6 +3300,7 @@
 ||doh.syshero.org^$ctag=user_child
 ||dns.szpadel.ovh^$ctag=user_child
 ||t-dz.com^$ctag=user_child
+||dns.t-ipnet.de^$ctag=user_child
 ||tailscale.com^$ctag=user_child
 ||tbjr6.com^$ctag=user_child
 ||tbjr6.net^$ctag=user_child
