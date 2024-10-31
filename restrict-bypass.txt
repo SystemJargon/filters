@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-10-30T02:27:23.071Z
+! Last modified: 2024-10-31T02:28:07.959Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1632,6 +1632,7 @@
 ||aluu.xyz^
 ||dns.alvosec.com^
 ||alwaysvpn.com^
+||amandahugnkiss.org^
 ||i4frgxs0s5.execute-api.us-east-1.amazonaws.com^
 ||mailer.amlegion.org^
 ||doh.amonsul.net^
@@ -1662,6 +1663,25 @@
 ||ag.apollohct.com^
 ||mask-api.fe2.apple-dns.net^
 ||mask.apple-dns.net^
+||ausyd2.mask-t.apple-dns.net^
+||deber3.mask-t.apple-dns.net^
+||dedus1.mask-t.apple-dns.net^
+||gbslo5.mask-t.apple-dns.net^
+||hktko1.mask-t.apple-dns.net^
+||iedub2.mask-t.apple-dns.net^
+||jptyo12.mask-t.apple-dns.net^
+||nlhfd1.mask-t.apple-dns.net^
+||sesto4.mask-t.apple-dns.net^
+||sgsin8.mask-t.apple-dns.net^
+||twntc1.mask-t.apple-dns.net^
+||usatl5.mask-t.apple-dns.net^
+||usbos2.mask-t.apple-dns.net^
+||uschi7.mask-t.apple-dns.net^
+||usdal2.mask-t.apple-dns.net^
+||usden6.mask-t.apple-dns.net^
+||uslax2.mask-t.apple-dns.net^
+||usmia1.mask-t.apple-dns.net^
+||usuyk1.mask-t.apple-dns.net^
 ||appleproxy.com^
 ||dns.applewebkit.dev^
 ||appshost.us^
@@ -1933,6 +1953,7 @@
 ||dns.connect.fail^
 ||cool-proxy.net^
 ||doh.cornes.me^
+||corsproxy.io^
 ||a.cpfrx.info^
 ||b.cpfrx.info^
 ||www.c.cpfrx.info^
@@ -2112,6 +2133,8 @@
 ||agh.dshubham.xyz^
 ||home27.duckdns.org^
 ||jurre-home.duckdns.org^
+||krtekvpn.duckdns.org^
+||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
@@ -2251,6 +2274,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
+||adguard.gambini.org^
 ||proxy.gamecove.net^
 ||dns.beta.gandi.net^
 ||gclouddns.com^
@@ -2435,6 +2459,7 @@
 ||intl-alliance.com^
 ||iot-dns.com^
 ||ioxy.de^
+||ipfreely.io^
 ||ipinator.com^
 ||ipoac.nl^
 ||iportal.me^
@@ -3185,7 +3210,6 @@
 ||adguard.senthil.us^
 ||dns.serdcebolit.ru^
 ||privatnas.servebeer.com^
-||doh.serverhost.no^
 ||assets-prod-a230.s3.serverwild.com^
 ||dns.sev.monster^
 ||sf-helper.com^
@@ -3215,7 +3239,6 @@
 ||dns.simplylinux.ch^
 ||dns.sindominio.net^
 ||sinovpn.com^
-||dns.siry.de^
 ||sitdns.com^
 ||siteblockedbypass.com^
 ||siteget.net^
@@ -3246,6 +3269,7 @@
 ||speedyth.com^
 ||spicevpn.com^
 ||dns.spirio.fr^
+||sportsballhub.com^
 ||squidmall.vip^
 ||sriedmueadguard.casa^
 ||adguard.sscw.win^
@@ -3384,6 +3408,7 @@
 ||tnvpn.com^
 ||d.toairs.com^
 ||tonvpn.com^
+||toolara.net^
 ||dot.tooli.ca^
 ||toppal.tech^
 ||topsecure.info^
