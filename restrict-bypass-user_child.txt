@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-03T02:31:26.473Z
+! Last modified: 2024-11-04T02:29:57.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1663,25 +1663,6 @@
 ||ag.apollohct.com^$ctag=user_child
 ||mask-api.fe2.apple-dns.net^$ctag=user_child
 ||mask.apple-dns.net^$ctag=user_child
-||ausyd2.mask-t.apple-dns.net^$ctag=user_child
-||deber3.mask-t.apple-dns.net^$ctag=user_child
-||dedus1.mask-t.apple-dns.net^$ctag=user_child
-||gbslo5.mask-t.apple-dns.net^$ctag=user_child
-||hktko1.mask-t.apple-dns.net^$ctag=user_child
-||iedub2.mask-t.apple-dns.net^$ctag=user_child
-||jptyo12.mask-t.apple-dns.net^$ctag=user_child
-||nlhfd1.mask-t.apple-dns.net^$ctag=user_child
-||sesto4.mask-t.apple-dns.net^$ctag=user_child
-||sgsin8.mask-t.apple-dns.net^$ctag=user_child
-||twntc1.mask-t.apple-dns.net^$ctag=user_child
-||usatl5.mask-t.apple-dns.net^$ctag=user_child
-||usbos2.mask-t.apple-dns.net^$ctag=user_child
-||uschi7.mask-t.apple-dns.net^$ctag=user_child
-||usdal2.mask-t.apple-dns.net^$ctag=user_child
-||usden6.mask-t.apple-dns.net^$ctag=user_child
-||uslax2.mask-t.apple-dns.net^$ctag=user_child
-||usmia1.mask-t.apple-dns.net^$ctag=user_child
-||usuyk1.mask-t.apple-dns.net^$ctag=user_child
 ||appleproxy.com^$ctag=user_child
 ||dns.applewebkit.dev^$ctag=user_child
 ||appshost.us^$ctag=user_child
@@ -1960,13 +1941,11 @@
 ||crawlbase.com^$ctag=user_child
 ||crazysurfer.info^$ctag=user_child
 ||dns.criena.net^$ctag=user_child
-||crownproxy.com^$ctag=user_child
 ||croxy.network^$ctag=user_child
 ||croxy.org^$ctag=user_child
 ||croxy.red^$ctag=user_child
 ||croxyproxy.best^$ctag=user_child
 ||croxyproxy.net^$ctag=user_child
-||croxyproxy.us^$ctag=user_child
 ||crushus.com^$ctag=user_child
 ||crusty.motorcycles^$ctag=user_child
 ||dns.cryptomize.com^$ctag=user_child
@@ -2689,7 +2668,6 @@
 ||muxyuji.ru^$ctag=user_child
 ||d.apemlegit.my.id^$ctag=user_child
 ||vpnto.bhadrikais.my.id^$ctag=user_child
-||please.dontsteal.my.id^$ctag=user_child
 ||dns.iki.my.id^$ctag=user_child
 ||dns.lista.my.id^$ctag=user_child
 ||dns.mikrotikrumahan.my.id^$ctag=user_child
@@ -3149,7 +3127,6 @@
 ||o.rsaikat.com^$ctag=user_child
 ||au.rslvr.eu^$ctag=user_child
 ||bg.rslvr.eu^$ctag=user_child
-||dns.rslvr.eu^$ctag=user_child
 ||hk.rslvr.eu^$ctag=user_child
 ||jp.rslvr.eu^$ctag=user_child
 ||nl.rslvr.eu^$ctag=user_child
