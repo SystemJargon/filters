@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-04T02:29:57.686Z
+! Last modified: 2024-11-05T02:23:55.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2109,9 +2109,7 @@
 ||dns.dotnet.win^$ctag=user_child
 ||doh.dscloud.me^$ctag=user_child
 ||agh.dshubham.xyz^$ctag=user_child
-||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
-||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
@@ -2252,7 +2250,6 @@
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.gamban.com^$ctag=user_child
-||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
 ||gclouddns.com^$ctag=user_child
@@ -2347,7 +2344,6 @@
 ||hidemyurl.info^$ctag=user_child
 ||hidesurf.us^$ctag=user_child
 ||hideway.eu^$ctag=user_child
-||hidexy.com^$ctag=user_child
 ||hidingit.com^$ctag=user_child
 ||hiload.org^$ctag=user_child
 ||hiproxy.net^$ctag=user_child
@@ -2375,7 +2371,6 @@
 ||hostless.club^$ctag=user_child
 ||hotac.ir^$ctag=user_child
 ||hotbotvpn.com^$ctag=user_child
-||hothide.com^$ctag=user_child
 ||hotspotvpn.com^$ctag=user_child
 ||dns.hotta.page^$ctag=user_child
 ||doh.hottis.de^$ctag=user_child

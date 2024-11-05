@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-04T02:29:57.686Z
+! Last modified: 2024-11-05T02:23:55.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2109,9 +2109,7 @@
 ||dns.dotnet.win^
 ||doh.dscloud.me^
 ||agh.dshubham.xyz^
-||home27.duckdns.org^
 ||jurre-home.duckdns.org^
-||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
@@ -2252,7 +2250,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
-||adguard.gambini.org^
 ||proxy.gamecove.net^
 ||dns.beta.gandi.net^
 ||gclouddns.com^
@@ -2347,7 +2344,6 @@
 ||hidemyurl.info^
 ||hidesurf.us^
 ||hideway.eu^
-||hidexy.com^
 ||hidingit.com^
 ||hiload.org^
 ||hiproxy.net^
@@ -2375,7 +2371,6 @@
 ||hostless.club^
 ||hotac.ir^
 ||hotbotvpn.com^
-||hothide.com^
 ||hotspotvpn.com^
 ||dns.hotta.page^
 ||doh.hottis.de^
