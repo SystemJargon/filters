@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-05T02:23:55.771Z
+! Last modified: 2024-11-06T02:23:24.935Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1617,6 +1617,7 @@
 ||blitz-setup.ahadns.com^$ctag=user_child
 ||ahoj.email^$ctag=user_child
 ||airdns.org^$ctag=user_child
+||apple-relay.akamaized.net^$ctag=user_child
 ||dns.albony.xyz^$ctag=user_child
 ||dnsnl-noads.alekberg.net^$ctag=user_child
 ||dnsse-noads.alekberg.net^$ctag=user_child
@@ -1628,6 +1629,7 @@
 ||dns.alloxr.info^$ctag=user_child
 ||vps.alloxr.info^$ctag=user_child
 ||dns.almir1904.eu^$ctag=user_child
+||alphabrowser.xyz^$ctag=user_child
 ||adguard.alu.dog^$ctag=user_child
 ||aluu.xyz^$ctag=user_child
 ||dns.alvosec.com^$ctag=user_child
@@ -1661,6 +1663,7 @@
 ||anyip.io^$ctag=user_child
 ||doh.apad.pro^$ctag=user_child
 ||ag.apollohct.com^$ctag=user_child
+||apple-relay.apple.com^$ctag=user_child
 ||mask-api.fe2.apple-dns.net^$ctag=user_child
 ||mask.apple-dns.net^$ctag=user_child
 ||appleproxy.com^$ctag=user_child
@@ -1830,6 +1833,7 @@
 ||clickapp.info^$ctag=user_child
 ||cloaker.ca^$ctag=user_child
 ||cloaker.us^$ctag=user_child
+||apple-relay.cloudfare.com^$ctag=user_child
 ||dns.cloudfiction.eu^$ctag=user_child
 ||d101vabyweqq2v.cloudfront.net^$ctag=user_child
 ||d11nlh9luc38sm.cloudfront.net^$ctag=user_child
@@ -2109,7 +2113,9 @@
 ||dns.dotnet.win^$ctag=user_child
 ||doh.dscloud.me^$ctag=user_child
 ||agh.dshubham.xyz^$ctag=user_child
+||home27.duckdns.org^$ctag=user_child
 ||jurre-home.duckdns.org^$ctag=user_child
+||krtekvpn.duckdns.org^$ctag=user_child
 ||osefcorp.duckdns.org^$ctag=user_child
 ||punono.duckdns.org^$ctag=user_child
 ||tuandns.duckdns.org^$ctag=user_child
@@ -2183,6 +2189,7 @@
 ||dns.farshidhakimy.de^$ctag=user_child
 ||fastfoxvpn.com^$ctag=user_child
 ||fastfreeproxy.info^$ctag=user_child
+||apple-relay.fastly-edge.com^$ctag=user_child
 ||fastp.org^$ctag=user_child
 ||fastpro.info^$ctag=user_child
 ||fastproxy.org^$ctag=user_child
@@ -2221,6 +2228,7 @@
 ||cranking90s.fortnitebuilder.pro^$ctag=user_child
 ||fortniters.info^$ctag=user_child
 ||forwardproxie.com^$ctag=user_child
+||free-kree-k.xyz^$ctag=user_child
 ||free-proxy.xyz^$ctag=user_child
 ||free-signal.com^$ctag=user_child
 ||free-webproxy.com^$ctag=user_child
@@ -2250,6 +2258,7 @@
 ||cluster-0.gac.edu^$ctag=user_child
 ||cluster-1.gac.edu^$ctag=user_child
 ||dns.gamban.com^$ctag=user_child
+||adguard.gambini.org^$ctag=user_child
 ||proxy.gamecove.net^$ctag=user_child
 ||dns.beta.gandi.net^$ctag=user_child
 ||gclouddns.com^$ctag=user_child
@@ -2640,6 +2649,9 @@
 ||dns.mo0on15.com^$ctag=user_child
 ||dnstls.mobik.com^$ctag=user_child
 ||mobilejump.mobi^$ctag=user_child
+||mochiss.xyz^$ctag=user_child
+||mochiss2.xyz^$ctag=user_child
+||mochiss3.xyz^$ctag=user_child
 ||mockblock.com^$ctag=user_child
 ||nue2.moderateinfra.net^$ctag=user_child
 ||ps1.modr.club^$ctag=user_child
@@ -2821,7 +2833,6 @@
 ||qdns02.nymterm.com^$ctag=user_child
 ||5g.o0o.re^$ctag=user_child
 ||o1.lt^$ctag=user_child
-||ha.o51r15.com^$ctag=user_child
 ||obscuro.top^$ctag=user_child
 ||oceanbrowser.co^$ctag=user_child
 ||octohide.com^$ctag=user_child
@@ -2918,6 +2929,7 @@
 ||dns.pierzchlewicz.pl^$ctag=user_child
 ||dns1.pietjacobs.be^$ctag=user_child
 ||pingproxy.com^$ctag=user_child
+||pirataproxy.com^$ctag=user_child
 ||piratebayproxy.co^$ctag=user_child
 ||pixolium.com^$ctag=user_child
 ||dns.pizzari.me^$ctag=user_child
@@ -3119,6 +3131,7 @@
 ||roonyx.com^$ctag=user_child
 ||dns.rotunneling.net^$ctag=user_child
 ||roundrockisd.online^$ctag=user_child
+||roxy2link.com^$ctag=user_child
 ||o.rsaikat.com^$ctag=user_child
 ||au.rslvr.eu^$ctag=user_child
 ||bg.rslvr.eu^$ctag=user_child
@@ -3679,6 +3692,7 @@
 ||websitebypass.com^$ctag=user_child
 ||websiteproxy.net^$ctag=user_child
 ||websynchrony.com^$ctag=user_child
+||webtester.cc^$ctag=user_child
 ||webxify.com^$ctag=user_child
 ||webypass.info^$ctag=user_child
 ||dns.wechat.com^$ctag=user_child

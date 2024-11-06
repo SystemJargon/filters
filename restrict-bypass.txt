@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-05T02:23:55.771Z
+! Last modified: 2024-11-06T02:23:24.935Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1617,6 +1617,7 @@
 ||blitz-setup.ahadns.com^
 ||ahoj.email^
 ||airdns.org^
+||apple-relay.akamaized.net^
 ||dns.albony.xyz^
 ||dnsnl-noads.alekberg.net^
 ||dnsse-noads.alekberg.net^
@@ -1628,6 +1629,7 @@
 ||dns.alloxr.info^
 ||vps.alloxr.info^
 ||dns.almir1904.eu^
+||alphabrowser.xyz^
 ||adguard.alu.dog^
 ||aluu.xyz^
 ||dns.alvosec.com^
@@ -1661,6 +1663,7 @@
 ||anyip.io^
 ||doh.apad.pro^
 ||ag.apollohct.com^
+||apple-relay.apple.com^
 ||mask-api.fe2.apple-dns.net^
 ||mask.apple-dns.net^
 ||appleproxy.com^
@@ -1830,6 +1833,7 @@
 ||clickapp.info^
 ||cloaker.ca^
 ||cloaker.us^
+||apple-relay.cloudfare.com^
 ||dns.cloudfiction.eu^
 ||d101vabyweqq2v.cloudfront.net^
 ||d11nlh9luc38sm.cloudfront.net^
@@ -2109,7 +2113,9 @@
 ||dns.dotnet.win^
 ||doh.dscloud.me^
 ||agh.dshubham.xyz^
+||home27.duckdns.org^
 ||jurre-home.duckdns.org^
+||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
 ||punono.duckdns.org^
 ||tuandns.duckdns.org^
@@ -2183,6 +2189,7 @@
 ||dns.farshidhakimy.de^
 ||fastfoxvpn.com^
 ||fastfreeproxy.info^
+||apple-relay.fastly-edge.com^
 ||fastp.org^
 ||fastpro.info^
 ||fastproxy.org^
@@ -2221,6 +2228,7 @@
 ||cranking90s.fortnitebuilder.pro^
 ||fortniters.info^
 ||forwardproxie.com^
+||free-kree-k.xyz^
 ||free-proxy.xyz^
 ||free-signal.com^
 ||free-webproxy.com^
@@ -2250,6 +2258,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
+||adguard.gambini.org^
 ||proxy.gamecove.net^
 ||dns.beta.gandi.net^
 ||gclouddns.com^
@@ -2640,6 +2649,9 @@
 ||dns.mo0on15.com^
 ||dnstls.mobik.com^
 ||mobilejump.mobi^
+||mochiss.xyz^
+||mochiss2.xyz^
+||mochiss3.xyz^
 ||mockblock.com^
 ||nue2.moderateinfra.net^
 ||ps1.modr.club^
@@ -2821,7 +2833,6 @@
 ||qdns02.nymterm.com^
 ||5g.o0o.re^
 ||o1.lt^
-||ha.o51r15.com^
 ||obscuro.top^
 ||oceanbrowser.co^
 ||octohide.com^
@@ -2918,6 +2929,7 @@
 ||dns.pierzchlewicz.pl^
 ||dns1.pietjacobs.be^
 ||pingproxy.com^
+||pirataproxy.com^
 ||piratebayproxy.co^
 ||pixolium.com^
 ||dns.pizzari.me^
@@ -3119,6 +3131,7 @@
 ||roonyx.com^
 ||dns.rotunneling.net^
 ||roundrockisd.online^
+||roxy2link.com^
 ||o.rsaikat.com^
 ||au.rslvr.eu^
 ||bg.rslvr.eu^
@@ -3679,6 +3692,7 @@
 ||websitebypass.com^
 ||websiteproxy.net^
 ||websynchrony.com^
+||webtester.cc^
 ||webxify.com^
 ||webypass.info^
 ||dns.wechat.com^
