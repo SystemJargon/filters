@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-06T02:23:24.935Z
+! Last modified: 2024-11-07T02:24:17.661Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1569,7 +1569,6 @@
 ||57824.com^$ctag=user_child
 ||family.5ososea.com^$ctag=user_child
 ||kids.5ososea.com^$ctag=user_child
-||jp.68360612.xyz^$ctag=user_child
 ||dns.688447.xyz^$ctag=user_child
 ||7713.info^$ctag=user_child
 ||777surfer.info^$ctag=user_child
@@ -3620,7 +3619,6 @@
 ||vercel-is-cool.vercel.app^$ctag=user_child
 ||viatun.com^$ctag=user_child
 ||videoproxy.site^$ctag=user_child
-||videounblocked.com^$ctag=user_child
 ||vikingvpn.com^$ctag=user_child
 ||dns.vinnyp.xyz^$ctag=user_child
 ||dns.vinokurov.tk^$ctag=user_child
