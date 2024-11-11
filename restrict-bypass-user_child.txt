@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-10T02:28:17.266Z
+! Last modified: 2024-11-11T02:26:08.966Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2373,7 +2373,6 @@
 ||honeygain.me^$ctag=user_child
 ||dns.hoody.com^$ctag=user_child
 ||schoolmath.hop.sh^$ctag=user_child
-||keithchung.hopto.org^$ctag=user_child
 ||dns.horcrux.vip^$ctag=user_child
 ||dns.internal.hosmatic.com^$ctag=user_child
 ||hostless.club^$ctag=user_child
@@ -2883,7 +2882,6 @@
 ||os4work.com^$ctag=user_child
 ||ospylac.com^$ctag=user_child
 ||dns.ours.luxe^$ctag=user_child
-||dns.ourvau.lt^$ctag=user_child
 ||vps-33e5a7f3.vps.ovh.us^$ctag=user_child
 ||dns.ovpn.bond^$ctag=user_child
 ||oxylabs.io^$ctag=user_child
@@ -3108,7 +3106,6 @@
 ||dns.reckoningslug.name^$ctag=user_child
 ||redproxy.info^$ctag=user_child
 ||redschool.info^$ctag=user_child
-||dns.redvau.lt^$ctag=user_child
 ||reflect4.me^$ctag=user_child
 ||dns.reitmeier.me^$ctag=user_child
 ||remotevpn.net^$ctag=user_child
@@ -3770,7 +3767,6 @@
 ||zdn.ro^$ctag=user_child
 ||dns.zemows.industries^$ctag=user_child
 ||zenrows.com^$ctag=user_child
-||doh.zephyrus.id^$ctag=user_child
 ||adguard-kartoffel.zernico.de^$ctag=user_child
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child
