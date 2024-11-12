@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-11T02:26:08.966Z
+! Last modified: 2024-11-12T02:22:44.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2373,6 +2373,7 @@
 ||honeygain.me^
 ||dns.hoody.com^
 ||schoolmath.hop.sh^
+||keithchung.hopto.org^
 ||dns.horcrux.vip^
 ||dns.internal.hosmatic.com^
 ||hostless.club^
@@ -2507,7 +2508,6 @@
 ||doh.kekew.info^
 ||doh.kel.pe^
 ||kepard.com^
-||chr.kepegawaiandju.id^
 ||dns.kerekes.xyz^
 ||dns.kernel-error.de^
 ||dns.kescher.at^
@@ -3084,7 +3084,6 @@
 ||tiger.dns.qwer.pw^
 ||resolver.r0cket.net^
 ||r1bnc.com^
-||resolve2.r9x.cc^
 ||dns.rabbitdns.org^
 ||family.rabbitdns.org^
 ||security.rabbitdns.org^

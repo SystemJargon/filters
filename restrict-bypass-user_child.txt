@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-11T02:26:08.966Z
+! Last modified: 2024-11-12T02:22:44.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2373,6 +2373,7 @@
 ||honeygain.me^$ctag=user_child
 ||dns.hoody.com^$ctag=user_child
 ||schoolmath.hop.sh^$ctag=user_child
+||keithchung.hopto.org^$ctag=user_child
 ||dns.horcrux.vip^$ctag=user_child
 ||dns.internal.hosmatic.com^$ctag=user_child
 ||hostless.club^$ctag=user_child
@@ -2507,7 +2508,6 @@
 ||doh.kekew.info^$ctag=user_child
 ||doh.kel.pe^$ctag=user_child
 ||kepard.com^$ctag=user_child
-||chr.kepegawaiandju.id^$ctag=user_child
 ||dns.kerekes.xyz^$ctag=user_child
 ||dns.kernel-error.de^$ctag=user_child
 ||dns.kescher.at^$ctag=user_child
@@ -3084,7 +3084,6 @@
 ||tiger.dns.qwer.pw^$ctag=user_child
 ||resolver.r0cket.net^$ctag=user_child
 ||r1bnc.com^$ctag=user_child
-||resolve2.r9x.cc^$ctag=user_child
 ||dns.rabbitdns.org^$ctag=user_child
 ||family.rabbitdns.org^$ctag=user_child
 ||security.rabbitdns.org^$ctag=user_child
