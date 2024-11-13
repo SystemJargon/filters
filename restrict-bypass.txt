@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-12T02:22:44.303Z
+! Last modified: 2024-11-13T02:25:17.954Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1679,7 +1679,6 @@
 ||dns.ashleyjackson.net^
 ||dns.asterimoon.com^
 ||adguardhome.atakorah.com^
-||atomicstudios.info^
 ||atris.cyou^
 ||dns.auapi.fun^
 ||auto-aufladen.de^
@@ -1725,7 +1724,6 @@
 ||bettervpn.com^
 ||bgvpn.com^
 ||bi-tree.ru^
-||biip.info^
 ||ns3.bit-trail.nl^
 ||dns.bitdefender.net^
 ||fra-dns.bitdefender.net^
@@ -2130,6 +2128,7 @@
 ||adguard.easez.net^
 ||easyhandshake.com^
 ||easynetwork.info^
+||easyproxy.tech^
 ||easyvpn.com^
 ||ebookdz.com^
 ||ebumna.net^
@@ -2453,7 +2452,6 @@
 ||smellyal.isreally.pro^
 ||smellypay.isreally.pro^
 ||stuffyschicken.isreallycool.lol^
-||diy.itsa.top^
 ||pdns.itxe.net^
 ||ivnkn.xyz^
 ||ivpn.info^
@@ -2577,7 +2575,6 @@
 ||liquidvpn.com^
 ||dns.listo.click^
 ||litebrowser.net^
-||literally.info^
 ||loadlow.me^
 ||dns.lobbygod.com^
 ||adguard.londonwebnerd.cloud^
@@ -2882,6 +2879,7 @@
 ||os4work.com^
 ||ospylac.com^
 ||dns.ours.luxe^
+||dns.ourvau.lt^
 ||vps-33e5a7f3.vps.ovh.us^
 ||dns.ovpn.bond^
 ||oxylabs.io^
@@ -3027,6 +3025,7 @@
 ||proxybros.com^
 ||proxybrowser.xyz^
 ||proxybuss.com^
+||proxycdn.college^
 ||proxydrop.com^
 ||proxydude.red^
 ||proxydude.xyz^
@@ -3040,7 +3039,6 @@
 ||proxyist.com^
 ||proxyium.com^
 ||proxyness.com^
-||proxyprivate.info^
 ||proxyrooms.com^
 ||proxysan.info^
 ||proxyscope.com^
@@ -3105,6 +3103,7 @@
 ||dns.reckoningslug.name^
 ||redproxy.info^
 ||redschool.info^
+||dns.redvau.lt^
 ||reflect4.me^
 ||dns.reitmeier.me^
 ||remotevpn.net^
@@ -3577,7 +3576,6 @@
 ||unrestricter.com^
 ||unrestricter.org^
 ||unrestrictor.com^
-||untraceable.us^
 ||untracer.com^
 ||dns.unx.io^
 ||dns.uplenk.com^
@@ -3688,7 +3686,6 @@
 ||websynchrony.com^
 ||webtester.cc^
 ||webxify.com^
-||webypass.info^
 ||dns.wechat.com^
 ||doh.wewitro.net^
 ||wez.fr^
@@ -3733,6 +3730,7 @@
 ||xite.ws^
 ||xjumper.com^
 ||dns.xlion.tw^
+||xn--28jub1g.jp^
 ||xn--durhre-yxa.de^
 ||dns.xuming.studio^
 ||dns.xusqui.com^
@@ -3766,6 +3764,7 @@
 ||zdn.ro^
 ||dns.zemows.industries^
 ||zenrows.com^
+||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
 ||zerotunnel.com^

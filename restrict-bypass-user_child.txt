@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-12T02:22:44.303Z
+! Last modified: 2024-11-13T02:25:17.954Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1679,7 +1679,6 @@
 ||dns.ashleyjackson.net^$ctag=user_child
 ||dns.asterimoon.com^$ctag=user_child
 ||adguardhome.atakorah.com^$ctag=user_child
-||atomicstudios.info^$ctag=user_child
 ||atris.cyou^$ctag=user_child
 ||dns.auapi.fun^$ctag=user_child
 ||auto-aufladen.de^$ctag=user_child
@@ -1725,7 +1724,6 @@
 ||bettervpn.com^$ctag=user_child
 ||bgvpn.com^$ctag=user_child
 ||bi-tree.ru^$ctag=user_child
-||biip.info^$ctag=user_child
 ||ns3.bit-trail.nl^$ctag=user_child
 ||dns.bitdefender.net^$ctag=user_child
 ||fra-dns.bitdefender.net^$ctag=user_child
@@ -2130,6 +2128,7 @@
 ||adguard.easez.net^$ctag=user_child
 ||easyhandshake.com^$ctag=user_child
 ||easynetwork.info^$ctag=user_child
+||easyproxy.tech^$ctag=user_child
 ||easyvpn.com^$ctag=user_child
 ||ebookdz.com^$ctag=user_child
 ||ebumna.net^$ctag=user_child
@@ -2453,7 +2452,6 @@
 ||smellyal.isreally.pro^$ctag=user_child
 ||smellypay.isreally.pro^$ctag=user_child
 ||stuffyschicken.isreallycool.lol^$ctag=user_child
-||diy.itsa.top^$ctag=user_child
 ||pdns.itxe.net^$ctag=user_child
 ||ivnkn.xyz^$ctag=user_child
 ||ivpn.info^$ctag=user_child
@@ -2577,7 +2575,6 @@
 ||liquidvpn.com^$ctag=user_child
 ||dns.listo.click^$ctag=user_child
 ||litebrowser.net^$ctag=user_child
-||literally.info^$ctag=user_child
 ||loadlow.me^$ctag=user_child
 ||dns.lobbygod.com^$ctag=user_child
 ||adguard.londonwebnerd.cloud^$ctag=user_child
@@ -2882,6 +2879,7 @@
 ||os4work.com^$ctag=user_child
 ||ospylac.com^$ctag=user_child
 ||dns.ours.luxe^$ctag=user_child
+||dns.ourvau.lt^$ctag=user_child
 ||vps-33e5a7f3.vps.ovh.us^$ctag=user_child
 ||dns.ovpn.bond^$ctag=user_child
 ||oxylabs.io^$ctag=user_child
@@ -3027,6 +3025,7 @@
 ||proxybros.com^$ctag=user_child
 ||proxybrowser.xyz^$ctag=user_child
 ||proxybuss.com^$ctag=user_child
+||proxycdn.college^$ctag=user_child
 ||proxydrop.com^$ctag=user_child
 ||proxydude.red^$ctag=user_child
 ||proxydude.xyz^$ctag=user_child
@@ -3040,7 +3039,6 @@
 ||proxyist.com^$ctag=user_child
 ||proxyium.com^$ctag=user_child
 ||proxyness.com^$ctag=user_child
-||proxyprivate.info^$ctag=user_child
 ||proxyrooms.com^$ctag=user_child
 ||proxysan.info^$ctag=user_child
 ||proxyscope.com^$ctag=user_child
@@ -3105,6 +3103,7 @@
 ||dns.reckoningslug.name^$ctag=user_child
 ||redproxy.info^$ctag=user_child
 ||redschool.info^$ctag=user_child
+||dns.redvau.lt^$ctag=user_child
 ||reflect4.me^$ctag=user_child
 ||dns.reitmeier.me^$ctag=user_child
 ||remotevpn.net^$ctag=user_child
@@ -3577,7 +3576,6 @@
 ||unrestricter.com^$ctag=user_child
 ||unrestricter.org^$ctag=user_child
 ||unrestrictor.com^$ctag=user_child
-||untraceable.us^$ctag=user_child
 ||untracer.com^$ctag=user_child
 ||dns.unx.io^$ctag=user_child
 ||dns.uplenk.com^$ctag=user_child
@@ -3688,7 +3686,6 @@
 ||websynchrony.com^$ctag=user_child
 ||webtester.cc^$ctag=user_child
 ||webxify.com^$ctag=user_child
-||webypass.info^$ctag=user_child
 ||dns.wechat.com^$ctag=user_child
 ||doh.wewitro.net^$ctag=user_child
 ||wez.fr^$ctag=user_child
@@ -3733,6 +3730,7 @@
 ||xite.ws^$ctag=user_child
 ||xjumper.com^$ctag=user_child
 ||dns.xlion.tw^$ctag=user_child
+||xn--28jub1g.jp^$ctag=user_child
 ||xn--durhre-yxa.de^$ctag=user_child
 ||dns.xuming.studio^$ctag=user_child
 ||dns.xusqui.com^$ctag=user_child
@@ -3766,6 +3764,7 @@
 ||zdn.ro^$ctag=user_child
 ||dns.zemows.industries^$ctag=user_child
 ||zenrows.com^$ctag=user_child
+||doh.zephyrus.id^$ctag=user_child
 ||adguard-kartoffel.zernico.de^$ctag=user_child
 ||zerotier.com^$ctag=user_child
 ||zerotunnel.com^$ctag=user_child
