@@ -1,0 +1,28 @@
+!
+! Title: AI GPT Lists - SystemJargon/filters
+! Last modified: 2024-11-15T02:32:26.658Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.29
+!
+# OpenAI
+||openai.com^
+||chat.openai.com.cdn.cloudflare.net^
+# Microsoft
+||bing.com^
+||copilot.microsoft.com^
+# Google
+||ai.google.com^
+||bard.google.com^
+||gemini.google.com^
+# Others
+||mightygpt.com^
+||writesonic.com^
+||you.com^
+||replika.ai^
+||deepai.org^
+||talkai.info^
+||poe.com^
+# regex of words
+||*aichat*^
+# TLD .ai
+||*.ai^
