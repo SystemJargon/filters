@@ -1,12 +1,9 @@
-<<<<<<< Updated upstream
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-15T02:45:24.576Z
+! Last modified: 2024-11-15T04:26:29.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
-=======
->>>>>>> Stashed changes
 @@||0.client-channel.google.com^
 @@||1drv.com^
 @@||2.android.pool.ntp.org^
@@ -22,7 +19,6 @@
 @@||api.ipify.org^
 @@||api.rlje.net^
 @@||app-api.ted.com^
-@@||apple.com^
 @@||appleid.apple.com^
 @@||apps.skype.com^
 @@||appsbackup-pa.clients6.google.com^
@@ -162,10 +158,8 @@
 @@||res.cloudinary.com^
 @@||s.gateway.messenger.live.com^
 @@||s.marketwatch.com^
-@@||s.youtube.com^
 @@||s.ytimg.com^
 @@||s1.wp.com^
-@@||s2.youtube.com^
 @@||s3.amazonaws.com^
 @@||sa.symcb.com^
 @@||secure.avangate.com^
@@ -219,3 +213,7 @@
 @@||youtu.be^
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
+@@||s.youtube.com^
+@@||s2.youtube.com^
+@@||pbs.twimg.com^
+@@||apple.com^
