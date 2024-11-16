@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-15T02:32:05.517Z
+! Last modified: 2024-11-16T02:29:48.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2390,7 +2390,6 @@
 ||ad.huyct.net^
 ||dns.huyhoangit.net^
 ||dns.hypercute.eu^
-||dns.bw.i81.ru^
 ||vd.i81.ru^
 ||vpn.i81.ru^
 ||dns.iamanuragh.in^
@@ -3410,6 +3409,7 @@
 ||towervpn.com^
 ||dns.tracker.ink^
 ||tradeadspace.info^
+||trafflink.xyz^
 ||traffmonetizer.com^
 ||resolv1.trash.net^
 ||resolv2.trash.net^
@@ -3630,6 +3630,7 @@
 ||vpn-fastest.com^
 ||vpn-for-test.ru^
 ||vpn-free.download^
+||vpn-professional.company^
 ||vpn4all.com^
 ||vpnarea.com^
 ||vpnbaron.com^

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-15T02:32:05.517Z
+! Last modified: 2024-11-16T02:29:48.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2390,7 +2390,6 @@
 ||ad.huyct.net^$ctag=user_child
 ||dns.huyhoangit.net^$ctag=user_child
 ||dns.hypercute.eu^$ctag=user_child
-||dns.bw.i81.ru^$ctag=user_child
 ||vd.i81.ru^$ctag=user_child
 ||vpn.i81.ru^$ctag=user_child
 ||dns.iamanuragh.in^$ctag=user_child
@@ -3410,6 +3409,7 @@
 ||towervpn.com^$ctag=user_child
 ||dns.tracker.ink^$ctag=user_child
 ||tradeadspace.info^$ctag=user_child
+||trafflink.xyz^$ctag=user_child
 ||traffmonetizer.com^$ctag=user_child
 ||resolv1.trash.net^$ctag=user_child
 ||resolv2.trash.net^$ctag=user_child
@@ -3630,6 +3630,7 @@
 ||vpn-fastest.com^$ctag=user_child
 ||vpn-for-test.ru^$ctag=user_child
 ||vpn-free.download^$ctag=user_child
+||vpn-professional.company^$ctag=user_child
 ||vpn4all.com^$ctag=user_child
 ||vpnarea.com^$ctag=user_child
 ||vpnbaron.com^$ctag=user_child
