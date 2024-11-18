@@ -23,15 +23,7 @@
 		          "type":"hosts"
       },
       {
-         "source":"https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
-		          "type":"hosts"
-      },
-      {
          "source":"https://phishing.army/download/phishing_army_blocklist_extended.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt",
 		          "type":"hosts"
       },
       {
@@ -44,6 +36,6 @@
       }
 
    ],
-   "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+   "transformations": ["Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines"],
    "exclusions_sources": ["allowlist.txt"]
  }
