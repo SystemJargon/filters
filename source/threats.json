@@ -3,16 +3,15 @@
    "sources":[
           {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/aggregated-threats-1.txt",
-         "type":"hosts"
+         		"type":"hosts"
       },
           {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
-         "type":"hosts"
+         		"type":"hosts"
       },
-      {
-         "name": "zonefiles-compromised-full",
+          {
          "source": "https://zonefiles.io/f/compromised/domains/full/",
-         "type": "hosts"
+         		"type": "hosts"
        },
       {
          "source":"https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt",
