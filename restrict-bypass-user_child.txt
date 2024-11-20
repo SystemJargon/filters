@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-19T02:32:03.380Z
+! Last modified: 2024-11-20T02:30:53.166Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1685,6 +1685,7 @@
 ||dns.asysec.com^$ctag=user_child
 ||adguardhome.atakorah.com^$ctag=user_child
 ||atris.cyou^$ctag=user_child
+||dns.auapi.fun^$ctag=user_child
 ||auto-aufladen.de^$ctag=user_child
 ||vanheim.ff.avast.com^$ctag=user_child
 ||africa.avastdns.com^$ctag=user_child
@@ -3279,6 +3280,7 @@
 ||shieldproxy.net^$ctag=user_child
 ||dns.shimul.me^$ctag=user_child
 ||do.shimul.me^$ctag=user_child
+||shopproxy.net^$ctag=user_child
 ||adguard.shoupperuser.com^$ctag=user_child
 ||adguard.shutgaming.net^$ctag=user_child
 ||shyf.info^$ctag=user_child
@@ -3380,7 +3382,6 @@
 ||t-dz.com^$ctag=user_child
 ||dns.t-ipnet.de^$ctag=user_child
 ||tailscale.com^$ctag=user_child
-||adguard.taxiora.tn^$ctag=user_child
 ||tbjr6.com^$ctag=user_child
 ||tbjr6.net^$ctag=user_child
 ||tbjr6.org^$ctag=user_child
