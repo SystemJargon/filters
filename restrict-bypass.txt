@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-21T02:30:55.228Z
+! Last modified: 2024-11-22T02:31:49.331Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1688,7 +1688,6 @@
 ||adguardhome.atakorah.com^
 ||atris.cyou^
 ||dns.auapi.fun^
-||autismawareness.design^
 ||auto-aufladen.de^
 ||vanheim.ff.avast.com^
 ||africa.avastdns.com^
@@ -1829,7 +1828,6 @@
 ||dns.chriswservers.com^
 ||chromebook.digital^
 ||dns.chromeina.top^
-||chubsinfestation.design^
 ||oraclejp2.chungyu.com^
 ||c.cicitt.ch^
 ||cienen.com^
@@ -1837,7 +1835,6 @@
 ||ciproxy.de^
 ||dns.circl.lu^
 ||mus.cisco.com^
-||citrik.design^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
 ||clickapp.info^
@@ -1942,7 +1939,7 @@
 ||doh.viatech.com.tw^
 ||webproxy.com.de^
 ||dns.comff.net^
-||commanders.design^
+||edit.commanders.design^
 ||commonapp.college^
 ||compsci.college^
 ||confirmedvpn.com^
@@ -2139,7 +2136,6 @@
 ||doh.lv^
 ||doh.sb^
 ||doh.xyz^
-||doityourselfcrafts.design^
 ||doh.domreg.lt^
 ||takhtakh.domyah.net^
 ||dns.dooks.uk^
@@ -2217,7 +2213,6 @@
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
 ||dns.ezyss.id^
-||f0lga.tech^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
 ||dns.faked.org^
@@ -2268,7 +2263,6 @@
 ||dns.flymc.cc^
 ||biying.flymlc.com^
 ||gateway.fomichev.cloud^
-||cranking90s.fortnitebuilder.pro^
 ||fortniters.info^
 ||forwardproxie.com^
 ||explore.francomedia.net^
@@ -2517,7 +2511,6 @@
 ||iweb365.net^
 ||ixl.plus^
 ||jabber-germany.de^
-||jackandthebeanstalk.design^
 ||jackyes.ovh^
 ||tj.jamesxue.xyz^
 ||dns.janl.eu^
@@ -2630,6 +2623,7 @@
 ||libertyvpn.net^
 ||dns.lihj.me^
 ||limitlessproxy.com^
+||michelo.line.pm^
 ||linkideo.com^
 ||dns.linkr.ninja^
 ||africadns1.liquidtelecom.net^
@@ -2687,7 +2681,6 @@
 ||mathhelpnow.site^
 ||mathlearning.tech^
 ||mathnotes.help^
-||mathnotes.icu^
 ||maxfong.cc^
 ||maxvpn.info^
 ||dns.maybe.icu^
@@ -3195,7 +3188,6 @@
 ||security.rabbitdns.org^
 ||dns.api.rackspacecloud.com^
 ||dns.rafn.is^
-||rakhmatullo.gay^
 ||ns.ral9005.org^
 ||rapidprivacy.com^
 ||rapidproxy.org^
@@ -3287,7 +3279,6 @@
 ||adguard.sealyserver.com^
 ||proxy.searchfiles.de^
 ||dns.sec511.com^
-||secure-vpn.com^
 ||vpncenter.avg.securebrowser.com^
 ||vpncenter-tenta.securebrowser.com^
 ||securetunnel.com^
@@ -3450,7 +3441,6 @@
 ||dns.soldier.terumi.club^
 ||teruteruteruko.com^
 ||dns.tesem.dog^
-||tutoeerials.tether-dev.com^
 ||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
@@ -3504,10 +3494,7 @@
 ||timetohide.me^
 ||timmes.nl^
 ||adb.timnichollsphotography.com^
-||tinf0il.design^
-||tinf0il.online^
 ||tinf0il.tech^
-||tinfoil-is-ass.xyz^
 ||dns.tipsy.coffee^
 ||titaniumnetwork.org^
 ||dns.tls-data.de^

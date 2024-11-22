@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-21T02:30:55.228Z
+! Last modified: 2024-11-22T02:31:49.331Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1688,7 +1688,6 @@
 ||adguardhome.atakorah.com^$ctag=user_child
 ||atris.cyou^$ctag=user_child
 ||dns.auapi.fun^$ctag=user_child
-||autismawareness.design^$ctag=user_child
 ||auto-aufladen.de^$ctag=user_child
 ||vanheim.ff.avast.com^$ctag=user_child
 ||africa.avastdns.com^$ctag=user_child
@@ -1829,7 +1828,6 @@
 ||dns.chriswservers.com^$ctag=user_child
 ||chromebook.digital^$ctag=user_child
 ||dns.chromeina.top^$ctag=user_child
-||chubsinfestation.design^$ctag=user_child
 ||oraclejp2.chungyu.com^$ctag=user_child
 ||c.cicitt.ch^$ctag=user_child
 ||cienen.com^$ctag=user_child
@@ -1837,7 +1835,6 @@
 ||ciproxy.de^$ctag=user_child
 ||dns.circl.lu^$ctag=user_child
 ||mus.cisco.com^$ctag=user_child
-||citrik.design^$ctag=user_child
 ||dns.clanless.ovh^$ctag=user_child
 ||dns.clanto.cloud^$ctag=user_child
 ||clickapp.info^$ctag=user_child
@@ -1942,7 +1939,7 @@
 ||doh.viatech.com.tw^$ctag=user_child
 ||webproxy.com.de^$ctag=user_child
 ||dns.comff.net^$ctag=user_child
-||commanders.design^$ctag=user_child
+||edit.commanders.design^$ctag=user_child
 ||commonapp.college^$ctag=user_child
 ||compsci.college^$ctag=user_child
 ||confirmedvpn.com^$ctag=user_child
@@ -2139,7 +2136,6 @@
 ||doh.lv^$ctag=user_child
 ||doh.sb^$ctag=user_child
 ||doh.xyz^$ctag=user_child
-||doityourselfcrafts.design^$ctag=user_child
 ||doh.domreg.lt^$ctag=user_child
 ||takhtakh.domyah.net^$ctag=user_child
 ||dns.dooks.uk^$ctag=user_child
@@ -2217,7 +2213,6 @@
 ||dns.extrawdw.net^$ctag=user_child
 ||fra1.eyecay.xyz^$ctag=user_child
 ||dns.ezyss.id^$ctag=user_child
-||f0lga.tech^$ctag=user_child
 ||dns.f4a.fun^$ctag=user_child
 ||jp1.f7b6h9.tk^$ctag=user_child
 ||dns.faked.org^$ctag=user_child
@@ -2268,7 +2263,6 @@
 ||dns.flymc.cc^$ctag=user_child
 ||biying.flymlc.com^$ctag=user_child
 ||gateway.fomichev.cloud^$ctag=user_child
-||cranking90s.fortnitebuilder.pro^$ctag=user_child
 ||fortniters.info^$ctag=user_child
 ||forwardproxie.com^$ctag=user_child
 ||explore.francomedia.net^$ctag=user_child
@@ -2517,7 +2511,6 @@
 ||iweb365.net^$ctag=user_child
 ||ixl.plus^$ctag=user_child
 ||jabber-germany.de^$ctag=user_child
-||jackandthebeanstalk.design^$ctag=user_child
 ||jackyes.ovh^$ctag=user_child
 ||tj.jamesxue.xyz^$ctag=user_child
 ||dns.janl.eu^$ctag=user_child
@@ -2630,6 +2623,7 @@
 ||libertyvpn.net^$ctag=user_child
 ||dns.lihj.me^$ctag=user_child
 ||limitlessproxy.com^$ctag=user_child
+||michelo.line.pm^$ctag=user_child
 ||linkideo.com^$ctag=user_child
 ||dns.linkr.ninja^$ctag=user_child
 ||africadns1.liquidtelecom.net^$ctag=user_child
@@ -2687,7 +2681,6 @@
 ||mathhelpnow.site^$ctag=user_child
 ||mathlearning.tech^$ctag=user_child
 ||mathnotes.help^$ctag=user_child
-||mathnotes.icu^$ctag=user_child
 ||maxfong.cc^$ctag=user_child
 ||maxvpn.info^$ctag=user_child
 ||dns.maybe.icu^$ctag=user_child
@@ -3195,7 +3188,6 @@
 ||security.rabbitdns.org^$ctag=user_child
 ||dns.api.rackspacecloud.com^$ctag=user_child
 ||dns.rafn.is^$ctag=user_child
-||rakhmatullo.gay^$ctag=user_child
 ||ns.ral9005.org^$ctag=user_child
 ||rapidprivacy.com^$ctag=user_child
 ||rapidproxy.org^$ctag=user_child
@@ -3287,7 +3279,6 @@
 ||adguard.sealyserver.com^$ctag=user_child
 ||proxy.searchfiles.de^$ctag=user_child
 ||dns.sec511.com^$ctag=user_child
-||secure-vpn.com^$ctag=user_child
 ||vpncenter.avg.securebrowser.com^$ctag=user_child
 ||vpncenter-tenta.securebrowser.com^$ctag=user_child
 ||securetunnel.com^$ctag=user_child
@@ -3450,7 +3441,6 @@
 ||dns.soldier.terumi.club^$ctag=user_child
 ||teruteruteruko.com^$ctag=user_child
 ||dns.tesem.dog^$ctag=user_child
-||tutoeerials.tether-dev.com^$ctag=user_child
 ||cloud.tezoi.com^$ctag=user_child
 ||thankvpn.com^$ctag=user_child
 ||thebestproxy.info^$ctag=user_child
@@ -3504,10 +3494,7 @@
 ||timetohide.me^$ctag=user_child
 ||timmes.nl^$ctag=user_child
 ||adb.timnichollsphotography.com^$ctag=user_child
-||tinf0il.design^$ctag=user_child
-||tinf0il.online^$ctag=user_child
 ||tinf0il.tech^$ctag=user_child
-||tinfoil-is-ass.xyz^$ctag=user_child
 ||dns.tipsy.coffee^$ctag=user_child
 ||titaniumnetwork.org^$ctag=user_child
 ||dns.tls-data.de^$ctag=user_child
