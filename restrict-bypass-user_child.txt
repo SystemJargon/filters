@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-23T02:28:13.047Z
+! Last modified: 2024-11-24T02:36:55.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1632,6 +1632,7 @@
 ||dns.alloxr.info^$ctag=user_child
 ||vps.alloxr.info^$ctag=user_child
 ||dns.almir1904.eu^$ctag=user_child
+||alphabr.online^$ctag=user_child
 ||alphabrowser.xyz^$ctag=user_child
 ||adguard.alu.dog^$ctag=user_child
 ||aluu.xyz^$ctag=user_child
@@ -2380,7 +2381,6 @@
 ||dns.hannielzhang.com^$ctag=user_child
 ||resolver-eu.haringstad.com^$ctag=user_child
 ||adguard.hartley.cloud^$ctag=user_child
-||us-ny-alula.heliumcloud.cc^$ctag=user_child
 ||dns.hellozhao.com^$ctag=user_child
 ||dns.henek.ovh^$ctag=user_child
 ||httpdns-push.heytapmobile.com^$ctag=user_child
@@ -3841,6 +3841,7 @@
 ||parrotballs.worksheetsforteachers.xyz^$ctag=user_child
 ||worldvpn.net^$ctag=user_child
 ||home.wriedts.de^$ctag=user_child
+||writingessaypros.com^$ctag=user_child
 ||wtools.eu^$ctag=user_child
 ||ns2.wuyouss.com^$ctag=user_child
 ||ns3.wuyouss.com^$ctag=user_child

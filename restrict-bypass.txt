@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-23T02:28:13.047Z
+! Last modified: 2024-11-24T02:36:55.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1632,6 +1632,7 @@
 ||dns.alloxr.info^
 ||vps.alloxr.info^
 ||dns.almir1904.eu^
+||alphabr.online^
 ||alphabrowser.xyz^
 ||adguard.alu.dog^
 ||aluu.xyz^
@@ -2380,7 +2381,6 @@
 ||dns.hannielzhang.com^
 ||resolver-eu.haringstad.com^
 ||adguard.hartley.cloud^
-||us-ny-alula.heliumcloud.cc^
 ||dns.hellozhao.com^
 ||dns.henek.ovh^
 ||httpdns-push.heytapmobile.com^
@@ -3841,6 +3841,7 @@
 ||parrotballs.worksheetsforteachers.xyz^
 ||worldvpn.net^
 ||home.wriedts.de^
+||writingessaypros.com^
 ||wtools.eu^
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
