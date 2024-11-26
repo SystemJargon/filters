@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-25T02:33:24.380Z
+! Last modified: 2024-11-26T02:32:14.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1585,6 +1585,7 @@
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
 ||adb.aadityakushwaha.com^
+||dns.aaytorr.com^
 ||abcproxy.com^
 ||adguard.abd.ong^
 ||dns.abdullahabas.de^
@@ -1688,9 +1689,9 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
-||dns.auapi.fun^
 ||auto-aufladen.de^
 ||vanheim.ff.avast.com^
+||vpn-sd.ff.avast.com^
 ||africa.avastdns.com^
 ||secure.avastdns.com^
 ||vps.avc.cx^
@@ -1940,7 +1941,6 @@
 ||doh.viatech.com.tw^
 ||webproxy.com.de^
 ||dns.comff.net^
-||edit.commanders.design^
 ||commonapp.college^
 ||compsci.college^
 ||confirmedvpn.com^
@@ -2035,7 +2035,6 @@
 ||secure-dns.dns-ga.de^
 ||doh.dns4all.eu^
 ||dns4me.net^
-||dns8.org^
 ||abe01.dnscry.pt^
 ||abn01.dnscry.pt^
 ||ams01.dnscry.pt^
@@ -2557,6 +2556,7 @@
 ||keenow.com^
 ||keepanonymous.com^
 ||dns.keke125.com^
+||doh.kekew.info^
 ||doh.kel.pe^
 ||kepard.com^
 ||dns.kerekes.xyz^
@@ -2645,7 +2645,6 @@
 ||lukscasino-542-tr.xyz^
 ||lukscasino-929-tr.xyz^
 ||dns.luma-medien.com^
-||lurk.info^
 ||dns.lvolland.fr^
 ||orau.lz0724.com^
 ||addns1.m-it.ro^
@@ -2708,7 +2707,6 @@
 ||dns.mihanentalpo.me^
 ||dns.mikeliu.org^
 ||mikezhang.xyz^
-||miniapp.global^
 ||minilla.store^
 ||netcup.mismat.ch^
 ||doh.mmmalia.com^
@@ -3231,7 +3229,6 @@
 ||dns.rootlab.top^
 ||dns.rotunneling.net^
 ||roundrockisd.online^
-||roxy2link.com^
 ||o.rsaikat.com^
 ||au.rslvr.eu^
 ||bg.rslvr.eu^

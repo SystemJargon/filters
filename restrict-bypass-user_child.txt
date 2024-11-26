@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-11-25T02:33:24.380Z
+! Last modified: 2024-11-26T02:32:14.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1585,6 +1585,7 @@
 ||dns.a47.me^$ctag=user_child
 ||doh.aaaab3n.moe^$ctag=user_child
 ||adb.aadityakushwaha.com^$ctag=user_child
+||dns.aaytorr.com^$ctag=user_child
 ||abcproxy.com^$ctag=user_child
 ||adguard.abd.ong^$ctag=user_child
 ||dns.abdullahabas.de^$ctag=user_child
@@ -1688,9 +1689,9 @@
 ||dns.asysec.com^$ctag=user_child
 ||adguardhome.atakorah.com^$ctag=user_child
 ||atris.cyou^$ctag=user_child
-||dns.auapi.fun^$ctag=user_child
 ||auto-aufladen.de^$ctag=user_child
 ||vanheim.ff.avast.com^$ctag=user_child
+||vpn-sd.ff.avast.com^$ctag=user_child
 ||africa.avastdns.com^$ctag=user_child
 ||secure.avastdns.com^$ctag=user_child
 ||vps.avc.cx^$ctag=user_child
@@ -1940,7 +1941,6 @@
 ||doh.viatech.com.tw^$ctag=user_child
 ||webproxy.com.de^$ctag=user_child
 ||dns.comff.net^$ctag=user_child
-||edit.commanders.design^$ctag=user_child
 ||commonapp.college^$ctag=user_child
 ||compsci.college^$ctag=user_child
 ||confirmedvpn.com^$ctag=user_child
@@ -2035,7 +2035,6 @@
 ||secure-dns.dns-ga.de^$ctag=user_child
 ||doh.dns4all.eu^$ctag=user_child
 ||dns4me.net^$ctag=user_child
-||dns8.org^$ctag=user_child
 ||abe01.dnscry.pt^$ctag=user_child
 ||abn01.dnscry.pt^$ctag=user_child
 ||ams01.dnscry.pt^$ctag=user_child
@@ -2557,6 +2556,7 @@
 ||keenow.com^$ctag=user_child
 ||keepanonymous.com^$ctag=user_child
 ||dns.keke125.com^$ctag=user_child
+||doh.kekew.info^$ctag=user_child
 ||doh.kel.pe^$ctag=user_child
 ||kepard.com^$ctag=user_child
 ||dns.kerekes.xyz^$ctag=user_child
@@ -2645,7 +2645,6 @@
 ||lukscasino-542-tr.xyz^$ctag=user_child
 ||lukscasino-929-tr.xyz^$ctag=user_child
 ||dns.luma-medien.com^$ctag=user_child
-||lurk.info^$ctag=user_child
 ||dns.lvolland.fr^$ctag=user_child
 ||orau.lz0724.com^$ctag=user_child
 ||addns1.m-it.ro^$ctag=user_child
@@ -2708,7 +2707,6 @@
 ||dns.mihanentalpo.me^$ctag=user_child
 ||dns.mikeliu.org^$ctag=user_child
 ||mikezhang.xyz^$ctag=user_child
-||miniapp.global^$ctag=user_child
 ||minilla.store^$ctag=user_child
 ||netcup.mismat.ch^$ctag=user_child
 ||doh.mmmalia.com^$ctag=user_child
@@ -3231,7 +3229,6 @@
 ||dns.rootlab.top^$ctag=user_child
 ||dns.rotunneling.net^$ctag=user_child
 ||roundrockisd.online^$ctag=user_child
-||roxy2link.com^$ctag=user_child
 ||o.rsaikat.com^$ctag=user_child
 ||au.rslvr.eu^$ctag=user_child
 ||bg.rslvr.eu^$ctag=user_child
