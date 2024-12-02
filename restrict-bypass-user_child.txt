@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-01T02:55:55.426Z
+! Last modified: 2024-12-02T02:37:55.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3222,7 +3222,6 @@
 ||ricko.is^$ctag=user_child
 ||dns.rin.sh^$ctag=user_child
 ||riseup.net^$ctag=user_child
-||vps.robotboard.de^$ctag=user_child
 ||dns.roedel.cloud^$ctag=user_child
 ||dns.ronc.ru^$ctag=user_child
 ||roodel.com^$ctag=user_child
