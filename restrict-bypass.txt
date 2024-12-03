@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-02T02:37:55.600Z
+! Last modified: 2024-12-03T02:35:56.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1681,7 +1681,6 @@
 ||dns.ares-taiwan.com^
 ||dns.arkbotech.com^
 ||nsec.arnor.org^
-||artclass.lol^
 ||artclass.site^
 ||doh.asagiri.moe^
 ||dns.ashleyjackson.net^
@@ -1925,6 +1924,7 @@
 ||fastest-proxy.com.de^
 ||free-proxy.com.de^
 ||adguard.frutuozo.com.br^
+||adguard.gbrossi.com.br^
 ||german-proxy.com.de^
 ||germany-proxy.com.de^
 ||dns.joaofidelix.com.br^
@@ -2279,6 +2279,7 @@
 ||freedomproxy.com^
 ||freehollandproxy.nl^
 ||freeplace.info^
+||freeproxy.top^
 ||freeproxyaccess.com^
 ||freeproxysites.co^
 ||freeproxyunblockyoutube.com^
@@ -2317,6 +2318,7 @@
 ||getproton.me^
 ||getproxylist.com^
 ||getsiteunblocked.com^
+||gettwifi.com^
 ||ghostpath.com^
 ||gibblets.top^
 ||adguard.maison.gifino.fr^
@@ -2838,11 +2840,6 @@
 ||cube.neubsi.at^
 ||dns.neubsi.at^
 ||help.newhopes.info^
-||dns1.au.newpangea.de^
-||dns1.cl.newpangea.de^
-||dns1.in.newpangea.de^
-||dns1.sg.newpangea.de^
-||dns1.us.newpangea.de^
 ||newshosting.com^
 ||doh.luigi.nexific.it^
 ||edge.nextdns.io^
@@ -3370,6 +3367,13 @@
 ||ams1.startpage.com^
 ||ams2.startpage.com^
 ||eu-browse.startpage.com^
+||eu-proxy.startpage.com^
+||eu2-browse.startpage.com^
+||proxy.startpage.com^
+||proxy1.startpage.com^
+||proxy2.startpage.com^
+||us-browse.startpage.com^
+||us-proxy.startpage.com^
 ||dns.startupstack.tech^
 ||starvpn.com^
 ||steganos.com^

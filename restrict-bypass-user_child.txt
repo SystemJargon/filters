@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-02T02:37:55.600Z
+! Last modified: 2024-12-03T02:35:56.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1681,7 +1681,6 @@
 ||dns.ares-taiwan.com^$ctag=user_child
 ||dns.arkbotech.com^$ctag=user_child
 ||nsec.arnor.org^$ctag=user_child
-||artclass.lol^$ctag=user_child
 ||artclass.site^$ctag=user_child
 ||doh.asagiri.moe^$ctag=user_child
 ||dns.ashleyjackson.net^$ctag=user_child
@@ -1925,6 +1924,7 @@
 ||fastest-proxy.com.de^$ctag=user_child
 ||free-proxy.com.de^$ctag=user_child
 ||adguard.frutuozo.com.br^$ctag=user_child
+||adguard.gbrossi.com.br^$ctag=user_child
 ||german-proxy.com.de^$ctag=user_child
 ||germany-proxy.com.de^$ctag=user_child
 ||dns.joaofidelix.com.br^$ctag=user_child
@@ -2279,6 +2279,7 @@
 ||freedomproxy.com^$ctag=user_child
 ||freehollandproxy.nl^$ctag=user_child
 ||freeplace.info^$ctag=user_child
+||freeproxy.top^$ctag=user_child
 ||freeproxyaccess.com^$ctag=user_child
 ||freeproxysites.co^$ctag=user_child
 ||freeproxyunblockyoutube.com^$ctag=user_child
@@ -2317,6 +2318,7 @@
 ||getproton.me^$ctag=user_child
 ||getproxylist.com^$ctag=user_child
 ||getsiteunblocked.com^$ctag=user_child
+||gettwifi.com^$ctag=user_child
 ||ghostpath.com^$ctag=user_child
 ||gibblets.top^$ctag=user_child
 ||adguard.maison.gifino.fr^$ctag=user_child
@@ -2838,11 +2840,6 @@
 ||cube.neubsi.at^$ctag=user_child
 ||dns.neubsi.at^$ctag=user_child
 ||help.newhopes.info^$ctag=user_child
-||dns1.au.newpangea.de^$ctag=user_child
-||dns1.cl.newpangea.de^$ctag=user_child
-||dns1.in.newpangea.de^$ctag=user_child
-||dns1.sg.newpangea.de^$ctag=user_child
-||dns1.us.newpangea.de^$ctag=user_child
 ||newshosting.com^$ctag=user_child
 ||doh.luigi.nexific.it^$ctag=user_child
 ||edge.nextdns.io^$ctag=user_child
@@ -3370,6 +3367,13 @@
 ||ams1.startpage.com^$ctag=user_child
 ||ams2.startpage.com^$ctag=user_child
 ||eu-browse.startpage.com^$ctag=user_child
+||eu-proxy.startpage.com^$ctag=user_child
+||eu2-browse.startpage.com^$ctag=user_child
+||proxy.startpage.com^$ctag=user_child
+||proxy1.startpage.com^$ctag=user_child
+||proxy2.startpage.com^$ctag=user_child
+||us-browse.startpage.com^$ctag=user_child
+||us-proxy.startpage.com^$ctag=user_child
 ||dns.startupstack.tech^$ctag=user_child
 ||starvpn.com^$ctag=user_child
 ||steganos.com^$ctag=user_child
