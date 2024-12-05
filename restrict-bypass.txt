@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-04T02:36:38.653Z
+! Last modified: 2024-12-05T02:36:30.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1924,7 +1924,6 @@
 ||fastest-proxy.com.de^
 ||free-proxy.com.de^
 ||adguard.frutuozo.com.br^
-||adguard.gbrossi.com.br^
 ||german-proxy.com.de^
 ||germany-proxy.com.de^
 ||dns.joaofidelix.com.br^
@@ -3250,7 +3249,6 @@
 ||dns2.saferbfc.org^
 ||safeservedns.com^
 ||vpn.sakhwow.ru^
-||dns.salonia.it^
 ||cloud.samutz.com^
 ||dns.sarak.as^
 ||dns.sarakas.net^
@@ -3695,6 +3693,7 @@
 ||ines.zfn.uni-bremen.de^
 ||galileo.math.unipd.it^
 ||unlocator.com^
+||unmoor.com^
 ||unrestrict.me^
 ||unrestricter.com^
 ||unrestricter.org^
@@ -3867,7 +3866,6 @@
 ||dns.xuming.studio^
 ||dns.xusqui.com^
 ||v2.xx3210766.live^
-||dns.yague.me^
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||common.dot.dns.yandex.net^
