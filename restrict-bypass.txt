@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-07T02:33:55.430Z
+! Last modified: 2024-12-08T02:48:11.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1818,7 +1818,6 @@
 ||dns.cert.ee^
 ||cfdjb.org^
 ||dns.chadeyron.fr^
-||chandr1000.net^
 ||chaos-system.de^
 ||dns.charraud.eu^
 ||dns.chenu.ch^
@@ -2007,7 +2006,6 @@
 ||dns.dekedin.me^
 ||adguard.dekonix.ru^
 ||doh.denypradana.com^
-||adguard.depieri.net^
 ||deproxyserver.com^
 ||adguard.lege.despagne.net^
 ||doh-primary-pool.detoxifypornblocker.com^
@@ -2155,7 +2153,6 @@
 ||dvprovider.icu^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
-||gustamadh.dynv6.net^
 ||vpn.dzarlax.dev^
 ||earnapp.com^
 ||adguard.easez.net^
@@ -2341,6 +2338,7 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||agh.gloom.nexus^
+||dns.glorydns.com^
 ||glype.com^
 ||dns.gnb09.id^
 ||goaslen.com^
@@ -2358,7 +2356,6 @@
 ||gracarno.com^
 ||grammarhelpers.com^
 ||gratisproxy.nl^
-||greatideasforlife.lol^
 ||greenpass.info^
 ||dnsblock.grisumedia.de^
 ||dns.grqu.de^
@@ -2372,7 +2369,6 @@
 ||gztech.me^
 ||h0w.cc^
 ||dns.hahnjo.de^
-||doh.hajekj.net^
 ||dns.haka.se^
 ||dns.hakim.one^
 ||dns.hanahira.dev^
@@ -3031,7 +3027,6 @@
 ||polisitogel.webcam^
 ||doh.port53.dk^
 ||dns.porteii.com^
-||portmap.host^
 ||potatovpn.io^
 ||poxy.pl^
 ||dns.aeiou.pp.ua^

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-07T02:33:55.430Z
+! Last modified: 2024-12-08T02:48:11.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1818,7 +1818,6 @@
 ||dns.cert.ee^$ctag=user_child
 ||cfdjb.org^$ctag=user_child
 ||dns.chadeyron.fr^$ctag=user_child
-||chandr1000.net^$ctag=user_child
 ||chaos-system.de^$ctag=user_child
 ||dns.charraud.eu^$ctag=user_child
 ||dns.chenu.ch^$ctag=user_child
@@ -2007,7 +2006,6 @@
 ||dns.dekedin.me^$ctag=user_child
 ||adguard.dekonix.ru^$ctag=user_child
 ||doh.denypradana.com^$ctag=user_child
-||adguard.depieri.net^$ctag=user_child
 ||deproxyserver.com^$ctag=user_child
 ||adguard.lege.despagne.net^$ctag=user_child
 ||doh-primary-pool.detoxifypornblocker.com^$ctag=user_child
@@ -2155,7 +2153,6 @@
 ||dvprovider.icu^$ctag=user_child
 ||dns.dyn1.de^$ctag=user_child
 ||ueni.dyndns.org^$ctag=user_child
-||gustamadh.dynv6.net^$ctag=user_child
 ||vpn.dzarlax.dev^$ctag=user_child
 ||earnapp.com^$ctag=user_child
 ||adguard.easez.net^$ctag=user_child
@@ -2341,6 +2338,7 @@
 ||dns.api.staging.globuscs.info^$ctag=user_child
 ||dns.api.test.globuscs.info^$ctag=user_child
 ||agh.gloom.nexus^$ctag=user_child
+||dns.glorydns.com^$ctag=user_child
 ||glype.com^$ctag=user_child
 ||dns.gnb09.id^$ctag=user_child
 ||goaslen.com^$ctag=user_child
@@ -2358,7 +2356,6 @@
 ||gracarno.com^$ctag=user_child
 ||grammarhelpers.com^$ctag=user_child
 ||gratisproxy.nl^$ctag=user_child
-||greatideasforlife.lol^$ctag=user_child
 ||greenpass.info^$ctag=user_child
 ||dnsblock.grisumedia.de^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
@@ -2372,7 +2369,6 @@
 ||gztech.me^$ctag=user_child
 ||h0w.cc^$ctag=user_child
 ||dns.hahnjo.de^$ctag=user_child
-||doh.hajekj.net^$ctag=user_child
 ||dns.haka.se^$ctag=user_child
 ||dns.hakim.one^$ctag=user_child
 ||dns.hanahira.dev^$ctag=user_child
@@ -3031,7 +3027,6 @@
 ||polisitogel.webcam^$ctag=user_child
 ||doh.port53.dk^$ctag=user_child
 ||dns.porteii.com^$ctag=user_child
-||portmap.host^$ctag=user_child
 ||potatovpn.io^$ctag=user_child
 ||poxy.pl^$ctag=user_child
 ||dns.aeiou.pp.ua^$ctag=user_child
