@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-08T02:48:11.798Z
+! Last modified: 2024-12-09T02:46:10.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3378,6 +3378,7 @@
 ||streamvia.com^$ctag=user_child
 ||streamvpn.com^$ctag=user_child
 ||studysurf.com^$ctag=user_child
+||dns.stvsk.ml^$ctag=user_child
 ||doh.suche.org^$ctag=user_child
 ||local.sufly.top^$ctag=user_child
 ||dns.suhaila.dev^$ctag=user_child
@@ -3882,6 +3883,7 @@
 ||youtubeunblocked.org^$ctag=user_child
 ||yovbak.com^$ctag=user_child
 ||yoyovpn.org^$ctag=user_child
+||ytcroxyproxy.com^$ctag=user_child
 ||dns.yuu-g.net^$ctag=user_child
 ||yuvelirtut.website^$ctag=user_child
 ||dns.daemon.za.net^$ctag=user_child
