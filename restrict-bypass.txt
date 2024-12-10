@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-09T02:46:10.814Z
+! Last modified: 2024-12-10T02:44:52.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2852,8 +2852,6 @@
 ||doh.nic.lv^
 ||nice-autosurf.com^
 ||dns.nick-slowinski.de^
-||doh-own-recursion.nicolas-dorriere.fr^
-||doh-random-upstream.nicolas-dorriere.fr^
 ||nicsezcheckfbi.gov^
 ||dns1.nielsdb.be^
 ||nimbleway.com^
