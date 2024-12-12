@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-11T02:35:57.591Z
+! Last modified: 2024-12-12T02:35:52.867Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1903,7 +1903,6 @@
 ||us.doh.cloudveil.org^$ctag=user_child
 ||pope.cnblw.me^$ctag=user_child
 ||doh.cnetwork.cloud^$ctag=user_child
-||adguard.aa4.co.uk^$ctag=user_child
 ||binhexsolutions.co.uk^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
 ||pihole.datamatter.co.za^$ctag=user_child
@@ -3185,16 +3184,13 @@
 ||proxydrop.com^$ctag=user_child
 ||proxydude.red^$ctag=user_child
 ||proxydude.xyz^$ctag=user_child
-||proxyduke.lol^$ctag=user_child
 ||proxyelite.info^$ctag=user_child
 ||proxyen.com^$ctag=user_child
 ||proxyer.net^$ctag=user_child
-||proxyforfree.eu^$ctag=user_child
 ||proxygizlen.com^$ctag=user_child
 ||proxyhash.net^$ctag=user_child
 ||proxyist.com^$ctag=user_child
 ||proxyium.com^$ctag=user_child
-||proxyness.com^$ctag=user_child
 ||proxyoutlet.com^$ctag=user_child
 ||proxyrooms.com^$ctag=user_child
 ||proxysan.info^$ctag=user_child
@@ -3347,7 +3343,6 @@
 ||securetunnel.com^$ctag=user_child
 ||securetunnels.net^$ctag=user_child
 ||securevpn.co^$ctag=user_child
-||securitales.com^$ctag=user_child
 ||securitykiss.com^$ctag=user_child
 ||sedirepseh.com^$ctag=user_child
 ||seed.st^$ctag=user_child
