@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-12T02:35:52.867Z
+! Last modified: 2024-12-13T02:37:11.293Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1591,7 +1591,6 @@
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
 ||adb.aadityakushwaha.com^
-||dns.aaytorr.com^
 ||abcproxy.com^
 ||adguard.abd.ong^
 ||dns.abdullahabas.de^
@@ -3452,7 +3451,6 @@
 ||studysurf.com^
 ||dns.stvsk.ml^
 ||doh.suche.org^
-||local.sufly.top^
 ||dns.suhaila.dev^
 ||suissl.com^
 ||resolver.sunet.se^
@@ -3494,7 +3492,6 @@
 ||tbjr6.org^
 ||tecdrive.site^
 ||dns1.techeasy.org^
-||vpn.technicule.info^
 ||doh.technochat.in^
 ||dns.technologycage.com^
 ||dns.technostriker.com^
@@ -3509,6 +3506,7 @@
 ||uk.teradns.org^
 ||dns.soldier.terumi.club^
 ||teruteruteruko.com^
+||dns.tesem.dog^
 ||cloud.tezoi.com^
 ||thankvpn.com^
 ||thebestproxy.info^
@@ -3851,7 +3849,6 @@
 ||vpnreactor.com^
 ||vpnrice.com^
 ||vpnsecure.me^
-||vpnshazam.com^
 ||vpnuk.net^
 ||vpnv6.com^
 ||vpnwelt.com^

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-12T02:35:52.867Z
+! Last modified: 2024-12-13T02:37:11.293Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1591,7 +1591,6 @@
 ||dns.a47.me^$ctag=user_child
 ||doh.aaaab3n.moe^$ctag=user_child
 ||adb.aadityakushwaha.com^$ctag=user_child
-||dns.aaytorr.com^$ctag=user_child
 ||abcproxy.com^$ctag=user_child
 ||adguard.abd.ong^$ctag=user_child
 ||dns.abdullahabas.de^$ctag=user_child
@@ -3452,7 +3451,6 @@
 ||studysurf.com^$ctag=user_child
 ||dns.stvsk.ml^$ctag=user_child
 ||doh.suche.org^$ctag=user_child
-||local.sufly.top^$ctag=user_child
 ||dns.suhaila.dev^$ctag=user_child
 ||suissl.com^$ctag=user_child
 ||resolver.sunet.se^$ctag=user_child
@@ -3494,7 +3492,6 @@
 ||tbjr6.org^$ctag=user_child
 ||tecdrive.site^$ctag=user_child
 ||dns1.techeasy.org^$ctag=user_child
-||vpn.technicule.info^$ctag=user_child
 ||doh.technochat.in^$ctag=user_child
 ||dns.technologycage.com^$ctag=user_child
 ||dns.technostriker.com^$ctag=user_child
@@ -3509,6 +3506,7 @@
 ||uk.teradns.org^$ctag=user_child
 ||dns.soldier.terumi.club^$ctag=user_child
 ||teruteruteruko.com^$ctag=user_child
+||dns.tesem.dog^$ctag=user_child
 ||cloud.tezoi.com^$ctag=user_child
 ||thankvpn.com^$ctag=user_child
 ||thebestproxy.info^$ctag=user_child
@@ -3851,7 +3849,6 @@
 ||vpnreactor.com^$ctag=user_child
 ||vpnrice.com^$ctag=user_child
 ||vpnsecure.me^$ctag=user_child
-||vpnshazam.com^$ctag=user_child
 ||vpnuk.net^$ctag=user_child
 ||vpnv6.com^$ctag=user_child
 ||vpnwelt.com^$ctag=user_child
