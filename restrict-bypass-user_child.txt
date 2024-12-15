@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-14T02:32:05.956Z
+! Last modified: 2024-12-15T02:48:54.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2303,6 +2303,7 @@
 ||freedome-vpn.net^$ctag=user_child
 ||freedomproxy.com^$ctag=user_child
 ||freehollandproxy.nl^$ctag=user_child
+||freeme1001.com^$ctag=user_child
 ||freenewslinks.com^$ctag=user_child
 ||freeplace.info^$ctag=user_child
 ||freeproxy.top^$ctag=user_child
@@ -2467,7 +2468,6 @@
 ||dns.hshoe.cn^$ctag=user_child
 ||html.cafe^$ctag=user_child
 ||httpdserver.info^$ctag=user_child
-||dns.hugo0.moe^$ctag=user_child
 ||dns.hujiayucc.cn^$ctag=user_child
 ||doth.huque.com^$ctag=user_child
 ||dns.huseynov.work^$ctag=user_child
@@ -3436,6 +3436,7 @@
 ||proxy.startpage.com^$ctag=user_child
 ||proxy1.startpage.com^$ctag=user_child
 ||proxy2.startpage.com^$ctag=user_child
+||proxy3.startpage.com^$ctag=user_child
 ||us-browse.startpage.com^$ctag=user_child
 ||us-proxy.startpage.com^$ctag=user_child
 ||dns.startupstack.tech^$ctag=user_child
@@ -3809,6 +3810,7 @@
 ||shop-books-school.vercel.app^$ctag=user_child
 ||vercel-is-cool.vercel.app^$ctag=user_child
 ||viatun.com^$ctag=user_child
+||videomy.online^$ctag=user_child
 ||videonew.online^$ctag=user_child
 ||videoproxy.site^$ctag=user_child
 ||videounblocked.com^$ctag=user_child

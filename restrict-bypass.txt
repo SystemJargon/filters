@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-14T02:32:05.956Z
+! Last modified: 2024-12-15T02:48:54.431Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2303,6 +2303,7 @@
 ||freedome-vpn.net^
 ||freedomproxy.com^
 ||freehollandproxy.nl^
+||freeme1001.com^
 ||freenewslinks.com^
 ||freeplace.info^
 ||freeproxy.top^
@@ -2467,7 +2468,6 @@
 ||dns.hshoe.cn^
 ||html.cafe^
 ||httpdserver.info^
-||dns.hugo0.moe^
 ||dns.hujiayucc.cn^
 ||doth.huque.com^
 ||dns.huseynov.work^
@@ -3436,6 +3436,7 @@
 ||proxy.startpage.com^
 ||proxy1.startpage.com^
 ||proxy2.startpage.com^
+||proxy3.startpage.com^
 ||us-browse.startpage.com^
 ||us-proxy.startpage.com^
 ||dns.startupstack.tech^
@@ -3809,6 +3810,7 @@
 ||shop-books-school.vercel.app^
 ||vercel-is-cool.vercel.app^
 ||viatun.com^
+||videomy.online^
 ||videonew.online^
 ||videoproxy.site^
 ||videounblocked.com^
