@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-15T02:48:54.431Z
+! Last modified: 2024-12-16T02:46:10.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2028,6 +2028,7 @@
 ||adguard.dekonix.ru^$ctag=user_child
 ||doh.denypradana.com^$ctag=user_child
 ||deproxyserver.com^$ctag=user_child
+||desbloquearredes.online^$ctag=user_child
 ||adguard.lege.despagne.net^$ctag=user_child
 ||doh-primary-pool.detoxifypornblocker.com^$ctag=user_child
 ||dns.dev-umbrellagov.com^$ctag=user_child
@@ -2245,6 +2246,7 @@
 ||dns.fancyorg.at^$ctag=user_child
 ||farewellkou.click^$ctag=user_child
 ||dns.farshidhakimy.de^$ctag=user_child
+||fast-receive.com^$ctag=user_child
 ||fastfoxvpn.com^$ctag=user_child
 ||fastfreeproxy.info^$ctag=user_child
 ||apple-relay.fastly-edge.com^$ctag=user_child
@@ -2291,6 +2293,7 @@
 ||www-proxy.formen.cc^$ctag=user_child
 ||fortniters.info^$ctag=user_child
 ||forwardproxie.com^$ctag=user_child
+||francis-proxy.top^$ctag=user_child
 ||explore.francomedia.net^$ctag=user_child
 ||free-kree-k.xyz^$ctag=user_child
 ||free-proxy.xyz^$ctag=user_child
@@ -2399,6 +2402,7 @@
 ||dns2.guidocioni.it^$ctag=user_child
 ||gumm.org^$ctag=user_child
 ||dns.gutwe.in^$ctag=user_child
+||gwopboyded.com^$ctag=user_child
 ||gztech.me^$ctag=user_child
 ||h0w.cc^$ctag=user_child
 ||dns.hahnjo.de^$ctag=user_child
@@ -2521,7 +2525,6 @@
 ||dns.interhub.cc^$ctag=user_child
 ||internetbypass.com^$ctag=user_child
 ||intl-alliance.com^$ctag=user_child
-||iot-dns.com^$ctag=user_child
 ||ioxy.de^$ctag=user_child
 ||ipfreely.io^$ctag=user_child
 ||ipinator.com^$ctag=user_child
@@ -2942,6 +2945,7 @@
 ||novatech.fun^$ctag=user_child
 ||dns.novg.net^$ctag=user_child
 ||nowcache.com^$ctag=user_child
+||nowhiteflags.xyz^$ctag=user_child
 ||dns.npe.bz^$ctag=user_child
 ||dns.npsolution.it^$ctag=user_child
 ||ns3.com^$ctag=user_child
@@ -3487,6 +3491,7 @@
 ||dns.szpadel.ovh^$ctag=user_child
 ||t-dz.com^$ctag=user_child
 ||dns.t-ipnet.de^$ctag=user_child
+||t92.online^$ctag=user_child
 ||tailscale.com^$ctag=user_child
 ||tbjr6.com^$ctag=user_child
 ||tbjr6.net^$ctag=user_child

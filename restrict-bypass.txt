@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-15T02:48:54.431Z
+! Last modified: 2024-12-16T02:46:10.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2028,6 +2028,7 @@
 ||adguard.dekonix.ru^
 ||doh.denypradana.com^
 ||deproxyserver.com^
+||desbloquearredes.online^
 ||adguard.lege.despagne.net^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -2245,6 +2246,7 @@
 ||dns.fancyorg.at^
 ||farewellkou.click^
 ||dns.farshidhakimy.de^
+||fast-receive.com^
 ||fastfoxvpn.com^
 ||fastfreeproxy.info^
 ||apple-relay.fastly-edge.com^
@@ -2291,6 +2293,7 @@
 ||www-proxy.formen.cc^
 ||fortniters.info^
 ||forwardproxie.com^
+||francis-proxy.top^
 ||explore.francomedia.net^
 ||free-kree-k.xyz^
 ||free-proxy.xyz^
@@ -2399,6 +2402,7 @@
 ||dns2.guidocioni.it^
 ||gumm.org^
 ||dns.gutwe.in^
+||gwopboyded.com^
 ||gztech.me^
 ||h0w.cc^
 ||dns.hahnjo.de^
@@ -2521,7 +2525,6 @@
 ||dns.interhub.cc^
 ||internetbypass.com^
 ||intl-alliance.com^
-||iot-dns.com^
 ||ioxy.de^
 ||ipfreely.io^
 ||ipinator.com^
@@ -2942,6 +2945,7 @@
 ||novatech.fun^
 ||dns.novg.net^
 ||nowcache.com^
+||nowhiteflags.xyz^
 ||dns.npe.bz^
 ||dns.npsolution.it^
 ||ns3.com^
@@ -3487,6 +3491,7 @@
 ||dns.szpadel.ovh^
 ||t-dz.com^
 ||dns.t-ipnet.de^
+||t92.online^
 ||tailscale.com^
 ||tbjr6.com^
 ||tbjr6.net^
