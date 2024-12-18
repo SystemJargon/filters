@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-17T02:35:37.165Z
+! Last modified: 2024-12-18T02:31:28.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1696,7 +1696,6 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
-||dns.auapi.fun^
 ||auto-aufladen.de^
 ||vanheim.ff.avast.com^
 ||vpn-sd.ff.avast.com^
@@ -1816,7 +1815,6 @@
 ||calculusproblems.online^
 ||callies-online.site^
 ||tor.calyxinstitute.org^
-||tysonsbackagain.capnorthshore.org^
 ||carebuzz.io^
 ||careproxy.com^
 ||console.carestyle.org^
@@ -2530,7 +2528,6 @@
 ||ipfreely.io^
 ||ipinator.com^
 ||ipoac.nl^
-||iportal.me^
 ||iprovpn.com^
 ||ipunblocker.com^
 ||dns1.irumatech.com^
@@ -2652,6 +2649,7 @@
 ||larva.app^
 ||dns.lashes-brow.ru^
 ||lastentarvike.fi^
+||iterator.lazada.com^
 ||adguard1.leadmon.net^
 ||adguard.leadseason.eu^
 ||leafyvpn.net^
@@ -2776,7 +2774,6 @@
 ||mochiss2.xyz^
 ||mochiss3.xyz^
 ||mockblock.com^
-||nue2.moderateinfra.net^
 ||ps1.modr.club^
 ||www-nsc.moebh.me^
 ||dns.molinero.dev^
@@ -2921,7 +2918,6 @@
 ||dns1.nielsdb.be^
 ||nimbleway.com^
 ||dns.ningkelle.id^
-||ninjaproxy.ninja^
 ||doh.niyawe.de^
 ||pi1.node15.com^
 ||nodepay.ai^
@@ -3265,7 +3261,6 @@
 ||www-p.reaper.mx^
 ||dns.reckoningslug.name^
 ||redhoodie.site^
-||redproxy.info^
 ||redschool.info^
 ||dns.redvau.lt^
 ||reflect4.me^
@@ -3381,7 +3376,6 @@
 ||shopproxy.net^
 ||adguard.shoupperuser.com^
 ||adguard.shutgaming.net^
-||shyf.info^
 ||doh.sidnlabs.nl^
 ||dns.silen.org^
 ||dns.silentlybren.com^
@@ -3805,7 +3799,6 @@
 ||doh.valscosmos.com^
 ||tor.vasi.li^
 ||dns.vault81.de^
-||vblocker.info^
 ||art-class-omg.vercel.app^
 ||asdsasd.vercel.app^
 ||clase-de-arte.vercel.app^

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-17T02:35:37.165Z
+! Last modified: 2024-12-18T02:31:28.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1696,7 +1696,6 @@
 ||dns.asysec.com^$ctag=user_child
 ||adguardhome.atakorah.com^$ctag=user_child
 ||atris.cyou^$ctag=user_child
-||dns.auapi.fun^$ctag=user_child
 ||auto-aufladen.de^$ctag=user_child
 ||vanheim.ff.avast.com^$ctag=user_child
 ||vpn-sd.ff.avast.com^$ctag=user_child
@@ -1816,7 +1815,6 @@
 ||calculusproblems.online^$ctag=user_child
 ||callies-online.site^$ctag=user_child
 ||tor.calyxinstitute.org^$ctag=user_child
-||tysonsbackagain.capnorthshore.org^$ctag=user_child
 ||carebuzz.io^$ctag=user_child
 ||careproxy.com^$ctag=user_child
 ||console.carestyle.org^$ctag=user_child
@@ -2530,7 +2528,6 @@
 ||ipfreely.io^$ctag=user_child
 ||ipinator.com^$ctag=user_child
 ||ipoac.nl^$ctag=user_child
-||iportal.me^$ctag=user_child
 ||iprovpn.com^$ctag=user_child
 ||ipunblocker.com^$ctag=user_child
 ||dns1.irumatech.com^$ctag=user_child
@@ -2652,6 +2649,7 @@
 ||larva.app^$ctag=user_child
 ||dns.lashes-brow.ru^$ctag=user_child
 ||lastentarvike.fi^$ctag=user_child
+||iterator.lazada.com^$ctag=user_child
 ||adguard1.leadmon.net^$ctag=user_child
 ||adguard.leadseason.eu^$ctag=user_child
 ||leafyvpn.net^$ctag=user_child
@@ -2776,7 +2774,6 @@
 ||mochiss2.xyz^$ctag=user_child
 ||mochiss3.xyz^$ctag=user_child
 ||mockblock.com^$ctag=user_child
-||nue2.moderateinfra.net^$ctag=user_child
 ||ps1.modr.club^$ctag=user_child
 ||www-nsc.moebh.me^$ctag=user_child
 ||dns.molinero.dev^$ctag=user_child
@@ -2921,7 +2918,6 @@
 ||dns1.nielsdb.be^$ctag=user_child
 ||nimbleway.com^$ctag=user_child
 ||dns.ningkelle.id^$ctag=user_child
-||ninjaproxy.ninja^$ctag=user_child
 ||doh.niyawe.de^$ctag=user_child
 ||pi1.node15.com^$ctag=user_child
 ||nodepay.ai^$ctag=user_child
@@ -3265,7 +3261,6 @@
 ||www-p.reaper.mx^$ctag=user_child
 ||dns.reckoningslug.name^$ctag=user_child
 ||redhoodie.site^$ctag=user_child
-||redproxy.info^$ctag=user_child
 ||redschool.info^$ctag=user_child
 ||dns.redvau.lt^$ctag=user_child
 ||reflect4.me^$ctag=user_child
@@ -3381,7 +3376,6 @@
 ||shopproxy.net^$ctag=user_child
 ||adguard.shoupperuser.com^$ctag=user_child
 ||adguard.shutgaming.net^$ctag=user_child
-||shyf.info^$ctag=user_child
 ||doh.sidnlabs.nl^$ctag=user_child
 ||dns.silen.org^$ctag=user_child
 ||dns.silentlybren.com^$ctag=user_child
@@ -3805,7 +3799,6 @@
 ||doh.valscosmos.com^$ctag=user_child
 ||tor.vasi.li^$ctag=user_child
 ||dns.vault81.de^$ctag=user_child
-||vblocker.info^$ctag=user_child
 ||art-class-omg.vercel.app^$ctag=user_child
 ||asdsasd.vercel.app^$ctag=user_child
 ||clase-de-arte.vercel.app^$ctag=user_child
