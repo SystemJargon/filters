@@ -2,12 +2,8 @@
    "name":"Threats Lists - SystemJargon/filters",
    "sources":[
           {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/aggregated-threats-1.txt",
-         		"type":"hosts"
-      },
-          {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/anti-phishing-scam.txt",
-         		"type":"hosts"
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/threats/aggregated-threats.txt",
+         		"type":"adblock"
       },
           {
          "source": "https://zonefiles.io/f/compromised/domains/full/",
@@ -28,13 +24,8 @@
       {
          "source":"https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
 		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt",
-		          "type":"hosts"
       }
-
    ],
-   "transformations": ["Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines"],
+   "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
    "exclusions_sources": ["allowlist.txt"]
  }

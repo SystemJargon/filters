@@ -2,15 +2,9 @@
     "name": "Ad-blocking Lists - Aggregated by github.com/systemjargon",
     "sources": [   
       {
-        "name": "systemjargon-blocklists-ads-1",
-        "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adverts/ads-1.txt",
+        "name": "systemjargon-blocklists-ads",
+        "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adverts/ads.txt",
         "type": "adblock"
-      },
-
-      {
-        "name": "GoodbyeAds",
-        "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
-        "type": "hosts"
       },
       {
         "name": "Extremely Condensed Adblocking List",
@@ -28,34 +22,14 @@
         "type":"hosts"
       },
       {
-        "name": "Ad-wars",
-        "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
-        "type": "hosts"
-      },
-      {
-          "name": "tiuxo",
-          "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
-          "type": "hosts"
-      },
-      {
           "name": "1Hosts Lite",
           "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
           "type": "hosts"
       },
 	  	  {
-          "name": "DisconnectMe",
-          "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-          "type": "hosts"
-      },
-	  	  {
           "name": "QuidsUp Trackers and Ads",
-         "source":"https://gitlab.com/quidsup/notrack-blocklists/-/blob/master/trackers.list",
+         "source":"https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
 		   "type":"hosts"
-      },
-      {
-          "name": "anudeep adservers",
-          "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
-          "type": "hosts"
       }
     ],
     "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
