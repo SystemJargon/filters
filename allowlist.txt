@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-19T02:44:57.027Z
+! Last modified: 2024-12-19T21:18:51.669Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,16 +11,19 @@
 @@||admin.cloud.microsoft^
 @@||aka.ms^
 @@||akamai.net^
+@@||akamaiedge.net^
 @@||akamaihd.net^
 @@||akamaitechnologies.com^
 @@||akamaized.net^
 @@||amazonaws.com^
 @@||android.clients.google.com^
+@@||android.com^
+@@||android.googleapis.com^
 @@||api.ipify.org^
 @@||api.rlje.net^
 @@||app-api.ted.com^
-@@||apple.com^
 @@||appleid.apple.com^
+@@||apps.apple.com^
 @@||apps.skype.com^
 @@||appsbackup-pa.clients6.google.com^
 @@||appsbackup-pa.googleapis.com^
@@ -32,8 +35,12 @@
 @@||aspnetcdn.com^
 @@||attestation.xboxlive.com^
 @@||ax.phobos.apple.com.edgesuite.net^
+@@||bag.itunes.apple.com^
 @@||brightcove.net^
+@@||buy.itunes-apple.com.akadns.net^
+@@||buy.itunes.apple.com^
 @@||c.s-microsoft.com^
+@@||cdn-apple.com^
 @@||cdn.embedly.com^
 @@||cdn.optimizely.com^
 @@||cdn.vidible.tv^
@@ -47,6 +54,8 @@
 @@||clients4.google.com^
 @@||clients5.google.com^
 @@||clients6.google.com^
+@@||configuration.apple.com.akadns.net^
+@@||connectivity-check.ubuntu.com^
 @@||connectivitycheck.android.com^
 @@||connectivitycheck.gstatic.com^
 @@||continuum.dds.microsoft.com^
@@ -76,10 +85,12 @@
 @@||ecn.dev.virtualearth.net^
 @@||edge.api.brightcove.com^
 @@||eds.xboxlive.com^
+@@||familylink.google.com^
 @@||firebog.net^
 @@||fonts.gstatic.com^
 @@||forums.sonarr.tv^
 @@||g.live.com^
+@@||gateway.icloud.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||geo3.ggpht.com^
 @@||gfwsl.geforce.com^
@@ -93,23 +104,31 @@
 @@||gravatar.com^
 @@||gstatic.com^
 @@||haveibeenpwned.com^
+@@||help.apple.com^
 @@||help.ui.xboxlive.com^
 @@||hls.ted.com^
 @@||hostfiles.frogeye.fr^
 @@||i.ytimg.com^
 @@||i1.ytimg.com^
+@@||idmsa.apple.com^
+@@||idmsa.idms-apple.com.akadns.net^
 @@||imagesak.secureserver.net^
 @@||img.vidible.tv^
 @@||imgix.net^
 @@||imgs.xkcd.com^
+@@||inappcheck.itunes.apple.com^
 @@||instantmessaging-pa.googleapis.com^
 @@||intercom.io^
+@@||intune.microsoft.com^
+@@||iosapps.itunes.apple.com^
+@@||ipv6.msftconnecttest.com^
 @@||jquery.com^
 @@||jsdelivr.net^
 @@||keystone.mwbsys.com^
 @@||kidsmanagement-pa.googleapis.com^
 @@||lastfm-img2.akamaized.net^
 @@||licensing.xboxlive.com^
+@@||life360.com^
 @@||live.com^
 @@||login.live.com^
 @@||login.microsoftonline.com^
@@ -119,6 +138,7 @@
 @@||meta.plex.tv^
 @@||microsoftonline.com^
 @@||mobile.pipe.aria.microsoft.com^
+@@||msftconnecttest.com^
 @@||msftncsi.com^
 @@||my.plexapp.com^
 @@||nexusrules.officeapps.live.com^
@@ -131,6 +151,7 @@
 @@||o1.email.plex.tv^
 @@||o2.sg0.plex.tv^
 @@||ocsp.apple.com^
+@@||ocsp2.apple.com^
 @@||office.com^
 @@||office.net^
 @@||office365.com^
@@ -142,6 +163,11 @@
 @@||pbs.twimg.com^
 @@||placehold.it^
 @@||placeholdit.imgix.net^
+@@||play-fe.googleapis.com^
+@@||play-lh.googleusercontent.com^
+@@||play.google.com^
+@@||play.googleapis.com^
+@@||play.itunes.apple.com^
 @@||players.brightcove.net^
 @@||portal.azure.com^
 @@||pricelist.skype.com^
@@ -152,6 +178,8 @@
 @@||proxy02.pop.ord.plex.bz^
 @@||pubsub.plex.bz^
 @@||pubsub.plex.tv^
+@@||push-apple.akadns.net^
+@@||push.apple.com^
 @@||raspbian.raspberrypi.com^
 @@||raw.githubusercontent.com^
 @@||redirector.googlevideo.com^
@@ -175,6 +203,7 @@
 @@||ssl.p.jwpcdn.com^
 @@||staging.plex.tv^
 @@||status.plex.tv^
+@@||support.apple.com^
 @@||t.co^
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net^
 @@||t0.ssl.ak.tiles.virtualearth.net^
@@ -183,6 +212,7 @@
 @@||testcategory.com^
 @@||themoviedb.com^
 @@||thetvdb.com^
+@@||time.apple.com^
 @@||tinyurl.com^
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
@@ -201,6 +231,7 @@
 @@||win10.ipv6.microsoft.com^
 @@||wp.com^
 @@||ws.audioscrobbler.com^
+@@||www.apple.com^
 @@||www.docker.com^
 @@||www.googleapis.com^
 @@||www.internetbadguys.com^
@@ -213,7 +244,9 @@
 @@||xboxexperiencesprod.experimentation.xboxlive.com^
 @@||xflight.xboxlive.com^
 @@||xkms.xboxlive.com^
+@@||xp.apple.com^
 @@||xsts.auth.xboxlive.com^
 @@||youtu.be^
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
+@@||ztd.dds.microsoft.com^
