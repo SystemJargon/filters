@@ -6,8 +6,12 @@
          		"type":"adblock"
       },
           {
-         "source": "https://zonefiles.io/f/compromised/domains/full/",
+         "source": "https://hosts.tweedge.net/malicious.txt",
          		"type": "hosts"
+       },
+	             {
+         "source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
+         		"type": "adblock"
        },
       {
          "source":"https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt",
@@ -19,10 +23,6 @@
       },
       {
          "source":"https://phishing.army/download/phishing_army_blocklist_extended.txt",
-		          "type":"hosts"
-      },
-      {
-         "source":"https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
 		          "type":"hosts"
       }
    ],
