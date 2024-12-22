@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-21T02:23:20.086Z
+! Last modified: 2024-12-22T02:30:39.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1930,6 +1930,7 @@
 ||coinweb.info^$ctag=user_child
 ||jpdns.cola16.app^$ctag=user_child
 ||dns.colorfreedom.org^$ctag=user_child
+||dns.7sec.com.br^$ctag=user_child
 ||anonymous-proxy.com.de^$ctag=user_child
 ||dns.ceai.com.tw^$ctag=user_child
 ||dns.cloud88.com.au^$ctag=user_child
@@ -2390,6 +2391,7 @@
 ||gracarno.com^$ctag=user_child
 ||grammarhelpers.com^$ctag=user_child
 ||gratisproxy.nl^$ctag=user_child
+||greatideasforlife.lol^$ctag=user_child
 ||greenpass.info^$ctag=user_child
 ||dnsblock.grisumedia.de^$ctag=user_child
 ||dns.grqu.de^$ctag=user_child
@@ -2662,6 +2664,7 @@
 ||dns.lepilleur.com^$ctag=user_child
 ||dns.lermer.nl^$ctag=user_child
 ||lesuo.top^$ctag=user_child
+||letscomply.online^$ctag=user_child
 ||dns.levonet.sk^$ctag=user_child
 ||lewsha.lol^$ctag=user_child
 ||dns2.lezainski.com^$ctag=user_child

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-21T02:23:20.086Z
+! Last modified: 2024-12-22T02:30:39.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1930,6 +1930,7 @@
 ||coinweb.info^
 ||jpdns.cola16.app^
 ||dns.colorfreedom.org^
+||dns.7sec.com.br^
 ||anonymous-proxy.com.de^
 ||dns.ceai.com.tw^
 ||dns.cloud88.com.au^
@@ -2390,6 +2391,7 @@
 ||gracarno.com^
 ||grammarhelpers.com^
 ||gratisproxy.nl^
+||greatideasforlife.lol^
 ||greenpass.info^
 ||dnsblock.grisumedia.de^
 ||dns.grqu.de^
@@ -2662,6 +2664,7 @@
 ||dns.lepilleur.com^
 ||dns.lermer.nl^
 ||lesuo.top^
+||letscomply.online^
 ||dns.levonet.sk^
 ||lewsha.lol^
 ||dns2.lezainski.com^
