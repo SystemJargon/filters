@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-22T02:30:39.721Z
+! Last modified: 2024-12-23T02:26:50.700Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2006,6 +2006,7 @@
 ||dabmix.com^$ctag=user_child
 ||dailyvpn.io^$ctag=user_child
 ||dns.dallinbryce.com^$ctag=user_child
+||danhcan.top^$ctag=user_child
 ||dns.home.daniil.it^$ctag=user_child
 ||adguard.dantynes.cyou^$ctag=user_child
 ||darkfat.com^$ctag=user_child
@@ -2097,7 +2098,6 @@
 ||las01.dnscry.pt^$ctag=user_child
 ||lax01.dnscry.pt^$ctag=user_child
 ||lax02.dnscry.pt^$ctag=user_child
-||lim01.dnscry.pt^$ctag=user_child
 ||lim02.dnscry.pt^$ctag=user_child
 ||lis01.dnscry.pt^$ctag=user_child
 ||llk01.dnscry.pt^$ctag=user_child
@@ -2362,7 +2362,6 @@
 ||giveproxy.com^$ctag=user_child
 ||gizlen.net^$ctag=user_child
 ||h.gjrick.tw^$ctag=user_child
-||sdns22.gkonuralp.com^$ctag=user_child
 ||glacius.top^$ctag=user_child
 ||dns.glf.wtf^$ctag=user_child
 ||globalvpn.info^$ctag=user_child
@@ -2636,7 +2635,6 @@
 ||kryptovpn.kryptotel.net^$ctag=user_child
 ||adguard.kss.ovh^$ctag=user_child
 ||dns.kukal.cz^$ctag=user_child
-||dns.kumoumi.net^$ctag=user_child
 ||dns.kusoneko.moe^$ctag=user_child
 ||dns.kuuhaku.moe^$ctag=user_child
 ||kx-97795-tr.xyz^$ctag=user_child

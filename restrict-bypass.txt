@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-22T02:30:39.721Z
+! Last modified: 2024-12-23T02:26:50.700Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2006,6 +2006,7 @@
 ||dabmix.com^
 ||dailyvpn.io^
 ||dns.dallinbryce.com^
+||danhcan.top^
 ||dns.home.daniil.it^
 ||adguard.dantynes.cyou^
 ||darkfat.com^
@@ -2097,7 +2098,6 @@
 ||las01.dnscry.pt^
 ||lax01.dnscry.pt^
 ||lax02.dnscry.pt^
-||lim01.dnscry.pt^
 ||lim02.dnscry.pt^
 ||lis01.dnscry.pt^
 ||llk01.dnscry.pt^
@@ -2362,7 +2362,6 @@
 ||giveproxy.com^
 ||gizlen.net^
 ||h.gjrick.tw^
-||sdns22.gkonuralp.com^
 ||glacius.top^
 ||dns.glf.wtf^
 ||globalvpn.info^
@@ -2636,7 +2635,6 @@
 ||kryptovpn.kryptotel.net^
 ||adguard.kss.ovh^
 ||dns.kukal.cz^
-||dns.kumoumi.net^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
 ||kx-97795-tr.xyz^
