@@ -1,7 +1,7 @@
 !
-! Checksum: ZmDx/pYfSC1KAhoSzd9oJA
+! Checksum: JtlQkF6A+UxSjORUAUjp1w
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-24T02:25:23.462Z
+! Last modified: 2024-12-25T02:23:44.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -1510,7 +1510,6 @@
 ||052419.xyz^
 ||0ms.dev^
 ||dns.0ooo.icu^
-||dns.0rz.ing^
 ||dns.0x55.net^
 ||108023.xyz^
 ||123-proxy.net^
@@ -3119,13 +3118,9 @@
 ||agh.printk.info^
 ||privacy.io^
 ||hungary.privacy-dns.pw^
-||india.privacy-dns.pw^
 ||las-vegas.privacy-dns.pw^
 ||luxembourg.privacy-dns.pw^
 ||romania.privacy-dns.pw^
-||sweden.privacy-dns.pw^
-||switzerland.privacy-dns.pw^
-||united-arab-emirates.privacy-dns.pw^
 ||privacyprotector.eu^
 ||privado.io^
 ||dns.privado.ovh^

@@ -1,7 +1,7 @@
 !
-! Checksum: ZmDx/pYfSC1KAhoSzd9oJA
+! Checksum: JtlQkF6A+UxSjORUAUjp1w
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-24T02:25:23.462Z
+! Last modified: 2024-12-25T02:23:44.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -1510,7 +1510,6 @@
 ||052419.xyz^$ctag=user_child
 ||0ms.dev^$ctag=user_child
 ||dns.0ooo.icu^$ctag=user_child
-||dns.0rz.ing^$ctag=user_child
 ||dns.0x55.net^$ctag=user_child
 ||108023.xyz^$ctag=user_child
 ||123-proxy.net^$ctag=user_child
@@ -3119,13 +3118,9 @@
 ||agh.printk.info^$ctag=user_child
 ||privacy.io^$ctag=user_child
 ||hungary.privacy-dns.pw^$ctag=user_child
-||india.privacy-dns.pw^$ctag=user_child
 ||las-vegas.privacy-dns.pw^$ctag=user_child
 ||luxembourg.privacy-dns.pw^$ctag=user_child
 ||romania.privacy-dns.pw^$ctag=user_child
-||sweden.privacy-dns.pw^$ctag=user_child
-||switzerland.privacy-dns.pw^$ctag=user_child
-||united-arab-emirates.privacy-dns.pw^$ctag=user_child
 ||privacyprotector.eu^$ctag=user_child
 ||privado.io^$ctag=user_child
 ||dns.privado.ovh^$ctag=user_child
