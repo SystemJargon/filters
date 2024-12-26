@@ -14,10 +14,6 @@
          "type":"hosts"
       },
 	  {
-         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/gafam/blocklist-apple-telemetry.txt",
-         "type":"hosts"
-      },
-	  {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/custom-telemetry-tracking.txt",
 		   "type":"hosts"
       },
@@ -40,6 +36,10 @@
 	  {
          "source":"https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
 		   "type":"hosts"
+      },
+      {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/apple-intelligence.txt",
+         "type":"hosts"
       },
       {
          "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/telemetry/basic-telemetry-devices.txt",
