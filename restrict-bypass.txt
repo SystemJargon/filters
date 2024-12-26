@@ -1,8 +1,9 @@
 !
+! Checksum: WLjOiRE6RsD2z91ckq3l6w
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-22T02:30:39.721Z
+! Last modified: 2024-12-26T02:24:22.736Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 ||0000a-fast-proxy.de^
 ||012proxy.ga^
@@ -1509,13 +1510,13 @@
 ||052419.xyz^
 ||0ms.dev^
 ||dns.0ooo.icu^
-||dns.0rz.ing^
 ||dns.0x55.net^
 ||108023.xyz^
 ||123-proxy.net^
 ||123000123.xyz^
 ||12312300.xyz^
 ||123ani.me^
+||123anonymous.com^
 ||123app.info^
 ||123bay.org^
 ||123book.info^
@@ -1688,6 +1689,7 @@
 ||dns.ares-taiwan.com^
 ||dns.arkbotech.com^
 ||nsec.arnor.org^
+||artclass.lol^
 ||artclass.site^
 ||doh.asagiri.moe^
 ||asheranztwitch.online^
@@ -1744,6 +1746,7 @@
 ||bi-tree.ru^
 ||bidehshomali.top^
 ||ns3.bit-trail.nl^
+||bit123.biz^
 ||dns.bitdefender.net^
 ||fra-dns.bitdefender.net^
 ||iow-dns.bitdefender.net^
@@ -1939,6 +1942,7 @@
 ||fastest-proxy.com.de^
 ||free-proxy.com.de^
 ||adguard.frutuozo.com.br^
+||adguard.gbrossi.com.br^
 ||german-proxy.com.de^
 ||germany-proxy.com.de^
 ||dns.joaofidelix.com.br^
@@ -1973,6 +1977,7 @@
 ||crazyfastrace.lol^
 ||crazysurfer.info^
 ||dns.criena.net^
+||crownproxy.com^
 ||croxy.network^
 ||croxy.org^
 ||croxy.red^
@@ -2006,6 +2011,7 @@
 ||dabmix.com^
 ||dailyvpn.io^
 ||dns.dallinbryce.com^
+||danhcan.top^
 ||dns.home.daniil.it^
 ||adguard.dantynes.cyou^
 ||darkfat.com^
@@ -2026,6 +2032,7 @@
 ||dns.dekedin.me^
 ||adguard.dekonix.ru^
 ||doh.denypradana.com^
+||adguard.depieri.net^
 ||deproxyserver.com^
 ||desbloquearredes.online^
 ||adguard.lege.despagne.net^
@@ -2097,7 +2104,6 @@
 ||las01.dnscry.pt^
 ||lax01.dnscry.pt^
 ||lax02.dnscry.pt^
-||lim01.dnscry.pt^
 ||lim02.dnscry.pt^
 ||lis01.dnscry.pt^
 ||llk01.dnscry.pt^
@@ -2175,6 +2181,7 @@
 ||dvprovider.icu^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
+||gustamadh.dynv6.net^
 ||vpn.dzarlax.dev^
 ||earnapp.com^
 ||adguard.easez.net^
@@ -2362,9 +2369,9 @@
 ||giveproxy.com^
 ||gizlen.net^
 ||h.gjrick.tw^
-||sdns22.gkonuralp.com^
 ||glacius.top^
 ||dns.glf.wtf^
+||global-proxy.com^
 ||globalvpn.info^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -2636,7 +2643,6 @@
 ||kryptovpn.kryptotel.net^
 ||adguard.kss.ovh^
 ||dns.kukal.cz^
-||dns.kumoumi.net^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
 ||kx-97795-tr.xyz^
@@ -2732,6 +2738,7 @@
 ||mathhelpnow.site^
 ||mathlearning.tech^
 ||mathnotes.help^
+||mathnotes.icu^
 ||maxfong.cc^
 ||maxvpn.info^
 ||dns.maybe.icu^
@@ -2788,6 +2795,7 @@
 ||morevpn.com^
 ||dns.moulticast.net^
 ||moyazyinomoyasi.com^
+||sail.msg.boats^
 ||msr177.com^
 ||dns.msxnet.ru^
 ||dns.mtoo.vip^
@@ -3120,13 +3128,9 @@
 ||agh.printk.info^
 ||privacy.io^
 ||hungary.privacy-dns.pw^
-||india.privacy-dns.pw^
 ||las-vegas.privacy-dns.pw^
 ||luxembourg.privacy-dns.pw^
 ||romania.privacy-dns.pw^
-||sweden.privacy-dns.pw^
-||switzerland.privacy-dns.pw^
-||united-arab-emirates.privacy-dns.pw^
 ||privacyprotector.eu^
 ||privado.io^
 ||dns.privado.ovh^
@@ -3138,6 +3142,7 @@
 ||nl.dns.privex.io^
 ||privoxy.org^
 ||pro-tower.com^
+||prohome.info^
 ||project-evoex.de^
 ||prontoproxy.info^
 ||propage.info^
@@ -3189,11 +3194,13 @@
 ||proxyelite.info^
 ||proxyen.com^
 ||proxyer.net^
+||proxyforfree.eu^
 ||proxygizlen.com^
 ||proxyhash.net^
 ||proxyist.com^
 ||proxyium.com^
 ||proxyoutlet.com^
+||proxyprivate.info^
 ||proxyrooms.com^
 ||proxysan.info^
 ||proxyscope.com^
@@ -3339,6 +3346,7 @@
 ||adguard.sealyserver.com^
 ||proxy.searchfiles.de^
 ||dns.sec511.com^
+||secure-vpn.com^
 ||vpncenter.avg.securebrowser.com^
 ||vpncenter-tenta.securebrowser.com^
 ||securetunnel.com^
@@ -3408,6 +3416,8 @@
 ||dns.smartguard.io^
 ||snapxs.com^
 ||guard.sntrk.ru^
+||dove.soapagent.com^
+||dove.soapclient.com^
 ||www-proxy.sodemc.com^
 ||clientdns3.softcom.net^
 ||soleilvpn-app.com^
@@ -3453,6 +3463,7 @@
 ||studysurf.com^
 ||dns.stvsk.ml^
 ||doh.suche.org^
+||local.sufly.top^
 ||dns.suhaila.dev^
 ||suissl.com^
 ||resolver.sunet.se^
@@ -3565,6 +3576,7 @@
 ||adb.timnichollsphotography.com^
 ||timurpoyraz.com^
 ||tinf0il.tech^
+||tinfoil-is-ass.xyz^
 ||dns.tipsy.coffee^
 ||titaniumnetwork.org^
 ||dns.tls-data.de^
@@ -3581,6 +3593,7 @@
 ||toptip.cc^
 ||topvpn.cc^
 ||tor-gateways.de^
+||tor2web.fi^
 ||tor2web.io^
 ||tor2web.ru^
 ||tor2web.su^
@@ -3770,6 +3783,8 @@
 ||unrestricter.com^
 ||unrestricter.org^
 ||unrestrictor.com^
+||resolver.unstoppable.io^
+||untraceable.us^
 ||untracer.com^
 ||dns.unx.io^
 ||dns.uplenk.com^
@@ -3852,6 +3867,7 @@
 ||vpnreactor.com^
 ||vpnrice.com^
 ||vpnsecure.me^
+||vpnshazam.com^
 ||vpnuk.net^
 ||vpnv6.com^
 ||vpnwelt.com^

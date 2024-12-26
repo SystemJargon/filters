@@ -1,8 +1,9 @@
 !
+! Checksum: lM+gsh4ehurXXaA4CDCH6g
 ! Title: AI GPT Lists - SystemJargon/filters
-! Last modified: 2024-12-22T02:31:01.889Z
+! Last modified: 2024-12-26T02:24:47.003Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 # OpenAI
 ||openai.com^
@@ -24,5 +25,3 @@
 ||poe.com^
 # regex of words
 ||*aichat*^
-# TLD .ai
-||*.ai^
