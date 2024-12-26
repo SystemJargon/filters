@@ -1,7 +1,7 @@
 !
-! Checksum: 2WLLRguqDnAUi7BXS74ufw
+! Checksum: vqytg2m5tdfJhkq/Mh8lUA
 ! Title: Ad-blocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2024-12-25T02:14:48.986Z
+! Last modified: 2024-12-26T02:15:22.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -9772,6 +9772,9 @@
 ||xhr.*.
 ||advertisement.*.
 ||adservice.*.
+||gsrgjsmymkwt.com^
+||zeecajichaiw.net^
+||server.megabrain.co^
 ||cf.adxcel.com^
 ||cda7k-ddok.com^
 ||sat.cellordion3.net^
@@ -10596,6 +10599,7 @@
 ||newbluetrue.xyz^
 ||onemediawork.com^
 ||d162h6x3rxav67.cloudfront.net^
+||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||openx.tiesraides.lv^
 ||ctent.povvverz.one^
 ||az-neverblock.aznude.workers.dev^
@@ -15787,6 +15791,7 @@ vkcdnservice.appspot.com^
 ||centalkochab.com^
 ||centeredfailinghotline.com^
 ||centeredmotorcycle.com^
+||centlyhavebed.com^
 ||centralnervous.net^
 ||centredrag.com^
 ||centrenicelyteaching.com^
@@ -17193,6 +17198,7 @@ vkcdnservice.appspot.com^
 ||cynoidfudging.shop^
 ||cypfdxbynb.com^
 ||cypresslocum.com^
+||cyrociest.shop^
 ||cytomecruor.top^
 ||cyuyvjwyfvn.com^
 ||cyvjmnu.com^
@@ -18824,6 +18830,7 @@ vkcdnservice.appspot.com^
 ||ehpxmsqghx.xyz^
 ||ehrydnmdoe.com^
 ||ehutzaug.life^
+||eibzywva.com^
 ||eidoscruster.com^
 ||eighteenderived.com^
 ||eighteenprofit.com^
@@ -22502,6 +22509,7 @@ vkcdnservice.appspot.com^
 ||iarrowtoldilim.info^
 ||iasbetaffiliates.com^
 ||iasrv.com^
+||ibbmkdooqkj.com^
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||iboobeelt.net^
@@ -23354,6 +23362,7 @@ vkcdnservice.appspot.com^
 ||jalewaads.com^
 ||jambosmodesty.com^
 ||jamstech.store^
+||janads.shop^
 ||janemmf.com^
 ||jangiddywashed.com^
 ||jangleachy.com^
@@ -29590,6 +29599,7 @@ vkcdnservice.appspot.com^
 ||protawe.com^
 ||protectonlinenow.com^
 ||protectorincorporatehush.com^
+||protectwborcn.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
 ||proteininnovationpioneer.com^
@@ -32011,6 +32021,7 @@ vkcdnservice.appspot.com^
 ||sehlicegxy.com^
 ||seibertspart.com^
 ||seichesditali.click^
+||seishinyoga.com^
 ||seizecrashsophia.com^
 ||seizefortunesdefiant.com^
 ||seizeshoot.com^
@@ -32694,6 +32705,7 @@ vkcdnservice.appspot.com^
 ||smhmayvtwii.xyz^
 ||smigdxy.com^
 ||smigro.info^
+||smileesidesuk.com^
 ||smileoffennec.com^
 ||smilesalesmanhorrified.com^
 ||smilewanted.com^
@@ -41458,6 +41470,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ascendeummedia.com^
+||agma-analytics.de^
 ||cdn-gw-dv.vip^
 ||cloudad.icu^
 ||stats2.indianpornempire.com^
@@ -44642,6 +44656,11 @@ vkcdnservice.appspot.com^
 .stape.net
 ||tagman.britishairways.com^
 |piwik.
+||log.shortbread.aws.dev^
+||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
+||minerva.devices.a2z.com^
+||s.pie.org^
+||t.pie.org^
 ||altema-log.com^
 ||w890.denvergazette.com^
 ||co932.coloradopolitics.com^
@@ -44866,7 +44885,6 @@ vkcdnservice.appspot.com^
 ||m1tm.motor1.com^
 ||ctr.po-kaki-to.com^
 ||analytics.sonjj.com^
-||status.techtarget.itmedia.co.jp^
 ||px.adfulplatform.com^
 ||d9jj3mjthpub.cloudfront.net^
 ||logs.openbank.com^
@@ -52776,7 +52794,6 @@ inapps.appsflyersdk.com^
 ||wct-1.com^
 ||webbannons.ntm.eu^
 ||webbplatsanalys.goteborg.se^
-||webpower.eu^
 ||webstats.100procent.com^
 ||web-analytics.ica.se^
 ||west.statisticplatform.com^
@@ -58575,8 +58592,15 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||pzzedx.icu^
 ||vriesziy.com^
 ||rwdjrn.icu^
+||twilmii.top^
+||r4u.icu^
+||bpxxgkoj.icu^
+||gmso12251oka.top^
+||6cs.icu^
+||uwilmit.top^
 ||beenedsl.com^
 ||tghrfv.icu^
 ||wwilmie.top^
@@ -62491,6 +62515,7 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
+||jbdch1.appmobile.cn^
 ||lcd.aivote.com^
 ||cnbd1.appmobile.cn^
 ||003store.com^
@@ -63370,6 +63395,7 @@ analytics-*.aasaam.com
 ||xjs.lol^
 ||xmlx.lol^
 ||yelloadwise.ir^
+||sentry.yektanet.tech^
 ||yekbux.com^
 ||zarad.net^
 ||ads.aftab.cc^
@@ -67140,6 +67166,7 @@ analytics-*.aasaam.com
 ||a.20minutes.fr^
 ||divatraffic.bid^
 ||intelligentscissors.com^
+||webpower.eu^
 ||zinckeelvet.top^
 ||cdn18685953.ahacdn.me^
 ||click.emails.argos.co.uk^
