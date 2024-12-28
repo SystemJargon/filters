@@ -1,9 +1,8 @@
-!
-! Checksum: JkShAjtRAzgnLxIIlfIXww
+! Checksum: bPzsbW2i42JiAK8W1RV11g
 ! Title: No-Social-Media List - Created by systemjargon
-! Last modified: 2024-12-27T02:25:33.553Z
+! Last modified: 2024-12-28T02:22:43.399Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.31
+! Compiled by @adguard/hostlist-compiler v1.0.33
 !
 ||*byteoversea*^$ctag=user_child
 ||*facebook*^$ctag=user_child
