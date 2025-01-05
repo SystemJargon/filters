@@ -1,6 +1,6 @@
-! Checksum: a8a9o/ltw7kUiro1iVhyPA
+! Checksum: FYJAZ12d0v0pXnVz+KXnVA
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-01-04T02:22:04.704Z
+! Last modified: 2025-01-05T02:30:36.868Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -4006,6 +4006,7 @@
 ||zscalertwo.net^$ctag=user_child
 ||zwyr157wwiu6eior.com^$ctag=user_child
 ||zxcvb.pp.ua^$ctag=user_child
+||1010000.online^$ctag=user_child
 ||aboba.pro^$ctag=user_child
 ||ammmae150.news^$ctag=user_child
 ||bestaitool.news^$ctag=user_child
@@ -4014,6 +4015,7 @@
 ||joker81fansbase.site^$ctag=user_child
 ||doh.kekew.info^$ctag=user_child
 ||lochridge.org^$ctag=user_child
+||net-ml.online^$ctag=user_child
 ||www-web.r-2.top^$ctag=user_child
 ||unblockedscene.com^$ctag=user_child
 ||unblockedsite.club^$ctag=user_child
