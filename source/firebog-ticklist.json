@@ -150,11 +150,6 @@
 	    "name": "firebogtick30",
         "source": "https://urlhaus.abuse.ch/downloads/hostfile/",
         "type": "hosts"
-      },
-	  	        {
-	    "name": "firebogtick31",
-        "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
-        "type": "hosts"
       }
     ],
     "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],

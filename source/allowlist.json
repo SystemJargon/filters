@@ -5,6 +5,11 @@
         "name": "Allowlist",
         "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist-adguard.txt",
         "type": "adblock"
+      },
+	        {
+        "name": "allowlist-requested",
+        "source": "https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist-requested.txt",
+        "type": "adblock"
       }
    ],
    "transformations": ["InvertAllow","Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines","RemoveComments"]
