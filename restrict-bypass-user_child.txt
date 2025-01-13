@@ -1,6 +1,6 @@
-! Checksum: FYJAZ12d0v0pXnVz+KXnVA
+! Checksum: Yd6SOquMPRYeajEG9e21IA
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-01-05T02:30:36.868Z
+! Last modified: 2025-01-13T02:31:11.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -4010,13 +4010,28 @@
 ||aboba.pro^$ctag=user_child
 ||ammmae150.news^$ctag=user_child
 ||bestaitool.news^$ctag=user_child
+||dns-savage.com^$ctag=user_child
+||enrollkirgo.com^$ctag=user_child
+||flarquix.xyz^$ctag=user_child
+||freelux.world^$ctag=user_child
 ||g-a-y.pro^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||joker81fansbase.site^$ctag=user_child
 ||doh.kekew.info^$ctag=user_child
+||kinoshka.su^$ctag=user_child
 ||lochridge.org^$ctag=user_child
+||monro-stom-plus.info^$ctag=user_child
+||nathanielgavin.lol^$ctag=user_child
 ||net-ml.online^$ctag=user_child
+||noyourmean.xyz^$ctag=user_child
 ||www-web.r-2.top^$ctag=user_child
+||reezus.us^$ctag=user_child
+||rnblyatclub.online^$ctag=user_child
+||seanfat.club^$ctag=user_child
+||themeaningofallmeaningsforallofthemeaningsmeanings.lol^$ctag=user_child
+||twinklestarknights.com^$ctag=user_child
 ||unblockedscene.com^$ctag=user_child
 ||unblockedsite.club^$ctag=user_child
 ||unblockninja.com^$ctag=user_child
+||yellowshiitake.com^$ctag=user_child
+||zproxy.org^$ctag=user_child
