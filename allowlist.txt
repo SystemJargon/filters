@@ -1,6 +1,6 @@
-! Checksum: Ily4EuUWccwR6idwQQ/GcA
+! Checksum: ym+na2/gUq37c119pavQdA
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2025-01-12T09:28:22.623Z
+! Last modified: 2025-01-13T02:42:37.068Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -250,3 +250,4 @@
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
 @@||ztd.dds.microsoft.com^
+@@||cdn.jsdelivr.net^
