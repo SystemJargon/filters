@@ -1,6 +1,6 @@
 !
 ! Title: Ad-blocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2025-01-19T02:18:19.616Z
+! Last modified: 2025-01-20T02:14:49.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -41940,7 +41940,6 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||sygrip.info^
-||flippback.com^
 ||log-auth.zztfly.com^
 ||adsave.co^
 ||analytics.bitchute.com^
@@ -45150,6 +45149,8 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
 |piwik.
+||frontend-logger.flippback.com^
+||analytics.nike.com^
 ||hikari.jiocinema.com^
 ||logs.mezmo.com^
 ||acr-*-prd.samsungcloud.tv^
@@ -59135,6 +59136,13 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||hp7.fun^
 ||tuvrutsnf.com^
+||rpfuvj.icu^
+||4ce.fun^
+||h6o.fun^
+||gauqoith.com^
+||ccokamif.top^
+||saelphol.com^
+||pfbmht.icu^
 ||lagzoids.com^
 ||njnhzh.icu^
 ||8u0.fun^
@@ -65009,7 +65017,6 @@ analytics-*.aasaam.com
 ||ccpa.psg.nexstardigital.net^
 ||segment.psg.nexstardigital.net^
 ||apps.nielsen.com^
-||analytics.nike.com^
 ||api.ning.com^
 ||ninthdecimal.com^
 ||dev.nodle.io^
