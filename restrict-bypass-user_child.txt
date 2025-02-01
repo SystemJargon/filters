@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-01-31T02:23:12.882Z
+! Last modified: 2025-02-01T02:26:27.019Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -4015,7 +4015,9 @@
 ||proxyduke.bingle.pw^$ctag=user_child
 ||blockawayproxy.net^$ctag=user_child
 ||blockedsiteaccess.com^$ctag=user_child
+||center-crm.store^$ctag=user_child
 ||circumvent.it^$ctag=user_child
+||cosmohacker.space^$ctag=user_child
 ||www.i.cpfrx.info^$ctag=user_child
 ||croxy-proxy.com^$ctag=user_child
 ||croxyproxys.com^$ctag=user_child
@@ -4036,20 +4038,24 @@
 ||g-a-y.pro^$ctag=user_child
 ||ghadrboland.ir^$ctag=user_child
 ||proxybrowser.github.io^$ctag=user_child
+||harbaletsstudy.com^$ctag=user_child
 ||hidester.one^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||dns.huas.me^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
 ||itsayx.online^$ctag=user_child
 ||iwebproxy.com^$ctag=user_child
+||jamesisbald.xyz^$ctag=user_child
 ||joker81fansbase.site^$ctag=user_child
 ||doh.kekew.info^$ctag=user_child
 ||kinoshka.su^$ctag=user_child
+||www-proxy.kokecoco.me^$ctag=user_child
 ||lablancer.com^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
 ||lochridge.org^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
 ||monro-stom-plus.info^$ctag=user_child
+||mtagprox.com^$ctag=user_child
 ||nathanielgavin.lol^$ctag=user_child
 ||net-ml.online^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
@@ -4062,15 +4068,21 @@
 ||www-web.r-2.top^$ctag=user_child
 ||rcsm.ir^$ctag=user_child
 ||reezus.us^$ctag=user_child
+||www-proxy.retportal.com^$ctag=user_child
 ||rnblyatclub.online^$ctag=user_child
+||romirely.tech^$ctag=user_child
 ||schoolooks.com^$ctag=user_child
 ||seanfat.club^$ctag=user_child
+||serkanarslan.com^$ctag=user_child
+||shadowtunnels.com^$ctag=user_child
+||sleezy.nl^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child
 ||terraleads.cloud^$ctag=user_child
 ||themeaningofallmeaningsforallofthemeaningsmeanings.lol^$ctag=user_child
+||top-proxy.site^$ctag=user_child
 ||twinklestarknights.com^$ctag=user_child
 ||unblockedscene.com^$ctag=user_child
 ||unblockedsite.club^$ctag=user_child

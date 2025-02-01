@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-01-31T02:23:12.882Z
+! Last modified: 2025-02-01T02:26:27.019Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -4015,7 +4015,9 @@
 ||proxyduke.bingle.pw^
 ||blockawayproxy.net^
 ||blockedsiteaccess.com^
+||center-crm.store^
 ||circumvent.it^
+||cosmohacker.space^
 ||www.i.cpfrx.info^
 ||croxy-proxy.com^
 ||croxyproxys.com^
@@ -4036,20 +4038,24 @@
 ||g-a-y.pro^
 ||ghadrboland.ir^
 ||proxybrowser.github.io^
+||harbaletsstudy.com^
 ||hidester.one^
 ||homeworkhelp.click^
 ||dns.huas.me^
 ||indiaproxy.win^
 ||itsayx.online^
 ||iwebproxy.com^
+||jamesisbald.xyz^
 ||joker81fansbase.site^
 ||doh.kekew.info^
 ||kinoshka.su^
+||www-proxy.kokecoco.me^
 ||lablancer.com^
 ||www-proxy.ladifsoftware.com^
 ||lochridge.org^
 ||www-proxy.migastep.com^
 ||monro-stom-plus.info^
+||mtagprox.com^
 ||nathanielgavin.lol^
 ||net-ml.online^
 ||noyourmean.xyz^
@@ -4062,15 +4068,21 @@
 ||www-web.r-2.top^
 ||rcsm.ir^
 ||reezus.us^
+||www-proxy.retportal.com^
 ||rnblyatclub.online^
+||romirely.tech^
 ||schoolooks.com^
 ||seanfat.club^
+||serkanarslan.com^
+||shadowtunnels.com^
+||sleezy.nl^
 ||browse.startpage.com^
 ||s4-us2.startpage.com^
 ||us1-browse.startpage.com^
 ||us2-browse.startpage.com^
 ||terraleads.cloud^
 ||themeaningofallmeaningsforallofthemeaningsmeanings.lol^
+||top-proxy.site^
 ||twinklestarknights.com^
 ||unblockedscene.com^
 ||unblockedsite.club^
