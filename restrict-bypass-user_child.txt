@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-02-01T02:26:27.019Z
+! Last modified: 2025-02-02T02:25:38.922Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -114,6 +114,7 @@
 ||a.safe.ns.dnslify.com^$ctag=user_child
 ||a.zpn.me^$ctag=user_child
 ||a1free-optimal.prcdn.net^$ctag=user_child
+||a3ehe.com^$ctag=user_child
 ||abcproxy.com^$ctag=user_child
 ||abe01.dnscry.pt^$ctag=user_child
 ||abel.waringer-atg.de^$ctag=user_child
@@ -308,6 +309,7 @@
 ||api-aqqle-link3.com^$ctag=user_child
 ||api-lyndo.com^$ctag=user_child
 ||api.bytelixir.com^$ctag=user_child
+||api.du-just-link.com^$ctag=user_child
 ||apple-relay.akamaized.net^$ctag=user_child
 ||apple-relay.apple.com^$ctag=user_child
 ||apple-relay.cloudfare.com^$ctag=user_child
@@ -468,8 +470,10 @@
 ||c-dns.com^$ctag=user_child
 ||c.cicitt.ch^$ctag=user_child
 ||c.cpfrx.info^$ctag=user_child
+||c1testomega.io
 ||ca.doh.cloudveil.org^$ctag=user_child
 ||cactusvpn.com^$ctag=user_child
+||calculuscrafter.com^$ctag=user_child
 ||calculusproblems.online^$ctag=user_child
 ||callies-online.site^$ctag=user_child
 ||canadaproxy.info^$ctag=user_child
@@ -505,6 +509,7 @@
 ||ciscossh.com^$ctag=user_child
 ||citizenvpn.com^$ctag=user_child
 ||clase-de-arte.vercel.app^$ctag=user_child
+||classbegainus.com^$ctag=user_child
 ||classroomsusa.com^$ctag=user_child
 ||cleanbrowsing.org^$ctag=user_child
 ||clearvpn.co.uk^$ctag=user_child
@@ -1479,6 +1484,7 @@
 ||edpuzzle.space^$ctag=user_child
 ||eduacation.lol^$ctag=user_child
 ||eduforgeonline.com^$ctag=user_child
+||edustatlab.com^$ctag=user_child
 ||elephantvpn.com^$ctag=user_child
 ||elgatobypasses.org^$ctag=user_child
 ||eliatofani.ovh^$ctag=user_child
@@ -1680,6 +1686,7 @@
 ||frysprinters.com^$ctag=user_child
 ||fuchur.pentament.de^$ctag=user_child
 ||fun4school.store^$ctag=user_child
+||futuretechuu.com^$ctag=user_child
 ||fwgw.orangepipc.mywire.org^$ctag=user_child
 ||gabstorm.com^$ctag=user_child
 ||galeben.fr^$ctag=user_child
@@ -1698,6 +1705,7 @@
 ||geckovpn.xyz^$ctag=user_child
 ||geekproxy.com^$ctag=user_child
 ||geg01.dnscry.pt^$ctag=user_child
+||genetherapyhub.com^$ctag=user_child
 ||genmirror.com^$ctag=user_child
 ||geoguessr.lol^$ctag=user_child
 ||geosurf.com^$ctag=user_child
@@ -2069,6 +2077,7 @@
 ||kiv01.dnscry.pt^$ctag=user_child
 ||klcknerrip.com^$ctag=user_child
 ||kmmasxeysu.com^$ctag=user_child
+||knowledgenurtures.com^$ctag=user_child
 ||knvpn.net^$ctag=user_child
 ||ko-18948-tr.xyz^$ctag=user_child
 ||korzhov.dev^$ctag=user_child
@@ -2184,10 +2193,12 @@
 ||masterssh.com^$ctag=user_child
 ||mastersslvpn.gq^$ctag=user_child
 ||math.isreally.pro^$ctag=user_child
+||mathcraftinghub.com^$ctag=user_child
 ||mathhelpnow.site^$ctag=user_child
 ||mathlearning.tech^$ctag=user_child
 ||mathnotes.help^$ctag=user_child
 ||mathnotes.icu^$ctag=user_child
+||mathwizcentral.com^$ctag=user_child
 ||maxfong.cc^$ctag=user_child
 ||maxvpn.info^$ctag=user_child
 ||mazevpn.com^$ctag=user_child
@@ -2196,6 +2207,7 @@
 ||mecca-is.so-gorgeo.us.kg^$ctag=user_child
 ||mediahint.com^$ctag=user_child
 ||mediavpn.com^$ctag=user_child
+||medicinetechnet.com^$ctag=user_child
 ||mega123proxy.com^$ctag=user_child
 ||meganerd.nl^$ctag=user_child
 ||megaproxy.com^$ctag=user_child
@@ -2298,6 +2310,7 @@
 ||net01.youcef.io^$ctag=user_child
 ||netaltr.com^$ctag=user_child
 ||netcup.mismat.ch^$ctag=user_child
+||netexplores.com^$ctag=user_child
 ||netnut.io^$ctag=user_child
 ||netscop.net^$ctag=user_child
 ||netvpn.us^$ctag=user_child
@@ -2555,6 +2568,7 @@
 ||piraproxy.org^$ctag=user_child
 ||pirataproxy.com^$ctag=user_child
 ||piratebayproxy.co^$ctag=user_child
+||pixelpioneeres.com^$ctag=user_child
 ||pixelprivacy.com^$ctag=user_child
 ||pixolium.com^$ctag=user_child
 ||pkproxy.info^$ctag=user_child
@@ -2955,6 +2969,7 @@
 ||schoolproxy.co^$ctag=user_child
 ||schooxy.com^$ctag=user_child
 ||sciencesimplified.pro^$ctag=user_child
+||se2cds.com^$ctag=user_child
 ||se3v5tjfff3aet.me^$ctag=user_child
 ||sea01.dnscry.pt^$ctag=user_child
 ||sec-tunnel.com^$ctag=user_child
@@ -3132,7 +3147,9 @@
 ||streamvpn.com^$ctag=user_child
 ||strongvpn.com^$ctag=user_child
 ||study.englishpapers.online^$ctag=user_child
+||studystudyup.com^$ctag=user_child
 ||studysurf.com^$ctag=user_child
+||studyupus.com^$ctag=user_child
 ||stuffyschicken.isreallycool.lol^$ctag=user_child
 ||stufy.englishpapers.online^$ctag=user_child
 ||stunnel.org^$ctag=user_child
@@ -3146,6 +3163,7 @@
 ||sunvpn.net^$ctag=user_child
 ||super123.org^$ctag=user_child
 ||super123proxy.com^$ctag=user_child
+||superapi.cz^$ctag=user_child
 ||superbproxy.com^$ctag=user_child
 ||superfreevpn.com^$ctag=user_child
 ||superproxy123.com^$ctag=user_child
@@ -3222,6 +3240,7 @@
 ||tbunet.com^$ctag=user_child
 ||tcpvpn.com^$ctag=user_child
 ||tecdrive.site^$ctag=user_child
+||techtoolforge.com^$ctag=user_child
 ||telleport.me^$ctag=user_child
 ||tenta.com^$ctag=user_child
 ||tenta.io^$ctag=user_child
@@ -3814,6 +3833,7 @@
 ||vpsus3.pzhg.me^$ctag=user_child
 ||vtcuong.site^$ctag=user_child
 ||vyprvpn.com^$ctag=user_child
+||waahf.com^$ctag=user_child
 ||waitfree.us^$ctag=user_child
 ||walln.com^$ctag=user_child
 ||wantaquddin.com^$ctag=user_child
@@ -3848,6 +3868,7 @@
 ||websitebypass.com^$ctag=user_child
 ||websiteproxy.net^$ctag=user_child
 ||websitevpnx.com^$ctag=user_child
+||websmatrix.com^$ctag=user_child
 ||websurf.in^$ctag=user_child
 ||websurfproxy.me^$ctag=user_child
 ||websynchrony.com^$ctag=user_child
@@ -3933,6 +3954,7 @@
 ||xvbelink.com^$ctag=user_child
 ||xvideos-cdn.com^$ctag=user_child
 ||xvpn-web.com^$ctag=user_child
+||xvpn.*^$ctag=user_child
 ||xvpn.io^$ctag=user_child
 ||yandex.com^$ctag=user_child
 ||yarp.lefolgoc.net^$ctag=user_child
