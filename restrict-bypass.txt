@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-02-15T02:24:26.804Z
+! Last modified: 2025-02-16T02:30:40.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4029,13 +4029,17 @@
 ||zwyr157wwiu6eior.com^
 ||zxcvb.pp.ua^
 ||1010000.online^
+||2r34.com^
 ||30t.online^
 ||777schoolutilities.website^
+||aaronzweb.xyz^
 ||aboba.pro^
+||amirabbasmousavi.news^
 ||ammmae150.news^
 ||anonymizing.net^
 ||beehivesmp.com^
 ||bestaitool.news^
+||www-proxy.bettercallghaith.wiki^
 ||proxyduke.bingle.pw^
 ||blockawayproxy.net^
 ||blockedsiteaccess.com^
@@ -4043,6 +4047,7 @@
 ||circumvent.it^
 ||cosmohacker.space^
 ||www.i.cpfrx.info^
+||creatine.wtf^
 ||croxy-proxy.com^
 ||croxyproxys.com^
 ||croxyproxyvpn.com^
@@ -4068,6 +4073,7 @@
 ||hidester.one^
 ||homeworkhelp.click^
 ||dns.huas.me^
+||hugeph.art^
 ||http-dns.imoim.net^
 ||indiaproxy.win^
 ||ipprotectionauth.goog^
@@ -4082,6 +4088,7 @@
 ||lablancer.com^
 ||www-proxy.ladifsoftware.com^
 ||lochridge.org^
+||mfho.cc^
 ||www-proxy.migastep.com^
 ||monro-stom-plus.info^
 ||mtagprox.com^
@@ -4125,6 +4132,7 @@
 ||webypass.info^
 ||wproxy.net^
 ||xsfwow.com^
+||yasosy.pro^
 ||yellowshiitake.com^
 ||yuyuproxy.com^
 ||zproxy.org^

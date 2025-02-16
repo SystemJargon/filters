@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-02-15T02:24:26.804Z
+! Last modified: 2025-02-16T02:30:40.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4029,13 +4029,17 @@
 ||zwyr157wwiu6eior.com^$ctag=user_child
 ||zxcvb.pp.ua^$ctag=user_child
 ||1010000.online^$ctag=user_child
+||2r34.com^$ctag=user_child
 ||30t.online^$ctag=user_child
 ||777schoolutilities.website^$ctag=user_child
+||aaronzweb.xyz^$ctag=user_child
 ||aboba.pro^$ctag=user_child
+||amirabbasmousavi.news^$ctag=user_child
 ||ammmae150.news^$ctag=user_child
 ||anonymizing.net^$ctag=user_child
 ||beehivesmp.com^$ctag=user_child
 ||bestaitool.news^$ctag=user_child
+||www-proxy.bettercallghaith.wiki^$ctag=user_child
 ||proxyduke.bingle.pw^$ctag=user_child
 ||blockawayproxy.net^$ctag=user_child
 ||blockedsiteaccess.com^$ctag=user_child
@@ -4043,6 +4047,7 @@
 ||circumvent.it^$ctag=user_child
 ||cosmohacker.space^$ctag=user_child
 ||www.i.cpfrx.info^$ctag=user_child
+||creatine.wtf^$ctag=user_child
 ||croxy-proxy.com^$ctag=user_child
 ||croxyproxys.com^$ctag=user_child
 ||croxyproxyvpn.com^$ctag=user_child
@@ -4068,6 +4073,7 @@
 ||hidester.one^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||dns.huas.me^$ctag=user_child
+||hugeph.art^$ctag=user_child
 ||http-dns.imoim.net^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
 ||ipprotectionauth.goog^$ctag=user_child
@@ -4082,6 +4088,7 @@
 ||lablancer.com^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
 ||lochridge.org^$ctag=user_child
+||mfho.cc^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
 ||monro-stom-plus.info^$ctag=user_child
 ||mtagprox.com^$ctag=user_child
@@ -4125,6 +4132,7 @@
 ||webypass.info^$ctag=user_child
 ||wproxy.net^$ctag=user_child
 ||xsfwow.com^$ctag=user_child
+||yasosy.pro^$ctag=user_child
 ||yellowshiitake.com^$ctag=user_child
 ||yuyuproxy.com^$ctag=user_child
 ||zproxy.org^$ctag=user_child
