@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-02-17T02:28:21.817Z
+! Last modified: 2025-02-18T02:24:31.053Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4093,6 +4093,7 @@
 ||hugeph.art^$ctag=user_child
 ||http-dns.imoim.net^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
+||iportal.me^$ctag=user_child
 ||ipprotectionauth.goog^$ctag=user_child
 ||itsayx.online^$ctag=user_child
 ||iwebproxy.com^$ctag=user_child
@@ -4106,7 +4107,9 @@
 ||lablancer.com^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
 ||lifeisa.live^$ctag=user_child
+||literally.info^$ctag=user_child
 ||lochridge.org^$ctag=user_child
+||lurk.info^$ctag=user_child
 ||mfho.cc^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
 ||moamao.shop^$ctag=user_child
