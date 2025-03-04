@@ -1,8 +1,8 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-03T02:31:23.031Z
+! Last modified: 2025-03-04T02:30:56.785Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v1.0.37
 !
 ||0000a-fast-proxy.de^
 ||003153.xyz^
@@ -4064,6 +4064,7 @@
 ||checkmate.my^
 ||dns.chunghwamc.com^
 ||circumvent.it^
+||10bestvpn.co.uk^
 ||coloney3.com^
 ||cosmohacker.space^
 ||www.i.cpfrx.info^
@@ -4143,6 +4144,7 @@
 ||pa.linkall.uk^
 ||literally.info^
 ||lochridge.org^
+||lucasmaia.org^
 ||lurk.info^
 ||masthisis.ir^
 ||admin.mehtionthebeat.com^
@@ -4158,6 +4160,13 @@
 ||novembeer.ru^
 ||noyourmean.xyz^
 ||ntwrkh.pro^
+||nym.com^
+||nym.community^
+||nym.dev^
+||nym.network^
+||nymtech.net^
+||nymvpn.com^
+||obscura.net^
 ||doh-pure.onedns.net^
 ||resolver.dnsprivacy.org.uk^
 ||proxy.outred.dev^

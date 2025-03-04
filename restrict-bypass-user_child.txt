@@ -1,8 +1,8 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-03T02:31:23.031Z
+! Last modified: 2025-03-04T02:30:56.785Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.35
+! Compiled by @adguard/hostlist-compiler v1.0.37
 !
 ||0000a-fast-proxy.de^$ctag=user_child
 ||003153.xyz^$ctag=user_child
@@ -4064,6 +4064,7 @@
 ||checkmate.my^$ctag=user_child
 ||dns.chunghwamc.com^$ctag=user_child
 ||circumvent.it^$ctag=user_child
+||10bestvpn.co.uk^$ctag=user_child
 ||coloney3.com^$ctag=user_child
 ||cosmohacker.space^$ctag=user_child
 ||www.i.cpfrx.info^$ctag=user_child
@@ -4143,6 +4144,7 @@
 ||pa.linkall.uk^$ctag=user_child
 ||literally.info^$ctag=user_child
 ||lochridge.org^$ctag=user_child
+||lucasmaia.org^$ctag=user_child
 ||lurk.info^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
 ||admin.mehtionthebeat.com^$ctag=user_child
@@ -4158,6 +4160,13 @@
 ||novembeer.ru^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
 ||ntwrkh.pro^$ctag=user_child
+||nym.com^$ctag=user_child
+||nym.community^$ctag=user_child
+||nym.dev^$ctag=user_child
+||nym.network^$ctag=user_child
+||nymtech.net^$ctag=user_child
+||nymvpn.com^$ctag=user_child
+||obscura.net^$ctag=user_child
 ||doh-pure.onedns.net^$ctag=user_child
 ||resolver.dnsprivacy.org.uk^$ctag=user_child
 ||proxy.outred.dev^$ctag=user_child
