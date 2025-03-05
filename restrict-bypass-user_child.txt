@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-04T02:30:56.785Z
+! Last modified: 2025-03-05T02:31:04.576Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.37
 !
@@ -4030,6 +4030,7 @@
 ||zxcvb.pp.ua^$ctag=user_child
 ||666.020202.best^$ctag=user_child
 ||1010000.online^$ctag=user_child
+||1clickvpn.com^$ctag=user_child
 ||proxy.2d.su^$ctag=user_child
 ||2r34.com^$ctag=user_child
 ||30t.online^$ctag=user_child
@@ -4043,6 +4044,7 @@
 ||aaronzweb.xyz^$ctag=user_child
 ||aboba.pro^$ctag=user_child
 ||agurydog.website^$ctag=user_child
+||alohabrowser.com^$ctag=user_child
 ||amirabbasmousavi.news^$ctag=user_child
 ||ammmae150.news^$ctag=user_child
 ||anonwebproxy.com^$ctag=user_child
@@ -4086,6 +4088,7 @@
 ||energys.ir^$ctag=user_child
 ||enproxy.com^$ctag=user_child
 ||enrollkirgo.com^$ctag=user_child
+||eonvpn.com^$ctag=user_child
 ||erproxy.tk^$ctag=user_child
 ||dns.de.futuredns.eu.org^$ctag=user_child
 ||dns.us.futuredns.eu.org^$ctag=user_child
@@ -4097,6 +4100,7 @@
 ||flarquix.xyz^$ctag=user_child
 ||rf4.forestberrypi.com^$ctag=user_child
 ||www-rf4.forestberrypi.com^$ctag=user_child
+||forestvpn.com^$ctag=user_child
 ||freelux.world^$ctag=user_child
 ||freewebproxy.eu^$ctag=user_child
 ||freeworldwideproxy.app^$ctag=user_child
@@ -4107,6 +4111,7 @@
 ||ghadrboland.ir^$ctag=user_child
 ||ghanau.uk^$ctag=user_child
 ||croxy.ghgi.site^$ctag=user_child
+||ghostbrowser.com^$ctag=user_child
 ||proxybrowser.github.io^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
@@ -4120,6 +4125,7 @@
 ||http-dns.imoim.net^$ctag=user_child
 ||yy.in6.to^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
+||invisv.com^$ctag=user_child
 ||iportal.me^$ctag=user_child
 ||ipprotectionauth.goog^$ctag=user_child
 ||itsayx.online^$ctag=user_child
@@ -4144,6 +4150,7 @@
 ||pa.linkall.uk^$ctag=user_child
 ||literally.info^$ctag=user_child
 ||lochridge.org^$ctag=user_child
+||loubonde.xyz^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
 ||lurk.info^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
@@ -4179,6 +4186,7 @@
 ||funny.pinkertonmc.com^$ctag=user_child
 ||piro.live^$ctag=user_child
 ||proxy-works.com^$ctag=user_child
+||proxy0101.com^$ctag=user_child
 ||proxyduke.lol^$ctag=user_child
 ||proxyium.org^$ctag=user_child
 ||proxypal.net^$ctag=user_child
@@ -4201,6 +4209,7 @@
 ||romirely.tech^$ctag=user_child
 ||roskomnadzorgorivadu.ru^$ctag=user_child
 ||sakirdakproxy.tk^$ctag=user_child
+||www-proxy.sayed.page^$ctag=user_child
 ||schoolooks.com^$ctag=user_child
 ||schoprox.com^$ctag=user_child
 ||seanfat.club^$ctag=user_child
