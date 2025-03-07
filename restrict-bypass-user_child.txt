@@ -1,8 +1,8 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-06T02:31:06.591Z
+! Last modified: 2025-03-07T02:31:55.686Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.37
+! Compiled by @adguard/hostlist-compiler v1.0.38
 !
 ||0000a-fast-proxy.de^$ctag=user_child
 ||003153.xyz^$ctag=user_child
@@ -4196,7 +4196,6 @@
 ||proxy.pyxelworld.com^$ctag=user_child
 ||qpoll.ir^$ctag=user_child
 ||quickbypass.com^$ctag=user_child
-||www-web.r-2.top^$ctag=user_child
 ||resolve2.r9x.cc^$ctag=user_child
 ||rafykuon.com^$ctag=user_child
 ||rcsm.ir^$ctag=user_child
@@ -4245,6 +4244,7 @@
 ||unblockedscene.com^$ctag=user_child
 ||unblockedsite.club^$ctag=user_child
 ||unblockninja.com^$ctag=user_child
+||underage-gambling.site^$ctag=user_child
 ||unrestrictor.net^$ctag=user_child
 ||unrestrictor.org^$ctag=user_child
 ||utube.cc^$ctag=user_child
