@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-07T02:31:55.686Z
+! Last modified: 2025-03-08T02:07:46.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4047,6 +4047,7 @@
 ||alohabrowser.com^
 ||amirabbasmousavi.news^
 ||ammmae150.news^
+||amnezia.org^
 ||anonwebproxy.com^
 ||anonymizing.net^
 ||atvsh.ir^
@@ -4074,6 +4075,7 @@
 ||croxy-proxy.com^
 ||croxyproxys.com^
 ||croxyproxyvpn.com^
+||desec.io^
 ||dns-savage.com^
 ||man01.dnscry.pt^
 ||yhz01.dnscry.pt^
@@ -4145,6 +4147,7 @@
 ||proxy.kokecoco.me^
 ||www-proxy.kokecoco.me^
 ||lablancer.com^
+||dns.labnekotest.site^
 ||www-proxy.ladifsoftware.com^
 ||lifeisa.live^
 ||pa.linkall.uk^
@@ -4163,6 +4166,7 @@
 ||monro-stom-plus.info^
 ||mtagprox.com^
 ||nathanielgavin.lol^
+||nekoray.org^
 ||net-ml.online^
 ||novembeer.ru^
 ||noyourmean.xyz^
@@ -4207,6 +4211,7 @@
 ||rocketube.online^
 ||romirely.tech^
 ||roskomnadzorgorivadu.ru^
+||safing.io^
 ||sakirdakproxy.tk^
 ||www-proxy.sayed.page^
 ||schoolooks.com^
@@ -4260,6 +4265,7 @@
 ||xsfwow.com^
 ||yasosy.pro^
 ||yellowshiitake.com^
+||yesbutno.wtf^
 ||yuyuproxy.com^
 ||zproxy.org^
 ||zpzpzpapapap4d.online^

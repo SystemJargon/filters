@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-07T02:31:55.686Z
+! Last modified: 2025-03-08T02:07:46.047Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4047,6 +4047,7 @@
 ||alohabrowser.com^$ctag=user_child
 ||amirabbasmousavi.news^$ctag=user_child
 ||ammmae150.news^$ctag=user_child
+||amnezia.org^$ctag=user_child
 ||anonwebproxy.com^$ctag=user_child
 ||anonymizing.net^$ctag=user_child
 ||atvsh.ir^$ctag=user_child
@@ -4074,6 +4075,7 @@
 ||croxy-proxy.com^$ctag=user_child
 ||croxyproxys.com^$ctag=user_child
 ||croxyproxyvpn.com^$ctag=user_child
+||desec.io^$ctag=user_child
 ||dns-savage.com^$ctag=user_child
 ||man01.dnscry.pt^$ctag=user_child
 ||yhz01.dnscry.pt^$ctag=user_child
@@ -4145,6 +4147,7 @@
 ||proxy.kokecoco.me^$ctag=user_child
 ||www-proxy.kokecoco.me^$ctag=user_child
 ||lablancer.com^$ctag=user_child
+||dns.labnekotest.site^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
 ||lifeisa.live^$ctag=user_child
 ||pa.linkall.uk^$ctag=user_child
@@ -4163,6 +4166,7 @@
 ||monro-stom-plus.info^$ctag=user_child
 ||mtagprox.com^$ctag=user_child
 ||nathanielgavin.lol^$ctag=user_child
+||nekoray.org^$ctag=user_child
 ||net-ml.online^$ctag=user_child
 ||novembeer.ru^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
@@ -4207,6 +4211,7 @@
 ||rocketube.online^$ctag=user_child
 ||romirely.tech^$ctag=user_child
 ||roskomnadzorgorivadu.ru^$ctag=user_child
+||safing.io^$ctag=user_child
 ||sakirdakproxy.tk^$ctag=user_child
 ||www-proxy.sayed.page^$ctag=user_child
 ||schoolooks.com^$ctag=user_child
@@ -4260,6 +4265,7 @@
 ||xsfwow.com^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
 ||yellowshiitake.com^$ctag=user_child
+||yesbutno.wtf^$ctag=user_child
 ||yuyuproxy.com^$ctag=user_child
 ||zproxy.org^$ctag=user_child
 ||zpzpzpapapap4d.online^$ctag=user_child
