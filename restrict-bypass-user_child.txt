@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-08T02:07:46.047Z
+! Last modified: 2025-03-09T02:13:10.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4060,8 +4060,8 @@
 ||bingle.pw^$ctag=user_child
 ||blockawayproxy.net^$ctag=user_child
 ||blockedsiteaccess.com^$ctag=user_child
-||www-proxy2.blueboy.cf^$ctag=user_child
 ||dns.brono.cloud^$ctag=user_child
+||browserling.com^$ctag=user_child
 ||dns.butterfly87.sbs^$ctag=user_child
 ||center-crm.store^$ctag=user_child
 ||checkmate.my^$ctag=user_child
@@ -4094,10 +4094,9 @@
 ||erproxy.tk^$ctag=user_child
 ||dns.de.futuredns.eu.org^$ctag=user_child
 ||dns.us.futuredns.eu.org^$ctag=user_child
-||evacraft.xyz^$ctag=user_child
-||excitedmurashin.com^$ctag=user_child
 ||f0lga.tech^$ctag=user_child
 ||familyfirst.church^$ctag=user_child
+||fineproxy.org^$ctag=user_child
 ||fishingandgunoutdoors.com^$ctag=user_child
 ||flarquix.xyz^$ctag=user_child
 ||rf4.forestberrypi.com^$ctag=user_child
@@ -4105,7 +4104,6 @@
 ||forestvpn.com^$ctag=user_child
 ||freelux.world^$ctag=user_child
 ||freewebproxy.eu^$ctag=user_child
-||freeworldwideproxy.app^$ctag=user_child
 ||frlolyt.site^$ctag=user_child
 ||g-a-y.pro^$ctag=user_child
 ||obamna.gamefr.xyz^$ctag=user_child
@@ -4115,10 +4113,11 @@
 ||croxy.ghgi.site^$ctag=user_child
 ||ghostbrowser.com^$ctag=user_child
 ||proxybrowser.github.io^$ctag=user_child
+||tunnel.googlezip.net^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
-||hdjptube.site^$ctag=user_child
+||hidemium.io^$ctag=user_child
 ||hidester.one^$ctag=user_child
 ||hismanual.ru^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
@@ -4134,7 +4133,6 @@
 ||itsnotevil.com^$ctag=user_child
 ||iwebproxy.com^$ctag=user_child
 ||jamesisbald.xyz^$ctag=user_child
-||px.jarnus.xyz^$ctag=user_child
 ||johneldenring.lol^$ctag=user_child
 ||johnkellyprivate.com^$ctag=user_child
 ||joker81fansbase.site^$ctag=user_child
@@ -4157,10 +4155,10 @@
 ||lucasmaia.org^$ctag=user_child
 ||lurk.info^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
+||adguard.mattiafenzi.uk^$ctag=user_child
 ||admin.mehtionthebeat.com^$ctag=user_child
 ||mfho.cc^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
-||milanopuma.ir^$ctag=user_child
 ||moamao.shop^$ctag=user_child
 ||mojtreker.ru^$ctag=user_child
 ||monro-stom-plus.info^$ctag=user_child
@@ -4179,24 +4177,29 @@
 ||nymvpn.com^$ctag=user_child
 ||obscura.net^$ctag=user_child
 ||doh-pure.onedns.net^$ctag=user_child
+||openproxylist.com^$ctag=user_child
 ||resolver.dnsprivacy.org.uk^$ctag=user_child
 ||proxy.outred.dev^$ctag=user_child
 ||pamukada.com^$ctag=user_child
 ||paradise-human.shop^$ctag=user_child
-||parsazr.ir^$ctag=user_child
 ||pepetio.xyz^$ctag=user_child
 ||persianreserve.ir^$ctag=user_child
 ||pesemes.ir^$ctag=user_child
 ||funny.pinkertonmc.com^$ctag=user_child
 ||piro.live^$ctag=user_child
+||proxy-best.com^$ctag=user_child
 ||proxy-works.com^$ctag=user_child
 ||proxy0101.com^$ctag=user_child
+||proxycompass.com^$ctag=user_child
 ||proxyduke.lol^$ctag=user_child
 ||proxyium.org^$ctag=user_child
+||proxylister.com^$ctag=user_child
 ||proxypal.net^$ctag=user_child
 ||proxyproxy.net^$ctag=user_child
 ||proxypulse.top^$ctag=user_child
 ||proxyroxy.net^$ctag=user_child
+||proxyshare.com^$ctag=user_child
+||proxytitan.com^$ctag=user_child
 ||proxy.pyxelworld.com^$ctag=user_child
 ||qpoll.ir^$ctag=user_child
 ||quickbypass.com^$ctag=user_child
@@ -4222,6 +4225,7 @@
 ||shazamio.online^$ctag=user_child
 ||shflora.com^$ctag=user_child
 ||sleezy.nl^$ctag=user_child
+||sockslist.us^$ctag=user_child
 ||solaxy.live^$ctag=user_child
 ||spinalfluid.world^$ctag=user_child
 ||ag.ssrahul96.xyz^$ctag=user_child
@@ -4233,7 +4237,6 @@
 ||study123.icu^$ctag=user_child
 ||doh.sublime9.xyz^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
-||tancheetiong.online^$ctag=user_child
 ||terraleads.cloud^$ctag=user_child
 ||testdomainname.xyz^$ctag=user_child
 ||tgbio.ru^$ctag=user_child

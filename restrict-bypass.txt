@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-08T02:07:46.047Z
+! Last modified: 2025-03-09T02:13:10.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -4060,8 +4060,8 @@
 ||bingle.pw^
 ||blockawayproxy.net^
 ||blockedsiteaccess.com^
-||www-proxy2.blueboy.cf^
 ||dns.brono.cloud^
+||browserling.com^
 ||dns.butterfly87.sbs^
 ||center-crm.store^
 ||checkmate.my^
@@ -4094,10 +4094,9 @@
 ||erproxy.tk^
 ||dns.de.futuredns.eu.org^
 ||dns.us.futuredns.eu.org^
-||evacraft.xyz^
-||excitedmurashin.com^
 ||f0lga.tech^
 ||familyfirst.church^
+||fineproxy.org^
 ||fishingandgunoutdoors.com^
 ||flarquix.xyz^
 ||rf4.forestberrypi.com^
@@ -4105,7 +4104,6 @@
 ||forestvpn.com^
 ||freelux.world^
 ||freewebproxy.eu^
-||freeworldwideproxy.app^
 ||frlolyt.site^
 ||g-a-y.pro^
 ||obamna.gamefr.xyz^
@@ -4115,10 +4113,11 @@
 ||croxy.ghgi.site^
 ||ghostbrowser.com^
 ||proxybrowser.github.io^
+||tunnel.googlezip.net^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||hamachi-blog.com^
 ||harbaletsstudy.com^
-||hdjptube.site^
+||hidemium.io^
 ||hidester.one^
 ||hismanual.ru^
 ||homeworkhelp.click^
@@ -4134,7 +4133,6 @@
 ||itsnotevil.com^
 ||iwebproxy.com^
 ||jamesisbald.xyz^
-||px.jarnus.xyz^
 ||johneldenring.lol^
 ||johnkellyprivate.com^
 ||joker81fansbase.site^
@@ -4157,10 +4155,10 @@
 ||lucasmaia.org^
 ||lurk.info^
 ||masthisis.ir^
+||adguard.mattiafenzi.uk^
 ||admin.mehtionthebeat.com^
 ||mfho.cc^
 ||www-proxy.migastep.com^
-||milanopuma.ir^
 ||moamao.shop^
 ||mojtreker.ru^
 ||monro-stom-plus.info^
@@ -4179,24 +4177,29 @@
 ||nymvpn.com^
 ||obscura.net^
 ||doh-pure.onedns.net^
+||openproxylist.com^
 ||resolver.dnsprivacy.org.uk^
 ||proxy.outred.dev^
 ||pamukada.com^
 ||paradise-human.shop^
-||parsazr.ir^
 ||pepetio.xyz^
 ||persianreserve.ir^
 ||pesemes.ir^
 ||funny.pinkertonmc.com^
 ||piro.live^
+||proxy-best.com^
 ||proxy-works.com^
 ||proxy0101.com^
+||proxycompass.com^
 ||proxyduke.lol^
 ||proxyium.org^
+||proxylister.com^
 ||proxypal.net^
 ||proxyproxy.net^
 ||proxypulse.top^
 ||proxyroxy.net^
+||proxyshare.com^
+||proxytitan.com^
 ||proxy.pyxelworld.com^
 ||qpoll.ir^
 ||quickbypass.com^
@@ -4222,6 +4225,7 @@
 ||shazamio.online^
 ||shflora.com^
 ||sleezy.nl^
+||sockslist.us^
 ||solaxy.live^
 ||spinalfluid.world^
 ||ag.ssrahul96.xyz^
@@ -4233,7 +4237,6 @@
 ||study123.icu^
 ||doh.sublime9.xyz^
 ||tailnet.ru^
-||tancheetiong.online^
 ||terraleads.cloud^
 ||testdomainname.xyz^
 ||tgbio.ru^
