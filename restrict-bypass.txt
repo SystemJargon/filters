@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-17T02:35:03.145Z
+! Last modified: 2025-03-18T02:34:34.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4052,6 +4052,7 @@
 ||anonwebproxy.com^
 ||anonymizing.net^
 ||atvsh.ir^
+||avanquestusa.com^
 ||doh.battle.christmas^
 ||bebra.ai^
 ||beehivesmp.com^
@@ -4079,6 +4080,7 @@
 ||croxyproxys.com^
 ||croxyproxyvpn.com^
 ||desec.io^
+||diglet.org^
 ||dns-savage.com^
 ||man01.dnscry.pt^
 ||yhz01.dnscry.pt^
@@ -4097,6 +4099,7 @@
 ||erproxy.tk^
 ||dns.de.futuredns.eu.org^
 ||dns.us.futuredns.eu.org^
+||everyproxies.info^
 ||f0lga.tech^
 ||familyfirst.church^
 ||fineproxy.org^
@@ -4110,6 +4113,7 @@
 ||frlolyt.site^
 ||g-a-y.pro^
 ||obamna.gamefr.xyz^
+||gameroz1.ir^
 ||getcloser-websocket.com^
 ||ghadrboland.ir^
 ||ghanau.uk^
@@ -4120,12 +4124,14 @@
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||hamachi-blog.com^
 ||harbaletsstudy.com^
+||hidemesoftware.com^
 ||hidemium.io^
 ||hidester.one^
 ||hismanual.ru^
 ||homeworkhelp.click^
 ||hugeph.art^
 ||ietors.com^
+||imnotaproxy.com^
 ||http-dns.imoim.net^
 ||yy.in6.to^
 ||indiaproxy.win^
@@ -4185,6 +4191,7 @@
 ||proxy.outred.dev^
 ||pamukada.com^
 ||paradise-human.shop^
+||penkun0286.xyz^
 ||pepetio.xyz^
 ||persianreserve.ir^
 ||pesemes.ir^

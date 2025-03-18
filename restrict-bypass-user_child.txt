@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-17T02:35:03.145Z
+! Last modified: 2025-03-18T02:34:34.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4052,6 +4052,7 @@
 ||anonwebproxy.com^$ctag=user_child
 ||anonymizing.net^$ctag=user_child
 ||atvsh.ir^$ctag=user_child
+||avanquestusa.com^$ctag=user_child
 ||doh.battle.christmas^$ctag=user_child
 ||bebra.ai^$ctag=user_child
 ||beehivesmp.com^$ctag=user_child
@@ -4079,6 +4080,7 @@
 ||croxyproxys.com^$ctag=user_child
 ||croxyproxyvpn.com^$ctag=user_child
 ||desec.io^$ctag=user_child
+||diglet.org^$ctag=user_child
 ||dns-savage.com^$ctag=user_child
 ||man01.dnscry.pt^$ctag=user_child
 ||yhz01.dnscry.pt^$ctag=user_child
@@ -4097,6 +4099,7 @@
 ||erproxy.tk^$ctag=user_child
 ||dns.de.futuredns.eu.org^$ctag=user_child
 ||dns.us.futuredns.eu.org^$ctag=user_child
+||everyproxies.info^$ctag=user_child
 ||f0lga.tech^$ctag=user_child
 ||familyfirst.church^$ctag=user_child
 ||fineproxy.org^$ctag=user_child
@@ -4110,6 +4113,7 @@
 ||frlolyt.site^$ctag=user_child
 ||g-a-y.pro^$ctag=user_child
 ||obamna.gamefr.xyz^$ctag=user_child
+||gameroz1.ir^$ctag=user_child
 ||getcloser-websocket.com^$ctag=user_child
 ||ghadrboland.ir^$ctag=user_child
 ||ghanau.uk^$ctag=user_child
@@ -4120,12 +4124,14 @@
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
+||hidemesoftware.com^$ctag=user_child
 ||hidemium.io^$ctag=user_child
 ||hidester.one^$ctag=user_child
 ||hismanual.ru^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||hugeph.art^$ctag=user_child
 ||ietors.com^$ctag=user_child
+||imnotaproxy.com^$ctag=user_child
 ||http-dns.imoim.net^$ctag=user_child
 ||yy.in6.to^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
@@ -4185,6 +4191,7 @@
 ||proxy.outred.dev^$ctag=user_child
 ||pamukada.com^$ctag=user_child
 ||paradise-human.shop^$ctag=user_child
+||penkun0286.xyz^$ctag=user_child
 ||pepetio.xyz^$ctag=user_child
 ||persianreserve.ir^$ctag=user_child
 ||pesemes.ir^$ctag=user_child
