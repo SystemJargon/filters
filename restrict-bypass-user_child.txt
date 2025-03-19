@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-18T02:34:34.694Z
+! Last modified: 2025-03-19T02:33:22.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4165,6 +4165,7 @@
 ||lucasmaia.org^$ctag=user_child
 ||lurk.info^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
+||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||admin.mehtionthebeat.com^$ctag=user_child
 ||mfho.cc^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
@@ -4175,6 +4176,7 @@
 ||nathanielgavin.lol^$ctag=user_child
 ||nekoray.org^$ctag=user_child
 ||net-ml.online^$ctag=user_child
+||netsneak.com^$ctag=user_child
 ||novembeer.ru^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
 ||ntwrkh.pro^$ctag=user_child
@@ -4189,6 +4191,7 @@
 ||openproxylist.com^$ctag=user_child
 ||resolver.dnsprivacy.org.uk^$ctag=user_child
 ||proxy.outred.dev^$ctag=user_child
+||vpn-ru-msk.pakharenko.ru^$ctag=user_child
 ||pamukada.com^$ctag=user_child
 ||paradise-human.shop^$ctag=user_child
 ||penkun0286.xyz^$ctag=user_child
@@ -4197,6 +4200,11 @@
 ||pesemes.ir^$ctag=user_child
 ||funny.pinkertonmc.com^$ctag=user_child
 ||piro.live^$ctag=user_child
+||proxandthecity.com^$ctag=user_child
+||proxbomb.com^$ctag=user_child
+||proxmesomethingdirty.com^$ctag=user_child
+||proxmyass.com^$ctag=user_child
+||proxtrot.com^$ctag=user_child
 ||proxy-best.com^$ctag=user_child
 ||proxy-works.com^$ctag=user_child
 ||proxy0101.com^$ctag=user_child
@@ -4208,6 +4216,7 @@
 ||proxyproxy.net^$ctag=user_child
 ||proxypulse.top^$ctag=user_child
 ||proxyroxy.net^$ctag=user_child
+||proxyserver.rocks^$ctag=user_child
 ||proxyshare.com^$ctag=user_child
 ||proxytitan.com^$ctag=user_child
 ||proxy.pyxelworld.com^$ctag=user_child

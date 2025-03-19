@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-18T02:34:34.694Z
+! Last modified: 2025-03-19T02:33:22.416Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4165,6 +4165,7 @@
 ||lucasmaia.org^
 ||lurk.info^
 ||masthisis.ir^
+||adsadkjsadjksakldjxx.math-solver.online^
 ||admin.mehtionthebeat.com^
 ||mfho.cc^
 ||www-proxy.migastep.com^
@@ -4175,6 +4176,7 @@
 ||nathanielgavin.lol^
 ||nekoray.org^
 ||net-ml.online^
+||netsneak.com^
 ||novembeer.ru^
 ||noyourmean.xyz^
 ||ntwrkh.pro^
@@ -4189,6 +4191,7 @@
 ||openproxylist.com^
 ||resolver.dnsprivacy.org.uk^
 ||proxy.outred.dev^
+||vpn-ru-msk.pakharenko.ru^
 ||pamukada.com^
 ||paradise-human.shop^
 ||penkun0286.xyz^
@@ -4197,6 +4200,11 @@
 ||pesemes.ir^
 ||funny.pinkertonmc.com^
 ||piro.live^
+||proxandthecity.com^
+||proxbomb.com^
+||proxmesomethingdirty.com^
+||proxmyass.com^
+||proxtrot.com^
 ||proxy-best.com^
 ||proxy-works.com^
 ||proxy0101.com^
@@ -4208,6 +4216,7 @@
 ||proxyproxy.net^
 ||proxypulse.top^
 ||proxyroxy.net^
+||proxyserver.rocks^
 ||proxyshare.com^
 ||proxytitan.com^
 ||proxy.pyxelworld.com^
