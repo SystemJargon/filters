@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-19T02:33:22.416Z
+! Last modified: 2025-03-20T02:32:26.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4222,6 +4222,7 @@
 ||proxy.pyxelworld.com^$ctag=user_child
 ||qpoll.ir^$ctag=user_child
 ||quickbypass.com^$ctag=user_child
+||quickproxies.com^$ctag=user_child
 ||resolve2.r9x.cc^$ctag=user_child
 ||rafykuon.com^$ctag=user_child
 ||rcsm.ir^$ctag=user_child
@@ -4232,6 +4233,7 @@
 ||rhehrbrb.wiki^$ctag=user_child
 ||rnblyatclub.online^$ctag=user_child
 ||rocketube.online^$ctag=user_child
+||rockwell.website^$ctag=user_child
 ||romirely.tech^$ctag=user_child
 ||roskomnadzorgorivadu.ru^$ctag=user_child
 ||safing.io^$ctag=user_child
@@ -4248,6 +4250,7 @@
 ||sleezy.nl^$ctag=user_child
 ||sockslist.us^$ctag=user_child
 ||solaxy.live^$ctag=user_child
+||somelikeitproxy.com^$ctag=user_child
 ||spinalfluid.world^$ctag=user_child
 ||ag.ssrahul96.xyz^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
@@ -4257,6 +4260,7 @@
 ||studebaker.ir^$ctag=user_child
 ||study123.icu^$ctag=user_child
 ||doh.sublime9.xyz^$ctag=user_child
+||surfwebsite.org^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
 ||terraleads.cloud^$ctag=user_child
 ||testdomainname.xyz^$ctag=user_child
