@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-20T02:32:26.285Z
+! Last modified: 2025-03-21T02:33:50.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4221,6 +4221,7 @@
 ||proxytitan.com^$ctag=user_child
 ||proxy.pyxelworld.com^$ctag=user_child
 ||qpoll.ir^$ctag=user_child
+||quic.lol^$ctag=user_child
 ||quickbypass.com^$ctag=user_child
 ||quickproxies.com^$ctag=user_child
 ||resolve2.r9x.cc^$ctag=user_child
@@ -4262,6 +4263,7 @@
 ||doh.sublime9.xyz^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
+||technofix.ir^$ctag=user_child
 ||terraleads.cloud^$ctag=user_child
 ||testdomainname.xyz^$ctag=user_child
 ||tgbio.ru^$ctag=user_child
@@ -4275,25 +4277,32 @@
 ||top-proxy.site^$ctag=user_child
 ||twinklestarknights.com^$ctag=user_child
 ||unblockedscene.com^$ctag=user_child
+||unblockedschool.com^$ctag=user_child
 ||unblockedsite.club^$ctag=user_child
 ||unblockninja.com^$ctag=user_child
 ||underage-gambling.site^$ctag=user_child
 ||unrestrictor.net^$ctag=user_child
 ||unrestrictor.org^$ctag=user_child
+||usaip.net^$ctag=user_child
 ||utube.cc^$ctag=user_child
 ||vanilcraft.ru^$ctag=user_child
 ||vipturkey.ir^$ctag=user_child
 ||dns.vod11.xyz^$ctag=user_child
+||vpnbookpk.com^$ctag=user_child
+||vpnumbrella.com^$ctag=user_child
 ||go.vrpyourself.online^$ctag=user_child
 ||webjax.ir^$ctag=user_child
 ||webproxy.club^$ctag=user_child
 ||webypass.info^$ctag=user_child
+||workbypass.com^$ctag=user_child
+||workstudyplay.com^$ctag=user_child
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
 ||xsfwow.com^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
 ||yellowshiitake.com^$ctag=user_child
 ||yesbutno.wtf^$ctag=user_child
+||youproxything.com^$ctag=user_child
 ||yuyuproxy.com^$ctag=user_child
 ||zproxy.org^$ctag=user_child
 ||zpzpzpapapap4d.online^$ctag=user_child
