@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-22T02:30:50.960Z
+! Last modified: 2025-03-23T02:46:30.868Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4128,6 +4128,7 @@
 ||hidemium.io^$ctag=user_child
 ||hidester.one^$ctag=user_child
 ||hismanual.ru^$ctag=user_child
+||beta.holyunblocker.org^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||hugeph.art^$ctag=user_child
 ||ietors.com^$ctag=user_child
@@ -4143,6 +4144,7 @@
 ||ivacyvpn.com^$ctag=user_child
 ||iwebproxy.com^$ctag=user_child
 ||jamesisbald.xyz^$ctag=user_child
+||www-fp.jkw.st^$ctag=user_child
 ||johneldenring.lol^$ctag=user_child
 ||johnkellyprivate.com^$ctag=user_child
 ||joker81fansbase.site^$ctag=user_child
@@ -4161,6 +4163,7 @@
 ||pa.linkall.uk^$ctag=user_child
 ||literally.info^$ctag=user_child
 ||lochridge.org^$ctag=user_child
+||lotofabric.ru^$ctag=user_child
 ||loubonde.xyz^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
 ||lurk.info^$ctag=user_child
@@ -4177,6 +4180,7 @@
 ||nekoray.org^$ctag=user_child
 ||net-ml.online^$ctag=user_child
 ||netsneak.com^$ctag=user_child
+||nirbytes.com^$ctag=user_child
 ||novembeer.ru^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
 ||ntwrkh.pro^$ctag=user_child
