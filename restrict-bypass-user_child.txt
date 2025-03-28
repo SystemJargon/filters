@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-27T02:34:11.977Z
+! Last modified: 2025-03-28T02:35:51.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4071,12 +4071,45 @@
 ||checkmate.my^$ctag=user_child
 ||dns.chunghwamc.com^$ctag=user_child
 ||circumvent.it^$ctag=user_child
+||d127oyoibbqwge.cloudfront.net^$ctag=user_child
+||d15bbbc3wnvnmn.cloudfront.net^$ctag=user_child
+||d1ay4vtvc8e6zx.cloudfront.net^$ctag=user_child
+||d1h9h0ul1yshdr.cloudfront.net^$ctag=user_child
+||d1q7l8qbm9i79g.cloudfront.net^$ctag=user_child
+||d1w3pxkso9cdze.cloudfront.net^$ctag=user_child
+||d1y8ra9afucwxf.cloudfront.net^$ctag=user_child
+||d1ygoiuoqawp5l.cloudfront.net^$ctag=user_child
+||d20azcybrwtyo1.cloudfront.net^$ctag=user_child
+||d20layvrh0e724.cloudfront.net^$ctag=user_child
+||d22exc1qaxxg5.cloudfront.net^$ctag=user_child
+||d24pwtxnl8j1kl.cloudfront.net^$ctag=user_child
+||d26hytpp1egyak.cloudfront.net^$ctag=user_child
+||d2p6rd3rat982h.cloudfront.net^$ctag=user_child
+||d2snllh8r7h5xe.cloudfront.net^$ctag=user_child
+||d2wkmoh47zvvhf.cloudfront.net^$ctag=user_child
+||d30jxbzqqg5c6b.cloudfront.net^$ctag=user_child
+||d30mgm21mrikqh.cloudfront.net^$ctag=user_child
+||d33nduswak3e8z.cloudfront.net^$ctag=user_child
+||d36jcszes5m5y9.cloudfront.net^$ctag=user_child
+||d37d0eet8vqwi8.cloudfront.net^$ctag=user_child
+||d39utm8gj45c7v.cloudfront.net^$ctag=user_child
+||d3da4vp433xioa.cloudfront.net^$ctag=user_child
+||d3dfrde26093iw.cloudfront.net^$ctag=user_child
+||d3h88i27t2k9za.cloudfront.net^$ctag=user_child
+||d3ld64f3x32q9b.cloudfront.net^$ctag=user_child
+||d3qrgc52ksxp0f.cloudfront.net^$ctag=user_child
+||d3r068fmelzi0v.cloudfront.net^$ctag=user_child
+||d3sdizpx54za7n.cloudfront.net^$ctag=user_child
+||d4q7uy1bdj3do.cloudfront.net^$ctag=user_child
+||djzmgdkxnizyn.cloudfront.net^$ctag=user_child
+||dvfqxoi8ar2lj.cloudfront.net^$ctag=user_child
 ||10bestvpn.co.uk^$ctag=user_child
 ||coloney3.com^$ctag=user_child
 ||cosmohacker.space^$ctag=user_child
 ||www.i.cpfrx.info^$ctag=user_child
 ||creatine.wtf^$ctag=user_child
 ||croxy-proxy.com^$ctag=user_child
+||croxyproxy.blog^$ctag=user_child
 ||croxyproxys.com^$ctag=user_child
 ||croxyproxyvpn.com^$ctag=user_child
 ||desec.io^$ctag=user_child
@@ -4120,7 +4153,6 @@
 ||croxy.ghgi.site^$ctag=user_child
 ||ghostbrowser.com^$ctag=user_child
 ||proxybrowser.github.io^$ctag=user_child
-||sdns22.gkonuralp.com^$ctag=user_child
 ||tunnel.googlezip.net^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
@@ -4132,6 +4164,7 @@
 ||beta.holyunblocker.org^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||hugeph.art^$ctag=user_child
+||ads.hunga1k47.com^$ctag=user_child
 ||ietors.com^$ctag=user_child
 ||imnotaproxy.com^$ctag=user_child
 ||http-dns.imoim.net^$ctag=user_child
@@ -4170,6 +4203,7 @@
 ||lurk.info^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
 ||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
+||dns.mathewakhil.online^$ctag=user_child
 ||admin.mehtionthebeat.com^$ctag=user_child
 ||mfho.cc^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child

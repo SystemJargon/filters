@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-27T02:34:11.977Z
+! Last modified: 2025-03-28T02:35:51.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4071,12 +4071,45 @@
 ||checkmate.my^
 ||dns.chunghwamc.com^
 ||circumvent.it^
+||d127oyoibbqwge.cloudfront.net^
+||d15bbbc3wnvnmn.cloudfront.net^
+||d1ay4vtvc8e6zx.cloudfront.net^
+||d1h9h0ul1yshdr.cloudfront.net^
+||d1q7l8qbm9i79g.cloudfront.net^
+||d1w3pxkso9cdze.cloudfront.net^
+||d1y8ra9afucwxf.cloudfront.net^
+||d1ygoiuoqawp5l.cloudfront.net^
+||d20azcybrwtyo1.cloudfront.net^
+||d20layvrh0e724.cloudfront.net^
+||d22exc1qaxxg5.cloudfront.net^
+||d24pwtxnl8j1kl.cloudfront.net^
+||d26hytpp1egyak.cloudfront.net^
+||d2p6rd3rat982h.cloudfront.net^
+||d2snllh8r7h5xe.cloudfront.net^
+||d2wkmoh47zvvhf.cloudfront.net^
+||d30jxbzqqg5c6b.cloudfront.net^
+||d30mgm21mrikqh.cloudfront.net^
+||d33nduswak3e8z.cloudfront.net^
+||d36jcszes5m5y9.cloudfront.net^
+||d37d0eet8vqwi8.cloudfront.net^
+||d39utm8gj45c7v.cloudfront.net^
+||d3da4vp433xioa.cloudfront.net^
+||d3dfrde26093iw.cloudfront.net^
+||d3h88i27t2k9za.cloudfront.net^
+||d3ld64f3x32q9b.cloudfront.net^
+||d3qrgc52ksxp0f.cloudfront.net^
+||d3r068fmelzi0v.cloudfront.net^
+||d3sdizpx54za7n.cloudfront.net^
+||d4q7uy1bdj3do.cloudfront.net^
+||djzmgdkxnizyn.cloudfront.net^
+||dvfqxoi8ar2lj.cloudfront.net^
 ||10bestvpn.co.uk^
 ||coloney3.com^
 ||cosmohacker.space^
 ||www.i.cpfrx.info^
 ||creatine.wtf^
 ||croxy-proxy.com^
+||croxyproxy.blog^
 ||croxyproxys.com^
 ||croxyproxyvpn.com^
 ||desec.io^
@@ -4120,7 +4153,6 @@
 ||croxy.ghgi.site^
 ||ghostbrowser.com^
 ||proxybrowser.github.io^
-||sdns22.gkonuralp.com^
 ||tunnel.googlezip.net^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||hamachi-blog.com^
@@ -4132,6 +4164,7 @@
 ||beta.holyunblocker.org^
 ||homeworkhelp.click^
 ||hugeph.art^
+||ads.hunga1k47.com^
 ||ietors.com^
 ||imnotaproxy.com^
 ||http-dns.imoim.net^
@@ -4170,6 +4203,7 @@
 ||lurk.info^
 ||masthisis.ir^
 ||adsadkjsadjksakldjxx.math-solver.online^
+||dns.mathewakhil.online^
 ||admin.mehtionthebeat.com^
 ||mfho.cc^
 ||www-proxy.migastep.com^
