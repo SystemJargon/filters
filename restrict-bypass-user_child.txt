@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-28T02:35:51.538Z
+! Last modified: 2025-03-29T02:32:57.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4153,6 +4153,7 @@
 ||croxy.ghgi.site^$ctag=user_child
 ||ghostbrowser.com^$ctag=user_child
 ||proxybrowser.github.io^$ctag=user_child
+||sdns22.gkonuralp.com^$ctag=user_child
 ||tunnel.googlezip.net^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
@@ -4173,6 +4174,8 @@
 ||invisv.com^$ctag=user_child
 ||iportal.me^$ctag=user_child
 ||ipprotectionauth.goog^$ctag=user_child
+||ishark.com^$ctag=user_child
+||isharkvpn.com^$ctag=user_child
 ||itsayx.online^$ctag=user_child
 ||itsnotevil.com^$ctag=user_child
 ||ivacyvpn.com^$ctag=user_child
@@ -4183,6 +4186,7 @@
 ||johnkellyprivate.com^$ctag=user_child
 ||joker81fansbase.site^$ctag=user_child
 ||jurbedout.com^$ctag=user_child
+||adguard.kantinyoyok.xyz^$ctag=user_child
 ||adguard.kasbot.net^$ctag=user_child
 ||doh.kekew.info^$ctag=user_child
 ||kerbeans.com^$ctag=user_child
@@ -4321,6 +4325,7 @@
 ||underage-gambling.site^$ctag=user_child
 ||unrestrictor.net^$ctag=user_child
 ||unrestrictor.org^$ctag=user_child
+||updatedproxies.com^$ctag=user_child
 ||usaip.net^$ctag=user_child
 ||utube.cc^$ctag=user_child
 ||vanilcraft.ru^$ctag=user_child
