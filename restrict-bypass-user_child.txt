@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-03-31T02:47:57.126Z
+! Last modified: 2025-04-01T02:54:32.731Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4196,6 +4196,7 @@
 ||kirushop.xyz^$ctag=user_child
 ||proxy.kokecoco.me^$ctag=user_child
 ||www-proxy.kokecoco.me^$ctag=user_child
+||dns.kugoapps.com^$ctag=user_child
 ||lablancer.com^$ctag=user_child
 ||dns.labnekotest.site^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
@@ -4318,6 +4319,7 @@
 ||dns.thiz.top^$ctag=user_child
 ||tildenderek.store^$ctag=user_child
 ||tmhhd.tk^$ctag=user_child
+||tokit.site^$ctag=user_child
 ||top-proxy.site^$ctag=user_child
 ||twinklestarknights.com^$ctag=user_child
 ||unblockedscene.com^$ctag=user_child
@@ -4344,6 +4346,7 @@
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
 ||xsfwow.com^$ctag=user_child
+||dns.xwdmw.xyz^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
 ||yellowshiitake.com^$ctag=user_child
 ||yesbutno.wtf^$ctag=user_child
