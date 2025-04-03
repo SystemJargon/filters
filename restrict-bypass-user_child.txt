@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-02T02:36:25.661Z
+! Last modified: 2025-04-03T02:35:39.510Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4258,6 +4258,7 @@
 ||proxycompass.com^$ctag=user_child
 ||proxyduke.lol^$ctag=user_child
 ||proxyium.org^$ctag=user_child
+||www-cdn.proxyiumi.com^$ctag=user_child
 ||proxylister.com^$ctag=user_child
 ||proxypal.net^$ctag=user_child
 ||proxyproxy.net^$ctag=user_child
@@ -4301,6 +4302,7 @@
 ||somelikeitproxy.com^$ctag=user_child
 ||spinalfluid.world^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
+||eu1-browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child
