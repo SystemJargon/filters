@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-03T02:35:39.510Z
+! Last modified: 2025-04-04T02:35:13.856Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4035,6 +4035,7 @@
 ||proxy.2d.su^$ctag=user_child
 ||2r34.com^$ctag=user_child
 ||30t.online^$ctag=user_child
+||33bitbank.com^$ctag=user_child
 ||dns.444723.xyz^$ctag=user_child
 ||vpn.52oupa.com^$ctag=user_child
 ||doh.774445.xyz^$ctag=user_child
@@ -4068,7 +4069,6 @@
 ||browserling.com^$ctag=user_child
 ||dns.butterfly87.sbs^$ctag=user_child
 ||center-crm.store^$ctag=user_child
-||checkmate.my^$ctag=user_child
 ||dns.chunghwamc.com^$ctag=user_child
 ||circumvent.it^$ctag=user_child
 ||d127oyoibbqwge.cloudfront.net^$ctag=user_child
@@ -4156,6 +4156,7 @@
 ||proxybrowser.github.io^$ctag=user_child
 ||sdns22.gkonuralp.com^$ctag=user_child
 ||tunnel.googlezip.net^$ctag=user_child
+||gostarlight.xyz^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
@@ -4297,12 +4298,12 @@
 ||shazamio.online^$ctag=user_child
 ||shflora.com^$ctag=user_child
 ||sleezy.nl^$ctag=user_child
+||lunarsync.smartfoloo.space^$ctag=user_child
 ||sockslist.us^$ctag=user_child
 ||solaxy.live^$ctag=user_child
 ||somelikeitproxy.com^$ctag=user_child
 ||spinalfluid.world^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
-||eu1-browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child

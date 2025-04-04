@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-03T02:35:39.510Z
+! Last modified: 2025-04-04T02:35:13.856Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4035,6 +4035,7 @@
 ||proxy.2d.su^
 ||2r34.com^
 ||30t.online^
+||33bitbank.com^
 ||dns.444723.xyz^
 ||vpn.52oupa.com^
 ||doh.774445.xyz^
@@ -4068,7 +4069,6 @@
 ||browserling.com^
 ||dns.butterfly87.sbs^
 ||center-crm.store^
-||checkmate.my^
 ||dns.chunghwamc.com^
 ||circumvent.it^
 ||d127oyoibbqwge.cloudfront.net^
@@ -4156,6 +4156,7 @@
 ||proxybrowser.github.io^
 ||sdns22.gkonuralp.com^
 ||tunnel.googlezip.net^
+||gostarlight.xyz^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||hamachi-blog.com^
 ||harbaletsstudy.com^
@@ -4297,12 +4298,12 @@
 ||shazamio.online^
 ||shflora.com^
 ||sleezy.nl^
+||lunarsync.smartfoloo.space^
 ||sockslist.us^
 ||solaxy.live^
 ||somelikeitproxy.com^
 ||spinalfluid.world^
 ||browse.startpage.com^
-||eu1-browse.startpage.com^
 ||s4-us2.startpage.com^
 ||us1-browse.startpage.com^
 ||us2-browse.startpage.com^
