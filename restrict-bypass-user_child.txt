@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-06T02:46:33.141Z
+! Last modified: 2025-04-07T02:46:22.632Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4047,6 +4047,7 @@
 ||aboba.pro^$ctag=user_child
 ||agurydog.website^$ctag=user_child
 ||alohabrowser.com^$ctag=user_child
+||american-proxy.com^$ctag=user_child
 ||amirabbasmousavi.news^$ctag=user_child
 ||ammmae150.news^$ctag=user_child
 ||amnezia.org^$ctag=user_child
@@ -4054,6 +4055,7 @@
 ||anonymizing.net^$ctag=user_child
 ||atvsh.ir^$ctag=user_child
 ||avanquestusa.com^$ctag=user_child
+||axaxa.fun^$ctag=user_child
 ||doh.battle.christmas^$ctag=user_child
 ||bebra.ai^$ctag=user_child
 ||beehivesmp.com^$ctag=user_child
@@ -4064,6 +4066,7 @@
 ||bingle.pw^$ctag=user_child
 ||blockawayproxy.net^$ctag=user_child
 ||blockedsiteaccess.com^$ctag=user_child
+||ag.brianlee.fun^$ctag=user_child
 ||dns.brono.cloud^$ctag=user_child
 ||brothebro.com^$ctag=user_child
 ||browserling.com^$ctag=user_child
@@ -4104,6 +4107,7 @@
 ||djzmgdkxnizyn.cloudfront.net^$ctag=user_child
 ||dvfqxoi8ar2lj.cloudfront.net^$ctag=user_child
 ||10bestvpn.co.uk^$ctag=user_child
+||adguard.aa4.co.uk^$ctag=user_child
 ||coloney3.com^$ctag=user_child
 ||cosmohacker.space^$ctag=user_child
 ||www.i.cpfrx.info^$ctag=user_child
@@ -4123,6 +4127,7 @@
 ||drablack.tk^$ctag=user_child
 ||dns.dremaxx.de^$ctag=user_child
 ||droyd.top^$ctag=user_child
+||dns.dynx.pro^$ctag=user_child
 ||edgedcircles.com^$ctag=user_child
 ||emeraldeyex.dev^$ctag=user_child
 ||endente.com^$ctag=user_child
@@ -4218,7 +4223,6 @@
 ||www-proxy.migastep.com^$ctag=user_child
 ||moamao.shop^$ctag=user_child
 ||mojtreker.ru^$ctag=user_child
-||monro-stom-plus.info^$ctag=user_child
 ||mtagprox.com^$ctag=user_child
 ||nathanielgavin.lol^$ctag=user_child
 ||nekoray.org^$ctag=user_child
@@ -4351,6 +4355,7 @@
 ||workstudyplay.com^$ctag=user_child
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
+||xmr.land^$ctag=user_child
 ||xsfwow.com^$ctag=user_child
 ||dns.xwdmw.xyz^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
@@ -4358,5 +4363,6 @@
 ||yesbutno.wtf^$ctag=user_child
 ||youproxything.com^$ctag=user_child
 ||yuyuproxy.com^$ctag=user_child
+||adg.yybyy.wiki^$ctag=user_child
 ||zproxy.org^$ctag=user_child
 ||zpzpzpapapap4d.online^$ctag=user_child

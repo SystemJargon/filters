@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-06T02:46:33.141Z
+! Last modified: 2025-04-07T02:46:22.632Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4047,6 +4047,7 @@
 ||aboba.pro^
 ||agurydog.website^
 ||alohabrowser.com^
+||american-proxy.com^
 ||amirabbasmousavi.news^
 ||ammmae150.news^
 ||amnezia.org^
@@ -4054,6 +4055,7 @@
 ||anonymizing.net^
 ||atvsh.ir^
 ||avanquestusa.com^
+||axaxa.fun^
 ||doh.battle.christmas^
 ||bebra.ai^
 ||beehivesmp.com^
@@ -4064,6 +4066,7 @@
 ||bingle.pw^
 ||blockawayproxy.net^
 ||blockedsiteaccess.com^
+||ag.brianlee.fun^
 ||dns.brono.cloud^
 ||brothebro.com^
 ||browserling.com^
@@ -4104,6 +4107,7 @@
 ||djzmgdkxnizyn.cloudfront.net^
 ||dvfqxoi8ar2lj.cloudfront.net^
 ||10bestvpn.co.uk^
+||adguard.aa4.co.uk^
 ||coloney3.com^
 ||cosmohacker.space^
 ||www.i.cpfrx.info^
@@ -4123,6 +4127,7 @@
 ||drablack.tk^
 ||dns.dremaxx.de^
 ||droyd.top^
+||dns.dynx.pro^
 ||edgedcircles.com^
 ||emeraldeyex.dev^
 ||endente.com^
@@ -4218,7 +4223,6 @@
 ||www-proxy.migastep.com^
 ||moamao.shop^
 ||mojtreker.ru^
-||monro-stom-plus.info^
 ||mtagprox.com^
 ||nathanielgavin.lol^
 ||nekoray.org^
@@ -4351,6 +4355,7 @@
 ||workstudyplay.com^
 ||wproxy.net^
 ||pub.xapktech.xyz^
+||xmr.land^
 ||xsfwow.com^
 ||dns.xwdmw.xyz^
 ||yasosy.pro^
@@ -4358,5 +4363,6 @@
 ||yesbutno.wtf^
 ||youproxything.com^
 ||yuyuproxy.com^
+||adg.yybyy.wiki^
 ||zproxy.org^
 ||zpzpzpapapap4d.online^
