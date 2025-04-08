@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-07T02:46:22.632Z
+! Last modified: 2025-04-08T02:36:21.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4054,16 +4054,19 @@
 ||anonwebproxy.com^$ctag=user_child
 ||anonymizing.net^$ctag=user_child
 ||atvsh.ir^$ctag=user_child
+||aurora-softworks.xyz^$ctag=user_child
 ||avanquestusa.com^$ctag=user_child
 ||axaxa.fun^$ctag=user_child
 ||doh.battle.christmas^$ctag=user_child
 ||bebra.ai^$ctag=user_child
 ||beehivesmp.com^$ctag=user_child
 ||bestaitool.news^$ctag=user_child
+||bestvideoproxy.com^$ctag=user_child
 ||www-proxy.bettercallghaith.wiki^$ctag=user_child
 ||bia2dige.ir^$ctag=user_child
 ||bingle.icu^$ctag=user_child
 ||bingle.pw^$ctag=user_child
+||bizfast.info^$ctag=user_child
 ||blockawayproxy.net^$ctag=user_child
 ||blockedsiteaccess.com^$ctag=user_child
 ||ag.brianlee.fun^$ctag=user_child
@@ -4072,8 +4075,10 @@
 ||browserling.com^$ctag=user_child
 ||dns.butterfly87.sbs^$ctag=user_child
 ||center-crm.store^$ctag=user_child
+||changemyip.uk^$ctag=user_child
 ||dns.chunghwamc.com^$ctag=user_child
 ||circumvent.it^$ctag=user_child
+||cloakpoint.com^$ctag=user_child
 ||d127oyoibbqwge.cloudfront.net^$ctag=user_child
 ||d15bbbc3wnvnmn.cloudfront.net^$ctag=user_child
 ||d1ay4vtvc8e6zx.cloudfront.net^$ctag=user_child
@@ -4356,7 +4361,6 @@
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
 ||xmr.land^$ctag=user_child
-||xsfwow.com^$ctag=user_child
 ||dns.xwdmw.xyz^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
 ||yellowshiitake.com^$ctag=user_child

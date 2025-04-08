@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-07T02:46:22.632Z
+! Last modified: 2025-04-08T02:36:21.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4054,16 +4054,19 @@
 ||anonwebproxy.com^
 ||anonymizing.net^
 ||atvsh.ir^
+||aurora-softworks.xyz^
 ||avanquestusa.com^
 ||axaxa.fun^
 ||doh.battle.christmas^
 ||bebra.ai^
 ||beehivesmp.com^
 ||bestaitool.news^
+||bestvideoproxy.com^
 ||www-proxy.bettercallghaith.wiki^
 ||bia2dige.ir^
 ||bingle.icu^
 ||bingle.pw^
+||bizfast.info^
 ||blockawayproxy.net^
 ||blockedsiteaccess.com^
 ||ag.brianlee.fun^
@@ -4072,8 +4075,10 @@
 ||browserling.com^
 ||dns.butterfly87.sbs^
 ||center-crm.store^
+||changemyip.uk^
 ||dns.chunghwamc.com^
 ||circumvent.it^
+||cloakpoint.com^
 ||d127oyoibbqwge.cloudfront.net^
 ||d15bbbc3wnvnmn.cloudfront.net^
 ||d1ay4vtvc8e6zx.cloudfront.net^
@@ -4356,7 +4361,6 @@
 ||wproxy.net^
 ||pub.xapktech.xyz^
 ||xmr.land^
-||xsfwow.com^
 ||dns.xwdmw.xyz^
 ||yasosy.pro^
 ||yellowshiitake.com^
