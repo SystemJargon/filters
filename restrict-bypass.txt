@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-08T02:36:21.582Z
+! Last modified: 2025-04-09T02:37:24.282Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4114,7 +4114,9 @@
 ||10bestvpn.co.uk^
 ||adguard.aa4.co.uk^
 ||coloney3.com^
+||coolproxy.org^
 ||cosmohacker.space^
+||covertproxy.com^
 ||www.i.cpfrx.info^
 ||creatine.wtf^
 ||croxy.com^
@@ -4124,6 +4126,8 @@
 ||croxyproxyvpn.com^
 ||desec.io^
 ||diglet.org^
+||dirtyworkproxy.com^
+||dns-free.link^
 ||dns-savage.com^
 ||man01.dnscry.pt^
 ||yhz01.dnscry.pt^
@@ -4201,7 +4205,6 @@
 ||jurbedout.com^
 ||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
-||doh.kekew.info^
 ||kerbeans.com^
 ||kinoshka.su^
 ||kirushop.xyz^
@@ -4314,7 +4317,6 @@
 ||somelikeitproxy.com^
 ||spinalfluid.world^
 ||browse.startpage.com^
-||eu1-browse.startpage.com^
 ||s4-us2.startpage.com^
 ||us1-browse.startpage.com^
 ||us2-browse.startpage.com^
@@ -4356,6 +4358,7 @@
 ||webjax.ir^
 ||webproxy.club^
 ||webypass.info^
+||dns.wibenson.cloud^
 ||workbypass.com^
 ||workstudyplay.com^
 ||wproxy.net^

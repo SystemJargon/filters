@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-08T02:36:21.582Z
+! Last modified: 2025-04-09T02:37:24.282Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4114,7 +4114,9 @@
 ||10bestvpn.co.uk^$ctag=user_child
 ||adguard.aa4.co.uk^$ctag=user_child
 ||coloney3.com^$ctag=user_child
+||coolproxy.org^$ctag=user_child
 ||cosmohacker.space^$ctag=user_child
+||covertproxy.com^$ctag=user_child
 ||www.i.cpfrx.info^$ctag=user_child
 ||creatine.wtf^$ctag=user_child
 ||croxy.com^$ctag=user_child
@@ -4124,6 +4126,8 @@
 ||croxyproxyvpn.com^$ctag=user_child
 ||desec.io^$ctag=user_child
 ||diglet.org^$ctag=user_child
+||dirtyworkproxy.com^$ctag=user_child
+||dns-free.link^$ctag=user_child
 ||dns-savage.com^$ctag=user_child
 ||man01.dnscry.pt^$ctag=user_child
 ||yhz01.dnscry.pt^$ctag=user_child
@@ -4201,7 +4205,6 @@
 ||jurbedout.com^$ctag=user_child
 ||adguard.kantinyoyok.xyz^$ctag=user_child
 ||adguard.kasbot.net^$ctag=user_child
-||doh.kekew.info^$ctag=user_child
 ||kerbeans.com^$ctag=user_child
 ||kinoshka.su^$ctag=user_child
 ||kirushop.xyz^$ctag=user_child
@@ -4314,7 +4317,6 @@
 ||somelikeitproxy.com^$ctag=user_child
 ||spinalfluid.world^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
-||eu1-browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child
@@ -4356,6 +4358,7 @@
 ||webjax.ir^$ctag=user_child
 ||webproxy.club^$ctag=user_child
 ||webypass.info^$ctag=user_child
+||dns.wibenson.cloud^$ctag=user_child
 ||workbypass.com^$ctag=user_child
 ||workstudyplay.com^$ctag=user_child
 ||wproxy.net^$ctag=user_child
