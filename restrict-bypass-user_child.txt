@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-09T02:37:24.282Z
+! Last modified: 2025-04-10T02:36:16.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4159,6 +4159,7 @@
 ||freelux.world^$ctag=user_child
 ||freewebproxy.eu^$ctag=user_child
 ||frlolyt.site^$ctag=user_child
+||funknetwork.com^$ctag=user_child
 ||g-a-y.pro^$ctag=user_child
 ||obamna.gamefr.xyz^$ctag=user_child
 ||gameroz1.ir^$ctag=user_child
@@ -4205,6 +4206,7 @@
 ||jurbedout.com^$ctag=user_child
 ||adguard.kantinyoyok.xyz^$ctag=user_child
 ||adguard.kasbot.net^$ctag=user_child
+||doh.kekew.info^$ctag=user_child
 ||kerbeans.com^$ctag=user_child
 ||kinoshka.su^$ctag=user_child
 ||kirushop.xyz^$ctag=user_child
@@ -4215,6 +4217,7 @@
 ||lablancer.com^$ctag=user_child
 ||dns.labnekotest.site^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
+||externalmobiel.lekdijk.online^$ctag=user_child
 ||lifeisa.live^$ctag=user_child
 ||pa.linkall.uk^$ctag=user_child
 ||literally.info^$ctag=user_child
