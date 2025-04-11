@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-10T02:36:16.664Z
+! Last modified: 2025-04-11T02:37:06.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4175,9 +4175,11 @@
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
+||hideme101.info^$ctag=user_child
 ||hidemesoftware.com^$ctag=user_child
 ||hidemium.io^$ctag=user_child
 ||hidester.one^$ctag=user_child
+||hidethistime.com^$ctag=user_child
 ||hismanual.ru^$ctag=user_child
 ||beta.holyunblocker.org^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
@@ -4190,8 +4192,10 @@
 ||yy.in6.to^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
 ||invisv.com^$ctag=user_child
+||ipcamouflage.com^$ctag=user_child
 ||iportal.me^$ctag=user_child
 ||ipprotectionauth.goog^$ctag=user_child
+||ipstopper.com^$ctag=user_child
 ||ishark.com^$ctag=user_child
 ||isharkvpn.com^$ctag=user_child
 ||itsayx.online^$ctag=user_child
@@ -4200,7 +4204,6 @@
 ||iwebproxy.com^$ctag=user_child
 ||jamesisbald.xyz^$ctag=user_child
 ||www-fp.jkw.st^$ctag=user_child
-||johneldenring.lol^$ctag=user_child
 ||johnkellyprivate.com^$ctag=user_child
 ||joker81fansbase.site^$ctag=user_child
 ||jurbedout.com^$ctag=user_child
