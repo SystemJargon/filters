@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-11T02:37:06.621Z
+! Last modified: 2025-04-12T02:33:51.634Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4198,9 +4198,11 @@
 ||ipstopper.com^$ctag=user_child
 ||ishark.com^$ctag=user_child
 ||isharkvpn.com^$ctag=user_child
+||ispban.com^$ctag=user_child
 ||itsayx.online^$ctag=user_child
 ||itsnotevil.com^$ctag=user_child
 ||ivacyvpn.com^$ctag=user_child
+||iweb365.info^$ctag=user_child
 ||iwebproxy.com^$ctag=user_child
 ||jamesisbald.xyz^$ctag=user_child
 ||www-fp.jkw.st^$ctag=user_child
@@ -4229,6 +4231,7 @@
 ||loubonde.xyz^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
 ||lurk.info^$ctag=user_child
+||mainprox.com^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
 ||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||dns.mathewakhil.online^$ctag=user_child
@@ -4372,6 +4375,7 @@
 ||xmr.land^$ctag=user_child
 ||dns.xwdmw.xyz^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
+||lion.yazilimatolye.com^$ctag=user_child
 ||yellowshiitake.com^$ctag=user_child
 ||yesbutno.wtf^$ctag=user_child
 ||youproxything.com^$ctag=user_child
