@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-18T02:35:41.829Z
+! Last modified: 2025-04-19T02:32:51.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4128,7 +4128,6 @@
 ||dvfqxoi8ar2lj.cloudfront.net^$ctag=user_child
 ||10bestvpn.co.uk^$ctag=user_child
 ||adguard.aa4.co.uk^$ctag=user_child
-||freeflow.math3.vhutambo.co.za^$ctag=user_child
 ||4y5t.coke0.cc^$ctag=user_child
 ||coloney3.com^$ctag=user_child
 ||rammerhead.command.enterprises^$ctag=user_child
@@ -4164,7 +4163,6 @@
 ||im-in-the-thick-of-it-everybody-knows.dynorex.com^$ctag=user_child
 ||dns.dynx.pro^$ctag=user_child
 ||konnnitiha----saiko.easterndns.com^$ctag=user_child
-||koreharannma-heddodesu.easterndns.com^$ctag=user_child
 ||edgedcircles.com^$ctag=user_child
 ||emeraldeyex.dev^$ctag=user_child
 ||endente.com^$ctag=user_child
@@ -4215,7 +4213,6 @@
 ||funknetwork.com^$ctag=user_child
 ||furriesarecute.furryplace.eu^$ctag=user_child
 ||g-a-y.pro^$ctag=user_child
-||callllllllllcu.galaxybbs.net^$ctag=user_child
 ||obamna.gamefr.xyz^$ctag=user_child
 ||gameroz1.ir^$ctag=user_child
 ||adfree-games-at.geometry-games.online^$ctag=user_child
@@ -4244,6 +4241,7 @@
 ||hidemium.io^$ctag=user_child
 ||hidester.one^$ctag=user_child
 ||hidethistime.com^$ctag=user_child
+||himedns.com^$ctag=user_child
 ||hismanual.ru^$ctag=user_child
 ||beta.holyunblocker.org^$ctag=user_child
 ||mythica.home.kg^$ctag=user_child
@@ -4300,7 +4298,6 @@
 ||www-proxy.kokecoco.me^$ctag=user_child
 ||notebooks.kozow.com^$ctag=user_child
 ||dns.kugoapps.com^$ctag=user_child
-||sena-and-jacob-yap-too-much.l0ckd0wn.com^$ctag=user_child
 ||adamz2eso.l5.ca^$ctag=user_child
 ||lablancer.com^$ctag=user_child
 ||dns.labnekotest.site^$ctag=user_child
@@ -4362,10 +4359,12 @@
 ||openproxylist.com^$ctag=user_child
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^$ctag=user_child
 ||this.revolution.been.televised.df.cissp.or.id^$ctag=user_child
+||resolver.dnsprivacy.org.uk^$ctag=user_child
 ||proxy.outred.dev^$ctag=user_child
 ||vpn-ru-msk.pakharenko.ru^$ctag=user_child
 ||pamukada.com^$ctag=user_child
 ||paradise-human.shop^$ctag=user_child
+||parsazr.ir^$ctag=user_child
 ||penkun0286.xyz^$ctag=user_child
 ||pepetio.xyz^$ctag=user_child
 ||persianreserve.ir^$ctag=user_child
@@ -4465,6 +4464,7 @@
 ||doh.sublime9.xyz^$ctag=user_child
 ||bigbugpoppearblack.super-modding.quest^$ctag=user_child
 ||kadowaki.super-modding.quest^$ctag=user_child
+||surfcovertly.com^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
 ||technofix.ir^$ctag=user_child

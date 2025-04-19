@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-18T02:35:41.829Z
+! Last modified: 2025-04-19T02:32:51.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4128,7 +4128,6 @@
 ||dvfqxoi8ar2lj.cloudfront.net^
 ||10bestvpn.co.uk^
 ||adguard.aa4.co.uk^
-||freeflow.math3.vhutambo.co.za^
 ||4y5t.coke0.cc^
 ||coloney3.com^
 ||rammerhead.command.enterprises^
@@ -4164,7 +4163,6 @@
 ||im-in-the-thick-of-it-everybody-knows.dynorex.com^
 ||dns.dynx.pro^
 ||konnnitiha----saiko.easterndns.com^
-||koreharannma-heddodesu.easterndns.com^
 ||edgedcircles.com^
 ||emeraldeyex.dev^
 ||endente.com^
@@ -4215,7 +4213,6 @@
 ||funknetwork.com^
 ||furriesarecute.furryplace.eu^
 ||g-a-y.pro^
-||callllllllllcu.galaxybbs.net^
 ||obamna.gamefr.xyz^
 ||gameroz1.ir^
 ||adfree-games-at.geometry-games.online^
@@ -4244,6 +4241,7 @@
 ||hidemium.io^
 ||hidester.one^
 ||hidethistime.com^
+||himedns.com^
 ||hismanual.ru^
 ||beta.holyunblocker.org^
 ||mythica.home.kg^
@@ -4300,7 +4298,6 @@
 ||www-proxy.kokecoco.me^
 ||notebooks.kozow.com^
 ||dns.kugoapps.com^
-||sena-and-jacob-yap-too-much.l0ckd0wn.com^
 ||adamz2eso.l5.ca^
 ||lablancer.com^
 ||dns.labnekotest.site^
@@ -4362,10 +4359,12 @@
 ||openproxylist.com^
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^
 ||this.revolution.been.televised.df.cissp.or.id^
+||resolver.dnsprivacy.org.uk^
 ||proxy.outred.dev^
 ||vpn-ru-msk.pakharenko.ru^
 ||pamukada.com^
 ||paradise-human.shop^
+||parsazr.ir^
 ||penkun0286.xyz^
 ||pepetio.xyz^
 ||persianreserve.ir^
@@ -4465,6 +4464,7 @@
 ||doh.sublime9.xyz^
 ||bigbugpoppearblack.super-modding.quest^
 ||kadowaki.super-modding.quest^
+||surfcovertly.com^
 ||surfwebsite.org^
 ||tailnet.ru^
 ||technofix.ir^
