@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-19T02:32:51.929Z
+! Last modified: 2025-04-20T02:50:32.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4300,7 +4300,6 @@
 ||dns.kugoapps.com^$ctag=user_child
 ||adamz2eso.l5.ca^$ctag=user_child
 ||lablancer.com^$ctag=user_child
-||dns.labnekotest.site^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
 ||larpicidecentralproxy.org^$ctag=user_child
 ||inboxdayo.laviewddns.com^$ctag=user_child
@@ -4454,6 +4453,7 @@
 ||physicaleducation.sportseducationinstructors.org^$ctag=user_child
 ||adbox-v8.srv64.de^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
+||eu1-browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child
@@ -4467,6 +4467,7 @@
 ||surfcovertly.com^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
+||vpn.technicule.info^$ctag=user_child
 ||technofix.ir^$ctag=user_child
 ||terraleads.cloud^$ctag=user_child
 ||testdomainname.xyz^$ctag=user_child
@@ -4516,7 +4517,6 @@
 ||workstudyplay.com^$ctag=user_child
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
-||xmr.land^$ctag=user_child
 ||dns.xwdmw.xyz^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
 ||lion.yazilimatolye.com^$ctag=user_child
