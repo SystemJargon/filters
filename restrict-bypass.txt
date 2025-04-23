@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-22T02:38:49.594Z
+! Last modified: 2025-04-23T02:39:31.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4164,7 +4164,9 @@
 ||adbox-v9.dynipv6.de^
 ||im-in-the-thick-of-it-everybody-knows.dynorex.com^
 ||dns.dynx.pro^
+||earth-vpn.net^
 ||konnnitiha----saiko.easterndns.com^
+||easyvpn.zone^
 ||edgedcircles.com^
 ||emeraldeyex.dev^
 ||endente.com^
@@ -4207,6 +4209,8 @@
 ||small-kids.foxgateway.com^
 ||stop-it-now-stop-it-now.foxgateway.com^
 ||we-need-more.foxgateway.com^
+||free-vpn.pro^
+||free-vpnapp.com^
 ||freelux.world^
 ||freenomisratelimitingme.cf^
 ||freewebproxy.eu^
@@ -4349,6 +4353,7 @@
 ||novembeer.ru^
 ||noyourmean.xyz^
 ||ntwrkh.pro^
+||nucleusvpn.com^
 ||nym.com^
 ||nym.community^
 ||nym.dev^
@@ -4378,6 +4383,7 @@
 ||pluralsight.gq^
 ||loilonote.poo.li^
 ||science-exp.port0.org^
+||primevpn.pro^
 ||proxandthecity.com^
 ||proxbomb.com^
 ||proxmesomethingdirty.com^
@@ -4466,6 +4472,7 @@
 ||doh.sublime9.xyz^
 ||bigbugpoppearblack.super-modding.quest^
 ||kadowaki.super-modding.quest^
+||supercoolcomputersandstuff.win^
 ||surfcovertly.com^
 ||surfwebsite.org^
 ||tailnet.ru^
@@ -4494,6 +4501,7 @@
 ||underage-gambling.site^
 ||flipclevergrid.unids.com^
 ||flipcleverplay.unids.com^
+||unlimitedvpn.net^
 ||unrestrictor.net^
 ||unrestrictor.org^
 ||updatedproxies.com^

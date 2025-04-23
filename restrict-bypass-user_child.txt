@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-22T02:38:49.594Z
+! Last modified: 2025-04-23T02:39:31.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4164,7 +4164,9 @@
 ||adbox-v9.dynipv6.de^$ctag=user_child
 ||im-in-the-thick-of-it-everybody-knows.dynorex.com^$ctag=user_child
 ||dns.dynx.pro^$ctag=user_child
+||earth-vpn.net^$ctag=user_child
 ||konnnitiha----saiko.easterndns.com^$ctag=user_child
+||easyvpn.zone^$ctag=user_child
 ||edgedcircles.com^$ctag=user_child
 ||emeraldeyex.dev^$ctag=user_child
 ||endente.com^$ctag=user_child
@@ -4207,6 +4209,8 @@
 ||small-kids.foxgateway.com^$ctag=user_child
 ||stop-it-now-stop-it-now.foxgateway.com^$ctag=user_child
 ||we-need-more.foxgateway.com^$ctag=user_child
+||free-vpn.pro^$ctag=user_child
+||free-vpnapp.com^$ctag=user_child
 ||freelux.world^$ctag=user_child
 ||freenomisratelimitingme.cf^$ctag=user_child
 ||freewebproxy.eu^$ctag=user_child
@@ -4349,6 +4353,7 @@
 ||novembeer.ru^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
 ||ntwrkh.pro^$ctag=user_child
+||nucleusvpn.com^$ctag=user_child
 ||nym.com^$ctag=user_child
 ||nym.community^$ctag=user_child
 ||nym.dev^$ctag=user_child
@@ -4378,6 +4383,7 @@
 ||pluralsight.gq^$ctag=user_child
 ||loilonote.poo.li^$ctag=user_child
 ||science-exp.port0.org^$ctag=user_child
+||primevpn.pro^$ctag=user_child
 ||proxandthecity.com^$ctag=user_child
 ||proxbomb.com^$ctag=user_child
 ||proxmesomethingdirty.com^$ctag=user_child
@@ -4466,6 +4472,7 @@
 ||doh.sublime9.xyz^$ctag=user_child
 ||bigbugpoppearblack.super-modding.quest^$ctag=user_child
 ||kadowaki.super-modding.quest^$ctag=user_child
+||supercoolcomputersandstuff.win^$ctag=user_child
 ||surfcovertly.com^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
@@ -4494,6 +4501,7 @@
 ||underage-gambling.site^$ctag=user_child
 ||flipclevergrid.unids.com^$ctag=user_child
 ||flipcleverplay.unids.com^$ctag=user_child
+||unlimitedvpn.net^$ctag=user_child
 ||unrestrictor.net^$ctag=user_child
 ||unrestrictor.org^$ctag=user_child
 ||updatedproxies.com^$ctag=user_child
