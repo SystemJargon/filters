@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-24T02:48:34.380Z
+! Last modified: 2025-04-25T02:48:24.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4037,6 +4037,7 @@
 ||2r34.com^$ctag=user_child
 ||30t.online^$ctag=user_child
 ||33bitbank.com^$ctag=user_child
+||3bbb.me^$ctag=user_child
 ||notfound-google.404.mn^$ctag=user_child
 ||bannana.web-doge.42web.io^$ctag=user_child
 ||dns.444723.xyz^$ctag=user_child
@@ -4082,6 +4083,7 @@
 ||rx.blackxfiied.xyz^$ctag=user_child
 ||blockawayproxy.net^$ctag=user_child
 ||blockedsiteaccess.com^$ctag=user_child
+||bluegray.us^$ctag=user_child
 ||pakupaku.bounceme.net^$ctag=user_child
 ||igottridentrodinfischop.bowmansarrow.us^$ctag=user_child
 ||ag.brianlee.fun^$ctag=user_child
@@ -4093,6 +4095,7 @@
 ||changemyip.uk^$ctag=user_child
 ||dns.chunghwamc.com^$ctag=user_child
 ||circumvent.it^$ctag=user_child
+||classicpen.us^$ctag=user_child
 ||cloakpoint.com^$ctag=user_child
 ||d127oyoibbqwge.cloudfront.net^$ctag=user_child
 ||d15bbbc3wnvnmn.cloudfront.net^$ctag=user_child
@@ -4132,6 +4135,7 @@
 ||coloney3.com^$ctag=user_child
 ||rammerhead.command.enterprises^$ctag=user_child
 ||coolproxy.org^$ctag=user_child
+||coproxy.io^$ctag=user_child
 ||cosmohacker.space^$ctag=user_child
 ||coursera.gq^$ctag=user_child
 ||covertproxy.com^$ctag=user_child
@@ -4141,11 +4145,13 @@
 ||croxy.com^$ctag=user_child
 ||croxy-proxy.com^$ctag=user_child
 ||croxyproxy.blog^$ctag=user_child
+||croxyproxycom.org^$ctag=user_child
 ||croxyproxys.com^$ctag=user_child
 ||croxyproxyvpn.com^$ctag=user_child
 ||cubixpvp.net^$ctag=user_child
 ||plans.datacommunicationsinc.com^$ctag=user_child
 ||desec.io^$ctag=user_child
+||desertsand.us^$ctag=user_child
 ||diglet.org^$ctag=user_child
 ||dirtyworkproxy.com^$ctag=user_child
 ||hihohornsluttlekidspop.dmdistribution.net^$ctag=user_child
@@ -4167,7 +4173,9 @@
 ||earth-vpn.net^$ctag=user_child
 ||konnnitiha----saiko.easterndns.com^$ctag=user_child
 ||easyvpn.zone^$ctag=user_child
+||eblan.pro^$ctag=user_child
 ||edgedcircles.com^$ctag=user_child
+||educationdean.us^$ctag=user_child
 ||emeraldeyex.dev^$ctag=user_child
 ||endente.com^$ctag=user_child
 ||energys.ir^$ctag=user_child
@@ -4238,6 +4246,7 @@
 ||tunnel.googlezip.net^$ctag=user_child
 ||gostarlight.xyz^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
+||guestappearance.us^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
 ||fair.hashable.org^$ctag=user_child
@@ -4304,6 +4313,7 @@
 ||www-proxy.kokecoco.me^$ctag=user_child
 ||notebooks.kozow.com^$ctag=user_child
 ||dns.kugoapps.com^$ctag=user_child
+||l-am-sigma.pro^$ctag=user_child
 ||adamz2eso.l5.ca^$ctag=user_child
 ||lablancer.com^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
@@ -4329,6 +4339,8 @@
 ||power.lumeacopiilorploiesti.ro^$ctag=user_child
 ||lurk.info^$ctag=user_child
 ||mainprox.com^$ctag=user_child
+||maintainbrain.us^$ctag=user_child
+||mapspublications.us^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
 ||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||dns.mathewakhil.online^$ctag=user_child
@@ -4373,6 +4385,7 @@
 ||paradise-human.shop^$ctag=user_child
 ||parsazr.ir^$ctag=user_child
 ||penkun0286.xyz^$ctag=user_child
+||penrepair.us^$ctag=user_child
 ||pepetio.xyz^$ctag=user_child
 ||persianreserve.ir^$ctag=user_child
 ||pesemes.ir^$ctag=user_child
@@ -4438,6 +4451,7 @@
 ||gns.s-mold.net^$ctag=user_child
 ||safing.io^$ctag=user_child
 ||sakirdakproxy.tk^$ctag=user_child
+||sandmining.us^$ctag=user_child
 ||www-proxy.sayed.page^$ctag=user_child
 ||schoology123.org^$ctag=user_child
 ||schoolooks.com^$ctag=user_child
@@ -4476,6 +4490,7 @@
 ||kadowaki.super-modding.quest^$ctag=user_child
 ||supercoolcomputersandstuff.win^$ctag=user_child
 ||surfcovertly.com^$ctag=user_child
+||surfeasy.mobi^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
 ||vpn.technicule.info^$ctag=user_child
@@ -4509,6 +4524,7 @@
 ||updatedproxies.com^$ctag=user_child
 ||usaip.net^$ctag=user_child
 ||utube.cc^$ctag=user_child
+||valuepremium.us^$ctag=user_child
 ||vanilcraft.ru^$ctag=user_child
 ||securedns.vendorvista.xyz^$ctag=user_child
 ||vipturkey.ir^$ctag=user_child
@@ -4522,7 +4538,9 @@
 ||shark-pan.webredirect.org^$ctag=user_child
 ||stemprivate4.webs.vc^$ctag=user_child
 ||webypass.info^$ctag=user_child
+||wedding-present.us^$ctag=user_child
 ||dns.wibenson.cloud^$ctag=user_child
+||woodenclock.us^$ctag=user_child
 ||workbypass.com^$ctag=user_child
 ||noturmotherlol.worksheetsforteachers.org^$ctag=user_child
 ||pdf.worksheetsforteachers.org^$ctag=user_child

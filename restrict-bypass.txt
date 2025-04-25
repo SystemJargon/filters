@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-24T02:48:34.380Z
+! Last modified: 2025-04-25T02:48:24.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4037,6 +4037,7 @@
 ||2r34.com^
 ||30t.online^
 ||33bitbank.com^
+||3bbb.me^
 ||notfound-google.404.mn^
 ||bannana.web-doge.42web.io^
 ||dns.444723.xyz^
@@ -4082,6 +4083,7 @@
 ||rx.blackxfiied.xyz^
 ||blockawayproxy.net^
 ||blockedsiteaccess.com^
+||bluegray.us^
 ||pakupaku.bounceme.net^
 ||igottridentrodinfischop.bowmansarrow.us^
 ||ag.brianlee.fun^
@@ -4093,6 +4095,7 @@
 ||changemyip.uk^
 ||dns.chunghwamc.com^
 ||circumvent.it^
+||classicpen.us^
 ||cloakpoint.com^
 ||d127oyoibbqwge.cloudfront.net^
 ||d15bbbc3wnvnmn.cloudfront.net^
@@ -4132,6 +4135,7 @@
 ||coloney3.com^
 ||rammerhead.command.enterprises^
 ||coolproxy.org^
+||coproxy.io^
 ||cosmohacker.space^
 ||coursera.gq^
 ||covertproxy.com^
@@ -4141,11 +4145,13 @@
 ||croxy.com^
 ||croxy-proxy.com^
 ||croxyproxy.blog^
+||croxyproxycom.org^
 ||croxyproxys.com^
 ||croxyproxyvpn.com^
 ||cubixpvp.net^
 ||plans.datacommunicationsinc.com^
 ||desec.io^
+||desertsand.us^
 ||diglet.org^
 ||dirtyworkproxy.com^
 ||hihohornsluttlekidspop.dmdistribution.net^
@@ -4167,7 +4173,9 @@
 ||earth-vpn.net^
 ||konnnitiha----saiko.easterndns.com^
 ||easyvpn.zone^
+||eblan.pro^
 ||edgedcircles.com^
+||educationdean.us^
 ||emeraldeyex.dev^
 ||endente.com^
 ||energys.ir^
@@ -4238,6 +4246,7 @@
 ||tunnel.googlezip.net^
 ||gostarlight.xyz^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
+||guestappearance.us^
 ||hamachi-blog.com^
 ||harbaletsstudy.com^
 ||fair.hashable.org^
@@ -4304,6 +4313,7 @@
 ||www-proxy.kokecoco.me^
 ||notebooks.kozow.com^
 ||dns.kugoapps.com^
+||l-am-sigma.pro^
 ||adamz2eso.l5.ca^
 ||lablancer.com^
 ||www-proxy.ladifsoftware.com^
@@ -4329,6 +4339,8 @@
 ||power.lumeacopiilorploiesti.ro^
 ||lurk.info^
 ||mainprox.com^
+||maintainbrain.us^
+||mapspublications.us^
 ||masthisis.ir^
 ||adsadkjsadjksakldjxx.math-solver.online^
 ||dns.mathewakhil.online^
@@ -4373,6 +4385,7 @@
 ||paradise-human.shop^
 ||parsazr.ir^
 ||penkun0286.xyz^
+||penrepair.us^
 ||pepetio.xyz^
 ||persianreserve.ir^
 ||pesemes.ir^
@@ -4438,6 +4451,7 @@
 ||gns.s-mold.net^
 ||safing.io^
 ||sakirdakproxy.tk^
+||sandmining.us^
 ||www-proxy.sayed.page^
 ||schoology123.org^
 ||schoolooks.com^
@@ -4476,6 +4490,7 @@
 ||kadowaki.super-modding.quest^
 ||supercoolcomputersandstuff.win^
 ||surfcovertly.com^
+||surfeasy.mobi^
 ||surfwebsite.org^
 ||tailnet.ru^
 ||vpn.technicule.info^
@@ -4509,6 +4524,7 @@
 ||updatedproxies.com^
 ||usaip.net^
 ||utube.cc^
+||valuepremium.us^
 ||vanilcraft.ru^
 ||securedns.vendorvista.xyz^
 ||vipturkey.ir^
@@ -4522,7 +4538,9 @@
 ||shark-pan.webredirect.org^
 ||stemprivate4.webs.vc^
 ||webypass.info^
+||wedding-present.us^
 ||dns.wibenson.cloud^
+||woodenclock.us^
 ||workbypass.com^
 ||noturmotherlol.worksheetsforteachers.org^
 ||pdf.worksheetsforteachers.org^
