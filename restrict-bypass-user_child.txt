@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-25T02:48:24.698Z
+! Last modified: 2025-04-26T02:35:39.782Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4052,6 +4052,8 @@
 ||aboba.pro^$ctag=user_child
 ||achievementnetwork.tk^$ctag=user_child
 ||r.achievementnetwork.gq^$ctag=user_child
+||activatevpn.com^$ctag=user_child
+||adultproxy.men^$ctag=user_child
 ||agmath.xyz^$ctag=user_child
 ||agurydog.website^$ctag=user_child
 ||alohabrowser.com^$ctag=user_child
@@ -4075,6 +4077,7 @@
 ||bestvideoproxy.com^$ctag=user_child
 ||www-proxy.bettercallghaith.wiki^$ctag=user_child
 ||bia2dige.ir^$ctag=user_child
+||bigma.org^$ctag=user_child
 ||bingle.icu^$ctag=user_child
 ||bingle.pw^$ctag=user_child
 ||tips.bitesmagazine.com^$ctag=user_child
@@ -4149,6 +4152,7 @@
 ||croxyproxys.com^$ctag=user_child
 ||croxyproxyvpn.com^$ctag=user_child
 ||cubixpvp.net^$ctag=user_child
+||cybershield.cc^$ctag=user_child
 ||plans.datacommunicationsinc.com^$ctag=user_child
 ||desec.io^$ctag=user_child
 ||desertsand.us^$ctag=user_child
@@ -4192,6 +4196,7 @@
 ||rammerhead.eu.org^$ctag=user_child
 ||evacraft.xyz^$ctag=user_child
 ||everyproxies.info^$ctag=user_child
+||extremevpn.com^$ctag=user_child
 ||ezwebsites.ezwebsites.com^$ctag=user_child
 ||f0lga.tech^$ctag=user_child
 ||cnamerannmertest.ints.f5.si^$ctag=user_child
@@ -4220,7 +4225,9 @@
 ||free-vpn.pro^$ctag=user_child
 ||free-vpnapp.com^$ctag=user_child
 ||freelux.world^$ctag=user_child
+||freenetproject.org^$ctag=user_child
 ||freenomisratelimitingme.cf^$ctag=user_child
+||freevpn.win^$ctag=user_child
 ||freewebproxy.eu^$ctag=user_child
 ||www-server.freewebsproxy.com^$ctag=user_child
 ||frlolyt.site^$ctag=user_child
@@ -4251,6 +4258,8 @@
 ||harbaletsstudy.com^$ctag=user_child
 ||fair.hashable.org^$ctag=user_child
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^$ctag=user_child
+||helphideme.com^$ctag=user_child
+||hide.mn^$ctag=user_child
 ||hideme101.info^$ctag=user_child
 ||hidemesoftware.com^$ctag=user_child
 ||hidemium.io^$ctag=user_child
@@ -4260,6 +4269,7 @@
 ||hismanual.ru^$ctag=user_child
 ||beta.holyunblocker.org^$ctag=user_child
 ||mythica.home.kg^$ctag=user_child
+||homevpn.org^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||hotunixispeak.hotunix.com^$ctag=user_child
 ||rmerheadonionlink.hotunix.com^$ctag=user_child
@@ -4282,6 +4292,7 @@
 ||ipcamouflage.com^$ctag=user_child
 ||iportal.me^$ctag=user_child
 ||ipprotectionauth.goog^$ctag=user_child
+||iproyal.com^$ctag=user_child
 ||ipstopper.com^$ctag=user_child
 ||c.is-very.fun^$ctag=user_child
 ||d.is-very.fun^$ctag=user_child
@@ -4325,6 +4336,7 @@
 ||laxmods.website^$ctag=user_child
 ||learnbridge.institute^$ctag=user_child
 ||externalmobiel.lekdijk.online^$ctag=user_child
+||letsvpn.world^$ctag=user_child
 ||testlinkimadernyoufatbitc.letz.dev^$ctag=user_child
 ||verynicewebsite.letz.dev^$ctag=user_child
 ||lifeisa.live^$ctag=user_child
@@ -4332,12 +4344,14 @@
 ||omar.linxy.eu^$ctag=user_child
 ||omarcreatedthis.linxy.eu^$ctag=user_child
 ||literally.info^$ctag=user_child
+||liyu321.cn^$ctag=user_child
 ||lochridge.org^$ctag=user_child
 ||lotofabric.ru^$ctag=user_child
 ||loubonde.xyz^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
 ||power.lumeacopiilorploiesti.ro^$ctag=user_child
 ||lurk.info^$ctag=user_child
+||magiccloak.net^$ctag=user_child
 ||mainprox.com^$ctag=user_child
 ||maintainbrain.us^$ctag=user_child
 ||mapspublications.us^$ctag=user_child
@@ -4354,7 +4368,9 @@
 ||mojtreker.ru^$ctag=user_child
 ||later.monkxy.org^$ctag=user_child
 ||mtagprox.com^$ctag=user_child
+||myhalo.online^$ctag=user_child
 ||igottridentrodinfischtrust.myjamesonline.net^$ctag=user_child
+||mysteriumvpn.com^$ctag=user_child
 ||nathanielgavin.lol^$ctag=user_child
 ||nekoray.org^$ctag=user_child
 ||qwertyabc123.nekros.info^$ctag=user_child
@@ -4362,7 +4378,10 @@
 ||netsneak.com^$ctag=user_child
 ||free.vbucks.generator.networkindia.com^$ctag=user_child
 ||free.robux.networkindia.com^$ctag=user_child
+||newproxylist.net^$ctag=user_child
 ||nirbytes.com^$ctag=user_child
+||nolagvpn.com^$ctag=user_child
+||nordvpn.net^$ctag=user_child
 ||novembeer.ru^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
 ||ntwrkh.pro^$ctag=user_child
@@ -4374,6 +4393,7 @@
 ||nymtech.net^$ctag=user_child
 ||nymvpn.com^$ctag=user_child
 ||obscura.net^$ctag=user_child
+||oeck.com^$ctag=user_child
 ||doh-pure.onedns.net^$ctag=user_child
 ||openproxylist.com^$ctag=user_child
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^$ctag=user_child
@@ -4404,14 +4424,19 @@
 ||proxmesomethingdirty.com^$ctag=user_child
 ||proxmyass.com^$ctag=user_child
 ||proxtrot.com^$ctag=user_child
+||proxy.am^$ctag=user_child
+||proxy.gd^$ctag=user_child
 ||proxy-best.com^$ctag=user_child
 ||proxy-works.com^$ctag=user_child
 ||proxy0101.com^$ctag=user_child
+||proxy62.com^$ctag=user_child
+||proxyadult.org^$ctag=user_child
 ||proxybrowser.org^$ctag=user_child
 ||proxycompass.com^$ctag=user_child
 ||proxyduke.lol^$ctag=user_child
 ||proxyium.org^$ctag=user_child
 ||www-cdn.proxyiumi.com^$ctag=user_child
+||proxyjet.io^$ctag=user_child
 ||proxylister.com^$ctag=user_child
 ||proxypal.net^$ctag=user_child
 ||proxyproxy.net^$ctag=user_child
@@ -4432,6 +4457,7 @@
 ||rafykuon.com^$ctag=user_child
 ||rcsm.ir^$ctag=user_child
 ||redproxy.info^$ctag=user_child
+||redshieldvpn.com^$ctag=user_child
 ||reezus.us^$ctag=user_child
 ||regiopolis.cloud^$ctag=user_child
 ||renardbleu.dev^$ctag=user_child
@@ -4452,6 +4478,7 @@
 ||safing.io^$ctag=user_child
 ||sakirdakproxy.tk^$ctag=user_child
 ||sandmining.us^$ctag=user_child
+||sandvpn.com^$ctag=user_child
 ||www-proxy.sayed.page^$ctag=user_child
 ||schoology123.org^$ctag=user_child
 ||schoolooks.com^$ctag=user_child
@@ -4475,6 +4502,7 @@
 ||scienceandmore.spacetechnology.net^$ctag=user_child
 ||spinalfluid.world^$ctag=user_child
 ||physicaleducation.sportseducationinstructors.org^$ctag=user_child
+||squirrelvpn.com^$ctag=user_child
 ||adbox-v8.srv64.de^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
 ||eu1-browse.startpage.com^$ctag=user_child
@@ -4489,9 +4517,12 @@
 ||bigbugpoppearblack.super-modding.quest^$ctag=user_child
 ||kadowaki.super-modding.quest^$ctag=user_child
 ||supercoolcomputersandstuff.win^$ctag=user_child
+||supergreenstuff.com^$ctag=user_child
 ||surfcovertly.com^$ctag=user_child
 ||surfeasy.mobi^$ctag=user_child
+||surfshark.net^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
+||symlexvpn.com^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
 ||vpn.technicule.info^$ctag=user_child
 ||technofix.ir^$ctag=user_child
@@ -4509,6 +4540,7 @@
 ||tmhhd.tk^$ctag=user_child
 ||tokit.site^$ctag=user_child
 ||top-proxy.site^$ctag=user_child
+||totalvpn.com^$ctag=user_child
 ||twinklestarknights.com^$ctag=user_child
 ||typeracer.gq^$ctag=user_child
 ||unblockedscene.com^$ctag=user_child
@@ -4518,6 +4550,7 @@
 ||underage-gambling.site^$ctag=user_child
 ||flipclevergrid.unids.com^$ctag=user_child
 ||flipcleverplay.unids.com^$ctag=user_child
+||universityproxy.net^$ctag=user_child
 ||unlimitedvpn.net^$ctag=user_child
 ||unrestrictor.net^$ctag=user_child
 ||unrestrictor.org^$ctag=user_child
@@ -4530,6 +4563,7 @@
 ||vipturkey.ir^$ctag=user_child
 ||dns.vod11.xyz^$ctag=user_child
 ||vpnbookpk.com^$ctag=user_child
+||vpnsuper.com^$ctag=user_child
 ||vpnumbrella.com^$ctag=user_child
 ||go.vrpyourself.online^$ctag=user_child
 ||youve-arived-to.walzone.com^$ctag=user_child
@@ -4537,6 +4571,8 @@
 ||webproxy.club^$ctag=user_child
 ||shark-pan.webredirect.org^$ctag=user_child
 ||stemprivate4.webs.vc^$ctag=user_child
+||webtunnelproxy.com^$ctag=user_child
+||webunblock.net^$ctag=user_child
 ||webypass.info^$ctag=user_child
 ||wedding-present.us^$ctag=user_child
 ||dns.wibenson.cloud^$ctag=user_child
@@ -4553,6 +4589,7 @@
 ||yellowshiitake.com^$ctag=user_child
 ||sg.yepdns.com^$ctag=user_child
 ||yesbutno.wtf^$ctag=user_child
+||yogawiki.in^$ctag=user_child
 ||youproxything.com^$ctag=user_child
 ||yuyuproxy.com^$ctag=user_child
 ||adg.yybyy.wiki^$ctag=user_child

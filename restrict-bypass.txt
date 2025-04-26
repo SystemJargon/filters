@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-25T02:48:24.698Z
+! Last modified: 2025-04-26T02:35:39.782Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4052,6 +4052,8 @@
 ||aboba.pro^
 ||achievementnetwork.tk^
 ||r.achievementnetwork.gq^
+||activatevpn.com^
+||adultproxy.men^
 ||agmath.xyz^
 ||agurydog.website^
 ||alohabrowser.com^
@@ -4075,6 +4077,7 @@
 ||bestvideoproxy.com^
 ||www-proxy.bettercallghaith.wiki^
 ||bia2dige.ir^
+||bigma.org^
 ||bingle.icu^
 ||bingle.pw^
 ||tips.bitesmagazine.com^
@@ -4149,6 +4152,7 @@
 ||croxyproxys.com^
 ||croxyproxyvpn.com^
 ||cubixpvp.net^
+||cybershield.cc^
 ||plans.datacommunicationsinc.com^
 ||desec.io^
 ||desertsand.us^
@@ -4192,6 +4196,7 @@
 ||rammerhead.eu.org^
 ||evacraft.xyz^
 ||everyproxies.info^
+||extremevpn.com^
 ||ezwebsites.ezwebsites.com^
 ||f0lga.tech^
 ||cnamerannmertest.ints.f5.si^
@@ -4220,7 +4225,9 @@
 ||free-vpn.pro^
 ||free-vpnapp.com^
 ||freelux.world^
+||freenetproject.org^
 ||freenomisratelimitingme.cf^
+||freevpn.win^
 ||freewebproxy.eu^
 ||www-server.freewebsproxy.com^
 ||frlolyt.site^
@@ -4251,6 +4258,8 @@
 ||harbaletsstudy.com^
 ||fair.hashable.org^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
+||helphideme.com^
+||hide.mn^
 ||hideme101.info^
 ||hidemesoftware.com^
 ||hidemium.io^
@@ -4260,6 +4269,7 @@
 ||hismanual.ru^
 ||beta.holyunblocker.org^
 ||mythica.home.kg^
+||homevpn.org^
 ||homeworkhelp.click^
 ||hotunixispeak.hotunix.com^
 ||rmerheadonionlink.hotunix.com^
@@ -4282,6 +4292,7 @@
 ||ipcamouflage.com^
 ||iportal.me^
 ||ipprotectionauth.goog^
+||iproyal.com^
 ||ipstopper.com^
 ||c.is-very.fun^
 ||d.is-very.fun^
@@ -4325,6 +4336,7 @@
 ||laxmods.website^
 ||learnbridge.institute^
 ||externalmobiel.lekdijk.online^
+||letsvpn.world^
 ||testlinkimadernyoufatbitc.letz.dev^
 ||verynicewebsite.letz.dev^
 ||lifeisa.live^
@@ -4332,12 +4344,14 @@
 ||omar.linxy.eu^
 ||omarcreatedthis.linxy.eu^
 ||literally.info^
+||liyu321.cn^
 ||lochridge.org^
 ||lotofabric.ru^
 ||loubonde.xyz^
 ||lucasmaia.org^
 ||power.lumeacopiilorploiesti.ro^
 ||lurk.info^
+||magiccloak.net^
 ||mainprox.com^
 ||maintainbrain.us^
 ||mapspublications.us^
@@ -4354,7 +4368,9 @@
 ||mojtreker.ru^
 ||later.monkxy.org^
 ||mtagprox.com^
+||myhalo.online^
 ||igottridentrodinfischtrust.myjamesonline.net^
+||mysteriumvpn.com^
 ||nathanielgavin.lol^
 ||nekoray.org^
 ||qwertyabc123.nekros.info^
@@ -4362,7 +4378,10 @@
 ||netsneak.com^
 ||free.vbucks.generator.networkindia.com^
 ||free.robux.networkindia.com^
+||newproxylist.net^
 ||nirbytes.com^
+||nolagvpn.com^
+||nordvpn.net^
 ||novembeer.ru^
 ||noyourmean.xyz^
 ||ntwrkh.pro^
@@ -4374,6 +4393,7 @@
 ||nymtech.net^
 ||nymvpn.com^
 ||obscura.net^
+||oeck.com^
 ||doh-pure.onedns.net^
 ||openproxylist.com^
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^
@@ -4404,14 +4424,19 @@
 ||proxmesomethingdirty.com^
 ||proxmyass.com^
 ||proxtrot.com^
+||proxy.am^
+||proxy.gd^
 ||proxy-best.com^
 ||proxy-works.com^
 ||proxy0101.com^
+||proxy62.com^
+||proxyadult.org^
 ||proxybrowser.org^
 ||proxycompass.com^
 ||proxyduke.lol^
 ||proxyium.org^
 ||www-cdn.proxyiumi.com^
+||proxyjet.io^
 ||proxylister.com^
 ||proxypal.net^
 ||proxyproxy.net^
@@ -4432,6 +4457,7 @@
 ||rafykuon.com^
 ||rcsm.ir^
 ||redproxy.info^
+||redshieldvpn.com^
 ||reezus.us^
 ||regiopolis.cloud^
 ||renardbleu.dev^
@@ -4452,6 +4478,7 @@
 ||safing.io^
 ||sakirdakproxy.tk^
 ||sandmining.us^
+||sandvpn.com^
 ||www-proxy.sayed.page^
 ||schoology123.org^
 ||schoolooks.com^
@@ -4475,6 +4502,7 @@
 ||scienceandmore.spacetechnology.net^
 ||spinalfluid.world^
 ||physicaleducation.sportseducationinstructors.org^
+||squirrelvpn.com^
 ||adbox-v8.srv64.de^
 ||browse.startpage.com^
 ||eu1-browse.startpage.com^
@@ -4489,9 +4517,12 @@
 ||bigbugpoppearblack.super-modding.quest^
 ||kadowaki.super-modding.quest^
 ||supercoolcomputersandstuff.win^
+||supergreenstuff.com^
 ||surfcovertly.com^
 ||surfeasy.mobi^
+||surfshark.net^
 ||surfwebsite.org^
+||symlexvpn.com^
 ||tailnet.ru^
 ||vpn.technicule.info^
 ||technofix.ir^
@@ -4509,6 +4540,7 @@
 ||tmhhd.tk^
 ||tokit.site^
 ||top-proxy.site^
+||totalvpn.com^
 ||twinklestarknights.com^
 ||typeracer.gq^
 ||unblockedscene.com^
@@ -4518,6 +4550,7 @@
 ||underage-gambling.site^
 ||flipclevergrid.unids.com^
 ||flipcleverplay.unids.com^
+||universityproxy.net^
 ||unlimitedvpn.net^
 ||unrestrictor.net^
 ||unrestrictor.org^
@@ -4530,6 +4563,7 @@
 ||vipturkey.ir^
 ||dns.vod11.xyz^
 ||vpnbookpk.com^
+||vpnsuper.com^
 ||vpnumbrella.com^
 ||go.vrpyourself.online^
 ||youve-arived-to.walzone.com^
@@ -4537,6 +4571,8 @@
 ||webproxy.club^
 ||shark-pan.webredirect.org^
 ||stemprivate4.webs.vc^
+||webtunnelproxy.com^
+||webunblock.net^
 ||webypass.info^
 ||wedding-present.us^
 ||dns.wibenson.cloud^
@@ -4553,6 +4589,7 @@
 ||yellowshiitake.com^
 ||sg.yepdns.com^
 ||yesbutno.wtf^
+||yogawiki.in^
 ||youproxything.com^
 ||yuyuproxy.com^
 ||adg.yybyy.wiki^
