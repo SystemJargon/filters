@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-26T02:35:39.782Z
+! Last modified: 2025-04-27T02:51:48.570Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4069,6 +4069,7 @@
 ||avanquestusa.com^$ctag=user_child
 ||axaxa.fun^$ctag=user_child
 ||anyralnestridentrodinfisxu.ayrnatales.net^$ctag=user_child
+||hola-client-cdn4.b-cdn.net^$ctag=user_child
 ||i.am.selling.b33r.us^$ctag=user_child
 ||doh.battle.christmas^$ctag=user_child
 ||bebra.ai^$ctag=user_child
@@ -4505,7 +4506,6 @@
 ||squirrelvpn.com^$ctag=user_child
 ||adbox-v8.srv64.de^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
-||eu1-browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child
@@ -4520,8 +4520,10 @@
 ||supergreenstuff.com^$ctag=user_child
 ||surfcovertly.com^$ctag=user_child
 ||surfeasy.mobi^$ctag=user_child
+||minfort.surfnet.ca.surfnet.ca^$ctag=user_child
 ||surfshark.net^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
+||surprise.pics^$ctag=user_child
 ||symlexvpn.com^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
 ||vpn.technicule.info^$ctag=user_child

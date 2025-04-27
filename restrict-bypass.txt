@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-26T02:35:39.782Z
+! Last modified: 2025-04-27T02:51:48.570Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4069,6 +4069,7 @@
 ||avanquestusa.com^
 ||axaxa.fun^
 ||anyralnestridentrodinfisxu.ayrnatales.net^
+||hola-client-cdn4.b-cdn.net^
 ||i.am.selling.b33r.us^
 ||doh.battle.christmas^
 ||bebra.ai^
@@ -4505,7 +4506,6 @@
 ||squirrelvpn.com^
 ||adbox-v8.srv64.de^
 ||browse.startpage.com^
-||eu1-browse.startpage.com^
 ||s4-us2.startpage.com^
 ||us1-browse.startpage.com^
 ||us2-browse.startpage.com^
@@ -4520,8 +4520,10 @@
 ||supergreenstuff.com^
 ||surfcovertly.com^
 ||surfeasy.mobi^
+||minfort.surfnet.ca.surfnet.ca^
 ||surfshark.net^
 ||surfwebsite.org^
+||surprise.pics^
 ||symlexvpn.com^
 ||tailnet.ru^
 ||vpn.technicule.info^
