@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-27T02:51:48.570Z
+! Last modified: 2025-04-28T02:52:47.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4261,6 +4261,7 @@
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^$ctag=user_child
 ||helphideme.com^$ctag=user_child
 ||hide.mn^$ctag=user_child
+||hide-my-ip.org^$ctag=user_child
 ||hideme101.info^$ctag=user_child
 ||hidemesoftware.com^$ctag=user_child
 ||hidemium.io^$ctag=user_child
@@ -4369,6 +4370,7 @@
 ||mojtreker.ru^$ctag=user_child
 ||later.monkxy.org^$ctag=user_child
 ||mtagprox.com^$ctag=user_child
+||my-safe-net.com^$ctag=user_child
 ||myhalo.online^$ctag=user_child
 ||igottridentrodinfischtrust.myjamesonline.net^$ctag=user_child
 ||mysteriumvpn.com^$ctag=user_child
@@ -4396,6 +4398,7 @@
 ||obscura.net^$ctag=user_child
 ||oeck.com^$ctag=user_child
 ||doh-pure.onedns.net^$ctag=user_child
+||openips.cc^$ctag=user_child
 ||openproxylist.com^$ctag=user_child
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^$ctag=user_child
 ||this.revolution.been.televised.df.cissp.or.id^$ctag=user_child
@@ -4520,7 +4523,6 @@
 ||supergreenstuff.com^$ctag=user_child
 ||surfcovertly.com^$ctag=user_child
 ||surfeasy.mobi^$ctag=user_child
-||minfort.surfnet.ca.surfnet.ca^$ctag=user_child
 ||surfshark.net^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||surprise.pics^$ctag=user_child

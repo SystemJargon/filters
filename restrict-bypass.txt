@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-27T02:51:48.570Z
+! Last modified: 2025-04-28T02:52:47.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4261,6 +4261,7 @@
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
 ||helphideme.com^
 ||hide.mn^
+||hide-my-ip.org^
 ||hideme101.info^
 ||hidemesoftware.com^
 ||hidemium.io^
@@ -4369,6 +4370,7 @@
 ||mojtreker.ru^
 ||later.monkxy.org^
 ||mtagprox.com^
+||my-safe-net.com^
 ||myhalo.online^
 ||igottridentrodinfischtrust.myjamesonline.net^
 ||mysteriumvpn.com^
@@ -4396,6 +4398,7 @@
 ||obscura.net^
 ||oeck.com^
 ||doh-pure.onedns.net^
+||openips.cc^
 ||openproxylist.com^
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^
 ||this.revolution.been.televised.df.cissp.or.id^
@@ -4520,7 +4523,6 @@
 ||supergreenstuff.com^
 ||surfcovertly.com^
 ||surfeasy.mobi^
-||minfort.surfnet.ca.surfnet.ca^
 ||surfshark.net^
 ||surfwebsite.org^
 ||surprise.pics^
