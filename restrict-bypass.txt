@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-29T02:49:23.116Z
+! Last modified: 2025-04-30T02:48:34.441Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4166,7 +4166,6 @@
 ||man01.dnscry.pt^
 ||yhz01.dnscry.pt^
 ||yyc01.dnscry.pt^
-||doomshadow.com^
 ||drablack.tk^
 ||dns.dremaxx.de^
 ||droyd.top^
@@ -4358,7 +4357,6 @@
 ||maintainbrain.us^
 ||mapspublications.us^
 ||masthisis.ir^
-||adsadkjsadjksakldjxx.math-solver.online^
 ||dns.mathewakhil.online^
 ||pluhbruh.mctwisted.pro^
 ||admin.mehtionthebeat.com^
@@ -4529,7 +4527,6 @@
 ||symlexvpn.com^
 ||tailnet.ru^
 ||vpn.technicule.info^
-||technofix.ir^
 ||terraleads.cloud^
 ||testdomainname.xyz^
 ||tgbio.ru^
@@ -4585,7 +4582,6 @@
 ||workbypass.com^
 ||noturmotherlol.worksheetsforteachers.org^
 ||pdf.worksheetsforteachers.org^
-||workstudyplay.com^
 ||wproxy.net^
 ||pub.xapktech.xyz^
 ||dns.xwdmw.xyz^

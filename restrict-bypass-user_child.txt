@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-29T02:49:23.116Z
+! Last modified: 2025-04-30T02:48:34.441Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4166,7 +4166,6 @@
 ||man01.dnscry.pt^$ctag=user_child
 ||yhz01.dnscry.pt^$ctag=user_child
 ||yyc01.dnscry.pt^$ctag=user_child
-||doomshadow.com^$ctag=user_child
 ||drablack.tk^$ctag=user_child
 ||dns.dremaxx.de^$ctag=user_child
 ||droyd.top^$ctag=user_child
@@ -4358,7 +4357,6 @@
 ||maintainbrain.us^$ctag=user_child
 ||mapspublications.us^$ctag=user_child
 ||masthisis.ir^$ctag=user_child
-||adsadkjsadjksakldjxx.math-solver.online^$ctag=user_child
 ||dns.mathewakhil.online^$ctag=user_child
 ||pluhbruh.mctwisted.pro^$ctag=user_child
 ||admin.mehtionthebeat.com^$ctag=user_child
@@ -4529,7 +4527,6 @@
 ||symlexvpn.com^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
 ||vpn.technicule.info^$ctag=user_child
-||technofix.ir^$ctag=user_child
 ||terraleads.cloud^$ctag=user_child
 ||testdomainname.xyz^$ctag=user_child
 ||tgbio.ru^$ctag=user_child
@@ -4585,7 +4582,6 @@
 ||workbypass.com^$ctag=user_child
 ||noturmotherlol.worksheetsforteachers.org^$ctag=user_child
 ||pdf.worksheetsforteachers.org^$ctag=user_child
-||workstudyplay.com^$ctag=user_child
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
 ||dns.xwdmw.xyz^$ctag=user_child
