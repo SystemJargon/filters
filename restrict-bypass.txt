@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-30T02:48:34.441Z
+! Last modified: 2025-05-01T02:59:03.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4139,6 +4139,7 @@
 ||coloney3.com^
 ||rammerhead.command.enterprises^
 ||coolproxy.org^
+||dns.cooluc.com^
 ||coproxy.io^
 ||cosmohacker.space^
 ||coursera.gq^
@@ -4268,6 +4269,7 @@
 ||hidethistime.com^
 ||himedns.com^
 ||hismanual.ru^
+||holavpnworld.com^
 ||beta.holyunblocker.org^
 ||mythica.home.kg^
 ||homevpn.org^
@@ -4364,7 +4366,6 @@
 ||mfho.cc^
 ||www-proxy.migastep.com^
 ||mkslcl.xyz^
-||moamao.shop^
 ||mojtreker.ru^
 ||later.monkxy.org^
 ||mtagprox.com^
@@ -4411,6 +4412,7 @@
 ||pepetio.xyz^
 ||persianreserve.ir^
 ||pesemes.ir^
+||phantompeer.com^
 ||funrun.pii.at^
 ||funny.pinkertonmc.com^
 ||piro.live^
@@ -4538,6 +4540,7 @@
 ||dns.thiz.top^
 ||king.thronos.eu^
 ||tildenderek.store^
+||titantunnelvpn.com^
 ||tmhhd.tk^
 ||tokit.site^
 ||top-proxy.site^
@@ -4556,6 +4559,7 @@
 ||unlimitedvpn.net^
 ||unrestrictor.net^
 ||unrestrictor.org^
+||unvpn.org^
 ||updatedproxies.com^
 ||usaip.net^
 ||utube.cc^
@@ -4585,6 +4589,7 @@
 ||wproxy.net^
 ||pub.xapktech.xyz^
 ||dns.xwdmw.xyz^
+||yapidor.pro^
 ||yasosy.pro^
 ||lion.yazilimatolye.com^
 ||yellowshiitake.com^

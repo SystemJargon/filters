@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-04-30T02:48:34.441Z
+! Last modified: 2025-05-01T02:59:03.383Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4139,6 +4139,7 @@
 ||coloney3.com^$ctag=user_child
 ||rammerhead.command.enterprises^$ctag=user_child
 ||coolproxy.org^$ctag=user_child
+||dns.cooluc.com^$ctag=user_child
 ||coproxy.io^$ctag=user_child
 ||cosmohacker.space^$ctag=user_child
 ||coursera.gq^$ctag=user_child
@@ -4268,6 +4269,7 @@
 ||hidethistime.com^$ctag=user_child
 ||himedns.com^$ctag=user_child
 ||hismanual.ru^$ctag=user_child
+||holavpnworld.com^$ctag=user_child
 ||beta.holyunblocker.org^$ctag=user_child
 ||mythica.home.kg^$ctag=user_child
 ||homevpn.org^$ctag=user_child
@@ -4364,7 +4366,6 @@
 ||mfho.cc^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
 ||mkslcl.xyz^$ctag=user_child
-||moamao.shop^$ctag=user_child
 ||mojtreker.ru^$ctag=user_child
 ||later.monkxy.org^$ctag=user_child
 ||mtagprox.com^$ctag=user_child
@@ -4411,6 +4412,7 @@
 ||pepetio.xyz^$ctag=user_child
 ||persianreserve.ir^$ctag=user_child
 ||pesemes.ir^$ctag=user_child
+||phantompeer.com^$ctag=user_child
 ||funrun.pii.at^$ctag=user_child
 ||funny.pinkertonmc.com^$ctag=user_child
 ||piro.live^$ctag=user_child
@@ -4538,6 +4540,7 @@
 ||dns.thiz.top^$ctag=user_child
 ||king.thronos.eu^$ctag=user_child
 ||tildenderek.store^$ctag=user_child
+||titantunnelvpn.com^$ctag=user_child
 ||tmhhd.tk^$ctag=user_child
 ||tokit.site^$ctag=user_child
 ||top-proxy.site^$ctag=user_child
@@ -4556,6 +4559,7 @@
 ||unlimitedvpn.net^$ctag=user_child
 ||unrestrictor.net^$ctag=user_child
 ||unrestrictor.org^$ctag=user_child
+||unvpn.org^$ctag=user_child
 ||updatedproxies.com^$ctag=user_child
 ||usaip.net^$ctag=user_child
 ||utube.cc^$ctag=user_child
@@ -4585,6 +4589,7 @@
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
 ||dns.xwdmw.xyz^$ctag=user_child
+||yapidor.pro^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
 ||lion.yazilimatolye.com^$ctag=user_child
 ||yellowshiitake.com^$ctag=user_child
