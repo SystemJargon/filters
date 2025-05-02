@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-01T02:59:03.383Z
+! Last modified: 2025-05-02T02:49:42.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4032,8 +4032,10 @@
 ||1010000.online^$ctag=user_child
 ||1clickvpn.com^$ctag=user_child
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^$ctag=user_child
+||educational-site.24x7.hk^$ctag=user_child
 ||2a87.com^$ctag=user_child
 ||proxy.2d.su^$ctag=user_child
+||namenims.fr.to.2fine.de^$ctag=user_child
 ||2r34.com^$ctag=user_child
 ||30t.online^$ctag=user_child
 ||33bitbank.com^$ctag=user_child
@@ -4067,6 +4069,7 @@
 ||atvsh.ir^$ctag=user_child
 ||aurora-softworks.xyz^$ctag=user_child
 ||avanquestusa.com^$ctag=user_child
+||sakura-site-rammerhead.ax1951.com^$ctag=user_child
 ||axaxa.fun^$ctag=user_child
 ||anyralnestridentrodinfisxu.ayrnatales.net^$ctag=user_child
 ||hola-client-cdn4.b-cdn.net^$ctag=user_child
@@ -4190,6 +4193,7 @@
 ||owenforzono.entergod.com^$ctag=user_child
 ||owenforzonoiseeyou.entergod.com^$ctag=user_child
 ||eonvpn.com^$ctag=user_child
+||bigpoppa.epicgamer.org^$ctag=user_child
 ||epix.epicgamer.org^$ctag=user_child
 ||erproxy.tk^$ctag=user_child
 ||dns.de.futuredns.eu.org^$ctag=user_child
@@ -4208,6 +4212,7 @@
 ||shark-pan.f5.si^$ctag=user_child
 ||socchanpxy.f5.si^$ctag=user_child
 ||familyfirst.church^$ctag=user_child
+||tenhh.farted.net^$ctag=user_child
 ||fineproxy.org^$ctag=user_child
 ||fishingandgunoutdoors.com^$ctag=user_child
 ||flarquix.xyz^$ctag=user_child
@@ -4255,7 +4260,9 @@
 ||gostarlight.xyz^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||guestappearance.us^$ctag=user_child
+||thankchristianifthisworks.guojinloong.cn^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
+||classroom.haoqiw.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
 ||fair.hashable.org^$ctag=user_child
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^$ctag=user_child
@@ -4271,6 +4278,7 @@
 ||hismanual.ru^$ctag=user_child
 ||holavpnworld.com^$ctag=user_child
 ||beta.holyunblocker.org^$ctag=user_child
+||kyrgyzstan-travel.home.kg^$ctag=user_child
 ||mythica.home.kg^$ctag=user_child
 ||homevpn.org^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
@@ -4313,6 +4321,7 @@
 ||mmm-yummy-tasty.jakesthoughts.xyz^$ctag=user_child
 ||jamesisbald.xyz^$ctag=user_child
 ||www-fp.jkw.st^$ctag=user_child
+||narp.fr.to.joe.dj^$ctag=user_child
 ||johnkellyprivate.com^$ctag=user_child
 ||joker81fansbase.site^$ctag=user_child
 ||jurbedout.com^$ctag=user_child
@@ -4377,6 +4386,7 @@
 ||nekoray.org^$ctag=user_child
 ||qwertyabc123.nekros.info^$ctag=user_child
 ||net-ml.online^$ctag=user_child
+||mathew-hill.net4ria.com^$ctag=user_child
 ||netsneak.com^$ctag=user_child
 ||free.vbucks.generator.networkindia.com^$ctag=user_child
 ||free.robux.networkindia.com^$ctag=user_child
@@ -4397,6 +4407,7 @@
 ||obscura.net^$ctag=user_child
 ||oeck.com^$ctag=user_child
 ||doh-pure.onedns.net^$ctag=user_child
+||bokkki.oops.wtf^$ctag=user_child
 ||openips.cc^$ctag=user_child
 ||openproxylist.com^$ctag=user_child
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^$ctag=user_child
@@ -4495,6 +4506,7 @@
 ||shadowtunnels.com^$ctag=user_child
 ||shazamio.online^$ctag=user_child
 ||shflora.com^$ctag=user_child
+||waermoster.sistemasplenario.ar^$ctag=user_child
 ||ofer.ox.sjtech.org^$ctag=user_child
 ||sleezy.nl^$ctag=user_child
 ||lunarsync.smartfoloo.space^$ctag=user_child
@@ -4548,6 +4560,7 @@
 ||trxnfor.com^$ctag=user_child
 ||twinklestarknights.com^$ctag=user_child
 ||typeracer.gq^$ctag=user_child
+||screwedupclick.ufodns.com^$ctag=user_child
 ||unblockedscene.com^$ctag=user_child
 ||unblockedschool.com^$ctag=user_child
 ||unblockedsite.club^$ctag=user_child
@@ -4562,12 +4575,14 @@
 ||unvpn.org^$ctag=user_child
 ||updatedproxies.com^$ctag=user_child
 ||usaip.net^$ctag=user_child
+||willitwork.utrealestatedreamteam.com^$ctag=user_child
 ||utube.cc^$ctag=user_child
 ||valuepremium.us^$ctag=user_child
 ||vanilcraft.ru^$ctag=user_child
 ||securedns.vendorvista.xyz^$ctag=user_child
 ||vipturkey.ir^$ctag=user_child
 ||dns.vod11.xyz^$ctag=user_child
+||lanschool.leno.vopros.kz^$ctag=user_child
 ||vpnbookpk.com^$ctag=user_child
 ||vpnsuper.com^$ctag=user_child
 ||vpnumbrella.com^$ctag=user_child

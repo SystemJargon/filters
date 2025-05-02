@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-01T02:59:03.383Z
+! Last modified: 2025-05-02T02:49:42.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4032,8 +4032,10 @@
 ||1010000.online^
 ||1clickvpn.com^
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
+||educational-site.24x7.hk^
 ||2a87.com^
 ||proxy.2d.su^
+||namenims.fr.to.2fine.de^
 ||2r34.com^
 ||30t.online^
 ||33bitbank.com^
@@ -4067,6 +4069,7 @@
 ||atvsh.ir^
 ||aurora-softworks.xyz^
 ||avanquestusa.com^
+||sakura-site-rammerhead.ax1951.com^
 ||axaxa.fun^
 ||anyralnestridentrodinfisxu.ayrnatales.net^
 ||hola-client-cdn4.b-cdn.net^
@@ -4190,6 +4193,7 @@
 ||owenforzono.entergod.com^
 ||owenforzonoiseeyou.entergod.com^
 ||eonvpn.com^
+||bigpoppa.epicgamer.org^
 ||epix.epicgamer.org^
 ||erproxy.tk^
 ||dns.de.futuredns.eu.org^
@@ -4208,6 +4212,7 @@
 ||shark-pan.f5.si^
 ||socchanpxy.f5.si^
 ||familyfirst.church^
+||tenhh.farted.net^
 ||fineproxy.org^
 ||fishingandgunoutdoors.com^
 ||flarquix.xyz^
@@ -4255,7 +4260,9 @@
 ||gostarlight.xyz^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||guestappearance.us^
+||thankchristianifthisworks.guojinloong.cn^
 ||hamachi-blog.com^
+||classroom.haoqiw.com^
 ||harbaletsstudy.com^
 ||fair.hashable.org^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
@@ -4271,6 +4278,7 @@
 ||hismanual.ru^
 ||holavpnworld.com^
 ||beta.holyunblocker.org^
+||kyrgyzstan-travel.home.kg^
 ||mythica.home.kg^
 ||homevpn.org^
 ||homeworkhelp.click^
@@ -4313,6 +4321,7 @@
 ||mmm-yummy-tasty.jakesthoughts.xyz^
 ||jamesisbald.xyz^
 ||www-fp.jkw.st^
+||narp.fr.to.joe.dj^
 ||johnkellyprivate.com^
 ||joker81fansbase.site^
 ||jurbedout.com^
@@ -4377,6 +4386,7 @@
 ||nekoray.org^
 ||qwertyabc123.nekros.info^
 ||net-ml.online^
+||mathew-hill.net4ria.com^
 ||netsneak.com^
 ||free.vbucks.generator.networkindia.com^
 ||free.robux.networkindia.com^
@@ -4397,6 +4407,7 @@
 ||obscura.net^
 ||oeck.com^
 ||doh-pure.onedns.net^
+||bokkki.oops.wtf^
 ||openips.cc^
 ||openproxylist.com^
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^
@@ -4495,6 +4506,7 @@
 ||shadowtunnels.com^
 ||shazamio.online^
 ||shflora.com^
+||waermoster.sistemasplenario.ar^
 ||ofer.ox.sjtech.org^
 ||sleezy.nl^
 ||lunarsync.smartfoloo.space^
@@ -4548,6 +4560,7 @@
 ||trxnfor.com^
 ||twinklestarknights.com^
 ||typeracer.gq^
+||screwedupclick.ufodns.com^
 ||unblockedscene.com^
 ||unblockedschool.com^
 ||unblockedsite.club^
@@ -4562,12 +4575,14 @@
 ||unvpn.org^
 ||updatedproxies.com^
 ||usaip.net^
+||willitwork.utrealestatedreamteam.com^
 ||utube.cc^
 ||valuepremium.us^
 ||vanilcraft.ru^
 ||securedns.vendorvista.xyz^
 ||vipturkey.ir^
 ||dns.vod11.xyz^
+||lanschool.leno.vopros.kz^
 ||vpnbookpk.com^
 ||vpnsuper.com^
 ||vpnumbrella.com^
