@@ -1,6 +1,6 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-02T02:54:35.421Z
+! Last modified: 2025-05-03T02:50:14.267Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -253,3 +253,8 @@
 @@||cdn.jsdelivr.net^
 @@||i0.wp.com^
 @@||i2.wp.com^
+@@||dash.cloudflare.com^
+@@||blog.cloudflare.com^
+@@||www.cloudflare.com^
+@@||speed.cloudflare.com^
+@@||cloudflareaccess.com^
