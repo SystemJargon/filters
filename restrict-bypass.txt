@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-02T02:49:42.684Z
+! Last modified: 2025-05-03T02:39:13.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4193,7 +4193,6 @@
 ||owenforzono.entergod.com^
 ||owenforzonoiseeyou.entergod.com^
 ||eonvpn.com^
-||bigpoppa.epicgamer.org^
 ||epix.epicgamer.org^
 ||erproxy.tk^
 ||dns.de.futuredns.eu.org^
@@ -4260,9 +4259,7 @@
 ||gostarlight.xyz^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||guestappearance.us^
-||thankchristianifthisworks.guojinloong.cn^
 ||hamachi-blog.com^
-||classroom.haoqiw.com^
 ||harbaletsstudy.com^
 ||fair.hashable.org^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
@@ -4386,7 +4383,6 @@
 ||nekoray.org^
 ||qwertyabc123.nekros.info^
 ||net-ml.online^
-||mathew-hill.net4ria.com^
 ||netsneak.com^
 ||free.vbucks.generator.networkindia.com^
 ||free.robux.networkindia.com^
@@ -4407,7 +4403,6 @@
 ||obscura.net^
 ||oeck.com^
 ||doh-pure.onedns.net^
-||bokkki.oops.wtf^
 ||openips.cc^
 ||openproxylist.com^
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^
@@ -4560,7 +4555,6 @@
 ||trxnfor.com^
 ||twinklestarknights.com^
 ||typeracer.gq^
-||screwedupclick.ufodns.com^
 ||unblockedscene.com^
 ||unblockedschool.com^
 ||unblockedsite.club^
