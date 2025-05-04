@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-03T02:39:13.246Z
+! Last modified: 2025-05-04T02:58:44.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4063,6 +4063,7 @@
 ||amirabbasmousavi.news^
 ||ammmae150.news^
 ||amnezia.org^
+||an-us.pro^
 ||anonwebproxy.com^
 ||anonymizing.net^
 ||adbox-v10.any64.de^
@@ -4080,7 +4081,6 @@
 ||bestaitool.news^
 ||bestvideoproxy.com^
 ||www-proxy.bettercallghaith.wiki^
-||bia2dige.ir^
 ||bigma.org^
 ||bingle.icu^
 ||bingle.pw^
@@ -4240,7 +4240,6 @@
 ||furriesarecute.furryplace.eu^
 ||g-a-y.pro^
 ||obamna.gamefr.xyz^
-||gameroz1.ir^
 ||adfree-games-at.geometry-games.online^
 ||browser.geometry-games.online^
 ||play-games-at.geometry-games.online^
@@ -4259,9 +4258,9 @@
 ||gostarlight.xyz^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||guestappearance.us^
+||gwardgxd.baby^
 ||hamachi-blog.com^
 ||harbaletsstudy.com^
-||fair.hashable.org^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
 ||helphideme.com^
 ||hide.mn^
@@ -4276,7 +4275,6 @@
 ||holavpnworld.com^
 ||beta.holyunblocker.org^
 ||kyrgyzstan-travel.home.kg^
-||mythica.home.kg^
 ||homevpn.org^
 ||homeworkhelp.click^
 ||hotunixispeak.hotunix.com^
@@ -4419,6 +4417,7 @@
 ||persianreserve.ir^
 ||pesemes.ir^
 ||phantompeer.com^
+||malachi.is.dumb.physiosagart.de^
 ||funrun.pii.at^
 ||funny.pinkertonmc.com^
 ||piro.live^
@@ -4456,6 +4455,7 @@
 ||proxyshare.com^
 ||proxytitan.com^
 ||publicproxy.org^
+||puckerbucket.xyz^
 ||timeisblind.puffballofevil.com^
 ||proxy.pyxelworld.com^
 ||qaiik.info^

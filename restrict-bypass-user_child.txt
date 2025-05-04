@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-03T02:39:13.246Z
+! Last modified: 2025-05-04T02:58:44.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4063,6 +4063,7 @@
 ||amirabbasmousavi.news^$ctag=user_child
 ||ammmae150.news^$ctag=user_child
 ||amnezia.org^$ctag=user_child
+||an-us.pro^$ctag=user_child
 ||anonwebproxy.com^$ctag=user_child
 ||anonymizing.net^$ctag=user_child
 ||adbox-v10.any64.de^$ctag=user_child
@@ -4080,7 +4081,6 @@
 ||bestaitool.news^$ctag=user_child
 ||bestvideoproxy.com^$ctag=user_child
 ||www-proxy.bettercallghaith.wiki^$ctag=user_child
-||bia2dige.ir^$ctag=user_child
 ||bigma.org^$ctag=user_child
 ||bingle.icu^$ctag=user_child
 ||bingle.pw^$ctag=user_child
@@ -4240,7 +4240,6 @@
 ||furriesarecute.furryplace.eu^$ctag=user_child
 ||g-a-y.pro^$ctag=user_child
 ||obamna.gamefr.xyz^$ctag=user_child
-||gameroz1.ir^$ctag=user_child
 ||adfree-games-at.geometry-games.online^$ctag=user_child
 ||browser.geometry-games.online^$ctag=user_child
 ||play-games-at.geometry-games.online^$ctag=user_child
@@ -4259,9 +4258,9 @@
 ||gostarlight.xyz^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||guestappearance.us^$ctag=user_child
+||gwardgxd.baby^$ctag=user_child
 ||hamachi-blog.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
-||fair.hashable.org^$ctag=user_child
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^$ctag=user_child
 ||helphideme.com^$ctag=user_child
 ||hide.mn^$ctag=user_child
@@ -4276,7 +4275,6 @@
 ||holavpnworld.com^$ctag=user_child
 ||beta.holyunblocker.org^$ctag=user_child
 ||kyrgyzstan-travel.home.kg^$ctag=user_child
-||mythica.home.kg^$ctag=user_child
 ||homevpn.org^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
 ||hotunixispeak.hotunix.com^$ctag=user_child
@@ -4419,6 +4417,7 @@
 ||persianreserve.ir^$ctag=user_child
 ||pesemes.ir^$ctag=user_child
 ||phantompeer.com^$ctag=user_child
+||malachi.is.dumb.physiosagart.de^$ctag=user_child
 ||funrun.pii.at^$ctag=user_child
 ||funny.pinkertonmc.com^$ctag=user_child
 ||piro.live^$ctag=user_child
@@ -4456,6 +4455,7 @@
 ||proxyshare.com^$ctag=user_child
 ||proxytitan.com^$ctag=user_child
 ||publicproxy.org^$ctag=user_child
+||puckerbucket.xyz^$ctag=user_child
 ||timeisblind.puffballofevil.com^$ctag=user_child
 ||proxy.pyxelworld.com^$ctag=user_child
 ||qaiik.info^$ctag=user_child
