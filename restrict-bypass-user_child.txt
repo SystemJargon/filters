@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-04T02:58:44.694Z
+! Last modified: 2025-05-05T02:55:16.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4324,7 +4324,6 @@
 ||adguard.kasbot.net^$ctag=user_child
 ||doh.kekew.info^$ctag=user_child
 ||kerbeans.com^$ctag=user_child
-||kinoshka.su^$ctag=user_child
 ||kirushop.xyz^$ctag=user_child
 ||knowurcson.store^$ctag=user_child
 ||proxy.kokecoco.me^$ctag=user_child
@@ -4356,7 +4355,6 @@
 ||lotofabric.ru^$ctag=user_child
 ||loubonde.xyz^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
-||power.lumeacopiilorploiesti.ro^$ctag=user_child
 ||lurk.info^$ctag=user_child
 ||magiccloak.net^$ctag=user_child
 ||mainprox.com^$ctag=user_child
@@ -4367,7 +4365,6 @@
 ||pluhbruh.mctwisted.pro^$ctag=user_child
 ||admin.mehtionthebeat.com^$ctag=user_child
 ||membean.cf^$ctag=user_child
-||mfho.cc^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
 ||mkslcl.xyz^$ctag=user_child
 ||mojtreker.ru^$ctag=user_child
