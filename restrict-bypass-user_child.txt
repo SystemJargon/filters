@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-05T02:55:16.550Z
+! Last modified: 2025-05-06T02:50:56.514Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4081,6 +4081,7 @@
 ||bestaitool.news^$ctag=user_child
 ||bestvideoproxy.com^$ctag=user_child
 ||www-proxy.bettercallghaith.wiki^$ctag=user_child
+||bigjimmy.xyz^$ctag=user_child
 ||bigma.org^$ctag=user_child
 ||bingle.icu^$ctag=user_child
 ||bingle.pw^$ctag=user_child
@@ -4475,10 +4476,8 @@
 ||rocketube.online^$ctag=user_child
 ||rockwell.website^$ctag=user_child
 ||romirely.tech^$ctag=user_child
-||hotdogs.root.sx^$ctag=user_child
 ||pluh.root.sx^$ctag=user_child
 ||roskomnadzorgorivadu.ru^$ctag=user_child
-||fol.l.rren.ch^$ctag=user_child
 ||yoursuper.rude.li^$ctag=user_child
 ||rustynailspace.com^$ctag=user_child
 ||gns.s-mold.net^$ctag=user_child
@@ -4513,6 +4512,7 @@
 ||squirrelvpn.com^$ctag=user_child
 ||adbox-v8.srv64.de^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
+||eu1-browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child
@@ -4547,7 +4547,6 @@
 ||titantunnelvpn.com^$ctag=user_child
 ||tmhhd.tk^$ctag=user_child
 ||tokit.site^$ctag=user_child
-||top-proxy.site^$ctag=user_child
 ||totalvpn.com^$ctag=user_child
 ||trxnfor.com^$ctag=user_child
 ||twinklestarknights.com^$ctag=user_child
@@ -4557,8 +4556,6 @@
 ||unblockedsite.club^$ctag=user_child
 ||unblockninja.com^$ctag=user_child
 ||underage-gambling.site^$ctag=user_child
-||flipclevergrid.unids.com^$ctag=user_child
-||flipcleverplay.unids.com^$ctag=user_child
 ||universityproxy.net^$ctag=user_child
 ||unlimitedvpn.net^$ctag=user_child
 ||unrestrictor.net^$ctag=user_child
@@ -4579,7 +4576,6 @@
 ||vpnumbrella.com^$ctag=user_child
 ||go.vrpyourself.online^$ctag=user_child
 ||youve-arived-to.walzone.com^$ctag=user_child
-||webjax.ir^$ctag=user_child
 ||webproxy.club^$ctag=user_child
 ||shark-pan.webredirect.org^$ctag=user_child
 ||stemprivate4.webs.vc^$ctag=user_child

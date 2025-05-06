@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-05T02:55:16.550Z
+! Last modified: 2025-05-06T02:50:56.514Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4081,6 +4081,7 @@
 ||bestaitool.news^
 ||bestvideoproxy.com^
 ||www-proxy.bettercallghaith.wiki^
+||bigjimmy.xyz^
 ||bigma.org^
 ||bingle.icu^
 ||bingle.pw^
@@ -4475,10 +4476,8 @@
 ||rocketube.online^
 ||rockwell.website^
 ||romirely.tech^
-||hotdogs.root.sx^
 ||pluh.root.sx^
 ||roskomnadzorgorivadu.ru^
-||fol.l.rren.ch^
 ||yoursuper.rude.li^
 ||rustynailspace.com^
 ||gns.s-mold.net^
@@ -4513,6 +4512,7 @@
 ||squirrelvpn.com^
 ||adbox-v8.srv64.de^
 ||browse.startpage.com^
+||eu1-browse.startpage.com^
 ||s4-us2.startpage.com^
 ||us1-browse.startpage.com^
 ||us2-browse.startpage.com^
@@ -4547,7 +4547,6 @@
 ||titantunnelvpn.com^
 ||tmhhd.tk^
 ||tokit.site^
-||top-proxy.site^
 ||totalvpn.com^
 ||trxnfor.com^
 ||twinklestarknights.com^
@@ -4557,8 +4556,6 @@
 ||unblockedsite.club^
 ||unblockninja.com^
 ||underage-gambling.site^
-||flipclevergrid.unids.com^
-||flipcleverplay.unids.com^
 ||universityproxy.net^
 ||unlimitedvpn.net^
 ||unrestrictor.net^
@@ -4579,7 +4576,6 @@
 ||vpnumbrella.com^
 ||go.vrpyourself.online^
 ||youve-arived-to.walzone.com^
-||webjax.ir^
 ||webproxy.club^
 ||shark-pan.webredirect.org^
 ||stemprivate4.webs.vc^
