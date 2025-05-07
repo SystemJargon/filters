@@ -1,8 +1,12 @@
 !
 ! Title: Allowlist for Filters Repo - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-07T02:56:55.945Z
+! Last modified: 2025-05-07T23:01:06.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
+!
+!
+! Source name: Allowlist
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist-adguard.txt
 !
 @@||0.client-channel.google.com^
 @@||1drv.com^
@@ -250,11 +254,19 @@
 @@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
 @@||ztd.dds.microsoft.com^
+!
+! Source name: allowlist-requested
+! Source: https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/core-allowlist-requested.txt
+!
+# User submitted domains and subdomains to allow via allowlist-request
+# Created by github.com/systemjargon/allowlists
 @@||cdn.jsdelivr.net^
 @@||i0.wp.com^
 @@||i2.wp.com^
+! filters - issue #21
 @@||dash.cloudflare.com^
 @@||blog.cloudflare.com^
 @@||www.cloudflare.com^
+! cloudflare speedtest, ZT and access
 @@||speed.cloudflare.com^
 @@||cloudflareaccess.com^
