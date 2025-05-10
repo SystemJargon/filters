@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-09T02:52:37.109Z
+! Last modified: 2025-05-10T02:39:44.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4286,6 +4286,7 @@
 ||hugeph.art^$ctag=user_child
 ||ads.hunga1k47.com^$ctag=user_child
 ||beepboopbop.iamadeveloper.dev^$ctag=user_child
+||idinahui.pro^$ctag=user_child
 ||ietors.com^$ctag=user_child
 ||i-will-stealillegaly.ilovestealingfromworkanddoingdrugs.com^$ctag=user_child
 ||imnotaproxy.com^$ctag=user_child
@@ -4333,6 +4334,7 @@
 ||adamz2eso.l5.ca^$ctag=user_child
 ||lablancer.com^$ctag=user_child
 ||www-proxy.ladifsoftware.com^$ctag=user_child
+||laflame.us^$ctag=user_child
 ||larpicidecentralproxy.org^$ctag=user_child
 ||inboxdayo.laviewddns.com^$ctag=user_child
 ||inboxproxy.laviewddns.com^$ctag=user_child
@@ -4346,8 +4348,6 @@
 ||verynicewebsite.letz.dev^$ctag=user_child
 ||lifeisa.live^$ctag=user_child
 ||pa.linkall.uk^$ctag=user_child
-||omar.linxy.eu^$ctag=user_child
-||omarcreatedthis.linxy.eu^$ctag=user_child
 ||literally.info^$ctag=user_child
 ||liyu321.cn^$ctag=user_child
 ||lochridge.org^$ctag=user_child
