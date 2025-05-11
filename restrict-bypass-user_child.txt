@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-10T02:39:44.125Z
+! Last modified: 2025-05-11T02:56:19.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4194,8 +4194,6 @@
 ||eonvpn.com^$ctag=user_child
 ||epix.epicgamer.org^$ctag=user_child
 ||erproxy.tk^$ctag=user_child
-||dns.de.futuredns.eu.org^$ctag=user_child
-||dns.us.futuredns.eu.org^$ctag=user_child
 ||rammerhead.eu.org^$ctag=user_child
 ||evacraft.xyz^$ctag=user_child
 ||everyproxies.info^$ctag=user_child
@@ -4376,7 +4374,6 @@
 ||nathanielgavin.lol^$ctag=user_child
 ||nekoray.org^$ctag=user_child
 ||qwertyabc123.nekros.info^$ctag=user_child
-||net-ml.online^$ctag=user_child
 ||netsneak.com^$ctag=user_child
 ||free.vbucks.generator.networkindia.com^$ctag=user_child
 ||free.robux.networkindia.com^$ctag=user_child
@@ -4474,7 +4471,6 @@
 ||rocketube.online^$ctag=user_child
 ||rockwell.website^$ctag=user_child
 ||romirely.tech^$ctag=user_child
-||pluh.root.sx^$ctag=user_child
 ||roskomnadzorgorivadu.ru^$ctag=user_child
 ||yoursuper.rude.li^$ctag=user_child
 ||rustynailspace.com^$ctag=user_child
@@ -4589,6 +4585,7 @@
 ||wproxy.net^$ctag=user_child
 ||pub.xapktech.xyz^$ctag=user_child
 ||dns.xwdmw.xyz^$ctag=user_child
+||ya-krutoi.pro^$ctag=user_child
 ||yapidor.pro^$ctag=user_child
 ||yasosy.pro^$ctag=user_child
 ||lion.yazilimatolye.com^$ctag=user_child
