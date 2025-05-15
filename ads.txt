@@ -1,6 +1,6 @@
 !
 ! Title: Ad-blocking Lists - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-14T02:40:57.442Z
+! Last modified: 2025-05-15T02:40:11.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -9772,6 +9772,14 @@
 ||xhr.*.
 ||advertisement.*.
 ||adservice.*.
+||aucdn.net^
+||s.dt6ycu.com^
+||zipup.click^
+||cpmemes.cfd^
+||fileescd.cfd^
+||productdownload.pro^
+||hrzn-nxt.com^
+||madcheddar.net^
 ||tradehouse.media^
 ||couloirmatrass.com^
 ||noyanceborer.com^
@@ -22444,6 +22452,7 @@ vkcdnservice.appspot.com^
 ||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
+||doapujoptude.net^
 ||doastaiwhouwouy.com^
 ||doblazikena.com^
 ||doblonsurare.shop^
@@ -26473,6 +26482,7 @@ vkcdnservice.appspot.com^
 ||hushpub.com^
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
+||hussaiphoa.com^
 ||hutlockshelter.com^
 ||hutoumseet.com^
 ||huwaczntu.com^
@@ -29044,6 +29054,7 @@ vkcdnservice.appspot.com^
 ||luxupcdnc.com^
 ||luyten-98c.com^
 ||lv9qr0g0.xyz^
+||lvbeybbrwvywq.top^
 ||lvhcqaku.com^
 ||lvlhmjerf.buzz^
 ||lvodomo.info^
@@ -29747,6 +29758,7 @@ vkcdnservice.appspot.com^
 ||mkeqmafk.com^
 ||mkhoj.com^
 ||mkjsqrpmxqdf.com^
+||mkocdauxf.com^
 ||ml0z14azlflr.com^
 ||mladedda.net^
 ||mlatrmae.net^
@@ -37004,6 +37016,7 @@ vkcdnservice.appspot.com^
 ||tanhelpfulcuddle.com^
 ||tankleconflab.shop^
 ||tanothingfruiti.com^
+||tansazauksorg.com^
 ||tanzineshruti.shop^
 ||taoyinbiacid.com^
 ||taozgpkjzpdtgr.com^
@@ -39764,6 +39777,7 @@ vkcdnservice.appspot.com^
 ||witnessremovalsoccer.com^
 ||witnesssellingoranges.com^
 ||witskirifkab.com^
+||wittijtuno.com^
 ||wittomeinvokes.com^
 ||wittyanswer.pro^
 ||wiwarrkazg.com^
@@ -40100,6 +40114,7 @@ vkcdnservice.appspot.com^
 ||xceuzbaysacqp.global^
 ||xcinilwpypp.com^
 ||xciozdacgos.com^
+||xcipwuoft.com^
 ||xcowuheclvwryh.com^
 ||xctoquhnalqgn.vip^
 ||xcuffrzha.com^
@@ -44296,6 +44311,12 @@ vkcdnservice.appspot.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||kib.hu^
+||adlink.wurl.com^
+||miqdigital.com^
+||imp.datafyhq.com^
+||getrockerbox.com^
+||tuhesok.com^
+||advmusic.com^
 ||track.iegcom.com^
 ||af.click.ru^
 ||treconeanalytics.com^
@@ -99912,7 +99933,6 @@ inapps.appsflyersdk.com^
 ||xxyolk.com^
 ||mountrs.com^
 ||multibux.org^
-||advmusic.com^
 ||dtashjvcjswq.info^
 ||7nkbwdf1uq.ru^
 ||tiz.jsite.top^
@@ -109000,10 +109020,18 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||qimsgi.icu^
+||akoo0515uis.com^
+||wyvw.cn^
+||niu05150jd.top^
+||fhl05150ps.com^
+||opkrerkaidf.com^
 ||ssqxuy.icu^
 ||gmendanln.com^
 ||akoo0514uis.com^
 ||bkqa.cn^
+||jnjslk.top^
+||ymgranque.com^
 ||upufkg.icu^
 ||bycrovalb.com^
 ||hur05130kns.com^
@@ -114398,7 +114426,6 @@ analytics-*.aasaam.com
 ||mdp-appconf-sg.heytapdl.com^
 ||homify.com.mx^
 ||howdoesin.net^
-||hrzn-nxt.com^
 ||segment-api.humann.com^
 ||huq.io^
 ||stats.huuuge.net^
@@ -114936,7 +114963,6 @@ analytics-*.aasaam.com
 ||grs.platform.dbankcloud.ru^
 ||search.us.namequery.com^
 ||acsbapp.com^
-||getrockerbox.com^
 ||grs.dbankcloud.asia^
 ||c2shb.ssp.yahoo.com^
 ||treasuredata.com^
@@ -115010,7 +115036,6 @@ analytics-*.aasaam.com
 ||metrics1-drcn.dt.dbankcloud.cn^
 ||keen.io^
 ||bup.bankofamerica.com^
-||aucdn.net^
 ||merequartz.com^
 ||www.knotch-cdn.com^
 ||b.px-cdn.net^
