@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-15T02:52:03.880Z
+! Last modified: 2025-05-16T02:54:08.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4080,6 +4080,7 @@
 ||anonymizing.net^$ctag=user_child
 ||adbox-v10.any64.de^$ctag=user_child
 ||vocab.real.anynall.com^$ctag=user_child
+||aplusvpn.com^$ctag=user_child
 ||proof.major.archanet.org^$ctag=user_child
 ||atvsh.ir^$ctag=user_child
 ||aufonddesbois.com^$ctag=user_child
@@ -4216,6 +4217,7 @@
 ||lol-asha.dedyn.io^$ctag=user_child
 ||edu.defdc.com^$ctag=user_child
 ||wutidontunderstand.defdc.com^$ctag=user_child
+||use.delcarmen.cl^$ctag=user_child
 ||desec.io^$ctag=user_child
 ||desertsand.us^$ctag=user_child
 ||dgshangding.com^$ctag=user_child
@@ -4654,8 +4656,10 @@
 ||rocketube.online^$ctag=user_child
 ||rockwell.website^$ctag=user_child
 ||romirely.tech^$ctag=user_child
+||jaiguneeds.root.sx^$ctag=user_child
 ||roskomnadzorgorivadu.ru^$ctag=user_child
 ||yoursuper.rude.li^$ctag=user_child
+||error404becausepar1scantlose.run.place^$ctag=user_child
 ||rustynailspace.com^$ctag=user_child
 ||gns.s-mold.net^$ctag=user_child
 ||safing.io^$ctag=user_child
@@ -4699,6 +4703,7 @@
 ||squirrelvpn.com^$ctag=user_child
 ||chat.digimaster.srv.br^$ctag=user_child
 ||adbox-v8.srv64.de^$ctag=user_child
+||use.star.is^$ctag=user_child
 ||task.words.starlordbob.com^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child

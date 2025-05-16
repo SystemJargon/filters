@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-15T02:52:03.880Z
+! Last modified: 2025-05-16T02:54:08.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4080,6 +4080,7 @@
 ||anonymizing.net^
 ||adbox-v10.any64.de^
 ||vocab.real.anynall.com^
+||aplusvpn.com^
 ||proof.major.archanet.org^
 ||atvsh.ir^
 ||aufonddesbois.com^
@@ -4216,6 +4217,7 @@
 ||lol-asha.dedyn.io^
 ||edu.defdc.com^
 ||wutidontunderstand.defdc.com^
+||use.delcarmen.cl^
 ||desec.io^
 ||desertsand.us^
 ||dgshangding.com^
@@ -4654,8 +4656,10 @@
 ||rocketube.online^
 ||rockwell.website^
 ||romirely.tech^
+||jaiguneeds.root.sx^
 ||roskomnadzorgorivadu.ru^
 ||yoursuper.rude.li^
+||error404becausepar1scantlose.run.place^
 ||rustynailspace.com^
 ||gns.s-mold.net^
 ||safing.io^
@@ -4699,6 +4703,7 @@
 ||squirrelvpn.com^
 ||chat.digimaster.srv.br^
 ||adbox-v8.srv64.de^
+||use.star.is^
 ||task.words.starlordbob.com^
 ||browse.startpage.com^
 ||s4-us2.startpage.com^
