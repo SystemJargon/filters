@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-16T02:54:08.680Z
+! Last modified: 2025-05-20T02:55:18.410Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4035,6 +4035,8 @@
 ||1clickvpn.com^
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
 ||educational-site.24x7.hk^
+||mrfstudyguild.26252526.xyz^
+||quizzesforhelp.26252526.xyz^
 ||2a87.com^
 ||proxy.2d.su^
 ||namenims.fr.to.2fine.de^
@@ -4081,6 +4083,7 @@
 ||adbox-v10.any64.de^
 ||vocab.real.anynall.com^
 ||aplusvpn.com^
+||locval.araminimichael.ch^
 ||proof.major.archanet.org^
 ||atvsh.ir^
 ||aufonddesbois.com^
@@ -4090,6 +4093,7 @@
 ||sakura-site-rammerhead.ax1951.com^
 ||axaxa.fun^
 ||anyralnestridentrodinfisxu.ayrnatales.net^
+||learn.azimei.cn^
 ||teachers.azimei.cn^
 ||hola-client-cdn4.b-cdn.net^
 ||i.am.selling.b33r.us^
@@ -4102,6 +4106,7 @@
 ||www-proxy.bettercallghaith.wiki^
 ||bigjimmy.xyz^
 ||bigma.org^
+||binance.info^
 ||carverd.bine.me^
 ||bingle.icu^
 ||bingle.pw^
@@ -4179,7 +4184,6 @@
 ||i-like-my-cheese-drippy-bruh.iamasigma.cognus.cl^
 ||4y5t.coke0.cc^
 ||coloney3.com^
-||automisto24.com.ua^
 ||data.c-abogados.com.ar^
 ||about.cmbazan.com.ar^
 ||pleaseworkiwantutopia.faizinternational.com.np^
@@ -4193,6 +4197,7 @@
 ||coolproxy.org^
 ||dns.cooluc.com^
 ||coproxy.io^
+||real.coremindx.com^
 ||cosmohacker.space^
 ||coursera.gq^
 ||covertproxy.com^
@@ -4208,12 +4213,15 @@
 ||croxyproxyvpn.com^
 ||mathiscool.cryodome.com^
 ||r8gjg2-8000.csb.app^
+||pltw.csproject.org^
 ||grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws^
+||ab.ctx.cl^
 ||cubixpvp.net^
 ||cybershield.cc^
 ||rammerhead.d-n-s.name^
 ||plans.datacommunicationsinc.com^
 ||zrd.ddns.net^
+||why.is.it.my.fault.de-a.org^
 ||lol-asha.dedyn.io^
 ||edu.defdc.com^
 ||wutidontunderstand.defdc.com^
@@ -4234,6 +4242,7 @@
 ||yhz01.dnscry.pt^
 ||yyc01.dnscry.pt^
 ||watch-dexter.or-you-now.donciccio.net^
+||arjunthestinkyindian.dorsrv.ru^
 ||drablack.tk^
 ||dns.dremaxx.de^
 ||droyd.top^
@@ -4290,7 +4299,6 @@
 ||fishingandgunoutdoors.com^
 ||flarquix.xyz^
 ||schoolnotes.followork.net^
-||footballinter.com^
 ||footlia.com^
 ||buy.footlooseandfancyrich.com^
 ||rf4.forestberrypi.com^
@@ -4345,19 +4353,25 @@
 ||fundingchoicesmessages.google.com^
 ||tunnel.googlezip.net^
 ||gostarlight.xyz^
+||fisdinstructure.gotroot.pw^
 ||fractioncaculator.govt.hu^
 ||gsdkhjgsbgsdsjhvdskjlg.ru^
 ||gamgasyoppakuteri-zenttodabi.gslb.info^
 ||guestappearance.us^
 ||intertravel.guillaumevanstrydonck.be^
+||domain.guojinloong.cn^
 ||gwardgxd.baby^
 ||schoolnotes.h0rst.us^
+||artiom.made.this.h0stname.net^
+||furnandoistrans.hackquest.com^
 ||gopeople.hackquest.com^
 ||hamachi-blog.com^
 ||cars.happyforever.com^
+||skibidiparkergoon.happyforever.com^
 ||turtle.happyforever.com^
 ||yessir.happyforever.com^
 ||harbaletsstudy.com^
+||dylanigotchu.hbmc.net^
 ||chimpanzinibananini.hec.to^
 ||hooda.math.hec.to^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
@@ -4397,6 +4411,8 @@
 ||link-two.ibewlocalzero.com^
 ||idinahui.pro^
 ||ietors.com^
+||worldbookonline.ignorelist.com^
+||hellotaka.iiiii.info^
 ||hp.ilove4ndan.com^
 ||rhp.ilove4ndan.com^
 ||i-will-stealillegaly.ilovestealingfromworkanddoingdrugs.com^
@@ -4426,11 +4442,15 @@
 ||seigetime.ix.tc^
 ||tridecagram.ix.tc^
 ||cells.school.jaaax.com^
+||sm6.jake.eu^
 ||mmm-yummy-tasty.jakesthoughts.xyz^
 ||jalaliveapp.com^
 ||jamesisbald.xyz^
+||px.jarnus.xyz^
+||lowlow.jellyfl1x.es^
 ||www-fp.jkw.st^
 ||narp.fr.to.joe.dj^
+||johneldenring.lol^
 ||johnkellyprivate.com^
 ||joker81fansbase.site^
 ||mathissofun.jumpingcrab.com^
@@ -4457,6 +4477,7 @@
 ||henry-and-evan-cant-rizz.kyleton.org^
 ||l-am-sigma.pro^
 ||adamz2eso.l5.ca^
+||docs.google.l5.ca^
 ||quesosrammerhaha.l5.ca^
 ||lablancer.com^
 ||www-proxy.ladifsoftware.com^
@@ -4475,15 +4496,23 @@
 ||testlinkimadernyoufatbitc.letz.dev^
 ||verynicewebsite.letz.dev^
 ||lifeisa.live^
+||likeproxy.com^
 ||pa.linkall.uk^
+||omar.linxy.eu^
+||omarcreatedthis.linxy.eu^
 ||literally.info^
 ||liyu321.cn^
 ||lochridge.org^
+||browser.lolo.pro^
+||pbs.lookids.com^
+||edu.loskks.org^
 ||lotofabric.ru^
 ||loubonde.xyz^
 ||lucasmaia.org^
+||btg.ludopop.cl^
 ||lurk.info^
 ||magiccloak.net^
+||mahnor.com^
 ||mainprox.com^
 ||maintainbrain.us^
 ||mapspublications.us^
@@ -4497,6 +4526,7 @@
 ||melkshamtownfc.com^
 ||membean.cf^
 ||recap.utopia.menorahscrazyblog.com^
+||researchedu.mesaayuda.net^
 ||www-proxy.migastep.com^
 ||nibba.minecraftnoob.com^
 ||dynamitefor.miningsteel.cl^
@@ -4554,6 +4584,7 @@
 ||obscura.net^
 ||peepeepod.odoobooks.com^
 ||oeck.com^
+||sleepykirby.ofmdirect.com^
 ||oldwhitehart.com^
 ||doh-pure.onedns.net^
 ||onilx.com^
@@ -4653,6 +4684,7 @@
 ||elishawisabaddie.rinet.fi^
 ||rnblyatclub.online^
 ||skibidirizz.robinhud.com^
+||rocketprox.com^
 ||rocketube.online^
 ||rockwell.website^
 ||romirely.tech^
@@ -4662,6 +4694,7 @@
 ||error404becausepar1scantlose.run.place^
 ||rustynailspace.com^
 ||gns.s-mold.net^
+||scienceforkids.saahee.cn^
 ||safing.io^
 ||sakirdakproxy.tk^
 ||sandmining.us^
@@ -4683,6 +4716,7 @@
 ||shazamio.online^
 ||shflora.com^
 ||fair-hawk-609.shuttlemath.com^
+||gurtyo.sino.tw^
 ||waermoster.sistemasplenario.ar^
 ||ofer.ox.sjtech.org^
 ||counseling.skamaria.co^
@@ -4697,6 +4731,9 @@
 ||konata-ice.soon.it^
 ||maxkershoe.soon.it^
 ||r.soraapp.gq^
+||admin1.sotna.org^
+||cms.sotna.org^
+||sigmawebsitebyaleks.spacenaught.us^
 ||scienceandmore.spacetechnology.net^
 ||spinalfluid.world^
 ||physicaleducation.sportseducationinstructors.org^
@@ -4711,6 +4748,7 @@
 ||us2-browse.startpage.com^
 ||qokl0912.stedler.org^
 ||whatisfunanymore.com.strangled.net^
+||getbacktowork.strangled.net^
 ||you.know.that.im.strokin.it^
 ||pleasekeep.strokin.it^
 ||studebaker.ir^
@@ -4726,6 +4764,7 @@
 ||surfwebsite.org^
 ||surprise.pics^
 ||popteeee-oawhnefoua-foaebaouef.swanndvr.net^
+||ramm-ume-pro.swanndvr.net^
 ||rammerhead-himitu-umekomi-1.swanndvr.net^
 ||symlexvpn.com^
 ||bold-river-186.sz.games^
@@ -4735,6 +4774,7 @@
 ||tailnet.ru^
 ||its-spatter.blood-spatter.tcm-studios.info^
 ||vpn.technicule.info^
+||tekirdagescortlar.com^
 ||terraleads.cloud^
 ||testdomainname.xyz^
 ||tgbio.ru^
@@ -4744,6 +4784,7 @@
 ||thejungla.com^
 ||themeaningofallmeaningsforallofthemeaningsmeanings.lol^
 ||thenuke.org^
+||giggachad.thepotionsmaster.net^
 ||minds.plant.theseks.net^
 ||thisismyproxy.site^
 ||dns.thiz.top^
@@ -4755,6 +4796,7 @@
 ||tokit.site^
 ||study.toptrends.ch^
 ||totalvpn.com^
+||tpymainx01.ru^
 ||linewize.tradekinginternational.com^
 ||holaernesto.triplewipe.ru^
 ||trxnfor.com^
@@ -4762,6 +4804,7 @@
 ||dmvontop.twilightparadox.com^
 ||twinklestarknights.com^
 ||typeracer.gq^
+||unblockableproxy.org^
 ||unblockedscene.com^
 ||unblockedschool.com^
 ||unblockedsite.club^
@@ -4778,6 +4821,7 @@
 ||usaip.net^
 ||willitwork.utrealestatedreamteam.com^
 ||utube.cc^
+||www-proxy.valentiin.com^
 ||valuepremium.us^
 ||vanilcraft.ru^
 ||ranamaddadaaaadjka.ve3.info^
@@ -4787,6 +4831,7 @@
 ||vipturkey.ir^
 ||dns.vod11.xyz^
 ||lanschool.leno.vopros.kz^
+||vpn-quick.com^
 ||vpnbookpk.com^
 ||vpnsuper.com^
 ||vpnumbrella.com^
@@ -4802,6 +4847,8 @@
 ||wedding-present.us^
 ||how.tutor.what2no.com^
 ||dns.wibenson.cloud^
+||wiefy.com^
+||hellotaka.wiki.gd^
 ||education.wildsurf.net^
 ||pirate.wildsurf.net^
 ||use.winterhouse.info^
@@ -4812,6 +4859,8 @@
 ||pdf.worksheetsforteachers.org^
 ||wproxy.net^
 ||pub.xapktech.xyz^
+||learn.xcloud.ar^
+||xsfwow.com^
 ||hailey-complex.xst.cl^
 ||dns.xwdmw.xyz^
 ||ya-krutoi.pro^
@@ -4821,6 +4870,7 @@
 ||yellowshiitake.com^
 ||sg.yepdns.com^
 ||yesbutno.wtf^
+||alst.ynbbs.cc^
 ||yogawiki.in^
 ||youproxything.com^
 ||yuyuproxy.com^
@@ -4831,4 +4881,3 @@
 ||zerfaucet.space^
 ||zproxy.org^
 ||zpzpzpapapap4d.online^
-||dns.zui.lol^
