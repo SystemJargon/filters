@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-21T02:54:37.094Z
+! Last modified: 2025-05-22T02:54:14.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4035,8 +4035,11 @@
 ||1clickvpn.com^
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
 ||educational-site.24x7.hk^
+||bbcincheecks.26252526.xyz^
+||lucasisbritsh.26252526.xyz^
 ||mrfstudyguild.26252526.xyz^
 ||quizzesforhelp.26252526.xyz^
+||when-sophie-gets-angry.26252526.xyz^
 ||2a87.com^
 ||proxy.2d.su^
 ||namenims.fr.to.2fine.de^
@@ -4060,7 +4063,6 @@
 ||dns.8887744.xyz^
 ||aaronzweb.xyz^
 ||aboba.pro^
-||abumaather.com^
 ||achievementnetwork.tk^
 ||r.achievementnetwork.gq^
 ||activatevpn.com^
@@ -4072,10 +4074,10 @@
 ||huieurammarda.allez.la^
 ||alohabrowser.com^
 ||american-proxy.com^
-||americantreewichita.com^
 ||amirabbasmousavi.news^
 ||ammmae150.news^
 ||amnezia.org^
+||home.amq.ro^
 ||an-us.pro^
 ||a-regist.anondns.net^
 ||anonwebproxy.com^
@@ -4086,7 +4088,6 @@
 ||locval.araminimichael.ch^
 ||proof.major.archanet.org^
 ||atvsh.ir^
-||aufonddesbois.com^
 ||stevenisafemboy.auraria.org^
 ||aurora-softworks.xyz^
 ||avanquestusa.com^
@@ -4099,6 +4100,7 @@
 ||i.am.selling.b33r.us^
 ||westhamforever.bad.mn^
 ||doh.battle.christmas^
+||plant-selection.baumgardner.us^
 ||bebra.ai^
 ||beehivesmp.com^
 ||bestaitool.news^
@@ -4106,11 +4108,11 @@
 ||www-proxy.bettercallghaith.wiki^
 ||bigjimmy.xyz^
 ||bigma.org^
-||binance.info^
 ||carverd.bine.me^
 ||bingle.icu^
 ||bingle.pw^
 ||sunny-wolf-734.biologyscholar.org^
+||birgerboy.com^
 ||tips.bitesmagazine.com^
 ||physics.sciencestudy.biz.st^
 ||bizfast.info^
@@ -4132,6 +4134,7 @@
 ||duracell.bulkenergy.cl^
 ||burger.burgerman.burgerbar.cl^
 ||dns.butterfly87.sbs^
+||register.cakk.us^
 ||bananakun.camdvr.org^
 ||help.cartes.cl^
 ||center-crm.store^
@@ -4179,7 +4182,6 @@
 ||10bestvpn.co.uk^
 ||adguard.aa4.co.uk^
 ||academy.velolife.co.za^
-||coachesservices.com^
 ||goguardian-sucks.cognus.cl^
 ||i-like-my-cheese-drippy-bruh.iamasigma.cognus.cl^
 ||4y5t.coke0.cc^
@@ -4216,6 +4218,7 @@
 ||pltw.csproject.org^
 ||grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws^
 ||ab.ctx.cl^
+||academy.ctx.cl^
 ||cubixpvp.net^
 ||cybershield.cc^
 ||rammerhead.d-n-s.name^
@@ -4228,7 +4231,6 @@
 ||use.delcarmen.cl^
 ||desec.io^
 ||desertsand.us^
-||dgshangding.com^
 ||ojisama.dietpc.org^
 ||diglet.org^
 ||doge.dinprima.ro^
@@ -4299,7 +4301,6 @@
 ||fishingandgunoutdoors.com^
 ||flarquix.xyz^
 ||schoolnotes.followork.net^
-||footlia.com^
 ||buy.footlooseandfancyrich.com^
 ||rf4.forestberrypi.com^
 ||www-rf4.forestberrypi.com^
@@ -4350,7 +4351,6 @@
 ||about.glasstechnik.ro^
 ||english.go25pedagogi.eu^
 ||gomath.us^
-||fundingchoicesmessages.google.com^
 ||tunnel.googlezip.net^
 ||gostarlight.xyz^
 ||fisdinstructure.gotroot.pw^
@@ -4362,6 +4362,7 @@
 ||domain.guojinloong.cn^
 ||gwardgxd.baby^
 ||schoolnotes.h0rst.us^
+||potatojuice.h0stname.net^
 ||artiom.made.this.h0stname.net^
 ||furnandoistrans.hackquest.com^
 ||gopeople.hackquest.com^
@@ -4389,9 +4390,9 @@
 ||beta.holyunblocker.org^
 ||kyrgyzstan-travel.home.kg^
 ||tests.debate.homebrewology.org^
+||cometomyhouse.homelinuxserver.org^
 ||homevpn.org^
 ||homeworkhelp.click^
-||peru-gnu-737966.hostingersite.com^
 ||hotunixispeak.hotunix.com^
 ||rmerheadonionlink.hotunix.com^
 ||schoology.hotunix.com^
@@ -4444,9 +4445,9 @@
 ||cells.school.jaaax.com^
 ||sm6.jake.eu^
 ||mmm-yummy-tasty.jakesthoughts.xyz^
-||jalaliveapp.com^
 ||jamesisbald.xyz^
 ||px.jarnus.xyz^
+||woodshop.jbworks.com^
 ||lowlow.jellyfl1x.es^
 ||www-fp.jkw.st^
 ||narp.fr.to.joe.dj^
@@ -4459,6 +4460,7 @@
 ||gcpsk12.k.vu^
 ||uto1.k.vu^
 ||kind-fox-975.k12biology.com^
+||proteomics.k12biology.com^
 ||pure-cloud-838.k12biology.com^
 ||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
@@ -4515,6 +4517,7 @@
 ||mahnor.com^
 ||mainprox.com^
 ||maintainbrain.us^
+||wiki.manica.org^
 ||mapspublications.us^
 ||masthisis.ir^
 ||dns.mathewakhil.online^
@@ -4523,11 +4526,11 @@
 ||admin.mehtionthebeat.com^
 ||peepod.meicosoft.com^
 ||support.meicosoft.com^
-||melkshamtownfc.com^
 ||membean.cf^
 ||recap.utopia.menorahscrazyblog.com^
 ||researchedu.mesaayuda.net^
 ||www-proxy.migastep.com^
+||hihihi.minecraftnoob.com^
 ||nibba.minecraftnoob.com^
 ||dynamitefor.miningsteel.cl^
 ||mkslcl.xyz^
@@ -4558,7 +4561,6 @@
 ||free.vbucks.generator.networkindia.com^
 ||free.robux.networkindia.com^
 ||newproxylist.net^
-||newteacheruniversity.com^
 ||nextgen.nex.sh^
 ||nirbytes.com^
 ||nolagvpn.com^
@@ -4585,9 +4587,7 @@
 ||peepeepod.odoobooks.com^
 ||oeck.com^
 ||sleepykirby.ofmdirect.com^
-||oldwhitehart.com^
 ||doh-pure.onedns.net^
-||onilx.com^
 ||benmani2341shark.oops.wtf^
 ||rammerhead.oops.wtf^
 ||uhm.sorry.oops.wtf^
@@ -4657,11 +4657,12 @@
 ||proxyserver.rocks^
 ||proxyshare.com^
 ||proxytitan.com^
-||ptechline.com^
 ||publicproxy.org^
 ||puckerbucket.xyz^
 ||dontgetthisblocked.puffballofevil.com^
 ||timeisblind.puffballofevil.com^
+||browser.pythonsden.net^
+||ramjam.pythontheproto.com^
 ||proxy.pyxelworld.com^
 ||qaiik.info^
 ||qpoll.ir^
@@ -4695,6 +4696,7 @@
 ||rustynailspace.com^
 ||gns.s-mold.net^
 ||scienceforkids.saahee.cn^
+||math.sachhot.com^
 ||safing.io^
 ||sakirdakproxy.tk^
 ||sandmining.us^
@@ -4754,6 +4756,7 @@
 ||studebaker.ir^
 ||study123.icu^
 ||doh.sublime9.xyz^
+||start.succeed.cl^
 ||bigbugpoppearblack.super-modding.quest^
 ||kadowaki.super-modding.quest^
 ||supercoolcomputersandstuff.win^
@@ -4770,16 +4773,14 @@
 ||bold-river-186.sz.games^
 ||wild-moon-986.sz.games^
 ||math.tests.szk-obihiro.com^
-||tacosmn.com^
 ||tailnet.ru^
 ||its-spatter.blood-spatter.tcm-studios.info^
 ||vpn.technicule.info^
-||tekirdagescortlar.com^
 ||terraleads.cloud^
 ||testdomainname.xyz^
 ||tgbio.ru^
+||shark.thatguy.space^
 ||thisisnotagamewebsite.thebrittainlawfirm.com^
-||thecedarcentre.com^
 ||distributiveproperty.thehomeserver.net^
 ||thejungla.com^
 ||themeaningofallmeaningsforallofthemeaningsmeanings.lol^
@@ -4854,6 +4855,7 @@
 ||use.winterhouse.info^
 ||lilliwnnapfeswa9z.wolnoscwkieszeni.pl^
 ||woodenclock.us^
+||shop.woodworker.cl^
 ||workbypass.com^
 ||noturmotherlol.worksheetsforteachers.org^
 ||pdf.worksheetsforteachers.org^
@@ -4875,9 +4877,11 @@
 ||youproxything.com^
 ||yuyuproxy.com^
 ||adg.yybyy.wiki^
+||learning.zanity.net^
 ||bananakun.zapto.org^
 ||hudzonlzzzzzhj.zavoj.ch^
 ||tststststststststststststststststststststs.zavoj.ch^
 ||zerfaucet.space^
+||calculus.zothow.com^
 ||zproxy.org^
 ||zpzpzpapapap4d.online^
