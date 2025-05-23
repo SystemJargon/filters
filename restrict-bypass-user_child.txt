@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-22T02:54:14.617Z
+! Last modified: 2025-05-23T02:53:48.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4050,6 +4050,7 @@
 ||bold-storm-255.3kh0.org^$ctag=user_child
 ||calm-fox-682.3kh0.org^$ctag=user_child
 ||calm-hawk-529.3kh0.org^$ctag=user_child
+||happy-sun-587.3kh0.org^$ctag=user_child
 ||notfound-google.404.mn^$ctag=user_child
 ||bannana.web-doge.42web.io^$ctag=user_child
 ||dns.444723.xyz^$ctag=user_child
@@ -4070,6 +4071,7 @@
 ||research.africa.com^$ctag=user_child
 ||agmath.xyz^$ctag=user_child
 ||agurydog.website^$ctag=user_child
+||study.ajhurst.org^$ctag=user_child
 ||use.alabasgames.com^$ctag=user_child
 ||huieurammarda.allez.la^$ctag=user_child
 ||alohabrowser.com^$ctag=user_child
@@ -4102,7 +4104,6 @@
 ||doh.battle.christmas^$ctag=user_child
 ||plant-selection.baumgardner.us^$ctag=user_child
 ||bebra.ai^$ctag=user_child
-||beehivesmp.com^$ctag=user_child
 ||bestaitool.news^$ctag=user_child
 ||bestvideoproxy.com^$ctag=user_child
 ||www-proxy.bettercallghaith.wiki^$ctag=user_child
@@ -4130,9 +4131,9 @@
 ||schoolwork.broomleigh.org^$ctag=user_child
 ||brothebro.com^$ctag=user_child
 ||browserling.com^$ctag=user_child
+||edu.bsfa.info^$ctag=user_child
 ||travel.bsfa.info^$ctag=user_child
 ||duracell.bulkenergy.cl^$ctag=user_child
-||burger.burgerman.burgerbar.cl^$ctag=user_child
 ||dns.butterfly87.sbs^$ctag=user_child
 ||register.cakk.us^$ctag=user_child
 ||bananakun.camdvr.org^$ctag=user_child
@@ -4253,10 +4254,10 @@
 ||georgetown.duia.us^$ctag=user_child
 ||netnotworking.dynamicnetwork.ro^$ctag=user_child
 ||adbox-v9.dynipv6.de^$ctag=user_child
-||im-in-the-thick-of-it-everybody-knows.dynorex.com^$ctag=user_child
 ||dns.dynx.pro^$ctag=user_child
 ||please-please-please-watch-you-or.dexter.e1racecar.com^$ctag=user_child
 ||earth-vpn.net^$ctag=user_child
+||study.info.east-kazakhstan.su^$ctag=user_child
 ||filter-admins-come-and-get-me.easterndns.com^$ctag=user_child
 ||goguardian-is-not-my-guardian.easterndns.com^$ctag=user_child
 ||konnnitiha----saiko.easterndns.com^$ctag=user_child
@@ -4343,11 +4344,7 @@
 ||ghostbrowser.com^$ctag=user_child
 ||proxybrowser.github.io^$ctag=user_child
 ||sdns22.gkonuralp.com^$ctag=user_child
-||earth.glacialpower.com^$ctag=user_child
 ||i-civics.glacialpower.com^$ctag=user_child
-||mars.glacialpower.com^$ctag=user_child
-||mercury.glacialpower.com^$ctag=user_child
-||venus.glacialpower.com^$ctag=user_child
 ||about.glasstechnik.ro^$ctag=user_child
 ||english.go25pedagogi.eu^$ctag=user_child
 ||gomath.us^$ctag=user_child
@@ -4360,6 +4357,7 @@
 ||guestappearance.us^$ctag=user_child
 ||intertravel.guillaumevanstrydonck.be^$ctag=user_child
 ||domain.guojinloong.cn^$ctag=user_child
+||edu.gurdit.com^$ctag=user_child
 ||gwardgxd.baby^$ctag=user_child
 ||schoolnotes.h0rst.us^$ctag=user_child
 ||potatojuice.h0stname.net^$ctag=user_child
@@ -4416,14 +4414,13 @@
 ||hellotaka.iiiii.info^$ctag=user_child
 ||hp.ilove4ndan.com^$ctag=user_child
 ||rhp.ilove4ndan.com^$ctag=user_child
-||i-will-stealillegaly.ilovestealingfromworkanddoingdrugs.com^$ctag=user_child
 ||imnotaproxy.com^$ctag=user_child
 ||http-dns.imoim.net^$ctag=user_child
 ||yy.in6.to^$ctag=user_child
 ||devfruitpremium.incodesltda.cl^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
-||reallyreallyhardmathstuff333.intprosys.net^$ctag=user_child
 ||invisv.com^$ctag=user_child
+||use.edu.iownyour.org^$ctag=user_child
 ||ipcamouflage.com^$ctag=user_child
 ||iportal.me^$ctag=user_child
 ||ipprotectionauth.goog^$ctag=user_child
@@ -4466,7 +4463,6 @@
 ||adguard.kasbot.net^$ctag=user_child
 ||ram.kdot.cam^$ctag=user_child
 ||doh.kekew.info^$ctag=user_child
-||kerbeans.com^$ctag=user_child
 ||kirushop.xyz^$ctag=user_child
 ||knowurcson.store^$ctag=user_child
 ||proxy.kokecoco.me^$ctag=user_child
@@ -4538,6 +4534,7 @@
 ||edu.moldeo.org^$ctag=user_child
 ||history-of-earth.moldeo.org^$ctag=user_child
 ||only-shooting-stars-breakthe.moldeo.org^$ctag=user_child
+||study.moldeo.org^$ctag=user_child
 ||later.monkxy.org^$ctag=user_child
 ||mtagprox.com^$ctag=user_child
 ||my-safe-net.com^$ctag=user_child
@@ -4570,6 +4567,7 @@
 ||login.howto.notredamearena.com^$ctag=user_child
 ||novembeer.ru^$ctag=user_child
 ||noyourmean.xyz^$ctag=user_child
+||bright-storm-767.nstabiology.org^$ctag=user_child
 ||deep-lake-819.nstabiology.org^$ctag=user_child
 ||kind-bear-286.nstabiology.org^$ctag=user_child
 ||quick-tiger-997.nstabiology.org^$ctag=user_child
@@ -4617,7 +4615,6 @@
 ||phantompeer.com^$ctag=user_child
 ||gojoiscoolbutweird.photo-frame.com^$ctag=user_child
 ||malachi.is.dumb.physiosagart.de^$ctag=user_child
-||funrun.pii.at^$ctag=user_child
 ||funny.pinkertonmc.com^$ctag=user_child
 ||piro.live^$ctag=user_child
 ||watch-you.now.pits.cl^$ctag=user_child
@@ -4625,12 +4622,12 @@
 ||draco.plan9-ns2.com^$ctag=user_child
 ||pluralsight.gq^$ctag=user_child
 ||xcxx.pointed.cc^$ctag=user_child
-||loilonote.poo.li^$ctag=user_child
 ||science-exp.port0.org^$ctag=user_child
 ||media.logic.postie.org^$ctag=user_child
 ||topic.craft.prazerdiario.com^$ctag=user_child
 ||class.bio.prettybirdserver.com^$ctag=user_child
 ||primevpn.pro^$ctag=user_child
+||edu.prostitutki-na-vyezd.com^$ctag=user_child
 ||proxandthecity.com^$ctag=user_child
 ||proxbomb.com^$ctag=user_child
 ||proxmesomethingdirty.com^$ctag=user_child
@@ -4665,7 +4662,6 @@
 ||ramjam.pythontheproto.com^$ctag=user_child
 ||proxy.pyxelworld.com^$ctag=user_child
 ||qaiik.info^$ctag=user_child
-||qpoll.ir^$ctag=user_child
 ||quic.lol^$ctag=user_child
 ||quickbypass.com^$ctag=user_child
 ||quickproxies.com^$ctag=user_child
@@ -4694,7 +4690,6 @@
 ||yoursuper.rude.li^$ctag=user_child
 ||error404becausepar1scantlose.run.place^$ctag=user_child
 ||rustynailspace.com^$ctag=user_child
-||gns.s-mold.net^$ctag=user_child
 ||scienceforkids.saahee.cn^$ctag=user_child
 ||math.sachhot.com^$ctag=user_child
 ||safing.io^$ctag=user_child
@@ -4707,6 +4702,7 @@
 ||schoolooks.net^$ctag=user_child
 ||schoolwebproxy.com^$ctag=user_child
 ||schoprox.com^$ctag=user_child
+||bright-storm-707.scientificsense.org^$ctag=user_child
 ||seanfat.club^$ctag=user_child
 ||searchproxy.info^$ctag=user_child
 ||quiz.teach.secold.com^$ctag=user_child
@@ -4717,7 +4713,10 @@
 ||shadowtunnels.com^$ctag=user_child
 ||shazamio.online^$ctag=user_child
 ||shflora.com^$ctag=user_child
+||calm-wolf-401.shuttlemath.com^$ctag=user_child
 ||fair-hawk-609.shuttlemath.com^$ctag=user_child
+||fair-lake-387.shuttlemath.com^$ctag=user_child
+||deep-hawk-892.shuttleproxy.com^$ctag=user_child
 ||gurtyo.sino.tw^$ctag=user_child
 ||waermoster.sistemasplenario.ar^$ctag=user_child
 ||ofer.ox.sjtech.org^$ctag=user_child
@@ -4735,7 +4734,6 @@
 ||r.soraapp.gq^$ctag=user_child
 ||admin1.sotna.org^$ctag=user_child
 ||cms.sotna.org^$ctag=user_child
-||sigmawebsitebyaleks.spacenaught.us^$ctag=user_child
 ||scienceandmore.spacetechnology.net^$ctag=user_child
 ||spinalfluid.world^$ctag=user_child
 ||physicaleducation.sportseducationinstructors.org^$ctag=user_child
@@ -4750,7 +4748,6 @@
 ||us2-browse.startpage.com^$ctag=user_child
 ||qokl0912.stedler.org^$ctag=user_child
 ||whatisfunanymore.com.strangled.net^$ctag=user_child
-||getbacktowork.strangled.net^$ctag=user_child
 ||you.know.that.im.strokin.it^$ctag=user_child
 ||pleasekeep.strokin.it^$ctag=user_child
 ||studebaker.ir^$ctag=user_child
@@ -4768,7 +4765,6 @@
 ||surprise.pics^$ctag=user_child
 ||popteeee-oawhnefoua-foaebaouef.swanndvr.net^$ctag=user_child
 ||ramm-ume-pro.swanndvr.net^$ctag=user_child
-||rammerhead-himitu-umekomi-1.swanndvr.net^$ctag=user_child
 ||symlexvpn.com^$ctag=user_child
 ||bold-river-186.sz.games^$ctag=user_child
 ||wild-moon-986.sz.games^$ctag=user_child
@@ -4795,8 +4791,10 @@
 ||titantunnelvpn.com^$ctag=user_child
 ||tmhhd.tk^$ctag=user_child
 ||tokit.site^$ctag=user_child
+||app.tollgatevillagetn.com^$ctag=user_child
 ||study.toptrends.ch^$ctag=user_child
 ||totalvpn.com^$ctag=user_child
+||home.sso.toythieves.com^$ctag=user_child
 ||tpymainx01.ru^$ctag=user_child
 ||linewize.tradekinginternational.com^$ctag=user_child
 ||holaernesto.triplewipe.ru^$ctag=user_child
@@ -4837,7 +4835,6 @@
 ||vpnsuper.com^$ctag=user_child
 ||vpnumbrella.com^$ctag=user_child
 ||go.vrpyourself.online^$ctag=user_child
-||youve-arived-to.walzone.com^$ctag=user_child
 ||email.warhawkenterprises.com^$ctag=user_child
 ||webproxy.club^$ctag=user_child
 ||shark-pan.webredirect.org^$ctag=user_child

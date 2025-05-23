@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-22T02:54:14.617Z
+! Last modified: 2025-05-23T02:53:48.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4050,6 +4050,7 @@
 ||bold-storm-255.3kh0.org^
 ||calm-fox-682.3kh0.org^
 ||calm-hawk-529.3kh0.org^
+||happy-sun-587.3kh0.org^
 ||notfound-google.404.mn^
 ||bannana.web-doge.42web.io^
 ||dns.444723.xyz^
@@ -4070,6 +4071,7 @@
 ||research.africa.com^
 ||agmath.xyz^
 ||agurydog.website^
+||study.ajhurst.org^
 ||use.alabasgames.com^
 ||huieurammarda.allez.la^
 ||alohabrowser.com^
@@ -4102,7 +4104,6 @@
 ||doh.battle.christmas^
 ||plant-selection.baumgardner.us^
 ||bebra.ai^
-||beehivesmp.com^
 ||bestaitool.news^
 ||bestvideoproxy.com^
 ||www-proxy.bettercallghaith.wiki^
@@ -4130,9 +4131,9 @@
 ||schoolwork.broomleigh.org^
 ||brothebro.com^
 ||browserling.com^
+||edu.bsfa.info^
 ||travel.bsfa.info^
 ||duracell.bulkenergy.cl^
-||burger.burgerman.burgerbar.cl^
 ||dns.butterfly87.sbs^
 ||register.cakk.us^
 ||bananakun.camdvr.org^
@@ -4253,10 +4254,10 @@
 ||georgetown.duia.us^
 ||netnotworking.dynamicnetwork.ro^
 ||adbox-v9.dynipv6.de^
-||im-in-the-thick-of-it-everybody-knows.dynorex.com^
 ||dns.dynx.pro^
 ||please-please-please-watch-you-or.dexter.e1racecar.com^
 ||earth-vpn.net^
+||study.info.east-kazakhstan.su^
 ||filter-admins-come-and-get-me.easterndns.com^
 ||goguardian-is-not-my-guardian.easterndns.com^
 ||konnnitiha----saiko.easterndns.com^
@@ -4343,11 +4344,7 @@
 ||ghostbrowser.com^
 ||proxybrowser.github.io^
 ||sdns22.gkonuralp.com^
-||earth.glacialpower.com^
 ||i-civics.glacialpower.com^
-||mars.glacialpower.com^
-||mercury.glacialpower.com^
-||venus.glacialpower.com^
 ||about.glasstechnik.ro^
 ||english.go25pedagogi.eu^
 ||gomath.us^
@@ -4360,6 +4357,7 @@
 ||guestappearance.us^
 ||intertravel.guillaumevanstrydonck.be^
 ||domain.guojinloong.cn^
+||edu.gurdit.com^
 ||gwardgxd.baby^
 ||schoolnotes.h0rst.us^
 ||potatojuice.h0stname.net^
@@ -4416,14 +4414,13 @@
 ||hellotaka.iiiii.info^
 ||hp.ilove4ndan.com^
 ||rhp.ilove4ndan.com^
-||i-will-stealillegaly.ilovestealingfromworkanddoingdrugs.com^
 ||imnotaproxy.com^
 ||http-dns.imoim.net^
 ||yy.in6.to^
 ||devfruitpremium.incodesltda.cl^
 ||indiaproxy.win^
-||reallyreallyhardmathstuff333.intprosys.net^
 ||invisv.com^
+||use.edu.iownyour.org^
 ||ipcamouflage.com^
 ||iportal.me^
 ||ipprotectionauth.goog^
@@ -4466,7 +4463,6 @@
 ||adguard.kasbot.net^
 ||ram.kdot.cam^
 ||doh.kekew.info^
-||kerbeans.com^
 ||kirushop.xyz^
 ||knowurcson.store^
 ||proxy.kokecoco.me^
@@ -4538,6 +4534,7 @@
 ||edu.moldeo.org^
 ||history-of-earth.moldeo.org^
 ||only-shooting-stars-breakthe.moldeo.org^
+||study.moldeo.org^
 ||later.monkxy.org^
 ||mtagprox.com^
 ||my-safe-net.com^
@@ -4570,6 +4567,7 @@
 ||login.howto.notredamearena.com^
 ||novembeer.ru^
 ||noyourmean.xyz^
+||bright-storm-767.nstabiology.org^
 ||deep-lake-819.nstabiology.org^
 ||kind-bear-286.nstabiology.org^
 ||quick-tiger-997.nstabiology.org^
@@ -4617,7 +4615,6 @@
 ||phantompeer.com^
 ||gojoiscoolbutweird.photo-frame.com^
 ||malachi.is.dumb.physiosagart.de^
-||funrun.pii.at^
 ||funny.pinkertonmc.com^
 ||piro.live^
 ||watch-you.now.pits.cl^
@@ -4625,12 +4622,12 @@
 ||draco.plan9-ns2.com^
 ||pluralsight.gq^
 ||xcxx.pointed.cc^
-||loilonote.poo.li^
 ||science-exp.port0.org^
 ||media.logic.postie.org^
 ||topic.craft.prazerdiario.com^
 ||class.bio.prettybirdserver.com^
 ||primevpn.pro^
+||edu.prostitutki-na-vyezd.com^
 ||proxandthecity.com^
 ||proxbomb.com^
 ||proxmesomethingdirty.com^
@@ -4665,7 +4662,6 @@
 ||ramjam.pythontheproto.com^
 ||proxy.pyxelworld.com^
 ||qaiik.info^
-||qpoll.ir^
 ||quic.lol^
 ||quickbypass.com^
 ||quickproxies.com^
@@ -4694,7 +4690,6 @@
 ||yoursuper.rude.li^
 ||error404becausepar1scantlose.run.place^
 ||rustynailspace.com^
-||gns.s-mold.net^
 ||scienceforkids.saahee.cn^
 ||math.sachhot.com^
 ||safing.io^
@@ -4707,6 +4702,7 @@
 ||schoolooks.net^
 ||schoolwebproxy.com^
 ||schoprox.com^
+||bright-storm-707.scientificsense.org^
 ||seanfat.club^
 ||searchproxy.info^
 ||quiz.teach.secold.com^
@@ -4717,7 +4713,10 @@
 ||shadowtunnels.com^
 ||shazamio.online^
 ||shflora.com^
+||calm-wolf-401.shuttlemath.com^
 ||fair-hawk-609.shuttlemath.com^
+||fair-lake-387.shuttlemath.com^
+||deep-hawk-892.shuttleproxy.com^
 ||gurtyo.sino.tw^
 ||waermoster.sistemasplenario.ar^
 ||ofer.ox.sjtech.org^
@@ -4735,7 +4734,6 @@
 ||r.soraapp.gq^
 ||admin1.sotna.org^
 ||cms.sotna.org^
-||sigmawebsitebyaleks.spacenaught.us^
 ||scienceandmore.spacetechnology.net^
 ||spinalfluid.world^
 ||physicaleducation.sportseducationinstructors.org^
@@ -4750,7 +4748,6 @@
 ||us2-browse.startpage.com^
 ||qokl0912.stedler.org^
 ||whatisfunanymore.com.strangled.net^
-||getbacktowork.strangled.net^
 ||you.know.that.im.strokin.it^
 ||pleasekeep.strokin.it^
 ||studebaker.ir^
@@ -4768,7 +4765,6 @@
 ||surprise.pics^
 ||popteeee-oawhnefoua-foaebaouef.swanndvr.net^
 ||ramm-ume-pro.swanndvr.net^
-||rammerhead-himitu-umekomi-1.swanndvr.net^
 ||symlexvpn.com^
 ||bold-river-186.sz.games^
 ||wild-moon-986.sz.games^
@@ -4795,8 +4791,10 @@
 ||titantunnelvpn.com^
 ||tmhhd.tk^
 ||tokit.site^
+||app.tollgatevillagetn.com^
 ||study.toptrends.ch^
 ||totalvpn.com^
+||home.sso.toythieves.com^
 ||tpymainx01.ru^
 ||linewize.tradekinginternational.com^
 ||holaernesto.triplewipe.ru^
@@ -4837,7 +4835,6 @@
 ||vpnsuper.com^
 ||vpnumbrella.com^
 ||go.vrpyourself.online^
-||youve-arived-to.walzone.com^
 ||email.warhawkenterprises.com^
 ||webproxy.club^
 ||shark-pan.webredirect.org^
