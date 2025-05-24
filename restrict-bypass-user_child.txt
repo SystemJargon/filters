@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-23T02:53:48.365Z
+! Last modified: 2025-05-24T02:48:08.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4244,6 +4244,7 @@
 ||man01.dnscry.pt^$ctag=user_child
 ||yhz01.dnscry.pt^$ctag=user_child
 ||yyc01.dnscry.pt^$ctag=user_child
+||dnstunnel.run^$ctag=user_child
 ||watch-dexter.or-you-now.donciccio.net^$ctag=user_child
 ||arjunthestinkyindian.dorsrv.ru^$ctag=user_child
 ||drablack.tk^$ctag=user_child
@@ -4791,7 +4792,6 @@
 ||titantunnelvpn.com^$ctag=user_child
 ||tmhhd.tk^$ctag=user_child
 ||tokit.site^$ctag=user_child
-||app.tollgatevillagetn.com^$ctag=user_child
 ||study.toptrends.ch^$ctag=user_child
 ||totalvpn.com^$ctag=user_child
 ||home.sso.toythieves.com^$ctag=user_child
@@ -4836,6 +4836,7 @@
 ||vpnumbrella.com^$ctag=user_child
 ||go.vrpyourself.online^$ctag=user_child
 ||email.warhawkenterprises.com^$ctag=user_child
+||h4g3z1-doh-vpn-proxy-bypass.web.app^$ctag=user_child
 ||webproxy.club^$ctag=user_child
 ||shark-pan.webredirect.org^$ctag=user_child
 ||stemprivate4.webs.vc^$ctag=user_child
