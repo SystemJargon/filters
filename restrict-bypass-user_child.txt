@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-27T02:53:13.409Z
+! Last modified: 2025-05-28T02:56:00.810Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4053,15 +4053,11 @@
 ||happy-sun-587.3kh0.org^$ctag=user_child
 ||notfound-google.404.mn^$ctag=user_child
 ||bannana.web-doge.42web.io^$ctag=user_child
-||dns.444723.xyz^$ctag=user_child
 ||6x9ne.4twenty.us^$ctag=user_child
 ||vpn.52oupa.com^$ctag=user_child
 ||i-ready.69.mu^$ctag=user_child
-||doh.774445.xyz^$ctag=user_child
-||dns.775467.xyz^$ctag=user_child
 ||777schoolutilities.website^$ctag=user_child
 ||dns.853852.xyz^$ctag=user_child
-||dns.8887744.xyz^$ctag=user_child
 ||aaronzweb.xyz^$ctag=user_child
 ||aboba.pro^$ctag=user_child
 ||achievementnetwork.tk^$ctag=user_child
@@ -4101,7 +4097,6 @@
 ||hola-client-cdn4.b-cdn.net^$ctag=user_child
 ||i.am.selling.b33r.us^$ctag=user_child
 ||westhamforever.bad.mn^$ctag=user_child
-||doh.battle.christmas^$ctag=user_child
 ||plant-selection.baumgardner.us^$ctag=user_child
 ||bebra.ai^$ctag=user_child
 ||bestaitool.news^$ctag=user_child

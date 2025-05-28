@@ -1,6 +1,6 @@
 !
 ! Title: No-Social-Media List - Created by systemjargon
-! Last modified: 2025-05-27T02:53:35.346Z
+! Last modified: 2025-05-28T02:56:23.776Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1000,5 +1000,16 @@
 ||pof.com^$ctag=user_child
 ||match.com^$ctag=user_child
 ||likee.video^$ctag=user_child
+||twitch.tv^$ctag=user_child
+||ttvnw.net^$ctag=user_child
+||live-video.net^$ctag=user_child
+||jtvnw.net^$ctag=user_child
+||twitchcdn.net^$ctag=user_child
+||ext-twitch.tv^$ctag=user_child
+||twitch-shadow.net^$ctag=user_child
+||twitch.a2z.com^$ctag=user_child
+||twitchcdn-shadow.net^$ctag=user_child
+||twitchsvc-staging.tech^$ctag=user_child
+||twitchsvc.net^$ctag=user_child
 ||pinpages.alwaysdata.net^$ctag=user_child
 ||allotalk.com^$ctag=user_child
