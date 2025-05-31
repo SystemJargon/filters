@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-30T02:54:02.375Z
+! Last modified: 2025-05-31T02:51:23.056Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4047,6 +4047,7 @@
 ||namenims.fr.to.2fine.de^
 ||2r34.com^
 ||30t.online^
+||free.30x.ru^
 ||33bitbank.com^
 ||3bbb.me^
 ||bold-storm-255.3kh0.org^
@@ -4068,6 +4069,7 @@
 ||s.abl.cl^
 ||aboba.pro^
 ||data.focus.abonament.net^
+||jp.absl.ro^
 ||learnmaths.academiaderock.ro^
 ||achievementnetwork.tk^
 ||r.achievementnetwork.gq^
@@ -4266,6 +4268,7 @@
 ||info.faizinternational.com.np^
 ||pleaseworkiwantutopia.faizinternational.com.np^
 ||yug-has-a-big-butt.faizinternational.com.np^
+||btg.go4it.com.mx^
 ||doge.intinet.com.ar^
 ||12bucklemyshoe.kalbas.com.vn^
 ||auditing.lepetitprince.com.np^
@@ -4328,6 +4331,8 @@
 ||use.delcarmen.cl^
 ||desec.io^
 ||desertsand.us^
+||study.know.devreler.com^
+||utopia.tests.dianmarisa.com^
 ||dev.dietpc.org^
 ||help.dietpc.org^
 ||ojisama.dietpc.org^
@@ -4338,6 +4343,7 @@
 ||dirtyworkproxy.com^
 ||coolgams.dk-condos.com^
 ||hihohornsluttlekidspop.dmdistribution.net^
+||kahoot.it.dmtr.ru^
 ||easydomain.dnet.hu^
 ||deep-sea.dns.navy^
 ||lawless-zone.dns.army^
@@ -4564,6 +4570,7 @@
 ||travel.connect.hqcloud.de^
 ||greenbeandean.hs.vc^
 ||jahyussif.hs.vc^
+||be.hse.tw^
 ||code.edu.hse.tw^
 ||www.pleaseinput.html-5.me^
 ||task.edu.hueteinterpreting.com^
@@ -4665,6 +4672,7 @@
 ||travel.kigurun.ru^
 ||howto.piano.kiptrak.com^
 ||kirushop.xyz^
+||good.kje.us^
 ||anarchychessbetterthenregularchess.kmodem.org^
 ||knowurcson.store^
 ||login.knr.cl^
@@ -4697,6 +4705,7 @@
 ||ik-heet-henk.laptopy.nl^
 ||larpicidecentralproxy.org^
 ||thisforcinco.larrondoinstalaciones.cl^
+||chart.words.lasvegasanonymous.org^
 ||inboxdayo.laviewddns.com^
 ||inboxproxy.laviewddns.com^
 ||interstellar.laviewddns.com^
@@ -4747,6 +4756,7 @@
 ||mapspublications.us^
 ||read.maryejackson.com^
 ||luh.masgas.cl^
+||paper.train.massalin.com^
 ||sage.know.massloading.net^
 ||masthisis.ir^
 ||ynbziad.math-solver.com^
@@ -4874,6 +4884,7 @@
 ||zxyp.04.open-window.de^
 ||openips.cc^
 ||openproxylist.com^
+||flipgrid.opior.com^
 ||musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id^
 ||this.revolution.been.televised.df.cissp.or.id^
 ||hitman.malam.or.id^
@@ -4895,6 +4906,7 @@
 ||dingdong.pakasak.com^
 ||vpn-ru-msk.pakharenko.ru^
 ||pamukada.com^
+||pangdavpn.com^
 ||use.paper.is^
 ||paradise-human.shop^
 ||parsazr.ir^
@@ -5018,6 +5030,7 @@
 ||yoursuper.rude.li^
 ||error404becausepar1scantlose.run.place^
 ||rustynailspace.com^
+||myapforums.rwbcode.com^
 ||scienceforkids.saahee.cn^
 ||math.sachhot.com^
 ||safing.io^
@@ -5124,6 +5137,7 @@
 ||surfwebsite.org^
 ||surprise.pics^
 ||popteeee-oawhnefoua-foaebaouef.swanndvr.net^
+||popteeeeee-sajoiwejfo-huhu.swanndvr.net^
 ||ramm-ume-pro.swanndvr.net^
 ||rammerhead-10.swanndvr.net^
 ||nexsos.syac.ca^
@@ -5188,6 +5202,7 @@
 ||globalstudents.tuumin.net^
 ||learninghub.tuumin.net^
 ||dmvontop.twilightparadox.com^
+||rylandmadethisjustkidding.twilightparadox.com^
 ||spacetechnology.twilightparadox.com^
 ||twinklestarknights.com^
 ||typeracer.gq^
@@ -5352,6 +5367,7 @@
 ||tststststststststststststststststststststs.zavoj.ch^
 ||xyz.zaylovesparker.xyz^
 ||test.zecro.de^
+||utopia.music.zenfitness.com^
 ||cheifsarebad.zenrelax.ro^
 ||zerfaucet.space^
 ||calculus.zothow.com^
