@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-31T02:51:23.056Z
+! Last modified: 2025-06-01T03:14:08.998Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4097,6 +4097,7 @@
 ||zachscool.allisons.org^
 ||alohabrowser.com^
 ||cuh.altimiras.cl^
+||bolting.alyaf.com^
 ||utopia.ideas.amentrix.com^
 ||american-proxy.com^
 ||amirabbasmousavi.news^
@@ -4191,6 +4192,7 @@
 ||idea.read.capella-technologies.com^
 ||focus.lab.capetownblogger.com^
 ||help.cartes.cl^
+||zscaler.casarosalba.com^
 ||salyte.cassidycamp.work^
 ||theory.topic.cassidyd.com^
 ||suh.casucha.cl^
@@ -4740,6 +4742,7 @@
 ||edu.loskks.org^
 ||lotofabric.ru^
 ||loubonde.xyz^
+||bolt.louis-ip.com^
 ||eiken-jp.lozan.com^
 ||worldwaronehistory.lozan.com^
 ||lucasmaia.org^
@@ -4828,6 +4831,7 @@
 ||zuh.ndr.cl^
 ||bdedu.ne1.co^
 ||nrr.ne1.co^
+||z-brokethescaler.neighborhoodcloud.com^
 ||nekoray.org^
 ||qwertyabc123.nekros.info^
 ||smart.quiz.nelsonshack.com^
@@ -5155,6 +5159,7 @@
 ||terraleads.cloud^
 ||testdomainname.xyz^
 ||tgbio.ru^
+||bigchez.thailandhappiness.com^
 ||shark.thatguy.space^
 ||guide.proof.the-kaisers.net^
 ||reallycoolmathblahblahblah.the-schmidt-family.org^
@@ -5309,6 +5314,7 @@
 ||higuysfr.webs.vc^
 ||rammerhead2121.webs.vc^
 ||stemprivate4.webs.vc^
+||websiteunblock.net^
 ||webtunnelproxy.com^
 ||webunblock.net^
 ||webypass.info^

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-05-31T02:51:23.056Z
+! Last modified: 2025-06-01T03:14:08.998Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4097,6 +4097,7 @@
 ||zachscool.allisons.org^$ctag=user_child
 ||alohabrowser.com^$ctag=user_child
 ||cuh.altimiras.cl^$ctag=user_child
+||bolting.alyaf.com^$ctag=user_child
 ||utopia.ideas.amentrix.com^$ctag=user_child
 ||american-proxy.com^$ctag=user_child
 ||amirabbasmousavi.news^$ctag=user_child
@@ -4191,6 +4192,7 @@
 ||idea.read.capella-technologies.com^$ctag=user_child
 ||focus.lab.capetownblogger.com^$ctag=user_child
 ||help.cartes.cl^$ctag=user_child
+||zscaler.casarosalba.com^$ctag=user_child
 ||salyte.cassidycamp.work^$ctag=user_child
 ||theory.topic.cassidyd.com^$ctag=user_child
 ||suh.casucha.cl^$ctag=user_child
@@ -4740,6 +4742,7 @@
 ||edu.loskks.org^$ctag=user_child
 ||lotofabric.ru^$ctag=user_child
 ||loubonde.xyz^$ctag=user_child
+||bolt.louis-ip.com^$ctag=user_child
 ||eiken-jp.lozan.com^$ctag=user_child
 ||worldwaronehistory.lozan.com^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
@@ -4828,6 +4831,7 @@
 ||zuh.ndr.cl^$ctag=user_child
 ||bdedu.ne1.co^$ctag=user_child
 ||nrr.ne1.co^$ctag=user_child
+||z-brokethescaler.neighborhoodcloud.com^$ctag=user_child
 ||nekoray.org^$ctag=user_child
 ||qwertyabc123.nekros.info^$ctag=user_child
 ||smart.quiz.nelsonshack.com^$ctag=user_child
@@ -5155,6 +5159,7 @@
 ||terraleads.cloud^$ctag=user_child
 ||testdomainname.xyz^$ctag=user_child
 ||tgbio.ru^$ctag=user_child
+||bigchez.thailandhappiness.com^$ctag=user_child
 ||shark.thatguy.space^$ctag=user_child
 ||guide.proof.the-kaisers.net^$ctag=user_child
 ||reallycoolmathblahblahblah.the-schmidt-family.org^$ctag=user_child
@@ -5309,6 +5314,7 @@
 ||higuysfr.webs.vc^$ctag=user_child
 ||rammerhead2121.webs.vc^$ctag=user_child
 ||stemprivate4.webs.vc^$ctag=user_child
+||websiteunblock.net^$ctag=user_child
 ||webtunnelproxy.com^$ctag=user_child
 ||webunblock.net^$ctag=user_child
 ||webypass.info^$ctag=user_child
