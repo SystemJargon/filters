@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-02T03:02:02.245Z
+! Last modified: 2025-06-03T02:57:31.747Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4035,6 +4035,7 @@
 ||14-88.pro^$ctag=user_child
 ||1clickvpn.com^$ctag=user_child
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^$ctag=user_child
+||kazuma-fumo.24-7.ro^$ctag=user_child
 ||educational-site.24x7.hk^$ctag=user_child
 ||bbcincheecks.26252526.xyz^$ctag=user_child
 ||lucasisbritsh.26252526.xyz^$ctag=user_child
@@ -4050,6 +4051,7 @@
 ||free.30x.ru^$ctag=user_child
 ||33bitbank.com^$ctag=user_child
 ||3bbb.me^$ctag=user_child
+||haihu-by-scrsa.3cm.us^$ctag=user_child
 ||bold-storm-255.3kh0.org^$ctag=user_child
 ||calm-fox-682.3kh0.org^$ctag=user_child
 ||calm-hawk-529.3kh0.org^$ctag=user_child
@@ -4140,7 +4142,6 @@
 ||plant-selection.baumgardner.us^$ctag=user_child
 ||s7mmervxbes-luck-is-real.baumgardner.us^$ctag=user_child
 ||its-giving.qwyns-up.in-here.yo.baumgardner.us^$ctag=user_child
-||shop.beautydiskount.ru^$ctag=user_child
 ||bebra.ai^$ctag=user_child
 ||focus.ideas.beekerland.com^$ctag=user_child
 ||bestaitool.news^$ctag=user_child
@@ -4188,6 +4189,7 @@
 ||dns.butterfly87.sbs^$ctag=user_child
 ||register.cakk.us^$ctag=user_child
 ||solve.proof.california-red.com^$ctag=user_child
+||dns.caliph.dev^$ctag=user_child
 ||bananakun.camdvr.org^$ctag=user_child
 ||idea.read.capella-technologies.com^$ctag=user_child
 ||focus.lab.capetownblogger.com^$ctag=user_child
@@ -4200,8 +4202,10 @@
 ||center-crm.store^$ctag=user_child
 ||lab.graph.central64.com^$ctag=user_child
 ||area.world.cervezamolay.com^$ctag=user_child
+||suken.cfmr.ro^$ctag=user_child
 ||core.goal.challengepursuit.com^$ctag=user_child
 ||dismantled.charbel.cl^$ctag=user_child
+||ougonokaze.cheftayebeh.ir^$ctag=user_child
 ||freedns.kiuo-utopias.chickenkiller.com^$ctag=user_child
 ||mathhomeworkplus.chickenkiller.com^$ctag=user_child
 ||mathiseasy.chickenkiller.com^$ctag=user_child
@@ -4356,6 +4360,7 @@
 ||man01.dnscry.pt^$ctag=user_child
 ||yhz01.dnscry.pt^$ctag=user_child
 ||yyc01.dnscry.pt^$ctag=user_child
+||dnsguard.pub^$ctag=user_child
 ||jiyuu.dnsitalia.org^$ctag=user_child
 ||watch-dexter.or-you-now.donciccio.net^$ctag=user_child
 ||arjunthestinkyindian.dorsrv.ru^$ctag=user_child
@@ -4532,10 +4537,12 @@
 ||ycsd-instructure.happyforever.com^$ctag=user_child
 ||yessir.happyforever.com^$ctag=user_child
 ||harbaletsstudy.com^$ctag=user_child
+||monkeydoo.hardsoft.nu^$ctag=user_child
 ||dylanigotchu.hbmc.net^$ctag=user_child
 ||chimpanzinibananini.hec.to^$ctag=user_child
 ||dogebyvcsa.hec.to^$ctag=user_child
 ||hooda.math.hec.to^$ctag=user_child
+||nodamirai.hec.to^$ctag=user_child
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^$ctag=user_child
 ||sage.skills.hellasinside.com^$ctag=user_child
 ||helphideme.com^$ctag=user_child
@@ -4604,6 +4611,7 @@
 ||yy.in6.to^$ctag=user_child
 ||devfruitpremium.incodesltda.cl^$ctag=user_child
 ||indiaproxy.win^$ctag=user_child
+||the.infocommthailand.com^$ctag=user_child
 ||owner.should.hopefully.spot.this.ingeker.cl^$ctag=user_child
 ||invisv.com^$ctag=user_child
 ||app.edu.iownyour.org^$ctag=user_child
@@ -4902,6 +4910,7 @@
 ||resolver.dnsprivacy.org.uk^$ctag=user_child
 ||edu.osobi.ro^$ctag=user_child
 ||osobiacademy.osobi.ro^$ctag=user_child
+||tails.ospa.fi^$ctag=user_child
 ||this.is.for.lightspeedpal.ostrovsky.sk^$ctag=user_child
 ||thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk^$ctag=user_child
 ||topic.idea.ottosulbmec.com^$ctag=user_child
@@ -4982,6 +4991,7 @@
 ||puckerbucket.xyz^$ctag=user_child
 ||dontgetthisblocked.puffballofevil.com^$ctag=user_child
 ||timeisblind.puffballofevil.com^$ctag=user_child
+||start.puto.me^$ctag=user_child
 ||browser.pythonsden.net^$ctag=user_child
 ||ramjam.pythontheproto.com^$ctag=user_child
 ||proxy.pyxelworld.com^$ctag=user_child
@@ -5020,6 +5030,7 @@
 ||srr.rhiz0.me^$ctag=user_child
 ||lexiapowerup.ricksolinas.com^$ctag=user_child
 ||elishawisabaddie.rinet.fi^$ctag=user_child
+||next.rinet.ai^$ctag=user_child
 ||rnblyatclub.online^$ctag=user_child
 ||blob.ro0t.hm^$ctag=user_child
 ||blobx.ro0t.hm^$ctag=user_child
@@ -5138,6 +5149,7 @@
 ||surfcovertly.com^$ctag=user_child
 ||surfeasy.mobi^$ctag=user_child
 ||surfshark.net^$ctag=user_child
+||dns.surfsharkdns.com^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||surprise.pics^$ctag=user_child
 ||popteeee-oawhnefoua-foaebaouef.swanndvr.net^$ctag=user_child
@@ -5235,6 +5247,7 @@
 ||usaip.net^$ctag=user_child
 ||willitwork.utrealestatedreamteam.com^$ctag=user_child
 ||utube.cc^$ctag=user_child
+||v.recipes^$ctag=user_child
 ||edge-v6x.v6.rocks^$ctag=user_child
 ||greenzone.v6.army^$ctag=user_child
 ||lawless-zone.v6.rocks^$ctag=user_child

@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-02T03:02:02.245Z
+! Last modified: 2025-06-03T02:57:31.747Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4035,6 +4035,7 @@
 ||14-88.pro^
 ||1clickvpn.com^
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
+||kazuma-fumo.24-7.ro^
 ||educational-site.24x7.hk^
 ||bbcincheecks.26252526.xyz^
 ||lucasisbritsh.26252526.xyz^
@@ -4050,6 +4051,7 @@
 ||free.30x.ru^
 ||33bitbank.com^
 ||3bbb.me^
+||haihu-by-scrsa.3cm.us^
 ||bold-storm-255.3kh0.org^
 ||calm-fox-682.3kh0.org^
 ||calm-hawk-529.3kh0.org^
@@ -4140,7 +4142,6 @@
 ||plant-selection.baumgardner.us^
 ||s7mmervxbes-luck-is-real.baumgardner.us^
 ||its-giving.qwyns-up.in-here.yo.baumgardner.us^
-||shop.beautydiskount.ru^
 ||bebra.ai^
 ||focus.ideas.beekerland.com^
 ||bestaitool.news^
@@ -4188,6 +4189,7 @@
 ||dns.butterfly87.sbs^
 ||register.cakk.us^
 ||solve.proof.california-red.com^
+||dns.caliph.dev^
 ||bananakun.camdvr.org^
 ||idea.read.capella-technologies.com^
 ||focus.lab.capetownblogger.com^
@@ -4200,8 +4202,10 @@
 ||center-crm.store^
 ||lab.graph.central64.com^
 ||area.world.cervezamolay.com^
+||suken.cfmr.ro^
 ||core.goal.challengepursuit.com^
 ||dismantled.charbel.cl^
+||ougonokaze.cheftayebeh.ir^
 ||freedns.kiuo-utopias.chickenkiller.com^
 ||mathhomeworkplus.chickenkiller.com^
 ||mathiseasy.chickenkiller.com^
@@ -4356,6 +4360,7 @@
 ||man01.dnscry.pt^
 ||yhz01.dnscry.pt^
 ||yyc01.dnscry.pt^
+||dnsguard.pub^
 ||jiyuu.dnsitalia.org^
 ||watch-dexter.or-you-now.donciccio.net^
 ||arjunthestinkyindian.dorsrv.ru^
@@ -4532,10 +4537,12 @@
 ||ycsd-instructure.happyforever.com^
 ||yessir.happyforever.com^
 ||harbaletsstudy.com^
+||monkeydoo.hardsoft.nu^
 ||dylanigotchu.hbmc.net^
 ||chimpanzinibananini.hec.to^
 ||dogebyvcsa.hec.to^
 ||hooda.math.hec.to^
+||nodamirai.hec.to^
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
 ||sage.skills.hellasinside.com^
 ||helphideme.com^
@@ -4604,6 +4611,7 @@
 ||yy.in6.to^
 ||devfruitpremium.incodesltda.cl^
 ||indiaproxy.win^
+||the.infocommthailand.com^
 ||owner.should.hopefully.spot.this.ingeker.cl^
 ||invisv.com^
 ||app.edu.iownyour.org^
@@ -4902,6 +4910,7 @@
 ||resolver.dnsprivacy.org.uk^
 ||edu.osobi.ro^
 ||osobiacademy.osobi.ro^
+||tails.ospa.fi^
 ||this.is.for.lightspeedpal.ostrovsky.sk^
 ||thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk^
 ||topic.idea.ottosulbmec.com^
@@ -4982,6 +4991,7 @@
 ||puckerbucket.xyz^
 ||dontgetthisblocked.puffballofevil.com^
 ||timeisblind.puffballofevil.com^
+||start.puto.me^
 ||browser.pythonsden.net^
 ||ramjam.pythontheproto.com^
 ||proxy.pyxelworld.com^
@@ -5020,6 +5030,7 @@
 ||srr.rhiz0.me^
 ||lexiapowerup.ricksolinas.com^
 ||elishawisabaddie.rinet.fi^
+||next.rinet.ai^
 ||rnblyatclub.online^
 ||blob.ro0t.hm^
 ||blobx.ro0t.hm^
@@ -5138,6 +5149,7 @@
 ||surfcovertly.com^
 ||surfeasy.mobi^
 ||surfshark.net^
+||dns.surfsharkdns.com^
 ||surfwebsite.org^
 ||surprise.pics^
 ||popteeee-oawhnefoua-foaebaouef.swanndvr.net^
@@ -5235,6 +5247,7 @@
 ||usaip.net^
 ||willitwork.utrealestatedreamteam.com^
 ||utube.cc^
+||v.recipes^
 ||edge-v6x.v6.rocks^
 ||greenzone.v6.army^
 ||lawless-zone.v6.rocks^
