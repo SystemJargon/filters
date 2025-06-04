@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-03T02:57:31.747Z
+! Last modified: 2025-06-04T02:57:54.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4191,8 +4191,6 @@
 ||solve.proof.california-red.com^$ctag=user_child
 ||dns.caliph.dev^$ctag=user_child
 ||bananakun.camdvr.org^$ctag=user_child
-||idea.read.capella-technologies.com^$ctag=user_child
-||focus.lab.capetownblogger.com^$ctag=user_child
 ||help.cartes.cl^$ctag=user_child
 ||zscaler.casarosalba.com^$ctag=user_child
 ||salyte.cassidycamp.work^$ctag=user_child
@@ -4206,6 +4204,7 @@
 ||core.goal.challengepursuit.com^$ctag=user_child
 ||dismantled.charbel.cl^$ctag=user_child
 ||ougonokaze.cheftayebeh.ir^$ctag=user_child
+||ilikefeet.chickenkiller.com^$ctag=user_child
 ||freedns.kiuo-utopias.chickenkiller.com^$ctag=user_child
 ||mathhomeworkplus.chickenkiller.com^$ctag=user_child
 ||mathiseasy.chickenkiller.com^$ctag=user_child
@@ -4279,6 +4278,8 @@
 ||12bucklemyshoe.kalbas.com.vn^$ctag=user_child
 ||auditing.lepetitprince.com.np^$ctag=user_child
 ||logisticsacademy.logistica.com.mx^$ctag=user_child
+||encryption.madereramilano.com.ar^$ctag=user_child
+||manaututors.manausclass.com.br^$ctag=user_child
 ||packetyo.nanbang.com.tr^$ctag=user_child
 ||use.purplefolder.com.np^$ctag=user_child
 ||nya.qualitypaperindustries.com.np^$ctag=user_child
@@ -4355,7 +4356,6 @@
 ||lawless-zone.dns.army^$ctag=user_child
 ||wolf-zone.dns.army^$ctag=user_child
 ||dns-free.link^$ctag=user_child
-||dns-savage.com^$ctag=user_child
 ||aroeuyo.dns64.de^$ctag=user_child
 ||man01.dnscry.pt^$ctag=user_child
 ||yhz01.dnscry.pt^$ctag=user_child
@@ -4376,7 +4376,6 @@
 ||dualpower.duia.eu^$ctag=user_child
 ||georgetown.duia.us^$ctag=user_child
 ||rawr.duia.us^$ctag=user_child
-||netnotworking.dynamicnetwork.ro^$ctag=user_child
 ||adbox-v9.dynipv6.de^$ctag=user_child
 ||sagamihara.dynv6.net^$ctag=user_child
 ||t9rke-5zq1m.dynv6.net^$ctag=user_child
@@ -4414,7 +4413,6 @@
 ||owenforzono.entergod.com^$ctag=user_child
 ||owenforzonoiseeyou.entergod.com^$ctag=user_child
 ||eonvpn.com^$ctag=user_child
-||epix.epicgamer.org^$ctag=user_child
 ||erproxy.tk^$ctag=user_child
 ||mylo.estic.org^$ctag=user_child
 ||ela.edu.estudiomenoyo.com^$ctag=user_child
@@ -4423,6 +4421,7 @@
 ||evacraft.xyz^$ctag=user_child
 ||everyproxies.info^$ctag=user_child
 ||bio.write.examinedbytopmen.com^$ctag=user_child
+||cool.explosionlearning.org^$ctag=user_child
 ||extremevpn.com^$ctag=user_child
 ||ezwebsites.ezwebsites.com^$ctag=user_child
 ||f0lga.tech^$ctag=user_child
@@ -4440,6 +4439,7 @@
 ||tenhh.farted.net^$ctag=user_child
 ||nuclearvp.global.ssl.fastly.net^$ctag=user_child
 ||history.essay.fayknowles.com^$ctag=user_child
+||audit.feedcube.org^$ctag=user_child
 ||trains.fenac.nl^$ctag=user_child
 ||study.tests.fiat500.li^$ctag=user_child
 ||studying-for-a-history-test.fieldofstudy.com^$ctag=user_child
@@ -4453,7 +4453,6 @@
 ||rf4.forestberrypi.com^$ctag=user_child
 ||www-rf4.forestberrypi.com^$ctag=user_child
 ||forestvpn.com^$ctag=user_child
-||proxy.forkbomb.xyz^$ctag=user_child
 ||disturbing-the-peace.foxgateway.com^$ctag=user_child
 ||get-out-of-my-head-get-out-of-my-head.foxgateway.com^$ctag=user_child
 ||i-understand-it-now.foxgateway.com^$ctag=user_child
@@ -4482,6 +4481,7 @@
 ||furriesarecute.furryplace.eu^$ctag=user_child
 ||cats.fuzzylookups.com^$ctag=user_child
 ||dogs.fuzzylookups.com^$ctag=user_child
+||foxes.fuzzylookups.com^$ctag=user_child
 ||g-a-y.pro^$ctag=user_child
 ||obamna.gamefr.xyz^$ctag=user_child
 ||vocab.sage.garagepig.com^$ctag=user_child
@@ -4512,6 +4512,7 @@
 ||fractioncaculator.govt.hu^$ctag=user_child
 ||doge.gracyjohns.cl^$ctag=user_child
 ||wow.grupompr.com^$ctag=user_child
+||minionsandgru.grupopilar.cl^$ctag=user_child
 ||gsdkhjgsbgsdsjhvdskjlg.ru^$ctag=user_child
 ||gamgasyoppakuteri-zenttodabi.gslb.info^$ctag=user_child
 ||guestappearance.us^$ctag=user_child
@@ -4752,6 +4753,7 @@
 ||loubonde.xyz^$ctag=user_child
 ||bolt.louis-ip.com^$ctag=user_child
 ||eiken-jp.lozan.com^$ctag=user_child
+||koolaid.lozan.com^$ctag=user_child
 ||worldwaronehistory.lozan.com^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
 ||btg.ludopop.cl^$ctag=user_child
@@ -4784,6 +4786,7 @@
 ||membean.cf^$ctag=user_child
 ||recap.utopia.menorahscrazyblog.com^$ctag=user_child
 ||researchedu.mesaayuda.net^$ctag=user_child
+||info.metropolitanstaffingsolutions.com^$ctag=user_child
 ||fucklightspeed.mgotz.com^$ctag=user_child
 ||mindblown.michaelfoody.com^$ctag=user_child
 ||unclegroundbeef.michaelfoody.com^$ctag=user_child
@@ -5164,6 +5167,7 @@
 ||math.tests.szk-obihiro.com^$ctag=user_child
 ||tailnet.ru^$ctag=user_child
 ||mass.prep.tanenbaumchat.org^$ctag=user_child
+||please-man-i-need-it-just-watch-dexterrrr.tar.nz^$ctag=user_child
 ||its-spatter.blood-spatter.tcm-studios.info^$ctag=user_child
 ||vpn.technicule.info^$ctag=user_child
 ||essay.gov.technologybriefingcenter.com^$ctag=user_child
@@ -5308,6 +5312,7 @@
 ||use.visitame.cl^$ctag=user_child
 ||encryption.vlad.md^$ctag=user_child
 ||dns.vod11.xyz^$ctag=user_child
+||tools.vonar.ch^$ctag=user_child
 ||lanschool.leno.vopros.kz^$ctag=user_child
 ||key.vpn38.ru^$ctag=user_child
 ||vpnbookpk.com^$ctag=user_child
