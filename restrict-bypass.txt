@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-04T02:57:54.709Z
+! Last modified: 2025-06-05T02:57:41.408Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4124,6 +4124,7 @@
 ||use.autoglass.my^
 ||mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl^
 ||avanquestusa.com^
+||use.averillcreek.ca^
 ||sakura-site-rammerhead.ax1951.com^
 ||speedy.ax1951.com^
 ||axaxa.fun^
@@ -4215,6 +4216,7 @@
 ||greenwhatchootalkinbout.chrisxp.xyz^
 ||dns.chunghwamc.com^
 ||kusogakill.cinedemedianoche.cl^
+||circoscampus.circosdesigns.com^
 ||circumvent.it^
 ||46tube.cky.cl^
 ||classicpen.us^
@@ -4338,6 +4340,7 @@
 ||use.delcarmen.cl^
 ||desec.io^
 ||desertsand.us^
+||learn.devmon.ru^
 ||study.know.devreler.com^
 ||utopia.tests.dianmarisa.com^
 ||dev.dietpc.org^
@@ -4547,7 +4550,6 @@
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^
 ||sage.skills.hellasinside.com^
 ||helphideme.com^
-||info.hhoiltools.com^
 ||hide.mn^
 ||hide-my-ip.org^
 ||hideme101.info^
@@ -4571,15 +4573,10 @@
 ||cometomyhouse.homelinuxserver.org^
 ||homevpn.org^
 ||homeworkhelp.click^
-||hotunixispeak.hotunix.com^
-||rmerheadonionlink.hotunix.com^
-||schoology.hotunix.com^
-||somuchpeakk.hotunix.com^
 ||hoxx.net^
 ||ajmal.hpc.tw^
-||travel.connect.hqcloud.de^
+||studyhubs.hqcloud.de^
 ||greenbeandean.hs.vc^
-||jahyussif.hs.vc^
 ||be.hse.tw^
 ||code.edu.hse.tw^
 ||www.pleaseinput.html-5.me^
@@ -4647,8 +4644,8 @@
 ||hub.study.jaaax.net^
 ||sm6.jake.eu^
 ||tesutorender.jake.eu^
-||mmm-yummy-tasty.jakesthoughts.xyz^
 ||jamesisbald.xyz^
+||study.japhar.com^
 ||px.jarnus.xyz^
 ||transit.javierblog.com^
 ||state.gov.jaycloudlab.com^
@@ -4680,7 +4677,6 @@
 ||adguard.kasbot.net^
 ||ram.kdot.cam^
 ||doh.kekew.info^
-||travel.kigurun.ru^
 ||howto.piano.kiptrak.com^
 ||kirushop.xyz^
 ||good.kje.us^
@@ -4701,7 +4697,6 @@
 ||joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org^
 ||henry-and-evan-cant-rizz.kyleton.org^
 ||l-am-sigma.pro^
-||adamz2eso.l5.ca^
 ||classroom.google.com.l5.ca^
 ||docs.google.l5.ca^
 ||quesosrammerhaha.l5.ca^
@@ -4752,7 +4747,6 @@
 ||lotofabric.ru^
 ||loubonde.xyz^
 ||bolt.louis-ip.com^
-||eiken-jp.lozan.com^
 ||koolaid.lozan.com^
 ||worldwaronehistory.lozan.com^
 ||lucasmaia.org^
@@ -4792,7 +4786,6 @@
 ||unclegroundbeef.michaelfoody.com^
 ||interstellar.midnite.space^
 ||www-proxy.migastep.com^
-||rammerdaze.miguelarevalo.es^
 ||aiden-major.minecraftnoob.com^
 ||hihihi.minecraftnoob.com^
 ||insta.minecraftnoob.com^
@@ -4816,6 +4809,7 @@
 ||mtagprox.com^
 ||lab.proof.multi.hk^
 ||in.multiverse.college^
+||use.muna.com^
 ||this-is-for-wave-bru.music-menges.si^
 ||sci.brain.musictherapyinscotland.com^
 ||my-safe-net.com^
@@ -5027,6 +5021,7 @@
 ||regiopolis.cloud^
 ||wi3ue6xg7yqi.connect.remote.it^
 ||renardbleu.dev^
+||travelreprap.reprap.eu^
 ||zixypy.reticence.lol^
 ||www-proxy.retportal.com^
 ||rhehrbrb.wiki^
@@ -5123,6 +5118,7 @@
 ||chat.digimaster.srv.br^
 ||adbox-v8.srv64.de^
 ||com.108.181.32.77.sslip.io^
+||auraaa.staffordesq.com^
 ||use.star.is^
 ||tests.data.stardustcommercialservices.com^
 ||task.words.starlordbob.com^
@@ -5201,6 +5197,7 @@
 ||okwhattheflip.thuis.vlaanderen^
 ||prestonhitgrandmasterinyorkmate.tice-industries.com^
 ||tildenderek.store^
+||timedns.net^
 ||doge.tinf.cl^
 ||titantunnelvpn.com^
 ||vocab.tktt.jp^
@@ -5220,6 +5217,7 @@
 ||trxnfor.com^
 ||arxthegoat.ts0880.es^
 ||learn.study-maths.tuplantaforma.com^
+||edutours.tuumin.net^
 ||globalstudents.tuumin.net^
 ||learninghub.tuumin.net^
 ||dmvontop.twilightparadox.com^

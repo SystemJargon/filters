@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-04T02:57:54.709Z
+! Last modified: 2025-06-05T02:57:41.408Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4124,6 +4124,7 @@
 ||use.autoglass.my^$ctag=user_child
 ||mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl^$ctag=user_child
 ||avanquestusa.com^$ctag=user_child
+||use.averillcreek.ca^$ctag=user_child
 ||sakura-site-rammerhead.ax1951.com^$ctag=user_child
 ||speedy.ax1951.com^$ctag=user_child
 ||axaxa.fun^$ctag=user_child
@@ -4215,6 +4216,7 @@
 ||greenwhatchootalkinbout.chrisxp.xyz^$ctag=user_child
 ||dns.chunghwamc.com^$ctag=user_child
 ||kusogakill.cinedemedianoche.cl^$ctag=user_child
+||circoscampus.circosdesigns.com^$ctag=user_child
 ||circumvent.it^$ctag=user_child
 ||46tube.cky.cl^$ctag=user_child
 ||classicpen.us^$ctag=user_child
@@ -4338,6 +4340,7 @@
 ||use.delcarmen.cl^$ctag=user_child
 ||desec.io^$ctag=user_child
 ||desertsand.us^$ctag=user_child
+||learn.devmon.ru^$ctag=user_child
 ||study.know.devreler.com^$ctag=user_child
 ||utopia.tests.dianmarisa.com^$ctag=user_child
 ||dev.dietpc.org^$ctag=user_child
@@ -4547,7 +4550,6 @@
 ||sdfergrdewdwdawdwdszdsadsadas.helixarcade.space^$ctag=user_child
 ||sage.skills.hellasinside.com^$ctag=user_child
 ||helphideme.com^$ctag=user_child
-||info.hhoiltools.com^$ctag=user_child
 ||hide.mn^$ctag=user_child
 ||hide-my-ip.org^$ctag=user_child
 ||hideme101.info^$ctag=user_child
@@ -4571,15 +4573,10 @@
 ||cometomyhouse.homelinuxserver.org^$ctag=user_child
 ||homevpn.org^$ctag=user_child
 ||homeworkhelp.click^$ctag=user_child
-||hotunixispeak.hotunix.com^$ctag=user_child
-||rmerheadonionlink.hotunix.com^$ctag=user_child
-||schoology.hotunix.com^$ctag=user_child
-||somuchpeakk.hotunix.com^$ctag=user_child
 ||hoxx.net^$ctag=user_child
 ||ajmal.hpc.tw^$ctag=user_child
-||travel.connect.hqcloud.de^$ctag=user_child
+||studyhubs.hqcloud.de^$ctag=user_child
 ||greenbeandean.hs.vc^$ctag=user_child
-||jahyussif.hs.vc^$ctag=user_child
 ||be.hse.tw^$ctag=user_child
 ||code.edu.hse.tw^$ctag=user_child
 ||www.pleaseinput.html-5.me^$ctag=user_child
@@ -4647,8 +4644,8 @@
 ||hub.study.jaaax.net^$ctag=user_child
 ||sm6.jake.eu^$ctag=user_child
 ||tesutorender.jake.eu^$ctag=user_child
-||mmm-yummy-tasty.jakesthoughts.xyz^$ctag=user_child
 ||jamesisbald.xyz^$ctag=user_child
+||study.japhar.com^$ctag=user_child
 ||px.jarnus.xyz^$ctag=user_child
 ||transit.javierblog.com^$ctag=user_child
 ||state.gov.jaycloudlab.com^$ctag=user_child
@@ -4680,7 +4677,6 @@
 ||adguard.kasbot.net^$ctag=user_child
 ||ram.kdot.cam^$ctag=user_child
 ||doh.kekew.info^$ctag=user_child
-||travel.kigurun.ru^$ctag=user_child
 ||howto.piano.kiptrak.com^$ctag=user_child
 ||kirushop.xyz^$ctag=user_child
 ||good.kje.us^$ctag=user_child
@@ -4701,7 +4697,6 @@
 ||joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org^$ctag=user_child
 ||henry-and-evan-cant-rizz.kyleton.org^$ctag=user_child
 ||l-am-sigma.pro^$ctag=user_child
-||adamz2eso.l5.ca^$ctag=user_child
 ||classroom.google.com.l5.ca^$ctag=user_child
 ||docs.google.l5.ca^$ctag=user_child
 ||quesosrammerhaha.l5.ca^$ctag=user_child
@@ -4752,7 +4747,6 @@
 ||lotofabric.ru^$ctag=user_child
 ||loubonde.xyz^$ctag=user_child
 ||bolt.louis-ip.com^$ctag=user_child
-||eiken-jp.lozan.com^$ctag=user_child
 ||koolaid.lozan.com^$ctag=user_child
 ||worldwaronehistory.lozan.com^$ctag=user_child
 ||lucasmaia.org^$ctag=user_child
@@ -4792,7 +4786,6 @@
 ||unclegroundbeef.michaelfoody.com^$ctag=user_child
 ||interstellar.midnite.space^$ctag=user_child
 ||www-proxy.migastep.com^$ctag=user_child
-||rammerdaze.miguelarevalo.es^$ctag=user_child
 ||aiden-major.minecraftnoob.com^$ctag=user_child
 ||hihihi.minecraftnoob.com^$ctag=user_child
 ||insta.minecraftnoob.com^$ctag=user_child
@@ -4816,6 +4809,7 @@
 ||mtagprox.com^$ctag=user_child
 ||lab.proof.multi.hk^$ctag=user_child
 ||in.multiverse.college^$ctag=user_child
+||use.muna.com^$ctag=user_child
 ||this-is-for-wave-bru.music-menges.si^$ctag=user_child
 ||sci.brain.musictherapyinscotland.com^$ctag=user_child
 ||my-safe-net.com^$ctag=user_child
@@ -5027,6 +5021,7 @@
 ||regiopolis.cloud^$ctag=user_child
 ||wi3ue6xg7yqi.connect.remote.it^$ctag=user_child
 ||renardbleu.dev^$ctag=user_child
+||travelreprap.reprap.eu^$ctag=user_child
 ||zixypy.reticence.lol^$ctag=user_child
 ||www-proxy.retportal.com^$ctag=user_child
 ||rhehrbrb.wiki^$ctag=user_child
@@ -5123,6 +5118,7 @@
 ||chat.digimaster.srv.br^$ctag=user_child
 ||adbox-v8.srv64.de^$ctag=user_child
 ||com.108.181.32.77.sslip.io^$ctag=user_child
+||auraaa.staffordesq.com^$ctag=user_child
 ||use.star.is^$ctag=user_child
 ||tests.data.stardustcommercialservices.com^$ctag=user_child
 ||task.words.starlordbob.com^$ctag=user_child
@@ -5201,6 +5197,7 @@
 ||okwhattheflip.thuis.vlaanderen^$ctag=user_child
 ||prestonhitgrandmasterinyorkmate.tice-industries.com^$ctag=user_child
 ||tildenderek.store^$ctag=user_child
+||timedns.net^$ctag=user_child
 ||doge.tinf.cl^$ctag=user_child
 ||titantunnelvpn.com^$ctag=user_child
 ||vocab.tktt.jp^$ctag=user_child
@@ -5220,6 +5217,7 @@
 ||trxnfor.com^$ctag=user_child
 ||arxthegoat.ts0880.es^$ctag=user_child
 ||learn.study-maths.tuplantaforma.com^$ctag=user_child
+||edutours.tuumin.net^$ctag=user_child
 ||globalstudents.tuumin.net^$ctag=user_child
 ||learninghub.tuumin.net^$ctag=user_child
 ||dmvontop.twilightparadox.com^$ctag=user_child
