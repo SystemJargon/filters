@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-05T02:57:41.408Z
+! Last modified: 2025-06-06T02:57:29.190Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4032,6 +4032,7 @@
 ||1010000.online^
 ||liverpoolontop.1337.cx^
 ||canva.login.1337.cx^
+||goal.music.1337.cx^
 ||14-88.pro^
 ||1clickvpn.com^
 ||onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com^
@@ -4210,6 +4211,7 @@
 ||mathhomeworkplus.chickenkiller.com^
 ||mathiseasy.chickenkiller.com^
 ||nathanlikesgames.chickenkiller.com^
+||oluka.chickenkiller.com^
 ||whydidiask.chickenkiller.com^
 ||imisstheoldkanye.chillcrew.net^
 ||justbuiltdifferent.chillcrew.net^
@@ -4294,12 +4296,14 @@
 ||math.tests.comprotusjuguetes.com^
 ||pluhster.computersforpeace.net^
 ||circlegeometry.conexioncircular.cl^
+||moremathat.conexioncircular.cl^
 ||concitedll.conifera.cl^
 ||connorarebisexual.connorliam.com^
 ||study.paper.coolcomputerguy.com^
 ||coolproxy.org^
 ||dns.cooluc.com^
 ||coproxy.io^
+||core.mind.corega.ro^
 ||real.coremindx.com^
 ||cosmohacker.space^
 ||coursera.gq^
@@ -4471,6 +4475,7 @@
 ||free-vpn.pro^
 ||free-vpnapp.com^
 ||freelux.world^
+||atom.area.freemath.ch^
 ||freenetproject.org^
 ||freenomisratelimitingme.cf^
 ||freevpn.win^
@@ -4573,9 +4578,9 @@
 ||cometomyhouse.homelinuxserver.org^
 ||homevpn.org^
 ||homeworkhelp.click^
+||pranaynaygames123.hopto.org^
 ||hoxx.net^
 ||ajmal.hpc.tw^
-||studyhubs.hqcloud.de^
 ||greenbeandean.hs.vc^
 ||be.hse.tw^
 ||code.edu.hse.tw^
@@ -4597,6 +4602,7 @@
 ||class.recap.idiaga.com^
 ||idinahui.pro^
 ||ietors.com^
+||heb1.ignorelist.com^
 ||subscribe-to-vcsa.ignorelist.com^
 ||test52139.ignorelist.com^
 ||worldbookonline.ignorelist.com^
@@ -4645,7 +4651,6 @@
 ||sm6.jake.eu^
 ||tesutorender.jake.eu^
 ||jamesisbald.xyz^
-||study.japhar.com^
 ||px.jarnus.xyz^
 ||transit.javierblog.com^
 ||state.gov.jaycloudlab.com^
@@ -4659,6 +4664,11 @@
 ||narp.fr.to.joe.dj^
 ||johneldenring.lol^
 ||johnkellyprivate.com^
+||child.joindns4.eu^
+||child-noads.joindns4.eu^
+||noads.joindns4.eu^
+||protective.joindns4.eu^
+||unfiltered.joindns4.eu^
 ||joker81fansbase.site^
 ||abcya.jumpingcrab.com^
 ||cmms.jumpingcrab.com^
@@ -4800,10 +4810,9 @@
 ||edu.moldeo.org^
 ||history-of-earth.moldeo.org^
 ||only-shooting-stars-breakthe.moldeo.org^
-||study.moldeo.org^
-||use.moldeo.org^
 ||later.monkxy.org^
 ||aahfgdd.mooo.com^
+||aleks.readtheory.com.mooo.com^
 ||propeller.catapzlt.rohu.mooo.com^
 ||atom.bio.mrlewburger.com^
 ||mtagprox.com^
@@ -4838,7 +4847,6 @@
 ||nrr.ne1.co^
 ||z-brokethescaler.neighborhoodcloud.com^
 ||nekoray.org^
-||qwertyabc123.nekros.info^
 ||smart.quiz.nelsonshack.com^
 ||dog.vpn.net.br^
 ||mapper.netinfotechnology.com^
@@ -4848,7 +4856,6 @@
 ||free.robux.networkindia.com^
 ||kywantsmyautographonfood.networkoutpost.com^
 ||newproxylist.net^
-||nextgen.nex.sh^
 ||notes.books.nexum.se^
 ||nirbytes.com^
 ||nolagvpn.com^
@@ -4860,7 +4867,6 @@
 ||login.howto.notredamearena.com^
 ||amp.nov.su^
 ||gov.major.novacorp.com^
-||novembeer.ru^
 ||nice.noviolencia.ar^
 ||noyourmean.xyz^
 ||bright-storm-767.nstabiology.org^
@@ -4882,6 +4888,7 @@
 ||peepeepod.odoobooks.com^
 ||oeck.com^
 ||sleepykirby.ofmdirect.com^
+||skills.field.cftc-devoteam.one.pl^
 ||doh-pure.onedns.net^
 ||fun.onlytruelegendscanseethe.pics^
 ||espanolmath.ontariobsd.net^
@@ -4987,7 +4994,6 @@
 ||public-is-wonderful.publicvm.com^
 ||puckerbucket.xyz^
 ||dontgetthisblocked.puffballofevil.com^
-||timeisblind.puffballofevil.com^
 ||start.puto.me^
 ||browser.pythonsden.net^
 ||ramjam.pythontheproto.com^
@@ -5021,7 +5027,6 @@
 ||regiopolis.cloud^
 ||wi3ue6xg7yqi.connect.remote.it^
 ||renardbleu.dev^
-||travelreprap.reprap.eu^
 ||zixypy.reticence.lol^
 ||www-proxy.retportal.com^
 ||rhehrbrb.wiki^
@@ -5046,6 +5051,7 @@
 ||myapforums.rwbcode.com^
 ||scienceforkids.saahee.cn^
 ||math.sachhot.com^
+||desmos.saf-eng.com^
 ||safing.io^
 ||sakirdakproxy.tk^
 ||sandmining.us^
@@ -5060,7 +5066,6 @@
 ||bright-storm-707.scientificsense.org^
 ||seanfat.club^
 ||searchproxy.info^
-||quiz.teach.secold.com^
 ||doge.seel.cl^
 ||imendez.sehol.eu^
 ||serkanarslan.com^
@@ -5151,8 +5156,6 @@
 ||dns.surfsharkdns.com^
 ||surfwebsite.org^
 ||surprise.pics^
-||popteeee-oawhnefoua-foaebaouef.swanndvr.net^
-||popteeeeee-sajoiwejfo-huhu.swanndvr.net^
 ||ramm-ume-pro.swanndvr.net^
 ||rammerhead-10.swanndvr.net^
 ||nexsos.syac.ca^
@@ -5176,7 +5179,6 @@
 ||guide.proof.the-kaisers.net^
 ||reallycoolmathblahblahblah.the-schmidt-family.org^
 ||ixl-tw6f.thebrittainlawfirm.com^
-||thisisnotagamewebsite.thebrittainlawfirm.com^
 ||school.thedaedals.com^
 ||about.thedesktop.com^
 ||help.thedesktop.com^
@@ -5213,6 +5215,7 @@
 ||portal.sso.toythieves.com^
 ||tpymainx01.ru^
 ||linewize.tradekinginternational.com^
+||bio.goal.trans.am^
 ||holaernesto.triplewipe.ru^
 ||trxnfor.com^
 ||arxthegoat.ts0880.es^

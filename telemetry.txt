@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-05T02:54:00.280Z
+! Last modified: 2025-06-06T02:53:47.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -637,6 +637,7 @@
 ||live.rads.msn.com^
 ||mobile.pipe.aria.microsoft.com^
 ||modern.watson.data.microsoft.com.akadns.net^
+||msedge.net^
 ||msntest.serving-sys.com^
 ||nexus.officeapps.live.com^
 ||nexusrules.officeapps.live.com^
