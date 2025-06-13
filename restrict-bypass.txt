@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-12T02:58:03.663Z
+! Last modified: 2025-06-13T02:59:29.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4072,6 +4072,7 @@
 ||r.achievementnetwork.gq^
 ||supacool.pro.acquyvienthongcu.com^
 ||activatevpn.com^
+||i-hate-link-leakers-cyptopia-made-this.adaptor.cl^
 ||schoolsucks.adaptor.cl^
 ||adultproxy.men^
 ||piie.advanced-orchestra.site^
@@ -4111,6 +4112,7 @@
 ||proof.major.archanet.org^
 ||terms.skill.asleepingturtle.com^
 ||survey.aspdebugger.com^
+||task.major.assholetenants.com^
 ||stevenisafemboy.auraria.org^
 ||use.autoglass.my^
 ||mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl^
@@ -4177,6 +4179,7 @@
 ||dns.butterfly87.sbs^
 ||register.cakk.us^
 ||solve.proof.california-red.com^
+||notes.sage.california-red.com^
 ||dns.caliph.dev^
 ||bananakun.camdvr.org^
 ||help.cartes.cl^
@@ -4192,6 +4195,7 @@
 ||core.goal.challengepursuit.com^
 ||dismantled.charbel.cl^
 ||ougonokaze.cheftayebeh.ir^
+||gooberman123.com.chickenkiller.com^
 ||ilikefeet.chickenkiller.com^
 ||freedns.kiuo-utopias.chickenkiller.com^
 ||mathhomeworkplus.chickenkiller.com^
@@ -4580,6 +4584,7 @@
 ||indiaproxy.win^
 ||the.infocommthailand.com^
 ||owner.should.hopefully.spot.this.ingeker.cl^
+||orbit.debate.invest.io^
 ||invisv.com^
 ||app.edu.iownyour.org^
 ||use.edu.iownyour.org^
@@ -4657,6 +4662,7 @@
 ||puzzled-dulci-ballpit-1-5f558a50.koyeb.app^
 ||kozownoprxy.kozow.com^
 ||notebooks.kozow.com^
+||recap.grade.kredytlinia.pl^
 ||dns.kugoapps.com^
 ||joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org^
 ||henry-and-evan-cant-rizz.kyleton.org^
@@ -4680,6 +4686,7 @@
 ||peoplewhosay67arecornballs.laviewddns.com^
 ||taihenomatasesimasita.laviewddns.com^
 ||useinterstellar.laviewddns.com^
+||alumn.history.ldop.com^
 ||dingaling.leasingindia.com^
 ||unibrow.leasingindia.com^
 ||externalmobiel.lekdijk.online^
@@ -4894,6 +4901,7 @@
 ||smart.sage.premierleaguepoints.com^
 ||class.bio.prettybirdserver.com^
 ||primevpn.pro^
+||examccctestedd.privatedns.org^
 ||chinesekidscheeksarentsafearoundme.procrastin.ar^
 ||edu.prostitutki-na-vyezd.com^
 ||proxandthecity.com^
@@ -5043,6 +5051,7 @@
 ||tests.data.stardustcommercialservices.com^
 ||task.words.starlordbob.com^
 ||browse.startpage.com^
+||eu1-browse.startpage.com^
 ||s4-us2.startpage.com^
 ||us1-browse.startpage.com^
 ||us2-browse.startpage.com^
@@ -5068,6 +5077,7 @@
 ||dns.surfsharkdns.com^
 ||surfwebsite.org^
 ||surprise.pics^
+||poptee-liawheufhwae-awef.swanndvr.net^
 ||ramm-ume-pro.swanndvr.net^
 ||rammerhead-10.swanndvr.net^
 ||nexsos.syac.ca^

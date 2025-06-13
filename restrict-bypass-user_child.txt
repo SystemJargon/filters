@@ -1,6 +1,6 @@
 !
 ! Title: restrict-bypass lists - restrict vpn proxy tor other DNS and alike so our own DNS is the definitive source - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-12T02:58:03.663Z
+! Last modified: 2025-06-13T02:59:29.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -4072,6 +4072,7 @@
 ||r.achievementnetwork.gq^$ctag=user_child
 ||supacool.pro.acquyvienthongcu.com^$ctag=user_child
 ||activatevpn.com^$ctag=user_child
+||i-hate-link-leakers-cyptopia-made-this.adaptor.cl^$ctag=user_child
 ||schoolsucks.adaptor.cl^$ctag=user_child
 ||adultproxy.men^$ctag=user_child
 ||piie.advanced-orchestra.site^$ctag=user_child
@@ -4111,6 +4112,7 @@
 ||proof.major.archanet.org^$ctag=user_child
 ||terms.skill.asleepingturtle.com^$ctag=user_child
 ||survey.aspdebugger.com^$ctag=user_child
+||task.major.assholetenants.com^$ctag=user_child
 ||stevenisafemboy.auraria.org^$ctag=user_child
 ||use.autoglass.my^$ctag=user_child
 ||mrrychrimisg7xv2mlqzp9sd4khjf.autoluc.cl^$ctag=user_child
@@ -4177,6 +4179,7 @@
 ||dns.butterfly87.sbs^$ctag=user_child
 ||register.cakk.us^$ctag=user_child
 ||solve.proof.california-red.com^$ctag=user_child
+||notes.sage.california-red.com^$ctag=user_child
 ||dns.caliph.dev^$ctag=user_child
 ||bananakun.camdvr.org^$ctag=user_child
 ||help.cartes.cl^$ctag=user_child
@@ -4192,6 +4195,7 @@
 ||core.goal.challengepursuit.com^$ctag=user_child
 ||dismantled.charbel.cl^$ctag=user_child
 ||ougonokaze.cheftayebeh.ir^$ctag=user_child
+||gooberman123.com.chickenkiller.com^$ctag=user_child
 ||ilikefeet.chickenkiller.com^$ctag=user_child
 ||freedns.kiuo-utopias.chickenkiller.com^$ctag=user_child
 ||mathhomeworkplus.chickenkiller.com^$ctag=user_child
@@ -4580,6 +4584,7 @@
 ||indiaproxy.win^$ctag=user_child
 ||the.infocommthailand.com^$ctag=user_child
 ||owner.should.hopefully.spot.this.ingeker.cl^$ctag=user_child
+||orbit.debate.invest.io^$ctag=user_child
 ||invisv.com^$ctag=user_child
 ||app.edu.iownyour.org^$ctag=user_child
 ||use.edu.iownyour.org^$ctag=user_child
@@ -4657,6 +4662,7 @@
 ||puzzled-dulci-ballpit-1-5f558a50.koyeb.app^$ctag=user_child
 ||kozownoprxy.kozow.com^$ctag=user_child
 ||notebooks.kozow.com^$ctag=user_child
+||recap.grade.kredytlinia.pl^$ctag=user_child
 ||dns.kugoapps.com^$ctag=user_child
 ||joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org^$ctag=user_child
 ||henry-and-evan-cant-rizz.kyleton.org^$ctag=user_child
@@ -4680,6 +4686,7 @@
 ||peoplewhosay67arecornballs.laviewddns.com^$ctag=user_child
 ||taihenomatasesimasita.laviewddns.com^$ctag=user_child
 ||useinterstellar.laviewddns.com^$ctag=user_child
+||alumn.history.ldop.com^$ctag=user_child
 ||dingaling.leasingindia.com^$ctag=user_child
 ||unibrow.leasingindia.com^$ctag=user_child
 ||externalmobiel.lekdijk.online^$ctag=user_child
@@ -4894,6 +4901,7 @@
 ||smart.sage.premierleaguepoints.com^$ctag=user_child
 ||class.bio.prettybirdserver.com^$ctag=user_child
 ||primevpn.pro^$ctag=user_child
+||examccctestedd.privatedns.org^$ctag=user_child
 ||chinesekidscheeksarentsafearoundme.procrastin.ar^$ctag=user_child
 ||edu.prostitutki-na-vyezd.com^$ctag=user_child
 ||proxandthecity.com^$ctag=user_child
@@ -5043,6 +5051,7 @@
 ||tests.data.stardustcommercialservices.com^$ctag=user_child
 ||task.words.starlordbob.com^$ctag=user_child
 ||browse.startpage.com^$ctag=user_child
+||eu1-browse.startpage.com^$ctag=user_child
 ||s4-us2.startpage.com^$ctag=user_child
 ||us1-browse.startpage.com^$ctag=user_child
 ||us2-browse.startpage.com^$ctag=user_child
@@ -5068,6 +5077,7 @@
 ||dns.surfsharkdns.com^$ctag=user_child
 ||surfwebsite.org^$ctag=user_child
 ||surprise.pics^$ctag=user_child
+||poptee-liawheufhwae-awef.swanndvr.net^$ctag=user_child
 ||ramm-ume-pro.swanndvr.net^$ctag=user_child
 ||rammerhead-10.swanndvr.net^$ctag=user_child
 ||nexsos.syac.ca^$ctag=user_child
