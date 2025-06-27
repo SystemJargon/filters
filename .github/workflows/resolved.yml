@@ -14,4 +14,4 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: This has been resolved.
+          comment: The domains requested have been added the to appropriate list. It will be effective on the next commit and push.
