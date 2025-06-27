@@ -1,4 +1,4 @@
-name: resolved
+name: domain-added-to-list
 on:
   issues:
     types:
