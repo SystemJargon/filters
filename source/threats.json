@@ -6,6 +6,10 @@
          		"type":"adblock"
       },
           {
+         "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/scam/scam-domains.txt",
+         		"type": "hosts"
+       },
+          {
          "source": "https://hosts.tweedge.net/malicious.txt",
          		"type": "hosts"
        },
