@@ -64,10 +64,11 @@ jobs:
     - name: Compile AI GPT list
       run: hostlist-compiler -c ./source/ai-gpt.json -o ai-gpt.txt  
  
-    - name: Update Restrict ByPass and No-Social-Media User_Child Lists
+    - name: Update ctag user_child Lists
       run: |
         cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
         cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
+        cat porn.txt | sed "s/\^$/\^\$ctag=user_child/g" > porn-user_child.txt
 
     - name: Clean Previous Stats
       run: rm -f ./stats/list-entries-stats.txt
