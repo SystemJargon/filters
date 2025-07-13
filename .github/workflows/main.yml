@@ -48,9 +48,6 @@ jobs:
       
     - name: Compile Firebog Ticklist
       run: hostlist-compiler -c ./source/firebog-ticklist.json -o firebog-ticklist.txt
-       
-#    - name: Compile Allow list
-#      run: hostlist-compiler -c ./source/allowlist.json -o allowlist.txt
       
     - name: Compile Restrict-ByPass list
       run: hostlist-compiler -c ./source/restrict-bypass.json -o restrict-bypass.txt
@@ -68,7 +65,6 @@ jobs:
       run: |
         cat restrict-bypass.txt | sed "s/\^$/\^\$ctag=user_child/g" > restrict-bypass-user_child.txt
         cat no-social-media.txt | sed "s/\^$/\^\$ctag=user_child/g" > no-social-media-user_child.txt
-        cat porn.txt | sed "s/\^$/\^\$ctag=user_child/g" > porn-user_child.txt
 
     - name: Clean Previous Stats
       run: rm -f ./stats/list-entries-stats.txt
