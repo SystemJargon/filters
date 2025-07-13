@@ -1,13 +1,16 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/systemjargon/filters)![GitHub issues](https://img.shields.io/github/issues/systemjargon/filters)![GitHub closed issues](https://img.shields.io/github/issues-closed/systemjargon/filters)![GitHub repo size](https://img.shields.io/github/repo-size/systemjargon/filters)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsystemjargon%2Ffilters&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/systemjargon/filters)[![shields.io Stars](https://img.shields.io/github/stars/systemjargon/filters)](https://github.com/systemjargon/filters/stargazers)
 ----
 
-## DNS Blocklists & Allowlist/s
+## Filters
 
-Because Ads, Telemetry and some content and/or domains are just out right **** that should be blocked.
+Because Ads, Telemetry and some content and/or domains are just out right **** that should be blocked. 
 
 Lists are to be used with something alike Pi-Hole, AdGuard, AdGuardHome or similar. These lists may also work in browser based adblockers, but would need to interpret adblock/hosts formats.
 
-This Repo is scheduled to automatically update (and it's lists) on a schedule regularly.
+This Repo should automatically update lists on a regular basis.
+
+Some content may require an allowlist though to not break parts of the internet you use.
+
 
 Leaving a :star: is much appreciated
 
