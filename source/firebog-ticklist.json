@@ -92,57 +92,57 @@
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick20",
+        "name": "firebogtick19",
         "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick21",
+        "name": "firebogtick20",
         "source": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick22",
+        "name": "firebogtick21",
         "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick23",
+        "name": "firebogtick22",
         "source": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick24",
+        "name": "firebogtick23",
         "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick25",
+        "name": "firebogtick24",
         "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
         "type": "hosts"
       },
 	  	        {
-        "name": "firebogtick26",
+        "name": "firebogtick25",
         "source": "https://v.firebog.net/hosts/RPiList-Malware.txt",
         "type": "hosts"
       },
 	  	        {
-	    "name": "firebogtick27",
+	    "name": "firebogtick26",
         "source": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
         "type": "hosts"
       },
 	  	        {
-	    "name": "firebogtick28",
+	    "name": "firebogtick27",
         "source": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
         "type": "hosts"
       },
 	  		  	 {
-	    "name": "firebogtick29",
+	    "name": "firebogtick28",
         "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
         "type": "hosts"
       },
 	  	        {
-	    "name": "firebogtick30",
+	    "name": "firebogtick29",
         "source": "https://urlhaus.abuse.ch/downloads/hostfile/",
         "type": "hosts"
       }
