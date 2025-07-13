@@ -5,9 +5,9 @@ on:
     - cron: '0 1 * * *'
 
   workflow_dispatch:
-  push:
-    branches:
-     - main
+#  push:
+#    branches:
+#     - main
 
 jobs:
   build:
@@ -103,6 +103,12 @@ jobs:
           echo "Telemetry: $(cat ./stats/telemetry_count.txt)" >> ./stats/list-entries-stats.txt
           rm ./stats/*_count.txt
 
+# Add this step to pull/rebase before committing
+    - name: Pull latest changes
+      run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
     - name: Start commit change
       run: echo "MSG=Updated at $(date +"%Y%m%d")" >> $GITHUB_ENV
     
