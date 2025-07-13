@@ -92,11 +92,6 @@
         "type": "hosts"
       },
 	        {
-        "name": "firebogtick19",
-        "source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
-        "type": "hosts"
-      },
-	        {
         "name": "firebogtick20",
         "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
         "type": "hosts"
