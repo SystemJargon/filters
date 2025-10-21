@@ -10,12 +10,7 @@
             "name": "OISD - Small",
             "source": "https://small.oisd.nl",
             "type": "adblock"
-        },
-	{
-        "name": "Compromised Domains",
-        "source": "https://zonefiles.io/f/compromised/domains/full/",
-        "type": "hosts"
-      }
+        }
     ],
     "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
     "exclusions_sources": ["allowlist.txt"]
