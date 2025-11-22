@@ -103,6 +103,11 @@ jobs:
           echo "Telemetry: $(cat ./stats/telemetry_count.txt)" >> ./stats/list-entries-stats.txt
           rm ./stats/*_count.txt
 
+# Prevent rebase error
+- name: Stash local changes
+  run: |
+    git stash --include-untracked
+    
 # Add this step to pull/rebase before committing
     - name: Pull latest changes
       run: |
