@@ -1,18 +1,18 @@
-name: SystemJargon Filters - Lists Compiler and Updater
+name: Filters Allowlist Compiler
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '30 1 * * *'
 
   workflow_dispatch:
-  push:
-    branches:
-     - main
+#  push:
+#    branches:
+#     - main
 
 jobs:
   build:
-#    runs-on: ubuntu-latest
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+#    runs-on: ubuntu-24.04
     steps:
     - uses: actions/checkout@main
     - uses: actions/setup-node@main
