@@ -1,4 +1,6 @@
 name: Filters Allowlist Compiler
+permissions:
+  contents: write
 
 on:
   schedule:
