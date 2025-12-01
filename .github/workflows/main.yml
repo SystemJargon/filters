@@ -54,8 +54,8 @@ jobs:
     - name: Compile Restrict-ByPass list
       run: hostlist-compiler -c ./source/restrict-bypass.json -o restrict-bypass.txt
       
-    - name: Compile Newly Registered Domains 30 Day list
-      run: hostlist-compiler -c ./source/nrds-30days.json -o nrds-30days.txt
+#    - name: Compile Newly Registered Domains 30 Day list
+#     run: hostlist-compiler -c ./source/nrds-30days.json -o nrds-30days.txt
       
     - name: Compile No Social Media list
       run: hostlist-compiler -c ./source/no-social-media.json -o no-social-media.txt
