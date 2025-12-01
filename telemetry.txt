@@ -1,6 +1,6 @@
 !
 ! Title: Telemetry Lists - Aggregated by github.com/systemjargon
-! Last modified: 2025-06-13T02:55:41.037Z
+! Last modified: 2025-12-01T02:35:13.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -1583,7 +1583,9 @@
 ||us.recommend.lgtvcommon.com^
 ||us.lgsmartad.com^
 ||us.service.lgtvcommon.com^
+||www.samsungotn.net^
 ||tvx.adgrx.com^
+||app.hbbtv.hse24.com^
 ||control-zoo-dai-default.tvinteractive.tv^
 ||mcp.tvinteractive.tv^
 ||control2.tvinteractive.tv^
@@ -1591,6 +1593,8 @@
 ||tvmeta-dynamic.tvinteractive.tv^
 ||alphonso.tv^
 ||tv.ads.spotx.tv^
+||hse24.tvtelemetrie.de^
+||hse-ctv.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||device-messaging-na.amazon.com^
 ||devicemessaging.us-east-1.amazon.com^
