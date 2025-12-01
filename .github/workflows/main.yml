@@ -5,9 +5,9 @@ on:
     - cron: '30 1 * * *'
 
   workflow_dispatch:
-#  push:
-#    branches:
-#     - main
+  push:
+    branches:
+     - main
 
 
 jobs:
