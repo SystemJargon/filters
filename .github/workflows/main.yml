@@ -1,6 +1,4 @@
 name: Filters Allowlist Compiler
-permissions:
-  contents: write
 
 on:
   schedule:
@@ -11,17 +9,16 @@ on:
 #    branches:
 #     - main
 
+
 jobs:
   build:
     runs-on: ubuntu-latest
-#    runs-on: ubuntu-24.04
     steps:
     - uses: actions/checkout@main
     - uses: actions/setup-node@main
       with:
         node-version: 'latest'  
     - run: npm i -g @adguard/hostlist-compiler
-
 
 # Lists input and output
     - name: Compile Threats list
@@ -106,16 +103,16 @@ jobs:
           rm ./stats/*_count.txt
 
 # Prevent rebase error
-    - name: Stash local changes
-      run: |
-        git stash --include-untracked
+#    - name: Stash local changes
+ #     run: |
+  #      git stash --include-untracked
     
 # Add this step to pull/rebase before committing
-    - name: Pull latest changes
-      run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+ #   - name: Pull latest changes
+  #    run: |
+   #       git config user.name "github-actions[bot]"
+    #      git config user.email "github-actions[bot]@users.noreply.github.com"
+     #     git pull --rebase origin main
           
     - name: Start commit change
       run: echo "MSG=Updated at $(date +"%Y%m%d")" >> $GITHUB_ENV
