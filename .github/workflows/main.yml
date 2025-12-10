@@ -1,4 +1,4 @@
-name: Filters Allowlist Compiler
+name: Filters Main Workflow Compiler
 
 on:
   schedule:
