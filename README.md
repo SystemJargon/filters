@@ -18,6 +18,7 @@ Stats click [here](https://github.com/SystemJargon/filters/blob/main/stats/list-
 
 ----
 
+
 Help and other info about this repo beyond this README maybe available in the [wiki](https://github.com/SystemJargon/filters/wiki)
 
 Use the RAW files [linked](#the-lists) below this [README](https://github.com/SystemJargon/filters/blob/main/README.md) file in your AdGuard/Adblock solution. 
@@ -57,3 +58,16 @@ Notes:
 | 🚫 | [Restrict-ByPass User_Child list](restrict-bypass-user_child.txt) | My own curated list with supplement lists aggregated. This differs from restrict-bypass.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as restrict-bypass.txt. Blocklist is to prevent using other DNS or bypass methods like Tor, proxy, Apple Relay, etc. |
 | 🚫 | [No Social Media list](no-social-media.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. |
 | 🚫 | [No Social Media list User_Child list](no-social-media-user_child.txt) | Blocklist aggregated of known domains of social media. This covers Facebook, Insta, Snapchat, TikTok and more. This differs from no-social-media.txt to add <b>user_child</b> to the end of domains. This is a feature in AdGuardHome where you tag devices accordingly with this. The overall list of domains is the same as no-social-media.txt |
+
+----
+
+### M$ potential charging for GitHub actions
+
+This repo (and some other repos by other users) relies on GitHub actions.
+
+M$ aka Microsoft want to introduce and start charging for Github actions. 
+
+This repo and many others which operate as self-hosted runners or likewise via Github actions, may cease to be up-to-date or exist if Microsoft (Github as a company) charge for Actions.
+
+
+[One of probably many Reddit Links discussing this](https://www.reddit.com/r/devops/comments/1po8hj5/github_actions_introducing_a_perminute_fee_for/)
