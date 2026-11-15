@@ -1,0 +1,17 @@
+{
+    "name": "Core Light list - Aggregated by github.com/systemjargon",
+    "sources": [
+	{
+            "name": "Hagezi - Multi Light",
+            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "OISD - Small",
+            "source": "https://small.oisd.nl",
+            "type": "adblock"
+        }
+    ],
+    "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+    "exclusions_sources": ["allowlist.txt"]
+  }

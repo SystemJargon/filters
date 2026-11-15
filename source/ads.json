@@ -1,0 +1,37 @@
+{
+    "name": "Ad-blocking Lists - Aggregated by github.com/systemjargon",
+    "sources": [   
+      {
+        "name": "systemjargon-blocklists-ads",
+        "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adverts/ads.txt",
+        "type": "adblock"
+      },
+      {
+        "name": "Extremely Condensed Adblocking List",
+        "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ExtremelyCondensedList.txt",
+        "type": "adblock"
+      },
+      {
+	    "name": "Adguard DNS Filter",
+        "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+        "type": "adblock"
+        },
+	  {
+		"name": "AdAway Hosts Filter",
+	    "source":"https://adaway.org/hosts.txt",
+        "type":"hosts"
+      },
+      {
+          "name": "1Hosts Lite",
+          "source": "https://badmojr.gitlab.io/1hosts/Lite/hosts.txt",
+          "type": "hosts"
+      },
+	  	  {
+          "name": "QuidsUp Trackers and Ads",
+         "source":"https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list",
+		   "type":"hosts"
+      }
+    ],
+    "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+    "exclusions_sources": ["allowlist.txt"]
+  }

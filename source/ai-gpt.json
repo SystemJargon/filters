@@ -1,0 +1,12 @@
+{
+   "name":"AI GPT Lists - SystemJargon/filters",
+   "sources":[
+          {
+         "source":"https://raw.githubusercontent.com/SystemJargon/blocklists/refs/heads/main/lists/categories/AI/blocklist-chat-ai_agh.txt",
+         "type":"adblock"
+      }
+
+   ],
+   "transformations": ["Compress","Validate","Deduplicate","RemoveEmptyLines","TrimLines"],
+   "exclusions_sources": ["allowlist.txt"]
+ }

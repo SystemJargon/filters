@@ -1,0 +1,37 @@
+{
+    "name": "Porn Lists - Aggregated by github.com/systemjargon",
+    "sources": [
+        {
+            "name": "tiuxo",
+            "source": "https://raw.githubusercontent.com/tiuxo/hosts/master/porn",
+            "type": "hosts"
+        },
+        {
+            "name": "mhxion",
+            "source": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt",
+            "type": "hosts"
+        },
+        {
+            "name": "Sinfonietta",
+            "source": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
+            "type": "hosts"
+        },
+        {
+            "name": "bigdargon-adult",
+            "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts",
+            "type": "hosts"
+        },
+        {
+            "name": "OISD NSFW",
+            "source": "https://nsfw.oisd.nl",
+            "type": "adblock"
+        },
+		{
+            "name": "SystemJargon-PornAll",
+            "source": "https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/categories/adult/porn-multi-lists-combo.txt",
+            "type": "hosts"
+        }
+    ],
+    "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
+    "exclusions_sources": ["allowlist.txt"]
+  }
