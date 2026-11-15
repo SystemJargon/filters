@@ -12,36 +12,6 @@
             "type": "adblock"
         },
         {
-            "name": "browsers",
-            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers",
-            "type": "hosts"
-        },
-        {
-            "name": "encrypted-dns",
-            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns",
-            "type": "hosts"
-        },
-        {
-            "name": "linux",
-            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/linux",
-            "type": "hosts"
-        },
-        {
-            "name": "proxies",
-            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/proxies",
-            "type": "hosts"
-        },
-        {
-            "name": "tor",
-            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/tor",
-            "type": "hosts"
-        },
-        {
-            "name": "vpn",
-            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn",
-            "type": "hosts"
-        },
-        {
             "name": "Hagezi",
             "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
             "type": "adblock"
