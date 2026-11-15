@@ -1,0 +1,36 @@
+
+name: Keep Last 10 Commits
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trim-history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Keep last 10 commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          BRANCH="${GITHUB_REF_NAME}"
+
+          BASE=$(git rev-list --reverse HEAD | tail -10 | head -1)
+
+          if [ -z "$BASE" ]; then
+            echo "Could not find the last 10 commits"
+            exit 1
+          fi
+
+          git rebase --onto "$BASE^" "$BASE"
+
+          git push --force-with-lease origin "HEAD:$BRANCH"
