@@ -1,39 +1,47 @@
-
 name: Keep Last 10 Commits
 
 on:
   schedule:
-    - cron: '00 2 * * *'
-    
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: repo-history
+  cancel-in-progress: false
+
 jobs:
   trim-history:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout full history
-        uses: actions/checkout@main
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Keep last 10 commits
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           BRANCH="${GITHUB_REF_NAME}"
+          KEEP=10
 
-          BASE=$(git rev-list --reverse HEAD | tail -10 | head -1)
-
-          if [ -z "$BASE" ]; then
-            echo "Could not find the last 10 commits"
-            exit 1
+          COUNT=$(git rev-list --count --first-parent HEAD)
+          if [ "$COUNT" -le "$KEEP" ]; then
+            echo "Only $COUNT commits, nothing to trim"
+            exit 0
           fi
 
-          git rebase --onto "$BASE^" "$BASE"
+          # oldest commit to keep (10th newest)
+          BASE=$(git rev-list --first-parent HEAD | sed -n "${KEEP}p")
 
-          git push --force-with-lease origin "HEAD:$BRANCH"
+          # new parentless root commit with BASE's snapshot
+          ROOT=$(git commit-tree "$BASE^{tree}" -m "Trimmed history (snapshot of $BASE)")
+
+          # replay the 9 newer commits onto the new root
+          git rebase --onto "$ROOT" "$BASE" "$BRANCH"
+
+          git push --force-with-lease origin "$BRANCH"
