@@ -140,11 +140,6 @@
 	    "name": "firebogtick28",
         "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
         "type": "hosts"
-      },
-	  	        {
-	    "name": "firebogtick29",
-        "source": "https://urlhaus.abuse.ch/downloads/hostfile/",
-        "type": "hosts"
       }
     ],
     "transformations": ["Compress","Validate","Deduplicate","RemoveComments","RemoveEmptyLines","TrimLines"],
