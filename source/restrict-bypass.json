@@ -12,11 +12,6 @@
             "type": "adblock"
         },
         {
-            "name": "apple-private-relay",
-            "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/apple-private-relay",
-            "type": "hosts"
-        },
-        {
             "name": "browsers",
             "source": "https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers",
             "type": "hosts"
